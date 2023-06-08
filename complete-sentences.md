@@ -2,87 +2,330 @@
 
 ## lesson 01
 
-1. All the neighbors admire this family , <u><font color=red><strong>where/in which parents treat</strong></font></u> their children as friends .（treat）
+1. All the neighbors admire this family , <u><font color=red><strong>       where/in which parents treat       </strong></font></u> their children as friends .（treat）
 
    所有的邻居都羡慕这个家庭,**在这个家庭里父母** 像对待朋友一样**对待**孩子
 
-   **解析：**
+   <font color=red><strong>where/in which parents treat</strong></font>
+
+   <strong>解析：</strong>
 
    <font color=red><strong>非限制性定语从句的先行词是this family，where引导定语从句，并在从句中作地点状语，也可用in which。</strong></font>
 
-2. Several new subway lines are reported <u><font color=red><strong>to be built</strong></font></u>  in Wuhan , which will make it more convenient for people to go outing .
+   1. **admire ：*v.*钦佩，仰慕；欣赏，观赏**
+
+      **admire for ：因......而钦佩：表示因为某种特质、品质或成就而对某人表示敬意和钦佩。**
+
+      **I admire for her ambition to become a first-rate scientist.** 
+
+      **我钦佩她想成为超一流科学家的雄心。**
+
+   2. **admirable ：*adj.*令人钦佩的，极其出色的**
+
+      **Loyalty was her most admirable quality.** 
+
+      **忠诚是她最令人钦佩的品质。**
+
+   3. **treat ：*v.*对待，看待；治疗，医治；请客，招待；*n.*（不同一般的）乐事，享受；款待，招待；请客，做东；**
+
+      **my treat ：我请客：表示某人愿意支付他人的费用；(It's my treat) 我请客我来买单今天我买单）**
+
+      **None of us knew how to treat her.** 
+
+      **我们中没有任何人知道该如何对待她。**
+
+   4. **treatment ：*n.*对待，待遇；处理，讨论；治疗，医治；**
+
+      **1.heat treatment 热处理**
+
+      **2.water treatment 水处理；水的处理**
+
+      **3.wastewater treatment 污水处理**
+
+2. Several new subway lines are reported <u><font color=red><strong>     to be built      </strong></font></u>  in Wuhan , which will make it more convenient for people to go outing .
 
    据报道武汉**将建**几条地铁新线路,这让人们的出行更方便。(build)
 
-   **解析：**paid
+   <font color=red><strong>to be built </strong></font>
+
+   <strong>解析：</strong>
 
    <font color=red><strong>be reported to do sth.“据报道做某事”,此句中subway lines与 build之间是被动关系,故用被动式。</strong></font>
 
-3. President Trump issued the call " Make America Great Again " on Sunday , <u><font color=red><strong>when he was talking with</strong></font></u>  outstanding workers ahead of International Workers ' Day .(talk)
+   **"Convenient" 是一个常用的形容词，用来描述某事或某物对于特定目的或情况是否方便、便利。以下是一些常见的用法：**
+
+   1. **表示时间或地点的方便：**
+      - **The hotel is conveniently located near the city center.（这家酒店地理位置优越，靠近市中心。）**
+      - **Is it convenient for you to meet tomorrow afternoon?（明天下午你方便见面吗？）**
+
+   2. **描述设备或工具的方便性：**
+      - **The smartphone has made communication more convenient.（智能手机使得沟通更加便利。）**
+      - **The new microwave oven is very convenient for quick cooking.（这个新的微波炉非常适合快速烹饪。）**
+
+   3. **表示行动或安排的方便：**
+      - **It's convenient to have a grocery store nearby.（附近有一家杂货店非常方便。）**
+      - **The online booking system makes it convenient to reserve a table at the restaurant.（在线预订系统使得在餐厅预定桌子非常方便。）**
+
+   4. **表达某人个人的方便程度：**
+      - **I'll call you later when it's convenient for you.（在你方便的时候，我稍后给你打电话。）**
+      - **Please let me know a convenient time for our meeting.（请告诉我一个方便的时间进行我们的会议。）**
+
+   5. **"Be convenient for someone to do something" 是一个常见的表达，表示某事对某人来说方便或适宜做某事。以下是该表达的用法：**
+
+      1. **用于描述某事对个人的方便程度：**
+         - **It would be convenient for me to have the meeting in the morning.（对我来说，早上开会比较方便。）**
+         - **Is it convenient for you to pick me up from the airport tomorrow?（明天你接我从机场接我方便吗？）**
+
+      2. **用于描述某地点或设施对某人来说方便：**
+         - **The new bus route is convenient for commuters who travel to the city center.（新的公交线路对往返市中心的上班族很方便。）**
+         - **Living near the grocery store is convenient for buying daily necessities.（住在杂货店附近购买日常用品很方便。）**
+
+      3. **用于描述某事对计划或安排的方便性：**
+         - **Thursday would be convenient for me to schedule the appointment.（对我来说，星期四安排预约比较方便。）**
+         - **Is it convenient for you to have the conference call later this afternoon?（你下午稍后开电话会议方便吗？）**
+
+      **这种结构强调某事对某人来说的方便程度或适宜性。需要注意的是，该句型中的 "to do something" 部分是对应的动作或行为。具体使用时，可以根据具体情境选择适合的用法。**
+
+3. President Trump issued the call " Make America Great Again " on Sunday , <u><font color=red><strong>        when he was talking with       </strong></font></u>  outstanding workers ahead of International Workers ' Day .(talk)
 
    “让美国再次伟大”是由川普总统星期日与优秀的工人在国际劳动节前**交谈时**发出的呼吁。
 
-   **解析：**
+   <font color=red><strong>when he was talking with</strong></font>
+
+   <strong>解析：</strong>
 
    <font color=red><strong>此句是 when引导的时间状语从句,主句时态与从句一致且从句有be动词,故也可用省略“主语＋be”的形式。</strong></font>
 
-4. Had it not been for the hazy weather , You <u><font color=red><strong>would have seen the beautiful bridge</strong></font></u>  in the distance yesterday . (see)
+   1. **issue n.议题，争论点；发放，分配； v.发表；分配；正式发行；流出**
+   2. **outstanding ：*adj.*杰出的，优秀的；显著的，突出的；未解决的，未完成的；**
+
+4. Had it not been for the hazy weather , You <u><font color=red><strong>       would have seen the beautiful bridge        </strong></font></u>  in the distance yesterday . (see)
 
    要不是因为雾霾天气,你昨天就**会看见**远处**那座美丽的桥**。
 
-   **解析：**
+   <font color=red><strong>would have seen the beautiful bridge</strong></font>
+
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意可知,此句是与过去事实相反的假设,条件状语从句中用过去完成时,主句谓语动词用 would have done的形式；</strong></font>
 
-   <font color=red><strong>从句是倒装句</strong></font>
+   <font color=red><strong>从句是去掉if的条件句，要倒装</strong></font>
 
-5. The reason why he is absent from the meeting is,I think <u><font color=red><strong>that he might not  have been informed</strong></font></u>  of it.(inform)
+   **"Distance" 这个词有多种表达方式，用于描述距离的不同方面和概念。以下是一些常见的表达方式：**
+
+   1. **Distance: 距离（一般描述两点之间的空间距离）**
+
+      - **The distance between the two cities is approximately 200 kilometers.（这两个城市之间的距离大约是200公里。）**
+      - **She could see the mountain peak in the distance.（她能看到远处的山峰。）**
+
+   2. **Distance oneself from: 与...保持距离，与...保持疏远**
+      - **He decided to distance himself from the controversial political group.（他决定与这个有争议的政治团体保持距离。）**
+      - **She wanted to distance herself from the negative influence of her past.（她希望与过去的负面影响保持疏远。）**
+
+   3. **Far distance: 远距离**
+      - **They had a long-distance relationship for several years.（他们在远距离的情况下维持了几年的关系。）**
+      - **He enjoys hiking in remote places and exploring far distances.（他喜欢在偏远地方徒步旅行和探索远距离。）**
+
+   4. **Within walking distance: 步行可达**
+      - **The grocery store is within walking distance from my house.（这家杂货店离我家步行可达。）**
+      - **The hotel is conveniently located within walking distance of the main attractions.（这家酒店地理位置便利，离主要景点步行可达。）**
+
+   5. **"In the distance" 表示在远处，用于描述某物或某事物位于观察者远离的位置。它可以用来形容视野中的远方或遥远的地点。以下是一些例句来说明其用法：**
+
+      1. **I saw a ship in the distance, sailing towards the horizon.（我看到远处有一艘船，驶向地平线。）**
+      2. **The sound of music could be heard faintly in the distance.（远处可以微弱地听到音乐声。）**
+
+      **这个短语用于描述远处的景象或位置，强调观察者与所描述事物之间的距离。**
+
+5. The reason why he is absent from the meeting is,I think <u><font color=red><strong>       that he might not  have been informed       </strong></font></u>  of it.(inform)
 
    我认为他缺席会议的原因是**他可能没被通知**此事。
 
-   **解析：**
+   <font color=red><strong>that he might not  have been informed</strong></font>
+
+   <strong>解析：</strong>
 
    <font color=red><strong>I think为插入语,所填部分为表语从句,表语从句的主语为reason时,引导词用that;might not have done“过去可能没做过某事”,且 he与inform 之间是被动关系,故用被动语态。</strong></font>
 
-6. He didn't <u><font color=red><strong>make it clear</strong></font></u> when and where the meeting would be held. (make)
+   **"The reason why" 是一个常用的表达，用于引出某个事件、情况或行为的原因。它常用于句子的开头，后面通常跟着一个主句来解释或说明原因。以下是该表达的用法：**
+
+   1. **句子开头的引导词：**
+      - **The reason why I didn't attend the meeting was that I was feeling unwell.（我没有参加会议的原因是我感觉不舒服。）**
+      - **The reason why he quit his job is still unclear.（他辞职的原因仍然不清楚。）**
+      
+   2. **引导定语从句：**
+      - **She explained the reason why she arrived late.（她解释了她迟到的原因。）**
+      - **Do you know the reason why the project was delayed?（你知道项目延迟的原因吗？）**
+      
+   3. **引导主语从句：**
+      - **The reason why she left remains a mystery.（她离开的原因仍然是个谜。）**
+      - **The reason why they succeeded was their hard work and dedication.（他们成功的原因是他们的努力和奉献精神。）**
+
+   **注意，"The reason why" 结构通常需要与后面的句子或从句相互补充，解释或说明某个事件的原因。在使用时，可以根据具体的语境和句子结构进行灵活运用。**
+
+   
+
+   **"Inform" 是一个常用的动词，表示提供信息、告知、通知或使某人了解某事。以下是一些常见的用法：**
+
+   1. **Inform someone about something: 通知某人某事**
+      - **I need to inform you about the change in the schedule.（我需要通知你日程安排的变动。）**
+      - **The teacher informed the students about the upcoming test.（老师通知学生即将来临的考试。）**
+      
+   2. **Inform someone of something: 告知某人某事**
+      - **She informed me of the new policy at work.（她告知了我工作中的新政策。）**
+      - **The police officer informed the driver of the traffic regulations.（警察告知了司机交通规则。）**
+      
+   3. **Keep someone informed: 让某人保持知情**
+      - **Please keep me informed of any updates regarding the project.（请让我知道有关项目的任何更新。）**
+      - **The manager kept the team informed about the company's future plans.（经理让团队了解公司的未来计划。）**
+      
+   4. **Informal/formal communication: 非正式/正式沟通**
+      - **They had an informal conversation to informally discuss the project.（他们进行了非正式的交谈，非正式地讨论项目。）**
+      - **The official statement was issued to formally inform the public about the decision.（官方声明发布，正式通知公众有关决定。）**
+
+   **"Inform" 这个词可以用于各种场合和语境，表示传达信息、告知事实或使某人了解某事。具体使用时，要根据上下文和语境选择适合的用法。**
+
+6. He didn't <u><font color=red><strong>        make it clear       </strong></font></u> when and where the meeting would be held. (make)
 
    他没有把何时何地召开会议**搞清楚**。
 
-   **解析：**
+   <font color=red><strong>make it clear</strong></font>
+
+   <strong>解析：</strong>
 
    <font color=red><strong>句中make后的宾语从句已后置，故用it作形式宾语。</strong></font>
 
-7. Chinese style of crossing road should be banned , Not only <u><font color=red><strong>does it influence</strong></font></u> China's image of the world , but it also puts people's life in danger .(influence)
+   **"Make clear" 是一个常用的表达，意思是使清晰明了或阐明某事。以下是该表达的一些常见用法：**
+
+   1. **Make something clear: 明确某事**
+      - **Let me make it clear that I will not tolerate any more delays.（让我明确表示，我将不再容忍任何延误。）**
+      - **The teacher made the instructions clear before starting the assignment.（老师在开始作业前明确了指示。）**
+      
+   2. **Make it clear: 明确表明**
+      - **He made it clear that he would not be attending the meeting.（他明确表示他不会参加会议。）**
+      - **The company's spokesperson made it clear that they were not responsible for the product defect.（公司发言人明确表示他们不对产品缺陷负责。）**
+      
+   3. **Make clear to someone: 向某人明确表达**
+      - **I made it clear to him that his behavior was unacceptable.（我向他明确表示他的行为是不可接受的。）**
+      - **The manager made it clear to the team members what was expected of them.（经理向团队成员明确表达了对他们的期望。）**
+
+   **"Make clear" 这个短语强调了使某事清晰明了、明确表达或阐明的行为。具体使用时，可以根据具体语境和句子结构进行灵活运用。**
+
+7. Chinese style of crossing road should be banned , Not only <u><font color=red><strong>          does it influence         </strong></font></u> China's image of the world , but it also puts people's life in danger .(influence)
 
    中国式过马路应该被禁止,因为**它**不但**影响**中国在世界的形象而且它让人们的生命处于危险之中。
 
-   **解析：**
+   <font color=red><strong>does it influence</strong></font>
+
+   <strong>解析：</strong>
 
    <font color=red><strong>not only. ..but also...连接两个句子, not only位于句首时,含not only的分句用部分倒装,由but后分句中的动词形式可知此处用一般现在时。</strong></font>
 
-8. Since the earthquake broke out , each doctor and each nurse <u><font color=red><strong>has been engaged in</strong></font></u> saving the injured round the clock .（engage)
+   **banned ：*adj.*被禁的，被取缔的；*v.*禁止；（官方）把……逐出；（ban 的过去式和过去分词）**
+
+   **表示"对...有影响"的常用英语表达方式包括：**
+
+   1. **Have an impact/effect on: 对...有影响**
+      - **The new policy will have a significant impact on the economy.（新政策将对经济产生重大影响。）**
+      - **Lack of sleep can have a negative effect on your overall health.（睡眠不足可能对你的整体健康产生负面影响。）**
+      
+   2. **Influence: n.影响，作用；势力，影响力；有影响的人（或事物）；v.影响，对……起作用**
+      - **Her words influenced my decision to pursue a career in music.（她的话影响了我追求音乐事业的决定。）**
+      - **Social media has a strong influence on the younger generation.（社交媒体对年轻一代有很大的影响。）**
+      
+   3. **Affect: v.影响；（疾病）感染；（在感情上）深深打动；n.（尤指影响行为或行动的）情感，感情**
+      - **The weather conditions may affect the outcome of the game.（天气条件可能会影响比赛的结果。）**
+      - **Economic factors can greatly affect consumer behavior.（经济因素可以极大地影响消费者行为。）**
+      
+   4. **Impact: n.撞击，冲击力；巨大影响，强大作用；v.冲击，撞击；挤入，压紧；**
+      - **The pandemic has had a profound impact on global travel.（疫情对全球旅行产生了深远影响。）**
+      - **The new technology has had a positive impact on productivity.（新技术对生产力产生了积极影响。）**
+
+   **这些表达方式可以描述某事对其他事物的影响或影响程度。具体使用哪种表达方式取决于上下文和所要表达的意思。**
+
+8. Since the earthquake broke out , each doctor and each nurse <u><font color=red><strong>       has been engaged in       </strong></font></u> saving the injured round the clock .（engage)
 
    自地震爆发以来,每一个医生和护士都一直在夜以继日地**忙于**抢救伤员。
 
-   **解析：**
+   <font color=red><strong>has been engaged in</strong></font>
+
+   <strong>解析：</strong>
 
    <font color=red><strong>be engaged in...“忙于做某事”,由句中的时间状语since...可知用现在完成时。</strong></font>
 
-9. <u><font color=red><strong>Being/Feeling ashamed of</strong></font></u> her behavior at the party,she burst into tears while making apologies to her friends.(ashamed)
+   **表示"忙于做某事"的常用英语表达方式包括：**
+
+   1. **Be busy doing something: 忙于做某事**
+      - **She is busy studying for her exams.（她忙于备考。）**
+      - **They are busy preparing for the upcoming conference.（他们忙于为即将到来的会议做准备。）**
+      
+   2. **Be occupied with something: 忙于做某事**
+      - **He is occupied with a project and cannot attend the meeting.（他忙于一个项目，无法参加会议。）**
+      - **She is currently occupied with her new job responsibilities.（她目前忙于她的新工作职责。）**
+      
+   3. **Be engrossed in something: 全神贯注于某事**
+      - **The children were engrossed in playing video games.（孩子们全神贯注地玩电子游戏。）**
+      - **She was so engrossed in her book that she didn't notice the time passing.（她对书籍如此专注，没有注意到时间的流逝。）**
+      
+   4. **Be tied up with something: 忙于做某事**
+      - **Sorry, I can't meet you for lunch. I'm tied up with a work deadline.（抱歉，我不能和你一起吃午饭。我忙于工作截止日期。）**
+      - **He's been tied up with meetings all day.（他整天都被会议占据。）**
+
+   **这些表达方式可以描述一个人忙于做某事，强调他们的时间和精力都在这项活动上。具体使用哪种表达方式取决于具体语境和句子结构。**
+
+   
+
+   **round the clock ：全天候的，24小时不间断的：指某事物或活动持续不断地进行，一天24小时都在进行。**
+
+   **It is open round the clock. 它24小时营业。**
+
+9. <u><font color=red><strong>        Being/Feeling ashamed of          </strong></font></u> her behavior at the party,she burst into tears while making apologies to her friends.(ashamed)
 
    她为她在聚会上的行为**感到羞愧**，当她向朋友们道歉时,眼泪不停地从脸上流下来。
 
-   **解析：**
+   <font color=red><strong>Being/Feeling ashamed of</strong></font>
+
+   <strong>解析：</strong>
 
    <font color=red><strong>be/feel ashamed of..."为……感到羞愧",she与be/feel之间为主动关系，故用动词-ing形式；句首的非谓语动词短语 "Being ashamed of her behavior at the party" 是作原因状语</strong></font>
 
-10. Where Are We Going , Dad ? presents a new generation of men who , In a break from Chinese tradition , now realize it's <u><font color=red><strong>as important to accompany</strong></font></u> their children as it's to build a career .（accompany)
+   **"Apology" 是表示道歉的名词，用于表达对过失、错误或冒犯的歉意。以下是该词的一些常见用法：**
+
+   1. **Make an apology: 表示道歉**
+      - **He made a sincere apology for his mistake.（他对自己的错误表示了真诚的道歉。）**
+      - **She decided to make a public apology for her insensitive comments.（她决定为自己的不敏感言论做出公开道歉。）**
+      
+   2. **Apology for something: 对某事的道歉**
+      - **I owe you an apology for my behavior last night.（昨晚的行为让我需要向你道歉。）**
+      - **The company issued an apology for the inconvenience caused by the service disruption.（公司因服务中断引起的不便向客户致以道歉。）**
+      
+   3. **Apology to someone: 向某人道歉**
+      - **He offered his sincere apologies to his colleagues for his unprofessional conduct.（他向同事们表示他的行为不专业，并表示真诚的道歉。）**
+      - **She wrote a letter of apology to her friend to make amends for her mistake.（她写了一封道歉信向朋友赔罪，弥补自己的错误。）**
+      
+   4. **Accept an apology: 接受道歉**
+      - **I accept your apology and hope we can move forward.（我接受你的道歉，并希望我们能够继续前进。）**
+      - **The teacher accepted the student's apology for the late submission of the assignment.（老师接受学生关于作业迟交的道歉。）**
+
+   **"Apology" 这个词强调了一种正式或诚挚的道歉表达，用于承认错误、向他人表达歉意或修复破裂的关系。具体使用时，要根据具体情况选择适当的用法。**
+
+10. Where Are We Going , Dad ? presents a new generation of men who , In a break from Chinese tradition , now realize it's <u><font color=red><strong>      as important to accompany       </strong></font></u> their children as it's to build a career .（accompany)
 
     《爸爸去哪儿》展现了打破中国传统的新时代男人意识到**陪伴**子女同建立事业**一样重要**。
 
-    **解析：**
+    <font color=red><strong>as important to accompany</strong></font>
 
+    <strong>解析：</strong>
+    
     <font color=red><strong>as……as……"同……一样……"，由后面的并列成分to build可知，此处用不定式。</strong></font>
+    
+    **"In a break from Chinese tradition" 这句话可以理解为描述某个行为或事件与中国传统不同或背离传统。以下是对这句话的分析：**
+    
+    - **"In": 这个词表示在某个特定的时刻、场合或情况下。**
+    - **"a break from": 这个短语表示与某种常规、惯例或传统的背离。**
+    - **"Chinese tradition": 这指的是中国的传统、习俗或文化。**
+    
+    **因此，整句话的意思是在某种情况下，某个行为或事件与中国的传统不同或背离传统。它可能暗示了对中国传统的某种改变、突破或转变。具体的上下文会更好地解释这个短语所指的具体内容。**
 
 
 
@@ -94,7 +337,9 @@
 
    直到现在我**一直在寻找**理想的公寓。但房价太高我不能接受
 
-   **解析：**
+   <font color=red><strong>have been looking for</strong></font>
+
+   <strong>解析：</strong>
 
    <font color=red><strong>look for"寻找"，由时间状语up till now可知，look for是一个从过去开始一直持续到现在的动作，故用现在完成进行时。</strong></font>
 
@@ -102,7 +347,9 @@
 
    汤姆在期末考试中又得了C。要是**他没有浪费时间玩**游戏该多好！
 
-   **解析：**
+   <font color=red><strong>had not wasted time （in)  playing</strong></font>
+
+   <strong>解析：</strong>
 
    <font color=red><strong>waste time in doing sth.“浪费时间做某事”,in可以省略;在 if only...句式中常用虚拟语气,此处表示与过去事实相反的假设,故用过去完成时。</strong></font>
 
@@ -114,9 +361,9 @@
 
    <font color=red><strong>to have behaved better</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
-   <font color=red><strong>seem to do sth.“看来，似乎,好像”，由时间状语可知不定式用to have done,且由than可知用比较级。)</strong></font>
+   <font color=red><strong>seem to do sth.“看来，似乎,好像”，由时间状语可知不定式用to have done,且由than可知用比较级。</strong></font>
 
    <font color=red><strong>A比B……：A+be/V.+比较级+than+B</strong></font>
 
@@ -124,17 +371,21 @@
 
    在第一个月,几乎所有的新生对大学校园新生活**了解**甚少,以至于他们不知道如何安排时间。
 
-   **解析：**
+   <font color=red><strong>did they know about/of</strong></font>
 
-   <font color=red><strong>did they know about/of(know about/ of sth.“了解某事”;so……that……句式中“so＋形容词/副词”部分置于句首时,主句要用部分倒装,句中时态为一般过去时,故此处也用一般过去时)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>know about/ of sth.“了解某事”;so……that……句式中“so＋形容词/副词”部分置于句首时,主句要用部分倒装,句中时态为一般过去时,故此处也用一般过去时</strong></font>
 
 5. <u><font color=red><strong>The moment I saw</strong></font></u> the man,I realized that he was the very one the police were searching for.(moment)
 
    **我一看到**那个人，就意识到他正式警方正在寻找的那个人。
 
-   **解析：**
+   <font color=red><strong>The moment I saw</strong></font>
 
-   <font color=red><strong>The moment I saw(名词短语 the moment可以引导时间状语从句,表示“一……就……”。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>名词短语 the moment可以引导时间状语从句,表示“一……就……”。</strong></font>
 
 6. Have you seen scenes <u><font color=red><strong>in which/where people cross</strong></font></u> the roads together without observing the traffic lights?
 
@@ -142,41 +393,51 @@
 
    你有没有见过**人们一起过马路** 而无视交通灯这样的场景？这是真正的中国特色。
 
-   **解析：**
+   <font color=red><strong>where/ in which people cross</strong></font>
 
-   <font color=red><strong>where/ in which people cross(定语从句的先行词是表示地点的scenes,引导词在从句中作地点状语,故用where,相当于in which.)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>定语从句的先行词是表示地点的scenes,引导词在从句中作地点状语,故用where,相当于in which.</strong></font>
 
 7. Mistakes are unavoidable in our life. Nevertheless,<u><font color=red><strong>The fewer mistakes we make</strong></font></u>,the closer we will get to our ambition.(make)
 
    我们的生活中错误是难以避免的。然而，**我们犯的错误越少** ，离目标就会越近。
 
-   **解析：**
+   <font color=red><strong>the fewer mistakes we make</strong></font>
 
-   <font color=red><strong>the fewer mistakes we make(此题是“the十比较级...，the+比较级...”结构,表示“越……就越……”，形式上的倒装，宾语提前。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>此题是“the十比较级...，the+比较级...”结构,表示“越……就越……”，形式上的倒装，宾语提前。</strong></font>
 
 8. In 2013,my daughter and I would watch Where Are We Going,Dad? produced by Hunan Satellite TV, <u><font color=red><strong>however/no matter how busy we were</strong></font></u> .(busy)
 
    2013年，**无论我们有多忙**，我和女儿都会观看湖南卫视的《爸爸去哪儿》。
 
-   **解析：**
+   <font color=red><strong>however/no matter how busy we were</strong></font>
 
-   <font color=red><strong>however/no matter how busy we were(由句意可知,此句是让步状语从句,疑问词-ever相当于“no matter十疑问词”，形式上的倒装，表语提前。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>由句意可知,此句是让步状语从句,疑问词-ever相当于“no matter十疑问词”，形式上的倒装，表语提前。</strong></font>
 
 9. When asked <u><font color=red><strong>what it was</strong></font></u> that made his students so crazy about his lessons,the teacher smiled without saying anything.(what)
 
    当被问及**到底是什么**让学生如此喜爱他的课时，这位老师笑而不语。
 
-   **解析：**
+   <font color=red><strong>what it was</strong></font>
 
-   <font color=red><strong>what it was(此处为强调句的特殊疑问句式,根据句意,特殊疑问词用 what,宾语从句中需用陈述语序；强调句的特殊疑问句式：疑问词+ is (was) it + that +句子的其他成分，特殊疑问词即是被强调的成分。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>此处为强调句的特殊疑问句式,根据句意,特殊疑问词用 what,宾语从句中需用陈述语序；强调句的特殊疑问句式：疑问词+ is (was) it + that +句子的其他成分，特殊疑问词即是被强调的成分。</strong></font>
 
 10. <u><font color=red><strong>It worries his mother/It makes his mother worried</strong></font></u> a lot that the retirement age will be delayed little with China entering aging society.(worry)
 
     随着中国进入老龄化社会，退休年龄将逐渐推迟，**这让他妈妈很担心**。
 
-    **解析：**
+    <font color=red><strong>It worries his mother/It makes his mother worried</strong></font>
 
-    <font color=red><strong> It worries his mother/It makes his mother worried(worry sb.=make sb. worried“让某人担心”;此句中that引导的主语从句置于句末,故用it作形式主语。)</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong> worry sb.=make sb. worried“让某人担心”;此句中that引导的主语从句置于句末,故用it作形式主语。</strong></font>
     
     **"worry about"、"worry someone"和"make someone worried"在意义上有一些区别，下面是它们的解释和示例：**
     
@@ -210,33 +471,41 @@
 
    最后，他来到了一个与外界**隔绝的**孤岛
 
-   **解析：**
+   <font color=red><strong>( which/that was) cut off</strong></font>
 
-   <font color=red><strong>( which/that was) cut off(cut off“隔绝”：定语从句的先行词是a lonely island，引导词在从句中作主语，故用which 或that；也可直接用动词-ed形式做定语(非谓语动词))</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>cut off“隔绝”：定语从句的先行词是a lonely island，引导词在从句中作主语，故用which 或that；也可直接用动词-ed形式做定语(非谓语动词)</strong></font>
 
 2. It has been proved that <u><font color=red><strong>eating vegetables in/during childhood</strong></font></u> helps to protect you against serious illnesses in later life.(eat)
 
    已经得到证实**童年吃蔬菜**有助于你在以后的生活中抵御重病
 
-   **解析：**
+   <font color=red><strong>eating vegetables in/during childhood</strong></font>
 
-   <font color=red><strong>eating vegetables in/during childhood(整体句子是it做形式主语，真正的主语是that后面的句子；that后的从句中缺少主语，根据句意“童年时吃蔬菜有助于……”是一种经验，故用动词-ing形式作主语；表示“在·……时/期间”用介词in或during。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>整体句子是it做形式主语，真正的主语是that后面的句子；that后的从句中缺少主语，根据句意“童年时吃蔬菜有助于……”是一种经验，故用动词-ing形式作主语；表示“在·……时/期间”用介词in或during。</strong></font>
 
 3. The reform of College Entrance Examination will <u><font color=red><strong>begin with English</strong></font></u> whose result is not as expected.(begin)
 
    高考改革将**从英语学科开始**，其结果也不像预期那样
 
-   **解析：**
+   <font color=red><strong>begin with English</strong></font>
 
-   <font color=red><strong>begin with English( begin with sth.“从……开始”。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>begin with sth.“从……开始”。</strong></font>
 
 4. I am sorry <u><font color=red><strong>to have called you up</strong></font></u> at such an awkward time，but I really have something urgent to tell you.(call)
 
    我真的抱歉在这么不合适的时间**给你打电话**，但我真的有急事告诉你。
 
-   **解析：**
+   <font color=red><strong>to have called you (up)</strong></font>
 
-   <font color=red><strong>to have called you (up)(call sb.=call sb.up表示“给某人打电话”； be sorry to do“很抱歉做某事”，且不定式表示的动作发生在谓语动词表示的动作之前，故用不定式的完成式。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>call sb.=call sb.up表示“给某人打电话”； be sorry to do“很抱歉做某事”，且不定式表示的动作发生在谓语动词表示的动作之前，故用不定式的完成式。</strong></font>
 
    <font color=red><strong>修饰something，anything……不定代词时，形容词后置。</strong></font>
 
@@ -244,49 +513,61 @@
 
    你怎么又问一遍?我认为当时我在给你讲解答案时**你**根本**没听**
 
-   **解析：**
+   <font color=red><strong>you were not listening (to me)</strong></font>
 
-   <font color=red><strong>you were not listening (to me)(由题意及句子可知not listen表示的动作发生在presented表示的过去动作发生时,表示“当……时,正在……”,故用过去进行时。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>由题意及句子可知not listen表示的动作发生在presented表示的过去动作发生时,表示“当……时,正在……”,故用过去进行时。</strong></font>
 
 6. Never before in his life <u><font color=red><strong>had he suffered</strong></font></u> such a great loss,so he almost lost the hope of life.(suffer)
 
    他一生从来没有**遭受过**如此重大的损失,所以他几乎失去了生活的希望。
 
-   **解析：**
+   <font color=red><strong>had he suffered</strong></font>
 
-   <font color=red><strong>had he su示否定意义的never 置于句首时，句子用部分倒装，且由句意可知用过去完成时。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示否定意义的never 置于句首时，句子用部分倒装，且由句意可知用过去完成时。)</strong></font>
 
 7. It was <u><font color=red><strong>because he felt lonely/because of his feeling lonely</strong></font></u> that he moved out of the remote village and settled down in the big city.(feel)
 
    就是**因为他觉得孤单**,他才搬出那个偏僻的村庄在大城市定居下来的。
 
-   **解析：**
+   <font color=red><strong>because he felt lonely/because of his feeling lonely </strong></font>
 
-   <font color=red><strong>because he felt lonely/because of his feeling lonely (It was...that...是强调句式，被强调的是原因状语，故可用原因状语从句或because of...短语。注意强调原因状语时，若为从句只能用because引导。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>It was...that...是强调句式，被强调的是原因状语，故可用原因状语从句或because of...短语。注意强调原因状语时，若为从句只能用because引导。</strong></font>
 
 8. Had the natural disaster happened at midnight,it <u><font color=red><strong>might have caused</strong></font></u> much greater damage.(cause)
 
    如果这场自然灾害发生在半夜,它**可能会造成**更大的损害。
 
-   **解析：**
+   <font color=red><strong>might have caused</strong></font>
 
-   <font color=red><strong>might have caused(虚拟语气，对已经发生的事情进行假设，might have done表示对过去发生事情的假设。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>虚拟语气，对已经发生的事情进行假设，might have done表示对过去发生事情的假设。</strong></font>
 
 9. All his property,the books, the pictures and the house,<u><font color=red><strong>was destroyed</strong></font></u> by the big fire.(destroy)
 
    他所有的财产、书、画以及房子都**被**这场大火**烧毁了**。
 
-   **解析：**
+   <font color=red><strong>was destroyed</strong></font>
 
-   <font color=red><strong>was destroyed(本句的主语是all his property,而 the books,the pictures and the house是其同位语，property表示财产,是不可数名词,故谓语动词用单数形式,且事情发生在说话之前,主谓之间是被动语态,故用一般过去时的被动语态。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>本句的主语是all his property,而 the books,the pictures and the house是其同位语，property表示财产,是不可数名词,故谓语动词用单数形式,且事情发生在说话之前,主谓之间是被动语态,故用一般过去时的被动语态。</strong></font>
 
 10. If you don't insist on <u><font color=red><strong>going after your dream</strong></font></u>,you will never have it.(go)
 
     如果不坚持**去追逐你的梦想**,你将永远不会实现梦想。
 
-    **解析：**
+    <font color=red><strong>going after your dream</strong></font>
 
-    <font color=red><strong>going after your dream(go after one's dream“追逐某人的梦想”; insist on doing sth.“坚持做某事”。)</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>go after one's dream“追逐某人的梦想”; insist on doing sth.“坚持做某事”。</strong></font>
     
     <font color=red><strong>条件状语从句，主将从现</strong></font>
 
@@ -300,9 +581,11 @@
 
    我爸爸经常告诉我**让**一个女孩耀眼的不是她的外表而是她的个性
 
-   **解析：**
+   <font color=red><strong>that what makes</strong></font>
 
-   <font color=red><strong>that what makes(is后为that引导的表语从句,表语从句中又含有主语从句,从句缺少主语,根据句意用what引导。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>is后为that引导的表语从句,表语从句中又含有主语从句,从句缺少主语,根据句意用what引导。</strong></font>
 
 2. —Will you be able to receive the guests from Germany?
 
@@ -312,73 +595,91 @@
 
    恐怕不行。那时**我将正在参加**一个重要的会议。
 
-   **解析：**
+   <font color=red><strong>will be attending</strong></font>
 
-   <font color=red><strong>will be attending(“正在参加一个重要的会议”发生在将来某个时间点;故用将来进行时。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>“正在参加一个重要的会议”发生在将来某个时间点;故用将来进行时。</strong></font>
 
 3. On the surface of the water <u><font color=red><strong>floated some dead leaves</strong></font></u>，Which spoiled the beautiful scenery of the park.(float)
 
    河面上**飘着一些枯叶**,这破坏了公园的美景。
 
-   **解析：**
+   <font color=red><strong>floated some dead leaves</strong></font>
 
-   <font color=red><strong>floated some dead leaves(介词短语位于句首时,句子用全部倒装,由句中的时态可知用一般过去时。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>介词短语位于句首时,句子用全部倒装,由句中的时态可知用一般过去时。</strong></font>
 
 4. Those always <u><font color=red><strong>associating money with</strong></font></u> happiness may never feel happy,for they are never content.(associate)
 
    那些总是**把金钱**和幸福**联系起来的**人也许永远不会感到幸福,因为他们永不知足。
 
-   **解析：**
+   <font color=red><strong>associating money with </strong></font>
 
-   <font color=red><strong>associating money with （associate. .. with...“把……和……联系起来”;指代人的 those与 associate之间是主动关系,故用动词-ing形式作定语。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>associate. .. with...“把……和……联系起来”;指代人的 those与 associate之间是主动关系,故用动词-ing形式作定语。</strong></font>
 
 5. Chinese medicine <u><font color=red><strong>is usually/often cooked</strong></font></u> using special plants that can be used for medicine.(cook)
 
    中药**通常是**用可以作为药物的特殊植物来煮的。
 
-   **解析：**
+   <font color=red><strong>is usually/often cooked</strong></font>
 
-   <font color=red><strong>is usually/often cooked(Chinese medicine与 cook之间是被动关系,且句子讲的是事实,故用一般现在时的被动语态。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>Chinese medicine与 cook之间是被动关系,且句子讲的是事实,故用一般现在时的被动语态。</strong></font>
 
 6. My aunt,<u><font color=red><strong>whose photo/picture I showed you</strong></font></u> yesterday,will come to guide me,on how to apply for the job I want.(show).
 
    我的姑姑,昨天**我给你们看过她的照片**,将会来指导我如何申请我想要的工作。
 
-   **解析：**
+   <font color=red><strong>whose photo/picture I showed you</strong></font>
 
-   <font color=red><strong>whose photo/picture I showed you(show sb. sth.“向某人展示某物”,该句为非限制性定语从句,my aunt与 photo/picture之间是所有关系,故用 whose作定语的关系代词,由时间状语可知用一般过去时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>show sb. sth.“向某人展示某物”,该句为非限制性定语从句,my aunt与 photo/picture之间是所有关系,故用 whose作定语的关系代词,由时间状语可知用一般过去时。</strong></font>
 
 7. If it hadn't been for your timely help,we <u><font color=red><strong>would be trapped</strong></font></u> in a dilemma now.(trap)
 
    要不是因为你及时的帮助,我们现在**还困在**进退两难的境地中。
 
-   **解析：**
+   <font color=red><strong>would be trapped</strong></font>
 
-   <font color=red><strong>would be trapped(从句与过去事实相反,主句与现在事实相反,故主句谓语动词用“would+动词原形”的形式。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>从句与过去事实相反,主句与现在事实相反,故主句谓语动词用“would+动词原形”的形式。</strong></font>
 
 8. You can never imagine <u><font color=red><strong>what exciting news</strong></font></u> you have told us!(news).
 
    你绝对想象不到你告诉我们的**是多么令人兴奋的消息啊**!
 
-   **解析：**
+   <font color=red><strong>what exciting news</strong></font>
 
-   <font color=red><strong>what exciting news(表示“令人兴奋的”用exciting;imagine的宾语从句是感叹句的形式,中心词是名词news,故用what 引导。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示“令人兴奋的”用exciting;imagine的宾语从句是感叹句的形式,中心词是名词news,故用what 引导。</strong></font>
 
 9. We use passwords to keep our personal information secret and safe,but some passwords we use may not be <u><font color=red><strong>as/ so reliable as</strong></font></u> we think.(reliable).
 
    我们使用密码来使得个人信息安全、保密,但是我们所用的有些密码可能并不**像**我们所认为的**那样可靠**。
 
-   **解析：**
+   <font color=red><strong>as/ so reliable as</strong></font>
 
-   <font color=red><strong>as/ so reliable as(表示“不如……那样·…”,用not as/so. . .as...原级结构形式表示。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示“不如……那样·…”,用not as/so. . .as...原级结构形式表示。</strong></font>
 
 10. The samples <u><font color=red><strong>varied in quality</strong></font></u> but were generally acceptable.(vary)
 
     虽然样本**质量不一**,但都是可以接受的。
 
-    **解析：**
+    <font color=red><strong>varied in quality</strong></font>
 
-    <font color=red><strong>varied in quality(vary in quality“质量不”,且由句中时态可知用一般过去时。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>vary in quality“质量不”,且由句中时态可知用一般过去时。</strong></font>
 
 
 
@@ -392,7 +693,9 @@
 
    <font color=red><strong>no matter how/however far you travel</strong></font>
 
-   <font color=red><strong>解析：引导让步状语从句时,“no matter十疑问词”相当于疑问词-ever。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>引导让步状语从句时,“no matter十疑问词”相当于疑问词-ever。</strong></font>
 
 2. Some people wear masks only in crowds，<u><font color=red><strong>where/in which they expect</strong></font></u> to come into contact with lots of germs.(expect)
 
@@ -400,7 +703,9 @@
 
    <font color=red><strong>where/in which they expect</strong></font>
 
-   <font color=red><strong>解析：此句为非限制性定语从句,引导词在从句中作地点状语,故用 where,相当于in which。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>此句为非限制性定语从句,引导词在从句中作地点状语,故用 where,相当于in which。</strong></font>
 
    <font color=red><strong>“come into contact with”表示“接触到”</strong></font>
 
@@ -410,7 +715,9 @@
 
    <font color=red><strong>did it occur to</strong></font>
 
-   <font color=red><strong>解析：否定词置于句首句子用部分倒装,根据句子的时态可知用一般过去时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>否定词置于句首句子用部分倒装,根据句子的时态可知用一般过去时。</strong></font>
 
     <font color=red><strong>it occurs to sb.“某人想到”，It suddenly occurred to me that I had left my keys in the office.</strong></font>
 
@@ -424,7 +731,9 @@
 
    <font color=red><strong>couldn't/can't have slept</strong></font>
 
-   <font color=red><strong>解析：表示对过去事情的否定推测。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示对过去事情的否定推测。</strong></font>
 
 5. The airport <u><font color=red><strong>to be completed</strong></font></u> next year will help promote tourism in the area.(complete)
 
@@ -432,7 +741,9 @@
 
    <font color=red><strong>to be completed</strong></font>
 
-   <font color=red><strong>解析：the airport与complete之间是被动关系，由时间状语next year可知用不定式,故用不定式的被动式。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>the airport与complete之间是被动关系，由时间状语next year可知用不定式,故用不定式的被动式。</strong></font>
 
 6. —Do you think George has passed the driving test?
 
@@ -444,7 +755,9 @@
 
    <font color=red><strong>would have driven</strong></font>
 
-   <font color=red><strong>解析：主句表示与过去事实相反的假设,故谓语动词用 would/should/could/might+have done的形式。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>主句表示与过去事实相反的假设,故谓语动词用 would/should/could/might+have done的形式。</strong></font>
 
 7. He hasn't slept at all for three days in a row.  <u><font color=red><strong>It is no wonder/No wonder that</strong></font></u> he is tired out.(wonder)
 
@@ -452,7 +765,9 @@
 
    <font color=red><strong>It is no wonder/No wonder (that)</strong></font>
 
-   <font color=red><strong>解析：It is no wonder“难怪”，相当于no wonder.</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>It is no wonder“难怪”，相当于no wonder.</strong></font>
 
    <font color=red><strong>“难怪”在英语中通常可以表示为“It’s no wonder that...”、“No wonder...”、“It’s not surprising that...”等等。</strong></font>
 
@@ -462,7 +777,9 @@
 
    <font color=red><strong>had intended to</strong></font>
 
-   <font color=red><strong>解析：intend to do sth.“打算做某事”; had intended可以表示原本打算做却没做的事情；plan的过去完成时可以表示未曾实现的打算或意图。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>intend to do sth.“打算做某事”; had intended可以表示原本打算做却没做的事情；plan的过去完成时可以表示未曾实现的打算或意图。</strong></font>
 
 9. In the tent,  there were many children from the earthquake-stricken area,  <u><font color=red><strong>their ages varying/whose ages varied</strong></font></u> from 10 to 17.
 
@@ -470,7 +787,9 @@
 
    <font color=red><strong>their ages varying/whose ages varied</strong></font>
 
-   <font color=red><strong>解析：their ages 与vary之间是主动关系,故用动词ing形式独立主格结构;也可将此句看成是非限制性定语从句,先行词与ages之间是修饰的‘关系。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>their ages 与vary之间是主动关系,故用动词ing形式独立主格结构;也可将此句看成是非限制性定语从句,先行词与ages之间是修饰的‘关系。</strong></font>
 
 10. The police were seeking more information to find out <u><font color=red><strong>who it was that killed</strong></font></u> the rich merchant.(kill)
 
@@ -478,7 +797,9 @@
     
     <font color=red><strong>who it was that killed</strong></font>
     
-    <font color=red><strong>解析：强调句的特殊疑问句形式是“疑问词 + is/was + it that...?”,且宾语从句中要用陈述语序。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>强调句的特殊疑问句形式是“疑问词 + is/was + it that...?”,且宾语从句中要用陈述语序。</strong></font>
 
 
 
@@ -491,71 +812,91 @@
 
    <font color=red><strong>did he care about</strong></font>
 
-   <font color=red><strong>解析：care about sth.“关心某事”;否定词 little置于句首时句子用部分倒装,根据句中的时态用一般过去时。</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>care about sth.“关心某事”;否定词 little置于句首时句子用部分倒装,根据句中的时态用一般过去时。</strong></font>
+   
 2. Science and technology is developing rapidly and it's hard to predict <u><font color=red><strong>what the world will be</strong></font></u> another 20 years.
 
    科学技术日新月异,很难预测再过20年世界**会是什么样**。
 
    <font color=red><strong>what the world will be/look like</strong></font>
 
-   <font color=red><strong>解析：由句意可知用 what引导宾语从句,what在从句中作表语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>由句意可知用 what引导宾语从句,what在从句中作表语。</strong></font>
 
 3. Wolves are highly social animals <u><font color=red><strong>whose success depends on</strong></font></u> cooperation.(depend)
    狼是高度群体化的动物,**其成功依赖于**合作
 
    <font color=red><strong>whose success depends on</strong></font>
 
-   <font color=red><strong>解析：depend on“依赖”;该句为定语从句,先行词animals 与 success之间是所有关系,故用whose.</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>depend on“依赖”;该句为定语从句,先行词animals 与 success之间是所有关系,故用whose.</strong></font>
+   
 4. <u><font color=red><strong>No matter when I approach</strong></font></u> her,she always tries to avoid me, pretending not to have seen me at all.(approach)
    **不管我什么时候接近**她,她总是试图躲避,假装根本没看见我。
 
    <font color=red><strong>No matter when/Whenever I approach</strong></font>
 
-   <font color=red><strong>解析：引导让步状语从句时,"no matter+疑问词”相当于疑问词-ever.</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>引导让步状语从句时,"no matter+疑问词”相当于疑问词-ever.</strong></font>
+   
 5. The young lady <u><font color=red><strong>is often heared to quarrel</strong></font></u> with her husband about money and housework.(hear)
    **经常听到**那位年轻女士为钱和家务事与丈夫**争吵**
 
    <font color=red><strong>is often heard to quarrel</strong></font>
 
-   <font color=red><strong>解析：quarrel with sb.“和某人吵架”;be heard to do sth.“听到做某事”。</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>quarrel with sb.“和某人吵架”;be heard to do sth.“听到做某事”。</strong></font>
+   
 6. Should <u><font color=red><strong>you be out of work</strong></font></u>,I would try to help you to apply for a better job in my company.
    **要是你失业了**,我就在我的公司里为你申请一份更好的工作。
 
    <font color=red><strong>you be out of work</strong></font>
 
-   <font color=red><strong>解析：虚拟条件状语从句中如果有should,可以将if省略,把should提到主语前面,构成倒装;“失业”用out of work。</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>虚拟条件状语从句中如果有should,可以将if省略,把should提到主语前面,构成倒装;“失业”用out of work。</strong></font>
+   
 7. It is your efforts,not your intelligence <u><font color=red><strong>that contribute to</strong></font></u> your success.(contribute)
    是努力而不是聪明**促成**你的成功的。
 
    <font color=red><strong>that contribute to</strong></font>
 
-   <font color=red><strong> 解析：contribute to“促成”,此句为It is...that...强调句式,谓语动词由efforts决定。</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong> contribute to“促成”,此句为It is...that...强调句式,谓语动词由efforts决定。</strong></font>
+   
 8. What is the best way you can imagine <u><font color=red><strong>to reduce</strong></font></u> the overuse of water in our school
    你认为**减少**我们学校过度用水的最好方法是什么?
 
    <font color=red><strong>to reduce</strong></font>
 
-   <font color=red><strong>解析：the best way to do sth.“做某事最好的方法”,不定式作定语。</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>the best way to do sth.“做某事最好的方法”,不定式作定语。</strong></font>
+   
 9. Rabbits make their homes in fields <u><font color=red><strong>in which they can hide</strong></font></u> their young under bushes or grasses.(hide)
    兔子一般把家建在田地上,**在那里它们可以**在灌木下或草丛中藏幼仔。
 
    <font color=red><strong>where/in which they can hide</strong></font>
 
-   <font color=red><strong>解析：此句为定语从句,先行词是表示地点的fields,引导词在从句中作地点状语,故用where,相当于in which.</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>此句为定语从句,先行词是表示地点的fields,引导词在从句中作地点状语,故用where,相当于in which.</strong></font>
+   
 10. He complained that this was the third time he <u><font color=red><strong>had been informed of</strong></font></u> the changes of the meeting date.(inform)
     他抱怨说这是他第三次**被告知**会议日程的变化了。
 
     <font color=red><strong>had been informed of</strong></font>
 
-    <font color=red><strong>解析：在句型“It/That/This was the second/third.. . time that...”中that后的从句用过去完成时, he与 inform之间是被动关系,故用被动语态;在“It is the first/second time that...”句型中 that从句用现在完成时;</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>在句型“It/That/This was the second/third.. . time that...”中that后的从句用过去完成时, he与 inform之间是被动关系,故用被动语态;在“It is the first/second time that...”句型中 that从句用现在完成时;</strong></font>
     
     
 
@@ -568,81 +909,101 @@
 
    <font color=red><strong>was found</strong></font>
 
-   <font color=red><strong>解析：由时间状语 yesterday可知用一般过去时,drug与find之间是被动关系,且a quantity of...作主语时谓语动词用单数形式。</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>由时间状语 yesterday可知用一般过去时,drug与find之间是被动关系,且a quantity of...作主语时谓语动词用单数形式。</strong></font>
+   
 2. A dog is the only kind of animal on earth <u><font color=red><strong>      that loves you more         </strong></font></u> than he loves himself.(love)
    狗是世界上唯一**爱你胜过**爱自己的动物。
 
    <font color=red><strong>that loves you more</strong></font>
 
-   <font color=red><strong>解析：该定语从句的先行词由 the only修饰,表示动物,故引导词用that,谓语动词用单数形式,且根据后面的 than可知此处用比较级形式。</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>该定语从句的先行词由 the only修饰,表示动物,故引导词用that,谓语动词用单数形式,且根据后面的 than可知此处用比较级形式。</strong></font>
+   
 3. I try to understand <u><font color=red><strong>     what it is that      </strong></font></u> prevents so many Americans from being as happy as one expects.(it)
    我想弄明白**到底是什么**使这么多的美国人不像人们认为的那样幸福。
 
    <font color=red><strong>what it is that</strong></font>
 
-   <font color=red><strong>解析：由句意可知此处为强调句的特殊疑问句式“疑问词＋is/was+ it that...?”,且宾语从句中用陈述语序; prevent sb from doing: 阻止某人做某事</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>由句意可知此处为强调句的特殊疑问句式“疑问词＋is/was+ it that...?”,且宾语从句中用陈述语序; prevent sb from doing: 阻止某人做某事</strong></font>
+   
 4. Hardly <u><font color=red><strong>      had jack reached    </strong></font></u> the airport when he was spotted by his fans.(reach)
    **杰克刚**到机场就被他的粉丝认出来了。
 
    <font color=red><strong>had Jack reached</strong></font>
 
-   <font color=red><strong>解析：表示否定意义的hardly置于句首时,句子用部分倒装,hardly...when...句型中,主句用过去完成时,从句用一般过去时。</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>表示否定意义的hardly置于句首时,句子用部分倒装,hardly...when...句型中,主句用过去完成时,从句用一般过去时。</strong></font>
+   
 5. The 43-year-old man says that <u><font color=red><strong>          what makes the sport so exciting           </strong></font></u> is the unpredictability of the waves.(make)
    这位43岁的人说**使这项运动如此刺激的**就是海浪的不可预测性。
 
    <font color=red><strong>what makes the sport so exciting</strong></font>
 
-   <font color=red><strong>解析：that引导的宾语从句中又包含一个主语从句,引导词在主语从句中作主语,根据句意用what,宾语从句中要用陈述语序。</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>that引导的宾语从句中又包含一个主语从句,引导词在主语从句中作主语,根据句意用what,宾语从句中要用陈述语序。</strong></font>
+   
 6. Don't worry. It's a storm in a teacup. Everyone <u><font color=red><strong>       will have forgotten         </strong></font></u> about it by tomorrow.(forget)
    别担心。这不过是小题大做。到明天大家**会忘记**这事的。
 
    <font color=red><strong>will have forgotten</strong></font>
 
-   <font color=red><strong>解析：“忘记”是从现在看明天将要发生的事情,且表示一种影响,故用将来完成时。)</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>“忘记”是从现在看明天将要发生的事情,且表示一种影响,故用将来完成时。)</strong></font>
+   
 7. She knows that were her father still alive,  he <u><font color=red><strong>            could be proud of             </strong></font></u> her achievement.(proud)
    她知道如果爸爸仍然活着,那他就会为她的成就**感到骄傲**。
 
    <font color=red><strong>would be proud of</strong></font>
 
-   <font color=red><strong>解析：be proud of“为……感到骄傲”;条件句表示与现在事实相反的假设,主句谓语动词用“would+动词原形”的形式。</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>be proud of“为……感到骄傲”;条件句表示与现在事实相反的假设,主句谓语动词用“would+动词原形”的形式。</strong></font>
+   
 8. <u><font color=red><strong>           Having been completed          </strong></font></u> hurriedly,  the speech was handed in to the teacher.(complete)
    匆匆**完成后**,演讲稿被交给了老师。
 
    <font color=red><strong>Having been completed</strong></font>
 
-   <font color=red><strong>解析：the speech与complete之间是被动关系,且该被动动作发生在一个过去动作之前,故用动词-ing形式的完成被动式。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>the speech与complete之间是被动关系,且该被动动作发生在一个过去动作之前,故用动词-ing形式的完成被动式。</strong></font>
 
    <font color=red><strong>"Having been done"是一个现在分词和过去分词的被动语态结构，通常被用作复合句中的状语从句，用来描述某个动作在过去完成了，同时这个动作是被动的。它可以表达出动作在过去已经完成了的意思，常常和主句的动作有一定的关联。</strong></font>
 
    <font color=red><strong>例如：</strong></font>
-
+   
    - <font color=red><strong>Having been told the news, she burst into tears. （听到消息后，她放声痛哭。）</strong></font>
    - <font color=red><strong>Having been educated abroad, he has a broader perspective. （在国外接受过教育，他有更广阔的视野。）</strong></font>
    - <font color=red><strong>Having been invited to the party, he prepared a gift. （被邀请参加聚会，他准备了一份礼物。）</strong></font>
 
    <font color=red><strong>在上面的例句中，"having been"结构的动作是先于主句发生的，而且是被动的。</strong></font>
-
+   
 9. When we were young, every evening my brother and I <u><font color=red><strong>           would stay at           </strong></font></u> home waiting for our mother.(stay)
    我们小的时候,我和哥哥每天晚上**都会待在**家里等妈妈。
 
    <font color=red><strong>would stay at</strong></font>
 
-   <font color=red><strong>解析：表示过去的习惯用 would；used to表示过去常常，现在不的动作； stay at“待在”。</strong></font>
+   <strong>解析：</strong>
 
+   <font color=red><strong>表示过去的习惯用 would；used to表示过去常常，现在不的动作； stay at“待在”。</strong></font>
+   
 10. Mum used only half of the money. The rest <u><font color=red><strong>          was saved</strong>            </font></u> for other purposes. (save)
 
     妈妈只用了一半的钱,剩下的那些**被节省下来**留作他用了。
 
     <font color=red><strong>was saved</strong></font>
 
-    <font color=red><strong>解析：the rest作主语时,谓语动词根据其指代的内容而定,此处指代money,故谓语动词用单数形式,且由句中时态可知此处用一般过去时。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>the rest作主语时,谓语动词根据其指代的内容而定,此处指代money,故谓语动词用单数形式,且由句中时态可知此处用一般过去时。</strong></font>
 
 
 
@@ -655,72 +1016,92 @@
 1. Lucy told me that all the doors and windows <u><font color=red><strong>had been cleaned</strong></font></u> when she arrived this morning.(clean)
    露西告诉我说当她早晨到达时所有的门和窗户**都被清洗过了**。
 
-   **解析：**
+   <font color=red><strong>had been cleaned</strong></font>
 
-   <font color=red><strong>had been cleaned(the doors and windows与 clean之间是被动关系,且该被动动作发生在arrived表示的动作之前,故用过去完成时的被动语态。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>the doors and windows与 clean之间是被动关系,且该被动动作发生在arrived表示的动作之前,故用过去完成时的被动语态。</strong></font>
 
 2. He made a mistake,but he corrected it <u><font color=red><strong>before the stitution got worse</strong></font></u>.(get)
    他犯了一个错误,但是**在情况变得更糟糕前**他纠正了错误。
 
-   **解析：**
+   <font color=red><strong>before the situation got worse</strong></font>
 
-   <font color=red><strong>before the situation got worse(表示“在·……之前”,用连词before;get worse“变得更糟糕”。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示“在·……之前”,用连词before;get worse“变得更糟糕”。</strong></font>
 
 3. I love animals and that's the reason <u><font color=red><strong>why I hate the people</strong></font></u> who kill wild animals for money.(hate)
    我喜欢动物,这就是**我为什么憎恨那**些为钱而杀害动物的人。
 
-   **解析：**
+   <font color=red><strong>why I hate the people</strong></font>
 
-   <font color=red><strong>why I hate the people(定语从句的先行词是the reason,引导词在从句中作状语,表示原因,故用why。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>定语从句的先行词是the reason,引导词在从句中作状语,表示原因,故用why。</strong></font>
 
 4. <u><font color=red><strong>Whatever great achievement he has made</strong></font></u>,he is always very modest.(whatever)
    **无论他取得了多么大的成就**,他总是很谦虚。
 
-   **解析：**
+   <font color=red><strong>Whatever great achievements he has made</strong></font>
 
-   <font color=red><strong>Whatever great achievements he has made(whatever“无论什么”,引导让步状语从句。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>whatever“无论什么”,引导让步状语从句。</strong></font>
 
 5. When the teacher came in,the room was so noisy that she had to speak loudly <u><font color=red><strong>to made herself heard</strong></font></u>.(make)
    当老师进来时,教室里是如此吵闹,她不得不大声说话**才能使她自己被听见**。
 
-   **解析：**
+   <font color=red><strong>to make herself heard</strong></font>
 
-   <font color=red><strong>to make herself heard(“大声说话”的目的是“被听见”,故用不定式作目的状语; make oneself heard“使某人自己被听见”。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>“大声说话”的目的是“被听见”,故用不定式作目的状语; make oneself heard“使某人自己被听见”。</strong></font>
 
 6. Was it at the survival training center <u><font color=red><strong>that you learned these skills</strong></font></u>.(learn)
    你是不是在这个生存培训中心**学会这些技能的**?
 
-   **解析：**
+   <font color=red><strong>that you learned these skills</strong></font>
 
-   <font color=red><strong>that you learned these skills(根据句子结构及句意可知,此句为强调句的一般疑问句形式“Was it十被强调部分十that...?”。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>根据句子结构及句意可知,此句为强调句的一般疑问句形式“Was it十被强调部分十that...?”。</strong></font>
 
 7. Do you still remember one of the key points that <u><font color=red><strong>were referred to</strong></font></u> in his report?I can't remember it at all
    你还记得他报告中**涉及**的一个关键点之一吗?我一点也记不得了。
 
-   **解析：**
+   <font color=red><strong>were referred to</strong></font>
 
-   <font color=red><strong>were referred to(关系代词作主语,定语从句中谓语动词的形式取决于先行词。在“one of十复数名词”后的定语从句中,谓语动词用复数形式。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>关系代词作主语,定语从句中谓语动词的形式取决于先行词。在“one of十复数名词”后的定语从句中,谓语动词用复数形式。</strong></font>
 
 8. China has been pushing the reform of public hospitals <u><font color=red><strong>for the benefit of</strong></font></u> all the citizens.(benefit)
    **为**了全体公民的**利益**,中国已经推行了公立医院的改革。
 
-   **解析：**
+   <font color=red><strong>for the benefit of</strong></font>
 
-   <font color=red><strong>for the benefit of(for the benefit of“为了……的利益”。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>for the benefit of“为了……的利益”。</strong></font>
 
 9. The two friends had a quarrel about money,but shortly afterwards they shock hands and <u><font color=red><strong>made up</strong></font></u>.(make)
    这两个朋友因为钱争吵了,但是很快他们就握手**言和**了。
 
-   **解析：**
+   <font color=red><strong>made up</strong></font>
 
-   <font color=red><strong>made up(make up“和好,和解”,根据句中时态可知用一般过去时。)</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>make up“和好,和解”,根据句中时态可知用一般过去时。</strong></font>
 
 10. Jack,I'm afraid I'll turn to you.I think chemistry is <u><font color=red><strong>as difficult a subject as</strong></font></u> physics.(subject)
     杰克,我恐怕要向你求助了,我觉得化学和物理是**一样难的学科**。
 
-    **解析：**
+    <font color=red><strong>as difficult a subject as</strong></font>
 
-    <font color=red><strong>as difficult a subject as(形容词的原级比较可以用“as十形容词原级十as”表示,且第一个as后的形容词如果作定语修饰名词,该名词前有不定冠词时要置于形容词之后。)</strong></font>
+    <strong>解析：</strong>
+
+    <font color=red><strong>形容词的原级比较可以用“as十形容词原级十as”表示,且第一个as后的形容词如果作定语修饰名词,该名词前有不定冠词时要置于形容词之后。</strong></font>
 
 
 
@@ -732,49 +1113,81 @@
 
    虽然他经常把他的小妹惹哭，但今天他**被**他妹妹**惹哭**了。
 
-   <font color=red><strong>to cry(make sb. do...“使某人做某事”,不带to的不定式作宾语补足语，变为被动语态时，不定式符号to要还原。)</strong></font>
+   <font color=red><strong>to cry</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>make sb. do...“使某人做某事”,不带to的不定式作宾语补足语，变为被动语态时，不定式符号to要还原。</strong></font>
 
 2. Communication along with information industry  <u><font color=red><strong>plays an important part</strong></font></u>  in modern times.(play)
 
    交流同信息产业一样，在现代**起着重要的作用**。
 
-   <font color=red><strong>plays an important part(play an important part in...“在……中起着重要的作用”，主语后带有along with短语时，谓语动词仍与主语保持一致。)</strong></font>
+   <font color=red><strong>plays an important part</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>play an important part in...“在……中起着重要的作用”，主语后带有along with短语时，谓语动词仍与主语保持一致。</strong></font>
 
 3. Mike is always on time for everything,  Never <u><font color=red><strong>has he got</strong></font></u> to the office after 9:00 in the morning.(get)
 
    迈克做任何事情都很准时，**他**从来没早上9点后**到**办公室过。
 
-   <font color=red><strong>has he got(表示否定意义的never置于句首时,句子用部分倒装,根据句意用现在完成时。)</strong></font>
+   <font color=red><strong>has he got</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示否定意义的never置于句首时,句子用部分倒装,根据句意用现在完成时。</strong></font>
 
 4. I <u><font color=red><strong>had planned</strong></font></u> to go for a walk,  but someone called and I couldn't get away.(plan)
 
    我**本来打算**去散步的，但是有人打电话我走不开。
 
-   <font color=red><strong>had planned(plan的过去完成时可以表示未曾实现的打算或意图；intend to do sth.“打算做某事”; intend的过去完成时可以表示原本打算做却没做的事情。)</strong></font>
+   <font color=red><strong>had planned</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>plan的过去完成时可以表示未曾实现的打算或意图；intend to do sth.“打算做某事”; intend的过去完成时可以表示原本打算做却没做的事情。</strong></font>
 
 5. I have failed over and over again in my life and that is <u><font color=red><strong>why I succeed</strong></font></u>. (succeed).
 
    我的一生曾经一次又一次失败,那就是**我成功的原因**
 
-   <font color=red><strong>why I succeed(根据句意及句子结构可知此句为表语从句，从句中的引导词在句中作原因状语,故用 why,且用陈述语序。)</strong></font>
+   <font color=red><strong>why I succeed</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>根据句意及句子结构可知此句为表语从句，从句中的引导词在句中作原因状语,故用 why,且用陈述语序。</strong></font>
 
 6. Can you still remember the farm  <u><font color=red><strong>where we enjoyed  </strong></font></u> plenty of fresh fruit half a year ago?(enjoy)
 
    你还能记得半年前我们**在那里吃了**很多新鲜水果的农场吗?
 
-   <font color=red><strong>where/on which we enjoyed(该句为定语从句,先行词是表示地点的名词 farm,引导词在从句中作地点状语,故用where,相当于on which.)</strong></font>
+   <font color=red><strong>where/on which we enjoyed</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>该句为定语从句,先行词是表示地点的名词 farm,引导词在从句中作地点状语,故用where,相当于on which.</strong></font>
 
 7. It was not until the train was out of sight  <u><font color=red><strong>that they stopped </strong></font></u> waving their hands.(stop)
 
    直到看不见火车了**他们才停止**挥手。
 
-   <font color=red><strong>that they stopped(此句为It was not until. .. that...强调句式。）</strong></font>
+   <font color=red><strong>that they stopped</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>此句为It was not until. .. that...强调句式。</strong></font>
 
 8. The villagers are extremely thankful to him,  without whose help the road to the village <u><font color=red><strong>wouldn't have been built</strong></font></u>(build)
 
    村民们非常感谢他，没有他的帮助，通往这个村的路就**无法修好**。
 
-   <font color=red><strong>couldn't/wouldn't have been built(without短语表示的是与过去事实相反的假设,句子谓语动词用 couldn't/wouldn't have done的形式,且 village 与 build之间是被动关系,故用被动语态。)</strong></font>
+   <font color=red><strong>couldn't/wouldn't have been built</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>without短语表示的是与过去事实相反的假设,句子谓语动词用 couldn't/wouldn't have done的形式,且 village 与 build之间是被动关系,故用被动语态。</strong></font>
 
 9. With a lot of tough problems <u><font color=red><strong>to solve</strong></font></u>，the pilot was still calm and cool under pressure.(solve)
 
@@ -782,7 +1195,7 @@
 
    <font color=red><strong>to solve</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示将来要发生的动作用不定式，且不定式与被修饰的名词是逻辑上的动宾关系，又与句中的pilot之间是逻辑上的主谓关系，故用不定式的主动形式表示被动意义。</strong></font>
 
@@ -792,7 +1205,11 @@
 
     **在平安夜**孩子们总是将长袜挂在床脚。
     
-    <font color=red><strong>On Christmas Eve(“平安夜”是具体的某一天,表示在具体的某一天用介词on.)</strong></font>
+    <font color=red><strong>On Christmas Eve</strong></font>
+    
+    <strong>解析：</strong>
+    
+    <font color=red><strong>“平安夜”是具体的某一天,表示在具体的某一天用介词on.</strong></font>
 
 
 
@@ -804,65 +1221,105 @@
 
    格林夫人决定去买那种布料，因为她**被告知**那种布料很好洗。 
 
-   <font color=red><strong>had been told(she与tell之间是被动关系,且该被动动作发生在过去动作 decided之前,故用过去完成时的被动语态。)</strong></font>
+   <font color=red><strong>had been told</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>she与tell之间是被动关系,且该被动动作发生在过去动作 decided之前,故用过去完成时的被动语态。</strong></font>
 
 2. According to the job advertisement，you need a person <u><font color=red><strong>    who/that is capable of    </strong></font></u> fluent English and with some experience.(capable) 
 
    根据招聘广告,你们需要一个**有能力**、英语流利、有经验的人.
 
-   <font color=red><strong>who/that is capable of(该定语从句的先行词是指人的person，引导词在从句中作主语，用who或that 均可;be capable of“有能力”。）</strong></font>
+   <font color=red><strong>who/that is capable of</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>该定语从句的先行词是指人的person，引导词在从句中作主语，用who或that 均可;be capable of“有能力”。</strong></font>
 
 3. <u><font color=red><strong>   What made her excited    </strong></font></u> was that she had managed to win her house back.(make)
 
    **让她激动的**是她成功地赢回了她的房子。
 
-   <font color=red><strong>What made her excited(根据句意及句子结构可知,此处为主语从句，引导词在从句中作主语，故用what。)</strong></font>
+   <font color=red><strong>What made her excited</strong></font>
 
-   <font color=red><strong>"manage to do sth" 是一个常用的短语，表示成功完成某事或克服困难完成某事，通常含有一定的挑战或困难。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>根据句意及句子结构可知,此处为主语从句，引导词在从句中作主语，故用what。</strong></font>
+
+   <strong>"manage to do sth" 是一个常用的短语，表示成功完成某事或克服困难完成某事，通常含有一定的挑战或困难。</strong>
 
 4. Last Monday,  I was asked to give the new students a test <u><font color=red><strong>         to grade          </strong></font></u> their English level.(grade)
 
    上个星期一，我被要求给新学生们出一个测验，**用以评定**他们的英语水平。
 
-   <font color=red><strong>to grade(“评定他们的英语水平”是“出测验”的目的，故用不定式作目的状语。）</strong></font>
+   <font color=red><strong>to grade</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>“评定他们的英语水平”是“出测验”的目的，故用不定式作目的状语。</strong></font>
 
 5. It was in the small house which was destroyed by the flood <u><font color=red><strong>   that he spent his childhood      </strong></font></u> .(spend).
 
    他就是在这个被洪水毁坏的小屋子里**度过他的童年的**。
 
-   <font color=red><strong>that he spent his childhood (此句为强调句“It was……that……”句型）</strong></font>
+   <font color=red><strong>that he spent his childhood </strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>此句为强调句“It was……that……”句型</strong></font>
 
 6. Often he  <u><font color=red><strong>     would sit      </strong></font></u>  for hours doing nothing at all when he was in low spirits.(sit)
 
    当他情绪低落的时候，他**经常一坐**几个小时，什么事也不干。
 
-   <font color=red><strong>would sit(would 表示过去的习惯。）</strong></font>
+   <font color=red><strong>would sit</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>would 表示过去的习惯。</strong></font>
 
 7. Fortunately I had my calculator;  otherwise it <u><font color=red><strong>   would have taken    </strong></font></u> much longer time for me to get the job done.(take)
 
    幸运的是我随身带着计算器，否则我就**得花**更长的时间来完成这项工作。
 
-   <font color=red><strong>would have taken(otherwise表示与过去事实相反的假设，故句子谓语动词用 would have done 的形式。）</strong></font>
+   <font color=red><strong>would have taken</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>otherwise表示与过去事实相反的假设，故句子谓语动词用 would have done 的形式。</strong></font>
 
 8. A number of books  <u><font color=red><strong>  have been stolen   </strong></font></u>  from the library since the beginning of this term and the number is as large as 500.（steal)
 
    自从本学期开始,图书馆有很多书**被盗**，数目多达500本。
 
-   <font color=red><strong>have been stolen(a number of 修饰的名词作主语时谓语动词用复数形式，此处books 与 steal 之间是被动关系，且由since. ..时间状语可知用现在完成时,故用现在完成时的被动语态。）</strong></font>
+   <font color=red><strong>have been stolen</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>a number of 修饰的名词作主语时谓语动词用复数形式，此处books 与 steal 之间是被动关系，且由since. ..时间状语可知用现在完成时,故用现在完成时的被动语态。</strong></font>
 
 9. Only when they were told the date of the wedding   <u><font color=red><strong>  did they realize  </strong></font></u>   their daughter would get married.(realize)
 
    直到他们被告知了婚礼的日期，**他们才意识**到他们的女儿要结婚了。
 
-   <font color=red><strong>did they realize(由 only 修饰的状语从句位于句首时，主句要用部分倒装,根据向中时态可知用一般过去时。）</strong></font>
+   <font color=red><strong>did they realize</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>由 only 修饰的状语从句位于句首时，主句要用部分倒装,根据向中时态可知用一般过去时。</strong></font>
 
 10.  <u><font color=red><strong>  Having been told/ Although/Though he had been told   </strong></font></u>  many times, he still didn't understand it.(tell)
 
     **尽管被告知了**很多次,他仍然不理解。
     
-    <font color=red><strong>Having been told/ Although/Though he had been told(he与 tell 之间是被动关系，且该被动动作发生在过去动作didn't understand 之前,故用现在分词的完成被动式;</strong></font>
+    <font color=red><strong>Having been told/ Although/Though he had been told</strong></font>
     
-    <font color=red><strong>本句也可以看成是although 或though 引导的让步状语从句，但从句要用过去完成时的被动语态。）</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>he与 tell 之间是被动关系，且该被动动作发生在过去动作didn't understand 之前,故用现在分词的完成被动式;</strong></font>
+    
+    <font color=red><strong>本句也可以看成是although 或though 引导的让步状语从句，但从句要用过去完成时的被动语态。</strong></font>
 
 
 
@@ -874,66 +1331,106 @@
 
    当初次**被介绍到市场上**时，这此产品就获得了顾客广泛的接受。
 
-   <font color=red><strong>introduced into market(products 与 introduce 之间是被动关系，故用动词-ed形式。）</strong></font>
+   <font color=red><strong>introduced into market</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>(products 与 introduce 之间是被动关系，故用动词-ed形式。</strong></font>
 
 2. He made it clear <u><font color=red><strong>            that he could solve              </strong></font></u> the problem by himself.(solve)
 
    他说得很明白，**他**自己**能解决**这个问题
 
-   <font color=red><strong>that he could solve(此句宾语后有补足语，故用it作形式宾语,that从句是真正的宾语，句子为一般过去时，故用could.)</strong></font>
+   <font color=red><strong>that he could solve</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>此句宾语后有补足语，故用it作形式宾语,that从句是真正的宾语，句子为一般过去时，故用could.</strong></font>
 
 3. The manager insisted that <u><font color=red><strong>        we (should) break away from         </strong></font></u> the companies who had done something that hurt our feelings.(break)
 
    经理坚持要求**我们与**那些伤害了我们感情的公司**决裂**。
 
-   <font color=red><strong>we (should) break away from (break away from“与……决裂”，insist 表示“坚持要求”时,其后的宾语从句要用虚拟语气，谓语动词用“should十动词原形”，should 可以省略。）</strong></font>
+   <font color=red><strong>we (should) break away from</strong></font> 
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>break away from“与……决裂”，insist 表示“坚持要求”时,其后的宾语从句要用虚拟语气，谓语动词用“should十动词原形”，should 可以省略。</strong></font>
 
 4. By no means <u><font color=red><strong>   can/will/should you tell lies/a lie </strong></font></u> before your parents.(tell)
 
    **你**绝对不能在你父母面前**撒谎**。
 
-   <font color=red><strong>can/will/should you tell lies/a lie(by no means“决不，一点，都不”，表示否定意义，置于句首时句子用部分倒装。）</strong></font>
+   <font color=red><strong>can/will/should you tell lies/a lie</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>by no means“决不，一点，都不”，表示否定意义，置于句首时句子用部分倒装。</strong></font>
 
 5. When you get the paper back,  pay special attention to what <u><font color=red><strong>      have been marked       </strong></font></u>.(make)
 
    当你拿回试卷时，一定要特别注意那些**标注了的地方**。
 
-   <font color=red><strong>have been marked(根据句意用现在完成时，且表示被动,故用现在完成时的被动语态。）</strong></font>
+   <font color=red><strong>have been marked</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>根据句意用现在完成时，且表示被动,故用现在完成时的被动语态。</strong></font>
 
 6. She is proud of her two sons,  <u><font color=red><strong> the younger of whom  </strong></font></u>is now studying in the us.(young)
 
    她为她的两个儿子感到自豪，**其中年龄小的那个**现在正在美国学习。
 
-   <font color=red><strong>the younger of whom (the younger of“……中较小的”；此句为非限制性定语从句，引导词在句中作介词of的宾语，指人，故whom。）</strong></font>
+   <font color=red><strong>the younger of whom </strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>the younger of“……中较小的”；此句为非限制性定语从句，引导词在句中作介词of的宾语，指人，故whom。</strong></font>
 
 7. It is those who are willing to give rather than receive<u><font color=red><strong>   that deserve  </strong></font></u> to be respected.(deserve)
 
    是那些宁愿付出而不愿获取的人**应该得到**尊重。
 
-   <font color=red><strong>that deserve(此句为 It is... that.…强调句；主语为those，谓语动词用复数形式。</strong></font>
+   <font color=red><strong>that deserve</strong></font>
 
-   "Deserve to do"表示某人有权利或应该做某事或得到某种待遇或奖励，通常表示在某人的行为、品质、能力等方面有所表现，值得得到某种回报或认可。例如：
+   <strong>解析：</strong>
 
-   - You deserve to be praised for your hard work.（你应该因为你的辛勤工作而受到表扬。）
-   - He deserves to win the competition.（他应该赢得这场比赛。）
+   <font color=red><strong>此句为 It is... that.…强调句；主语为those，谓语动词用复数形式。</strong></font>
+
+   **"Deserve to do"表示某人有权利或应该做某事或得到某种待遇或奖励，通常表示在某人的行为、品质、能力等方面有所表现，值得得到某种回报或认可。例如：**
+
+   - **You deserve to be praised for your hard work.（你应该因为你的辛勤工作而受到表扬。）**
+   - **He deserves to win the competition.（他应该赢得这场比赛。）**
 
 8. The lift in that building went wrong and got trapped  <u><font color=red><strong>      between the floors        </strong></font></u>(floor)
 
    那栋高楼里的电梯坏了,**在楼层之间**卡住了。
 
-   <font color=red><strong>between the floors （电梯是在两层楼之间，故用介词between.)</strong></font>
+   <font color=red><strong>between the floors </strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>电梯是在两层楼之间，故用介词between.</strong></font>
 
 9. She <u><font color=red><strong>  had hardly finished/completed </strong></font></u> her homework when her mother asked her to practice playing the piano. (hardly)
 
    昨天她**一完成**作业,她妈妈就叫她练习弹钢琴。
 
-   <font color=red><strong>had hardly finished/completed(hardly……when……”一……就……“，引导时间状语从句，主句一般用过去完成时。）</strong></font>
+   <font color=red><strong>had hardly finished/completed</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>hardly……when……”一……就……“，引导时间状语从句，主句一般用过去完成时。</strong></font>
 
 10. He knows so much about this problem!  He<u><font color=red><strong>      must have referred to      </strong></font></u>a lot of books.(refer)
 
     他对于这个问题知道得这么多！他**一定是翻阅了**大量的书。
     
-    <font color=red><strong>must have referred to(refer to”翻阅”；must have done 表示对过去情況的肯定推测。）</strong></font>
+    <font color=red><strong>must have referred to</strong></font>
+    
+    <strong>解析：</strong>
+    
+    <font color=red><strong>refer to”翻阅”；must have done 表示对过去情況的肯定推测。</strong></font>
 
 
 
@@ -945,7 +1442,11 @@
 
    幸亏一家大公司同意赞助我们,否则我们的工作**就会停止了**。
 
-   <font color=red><strong>would have stopped(without which表示与过去事实相反的假设,句子谓语动词用 would have done的形式。)</strong></font>
+   <font color=red><strong>would have stopped</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>without which表示与过去事实相反的假设,句子谓语动词用 would have done的形式。</strong></font>
 
    **"Agree to"和"Agree on"都是表示"同意"的短语，但它们的用法略有不同：**
 
@@ -960,7 +1461,7 @@
 
    <font color=red><strong>for fear that</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    1. <font color=red><strong>for fear that“以防,以免”,引导目的状语从句。</strong></font>
 
@@ -976,13 +1477,21 @@
 
    **她丈夫站在**花园里的一棵苹果树下，抽着烟微笑着看着收成。
 
-   <font color=red><strong>stood her husband（表示地点的介词短语under one of the apple trees位于句首时句子要用全部倒装。"smoking"和"looking"在这个句子中都是作伴随状语的非谓语动词，表示动作与句子主语"her husband"同时发生。)</strong></font>
+   <font color=red><strong>stood her husband</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示地点的介词短语under one of the apple trees位于句首时句子要用全部倒装。"smoking"和"looking"在这个句子中都是作伴随状语的非谓语动词，表示动作与句子主语"her husband"同时发生。</strong></font>
 
 4. He is such an ill-tempered man that on no condition <u><font color=red><strong>     will I team up with him       </strong></font></u>.(team)
 
    他的脾气太坏了,**我**绝对不**会再和他合作**
 
-   <font color=red><strong>will I team up with him(team up with sb. “与某人合作”; on no condition“绝对不”,置于句首时句子用部分倒装。)</strong></font>
+   <font color=red><strong>will I team up with him</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>team up with sb. “与某人合作”; on no condition“绝对不”,置于句首时句子用部分倒装。</strong></font>
 
 5. Did you have a good sleep last night?
 
@@ -992,13 +1501,21 @@
 
    ----好，**从来没睡得这么好过**。
 
-   <font color=red><strong>never sleep better(否定词与比较级连用表示最高级意义。)</strong></font>
+   <font color=red><strong>never sleep better</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>否定词与比较级连用表示最高级意义。</strong></font>
 
 6. Miss White teaches English in a college but she usually <u><font color=red><strong>       works in her sister's        </strong></font></u>  hotel during summer vacation.(work)
 
    怀特小姐在一所大学里教英语，但是暑假期间她经常**在她姐姐的**饭店里**工作**。
 
-   <font color=red><strong>works in her sister's(“在她姐姐的饭店里工作”是经常发生的事情,故用一般现在时表示经常发生的动作或状态。)</strong></font>
+   <font color=red><strong>works in her sister's</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>“在她姐姐的饭店里工作”是经常发生的事情,故用一般现在时表示经常发生的动作或状态。</strong></font>
 
 7. A survey indicates that，on account of the difficulty they have <u><font color=red><strong>         (in)finding a satisfying job            </strong></font></u>，many collage students are in favor of running online shops.(find)
 
@@ -1006,7 +1523,7 @@
 
    <font color=red><strong>(in)finding a satisfying job</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    1. <font color=red><strong>have difficulty in doing sth.“做某事有困难”, in可省略。</strong></font>
    2. <font color=red><strong>"On account of" 的意思是“由于”，常用于表示某件事或原因是导致另一件事或情况发生的原因。例如：On account of the heavy rain, the football match was cancelled. （由于大雨，足球比赛被取消了。）</strong></font>
@@ -1015,19 +1532,31 @@
 
    钱学森在1935年到1955年去了加利福尼亚，**在那期间他专心于**喷气式飞机的研究。
 
-   <font color=red><strong>during which period he concentrated on(表示“在……期间”用介词during;此句是“介词十which”引导的非限制性定语从句;concentrate on“专注于”。)</strong></font>
+   <font color=red><strong>during which period he concentrated on</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示“在……期间”用介词during;此句是“介词十which”引导的非限制性定语从句;concentrate on“专注于”。</strong></font>
 
 9. Very often , your success depends on <u><font color=red><strong>        how you handle        </strong></font></u> the failure.(handle)
 
    通常你的成功取决于**你怎么处理**失败。
 
-   <font color=red><strong>how you handle(所填部分为宾语从句,引导词在从句中作方式状语,故用how.)</strong></font>
+   <font color=red><strong>how you handle</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>所填部分为宾语从句,引导词在从句中作方式状语,故用how.</strong></font>
 
 10. Mark is always diligent in his studies because he firmly believes that hard work <u><font color=red><strong>          is fundamental to success        </strong></font></u>(fundamental)
 
     马克总是勤奋学习,因为他坚信努力工作**是成功的基础**。
 
-    <font color=red><strong>is fundamental to success(be fundamental to. .."…的基础”。)</strong></font>
+    <font color=red><strong>is fundamental to success</strong></font>
+    
+    <strong>解析：</strong>
+    
+    <font color=red><strong>be fundamental to. .."…的基础”。</strong></font>
     
     **"diligent"是一个形容词，意思是勤奋的、努力的，通常用来形容人在工作、学习、生活等方面非常勤勉和刻苦。**
     
@@ -1052,7 +1581,9 @@
 
    <font color=red><strong>(and was) absorbed in</strong></font>
 
-   <font color=red><strong>解析：可以用 and 连接两个句子, be absorbed in“专心于”;也可以这样理解,he与 absorb之间是被动关系,故用动词-ed形式作状语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>可以用 and 连接两个句子, be absorbed in“专心于”;也可以这样理解,he与 absorb之间是被动关系,故用动词-ed形式作状语。</strong></font>
 
 2. He has been suspected of taking government funds for himself and <u><font color=red><strong>         is being investigated            </strong></font></u> by the police.(investigate)
 
@@ -1060,7 +1591,9 @@
 
    <font color=red><strong>is being investigated</strong></font>
 
-   <font color=red><strong>解析：表示正在做某事用现在进行时,he与investigate之间是被动关系,故用被动语态。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示正在做某事用现在进行时,he与investigate之间是被动关系,故用被动语态。</strong></font>
 
    <font color=red><strong>"Be suspect of" 的意思是“怀疑，对……持怀疑态度”。它可以用来表示对某个人、事物或情况有怀疑或不信任的情况，例如：“He is suspect of cheating on the test.”（他被怀疑在考试中作弊）。</strong></font>
 
@@ -1070,7 +1603,9 @@
 
    <font color=red><strong>that/which is designed to/designed to</strong></font>
 
-   <font color=red><strong>解析：可将此句看成定语从句,先行词是an exercise,引导词在从句中作主语,an exercise 与 design 之间是被动关系,故用 that/which is designed to;也可以将此处看成动词-ed形式作定语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>可将此句看成定语从句,先行词是an exercise,引导词在从句中作主语,an exercise 与 design 之间是被动关系,故用 that/which is designed to;也可以将此处看成动词-ed形式作定语。</strong></font>
 
    **confidence n.信心;信任;信赖;自信心;**
 
@@ -1082,7 +1617,9 @@
 
    <font color=red><strong>has brought up</strong></font>
 
-   <font color=red><strong>解析：bring up“抚养”,根据句意用现在完成时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>bring up“抚养”,根据句意用现在完成时。</strong></font>
 
 5. we have to admit that adopting this technique is painful, but patients <u><font color=red><strong>      will benefit from it              </strong></font></u>.(benefit)
 
@@ -1090,7 +1627,9 @@
 
    <font color=red><strong>can/may/will benefit from it</strong></font>
 
-   <font color=red><strong>解析：benefit from...“从……中获益”,根据句意其前可用情态动词can/may/will表示“会”。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>benefit from...“从……中获益”,根据句意其前可用情态动词can/may/will表示“会”。</strong></font>
 
    **technique n.技巧;技艺;工艺;技术;技能**
 
@@ -1104,7 +1643,9 @@
 
    <font color=red><strong>was the man injured</strong></font>
 
-   <font color=red><strong>解析：在 so.. . that...句式中,如果“so十副词”置于句首,主句需用部分倒装,the man 与 injure之间是被动关系,且该被动动作发生在过去,故用一般过去时的被动语态。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>在 so.. . that...句式中,如果“so十副词”置于句首,主句需用部分倒装,the man 与 injure之间是被动关系,且该被动动作发生在过去,故用一般过去时的被动语态。</strong></font>
 
    <font color=red><strong>"fail to do sth"是一个动词短语，表示未能做某事，即失败了。例如：I failed to pass the driving test.（我没能通过驾驶考试。）</strong></font>
 
@@ -1114,7 +1655,9 @@
 
    <font color=red><strong>can be cold</strong></font>
 
-   <font color=red><strong>解析：can用于肯定句表示理论上的可能性或一时的情况,意为“有时会”。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>can用于肯定句表示理论上的可能性或一时的情况,意为“有时会”。</strong></font>
 
    **在英语句子中，时间状语和地点状语的位置可以灵活变化，但通常情况下时间状语会放在地点状语之前。这是因为时间通常比地点更加重要，所以我们通常会先强调时间，然后再提及地点。但在一些特殊的情况下，比如强调地点的重要性时，地点状语也可以放在前面。总的来说，这取决于句子的语境和说话人的表达意图。**
 
@@ -1124,7 +1667,9 @@
 
    <font color=red><strong>is playing</strong></font>
 
-   <font color=red><strong>解析：主语后带有as well as...短语时,谓语动词仍与主语保持一致,根据句意用现在进行时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>主语后带有as well as...短语时,谓语动词仍与主语保持一致,根据句意用现在进行时。</strong></font>
 
    **英语中表示“也”的词语和短语**
 
@@ -1150,7 +1695,9 @@
 
    <font color=red><strong>tastes better</strong></font>
 
-   <font color=red><strong>解析：把没有在冰箱里放过的和在冰箱里放过的作对比,用比较级,taste是感官动词，没有被动语态,其后接形容词。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>把没有在冰箱里放过的和在冰箱里放过的作对比,用比较级,taste是感官动词，没有被动语态,其后接形容词。</strong></font>
 
 10. I think that it is I rather than my sister <u><font color=red><strong>     that am to blame for       </strong></font></u> what happened.(blame)
 
@@ -1158,7 +1705,9 @@
 
     <font color=red><strong>that am to blame for</strong></font>
     
-    <font color=red><strong>解析：此句为强调句It is... that. .. ; be to blame for...“对……负责任”。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>此句为强调句It is... that. .. ; be to blame for...“对……负责任”。</strong></font>
     
     **"rather than" 在英语中是一个连词，表示选择或比较的关系，通常用于两个并列的动词或形容词之间，表示偏向或更倾向于某一方。**
     
@@ -1193,7 +1742,9 @@
 
    <font color=red><strong>may/might arrive</strong></font>
 
-   <font color=red><strong>解析：表示可能性不大的推测用 may或might.</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示可能性不大的推测用 may或might.</strong></font>
 
 2. If I didn't have much work to do next weekend，I <u><font color=red><strong>      would go       </strong></font></u> with you for a holiday.(go)
 
@@ -1201,7 +1752,9 @@
 
    <font color=red><strong>would go</strong></font>
 
-   <font color=red><strong>解析：条件句表示与将来事实相反的假设,根据句意主句谓语动词用“would十动词原形”。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>条件句表示与将来事实相反的假设,根据句意主句谓语动词用“would十动词原形”。</strong></font>
 
 3. The manager as well as the staff <u><font color=red><strong>        was chatting          </strong></font></u> cheerfully during the tea break when the boss came in.(chat)
 
@@ -1209,7 +1762,9 @@
 
    <font color=red><strong>was chatting </strong></font>
 
-   <font color=red><strong>解析：主语后带有as well as...短语时,句子的谓语动词仍与主语保持一致,根据句意及结构可知此处用过去进行时</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>主语后带有as well as...短语时,句子的谓语动词仍与主语保持一致,根据句意及结构可知此处用过去进行时</strong></font>
 
 4. So sudden <u><font color=red><strong>        was the attack           </strong></font></u> that the enemy had no time to escape.(attack)
 
@@ -1217,7 +1772,9 @@
 
    <font color=red><strong>was the attack</strong></font>
 
-   <font color=red><strong>解析：在 so. . . that...句式中,“so十形容词”位于句首时,句子用部分倒装;由从句可知,主句用一般过去时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>在 so. . . that...句式中,“so十形容词”位于句首时,句子用部分倒装;由从句可知,主句用一般过去时。</strong></font>
 
    1. <font color=red><strong>Escape from：从某处逃离，例如：Escape from prison（从监狱逃离）。</strong></font>
    1. **sudden ：adj.突然的，忽然的;意外的，突然发生的;**
@@ -1229,7 +1786,9 @@
 
    <font color=red><strong>where it was that</strong></font>
 
-   <font color=red><strong>解析：此句为强调句的特殊疑问句结构“疑问词+is/was十it+ that...?”,宾语从句中用陈述语序。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>此句为强调句的特殊疑问句结构“疑问词+is/was十it+ that...?”,宾语从句中用陈述语序。</strong></font>
 
 6. I regret  <u><font color=red><strong>       not spending             </strong></font></u> more time with my grandma before she passed away. (not spend)
 
@@ -1237,7 +1796,9 @@
 
    <font color=red><strong>not spending </strong></font>
 
-   <font color=red><strong>解析：regret not doing sth“后悔没做某事”,动词-ing形式作宾语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>regret not doing sth“后悔没做某事”,动词-ing形式作宾语。</strong></font>
 
    1. **regret to do 表示很遗憾地做某事(事情还没有做)**
 
@@ -1257,7 +1818,9 @@
 
    <font color=red><strong>whatever he says</strong></font>
 
-   <font color=red><strong>解析：whatever“无论什么,任何”,此处引导宾语从句。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>whatever“无论什么,任何”,此处引导宾语从句。</strong></font>
 
    **"so none of" 是一个比较常见的短语，它通常用于表示一件事情与另一件事情没有任何关联或联系。**
 
@@ -1278,7 +1841,9 @@
 
    <font color=red><strong>(that) he met</strong></font>
 
-   <font color=red><strong>解析：定语从句的先行词既有指人的,也有指物的,且在从句中作宾语,故用that,也可以省略。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>定语从句的先行词既有指人的,也有指物的,且在从句中作宾语,故用that,也可以省略。</strong></font>
 
 9. When you reach the other end of the bridge，I <u><font color=red><strong>      will be waiting right there        </strong></font></u> to show you the way.(wait)
 
@@ -1286,7 +1851,9 @@
 
    <font color=red><strong>will be waiting right there</strong></font>
 
-   <font color=red><strong>解析：根据句意,“等着”是从现在看将来某时正在进行的动作,故用将来进行时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>根据句意,“等着”是从现在看将来某时正在进行的动作,故用将来进行时。</strong></font>
 
    "the other" 用于指两个中的另一个
 
@@ -1296,7 +1863,9 @@
 
     <font color=red><strong>the more confused</strong></font>
 
-    <font color=red><strong>解析：此句为“the+比较级...,the+比较级...”结构,表示一方随着另一方的变化而变化。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>此句为“the+比较级...,the+比较级...”结构,表示一方随着另一方的变化而变化。</strong></font>
 
 
 
@@ -1312,7 +1881,9 @@
 
    <font color=red><strong>were praised</strong></font>
 
-   <font color=red><strong>解析：关系代词作主语,先行词是“one of＋复数名词”,谓语动词用复数形式,she与 praise之间是被动关系,故用被动语态。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>关系代词作主语,先行词是“one of＋复数名词”,谓语动词用复数形式,she与 praise之间是被动关系,故用被动语态。</strong></font>
 
 2. The little girl asked her teacher whether oxygen is the only gas <u><font color=red><strong>        that helps fire        </strong></font></u> burn.(help)
 
@@ -1320,7 +1891,9 @@
 
    <font color=red><strong>that helps fire/helping fire</strong></font>
 
-   <font color=red><strong>解析：定语从句的先行词是gas,且由the only修饰,故引导词用 that;gas与 help之间是主动关系,故也可用动词-ing形式作定语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>定语从句的先行词是gas,且由the only修饰,故引导词用 that;gas与 help之间是主动关系,故也可用动词-ing形式作定语。</strong></font>
 
 3. My dad explained to me what a hug was and told me <u><font color=red><strong>          why people hugged         </strong></font></u> in America.(hug)
 
@@ -1328,7 +1901,9 @@
 
    <font color=red><strong>why people/persons hugged</strong></font>
 
-   <font color=red><strong>解析：宾语从句的引导词在从句中作原因状语,故用why;由句中时态可知用一般过去时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>宾语从句的引导词在从句中作原因状语,故用why;由句中时态可知用一般过去时。</strong></font>
 
    **hug ：v.拥抱;搂抱;抱紧; n.拥抱;搂抱**
    **huge ：adj.巨大的;极多的;程度高的**
@@ -1339,7 +1914,9 @@
 
    <font color=red><strong>to let</strong></font>
 
-   <font color=red><strong>解析：convince sb. to do sth.“说服某人做某事”,不定式作宾语补足语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>convince sb. to do sth.“说服某人做某事”,不定式作宾语补足语。</strong></font>
 
 5. If you have a job,<u><font color=red><strong>          do devote         </strong></font></u> yourself to it and finally you will succeed.(devote)
 
@@ -1347,7 +1924,9 @@
 
    <font color=red><strong>do devote</strong></font>
 
-   <font color=red><strong>解析：强调谓语时,应用助动词do的形式。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>强调谓语时,应用助动词do的形式。</strong></font>
 
    1. <font color=red><strong>Devote oneself to doing: 献身于</strong></font>
    2. <font color=red><strong>Devote time to doing: 投入时间于</strong></font>
@@ -1359,7 +1938,9 @@
 
    <font color=red><strong>shall go out of</strong></font>
 
-   <font color=red><strong>解析：shall用在主语是第三人称的陈述句中时可以表示告诫、命令、规定等。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>shall用在主语是第三人称的陈述句中时可以表示告诫、命令、规定等。</strong></font>
 
 7. If we <u><font color=red><strong>        had not arrived         </strong></font></u> earlier, we should have had trouble getting good seats.(not arrive)
 
@@ -1367,7 +1948,9 @@
 
    <font color=red><strong>hadn't arrived</strong></font>
 
-   <font color=red><strong>解析：根据句意,if条件句表示与过去事实相反的假设,用过去完成时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>根据句意,if条件句表示与过去事实相反的假设,用过去完成时。</strong></font>
 
    **"have trouble (in) doing something" 是一个常用的英语短语，表示在做某事时遇到了困难或有问题。也可以用 "have difficulty in doing something" 或 "have a hard time doing something" 来表达类似的意思。**
 
@@ -1377,18 +1960,20 @@
 
    <font color=red><strong>are tired of</strong></font>
 
-   <font color=red><strong>解析：由not only. . . but also...连接的并列成分作主语时,谓语动词与最靠近的名词(短语)一致,故此处用复数形式;be tired of“厌倦……”。</strong></font>
+   <strong>解析：</strong>
 
-   表示“感到厌倦”的英语常用短语有：
+   <font color=red><strong>由not only. . . but also...连接的并列成分作主语时,谓语动词与最靠近的名词(短语)一致,故此处用复数形式;be tired of“厌倦……”。</strong></font>
 
-   1. get tired of
-   2. become weary of
-   3. grow bored with
-   4. lose interest in
-   5. be fed up with
-   6. have had enough of
-   7. get sick of
-   8. tire of
+   **表示“感到厌倦”的英语常用短语有：**
+
+   1. **get tired of**
+   2. **become weary of**
+   3. **grow bored with**
+   4. **lose interest in**
+   5. **be fed up with**
+   6. **have had enough of**
+   7. **get sick of**
+   8. **tire of**
 
 9. The old couple married 50 years age and never once <u><font color=red><strong>         have they quarreled          </strong></font></u> with each other.(quarrel)
 
@@ -1396,7 +1981,9 @@
 
    <font color=red><strong>have they quarreled</strong></font>
 
-   <font color=red><strong>解析：表示否定意义的never置于句首时,句子用部分倒装,且“从来没有吵架”是从过去某时开始一直持续到现在的状态,故用现在完成时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示否定意义的never置于句首时,句子用部分倒装,且“从来没有吵架”是从过去某时开始一直持续到现在的状态,故用现在完成时。</strong></font>
 
    <font color=red><strong>never once：从来没有一次</strong></font>
 
@@ -1412,7 +1999,9 @@
 
     <font color=red><strong>any better</strong></font>
 
-    <font color=red><strong>解析：not a little表示“非常”,说明对汤姆做的事情满意,故用“否定词＋比较级”的形式。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>not a little表示“非常”,说明对汤姆做的事情满意,故用“否定词＋比较级”的形式。</strong></font>
 
 
 
@@ -1426,7 +2015,9 @@
 
    <font color=red><strong>they light easily</strong></font>
 
-   <font color=red><strong>解析：“容易着火”是木材的一种属性,用主动形式表示被动意义。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>“容易着火”是木材的一种属性,用主动形式表示被动意义。</strong></font>
 
    - **“tell sb to sth” 是一个英语短语，通常用来表示告诉某人去做某件事情的意思。其中，“tell”表示告诉，后接某个人作为宾语，“to”表示要做的事情，通常为动词原形。例如，“I told him to clean his room”表示“我告诉他去打扫他的房间”。**
      - **tell sb about sth：告诉某人关于某事的情况**
@@ -1444,7 +2035,9 @@
 
    <font color=red><strong>who was lying on the bed/lying on the bed</strong></font>
 
-   <font color=red><strong>解析：所填部分可以为非限制性定语从句,先行词是her mother,引导词在从句中作主语,且“躺在床上”是过去某时正在发生的事情,故用who was lying on the bed;</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>所填部分可以为非限制性定语从句,先行词是her mother,引导词在从句中作主语,且“躺在床上”是过去某时正在发生的事情,故用who was lying on the bed;</strong></font>
 
    <font color=red><strong>也可是非谓语动词作定语, her mother 与 lie之间是主动关系,故用动词-ing形式作定语。</strong></font>
 
@@ -1454,7 +2047,9 @@
 
    <font color=red><strong>what it takes</strong></font>
 
-   <font color=red><strong>解析：表语从句中的引导词在从句中作宾语,根据句意用what,动词为take时常用it作形式主语；</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>表语从句中的引导词在从句中作宾语,根据句意用what,动词为take时常用it作形式主语；</strong></font>
 
    <font color=red><strong>Being a good listener"是作为主语</strong></font>
 
@@ -1464,7 +2059,9 @@
 
    <font color=red><strong>(in) walking home</strong></font>
 
-   <font color=red><strong>解析：have difficulty in doing sth.“做某事有困难”, in可以省略。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>have difficulty in doing sth.“做某事有困难”, in可以省略。</strong></font>
 
 5. It was only when I reread his poems recently  <u><font color=red><strong>        that I began to          </strong></font></u>  appreciate their beauty.(begin)
 
@@ -1472,7 +2069,9 @@
 
    <font color=red><strong>that I began to</strong></font>
 
-   <font color=red><strong>解析：此句为强调句式It was...that.. .; begin to do sth.“开始做某事”。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>此句为强调句式It was...that.. .; begin to do sth.“开始做某事”。</strong></font>
 
    <font color=red><strong>只有当 only when 引导的是条件状语从句时，主句需要倒装。但是当 only when 引导的是强调句时，主句不需要倒装。在这个句子中，only when 引导的是一个强调句，强调的是“我开始欣赏他的诗歌的时间点”，因此主句不需要倒装。</strong></font>
 
@@ -1482,7 +2081,9 @@
 
    <font color=red><strong>may/might have happened</strong></font>
 
-   <font color=red><strong>解析：may/might have done表示对过去发生的事情把握性不大的推测。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>may/might have done表示对过去发生的事情把握性不大的推测。</strong></font>
 
 7. If it had rained even a drop,  things  <u><font color=red><strong>         would be much better than         </strong></font></u>  now!(than)
 
@@ -1490,7 +2091,9 @@
 
    <font color=red><strong>would be much better than</strong></font>
 
-   <font color=red><strong>解析：if条件句表示与过去事实相反的假设,主句表示与现在事实相反的假设,主句谓语动词用“would+动词原形”的形式,且由句意可知用比较级。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>if条件句表示与过去事实相反的假设,主句表示与现在事实相反的假设,主句谓语动词用“would+动词原形”的形式,且由句意可知用比较级。</strong></font>
 
 8. Up to now,  the majority of the students in our school  <u><font color=red><strong>              have been enrolled             </strong></font></u>  for this optional course.(enroll)
 
@@ -1498,7 +2101,9 @@
 
    <font color=red><strong>have been enrolled</strong></font>
 
-   <font color=red><strong>解析：由 up to now可知用现在完成时,且 the majority of...作主语时,谓语动词与of后的名词一致,故用复数形式。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>由 up to now可知用现在完成时,且 the majority of...作主语时,谓语动词与of后的名词一致,故用复数形式。</strong></font>
 
    <font color=red><strong>这个句子使用了被动语态是因为它的重点在于受到动作影响的对象（即学生），而不是执行动作的主体（即谁注册了这个课程）。被动语态可以更加突出动作的受事对象。</strong></font>
 
@@ -1510,7 +2115,9 @@
 
    <font color=red><strong>stands a big tree</strong></font>
 
-   <font color=red><strong>解析：介词短语in front of...置于句首时,句子用全部倒装。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>介词短语in front of...置于句首时,句子用全部倒装。</strong></font>
 
 10.  <u><font color=red><strong>        Child as Paul is        </strong></font></u> ,  he knows how to tell good from bad.(as)
 
@@ -1520,7 +2127,9 @@
 
     <font color=red><strong>Child as Paul is</strong></font>
     
-    <font color=red><strong>解析：as引导让步状语从句时,需将从句中的表语、状语或谓语中的实义动词放在句首,作表语的单数可数名词前如果有冠词,冠词需要省去。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>as引导让步状语从句时,需将从句中的表语、状语或谓语中的实义动词放在句首,作表语的单数可数名词前如果有冠词,冠词需要省去。</strong></font>
 
 
 
@@ -1534,7 +2143,9 @@
 
    <font color=red><strong>had wanted to go abroad</strong></font>
 
-   <font color=red><strong>解析：want的过去完成时可以表示本打算做却没做的事情。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>want的过去完成时可以表示本打算做却没做的事情。</strong></font>
 
 2. After three months of sailing eastwards they arrived in Australia , a place <u><font color=red><strong>          which westerners had never seen          </strong></font></u>. (see)
 
@@ -1542,7 +2153,9 @@
 
    <font color=red><strong>that/which westerners had never seen</strong></font>
 
-   <font color=red><strong>解析：非限制性定语从句的先行词是表示地点的名词a place,引导词在从句中作宾语,故用that或 which,由题意可知“没见过”发生在过去动作arrived之前,故用过去完成时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>非限制性定语从句的先行词是表示地点的名词a place,引导词在从句中作宾语,故用that或 which,由题意可知“没见过”发生在过去动作arrived之前,故用过去完成时。</strong></font>
 
 3. All of us have already known <u><font color=red><strong>       what she will choose          </strong></font></u> is the opportunity to go abroad. (choose)
 
@@ -1550,7 +2163,9 @@
 
    <font color=red><strong>what she will choose</strong></font>
 
-   <font color=red><strong>解析：know后的宾语从句中的引导词在从句中作宾语,且宾语从句中用陈述语序,表示将来意义用一般将来时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>know后的宾语从句中的引导词在从句中作宾语,且宾语从句中用陈述语序,表示将来意义用一般将来时。</strong></font>
 
 4. <u><font color=red><strong>        To see the sunrise         </strong></font></u> he got up very early and waited on the top of the mountain. (to)
 
@@ -1558,7 +2173,9 @@
 
    <font color=red><strong>To see the sunrise</strong></font>
 
-   <font color=red><strong>解析：“早起床”的目的是“看日出”,故用不定式作目的状语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>“早起床”的目的是“看日出”,故用不定式作目的状语。</strong></font>
 
 5. It was probably at the moment <u><font color=red><strong>         that I understood          </strong></font></u> what really kindness was. (understand)
 
@@ -1566,7 +2183,9 @@
 
    <font color=red><strong>that I understood</strong></font>
 
-   <font color=red><strong>解析：此题是“It was. ..that...”强调句式,此处强调的是时间状语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>此题是“It was. ..that...”强调句式,此处强调的是时间状语。</strong></font>
 
    **possible ：adj.可能的;可能;能做到(或取得);**
 
@@ -1578,7 +2197,9 @@
 
    <font color=red><strong>needn't have brought</strong></font>
 
-   <font color=red><strong>解析：needn't have done“没必要做某事,实际上做了”</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>needn't have done“没必要做某事,实际上做了”</strong></font>
 
    <font color=red><strong>"manage to do sth" 是一个常用的短语，表示成功完成某事或克服困难完成某事，通常含有一定的挑战或困难。</strong></font>
 
@@ -1588,7 +2209,9 @@
 
    <font color=red><strong>would have lost</strong></font>
 
-   <font color=red><strong>解析：but for...表示与过去事实相反的假设,句子谓语动词用would have done的形式。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>but for...表示与过去事实相反的假设,句子谓语动词用would have done的形式。</strong></font>
 
    <font color=red><strong>"but for" 是一个固定的词组，表示 "如果没有......"，常用于表示假设或条件。例如：</strong></font>
 
@@ -1602,7 +2225,9 @@
 
    <font color=red><strong>were eating</strong></font>
 
-   <font color=red><strong>解析：关系代词作主语,先行词是集体名词cattle,谓语动词用复数形式,且根据句意用过去进行时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>关系代词作主语,先行词是集体名词cattle,谓语动词用复数形式,且根据句意用过去进行时。</strong></font>
 
    <font color=red>**一般情况下，如果主语是集体名词，谓语动词的形式可以根据上下文和说话人的意图而变化。在一些情况下，集体名词可以被视为一个单个的实体，此时谓语动词使用单数形式。在其他情况下，集体名词可以被视为由多个成员组成，此时谓语动词使用复数形式。**</font>
 
@@ -1626,7 +2251,9 @@
 
    <font color=red><strong>was he told</strong></font>
 
-   <font color=red><strong>解析：not until...置于句首,主句用部分倒装,he与tell之间是被动关系,且该被动动作发生在过去,故用一般过去时的被动语态。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>not until...置于句首,主句用部分倒装,he与tell之间是被动关系,且该被动动作发生在过去,故用一般过去时的被动语态。</strong></font>
 
    <font color=red>**"not until" 是一个固定搭配，表示某个动作直到某个时间才发生。例如：**</font>
 
@@ -1640,7 +2267,9 @@
 
     <font color=red><strong>what to eat</strong></font>
 
-    <font color=red><strong>解析：此处为“疑问词十不定式”作宾语。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>此处为“疑问词十不定式”作宾语。</strong></font>
     
     <font color=red><strong>"no longer"是一个词组，用来表示某事物不再继续存在或不再发生。它的意思相当于"not anymore"或者"not any longer"。例如： "I no longer work there"（我不再在那里工作了）或者 "She no longer lives in this city"（她不再住在这个城市了）。</strong></font>
 
@@ -1656,7 +2285,9 @@
 
    <font color=red><strong>it won't sell well</strong></font>
 
-   <font color=red><strong>解析：此处sell表示一种属性,用主动形式表示被动意义,if条件句中用现在时表将来,主句用一般将来时(主将从现).</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>此处sell表示一种属性,用主动形式表示被动意义,if条件句中用现在时表将来,主句用一般将来时(主将从现).</strong></font>
 
 2. His new luxury mansion was a world away from the tiny house <u><font color=red><strong>         where he was born          </strong></font></u> (born)
 
@@ -1664,12 +2295,14 @@
 
    <font color=red><strong>where/in which he was born</strong></font>
 
-   <font color=red><strong>解析：该定语从句的先行词是表示地点的house,引导词在从句中作地点状语,故用 where,相当于in which.</strong></font>
+   <strong>解析：</strong>
 
-   "away from" 表示“离开某个地点或物体”，意为“远离”。例如：
+   <font color=red><strong>该定语从句的先行词是表示地点的house,引导词在从句中作地点状语,故用 where,相当于in which.</strong></font>
 
-   1. She walked away from the crowd. (她走远离了人群。)
-   2. He moved his chair away from the table. (他把椅子从桌子上挪开。)
+   **"away from" 表示“离开某个地点或物体”，意为“远离”。例如：**
+
+   1. **She walked away from the crowd. (她走远离了人群。)**
+   2. **He moved his chair away from the table. (他把椅子从桌子上挪开。)**
 
 3. <u><font color=red><strong>         what people don't realize            </strong></font></u> is how difficult life can be after they get addicted to drugs. (not realize)
 
@@ -1677,7 +2310,9 @@
 
    <font color=red><strong>what people don't realize</strong></font>
 
-   <font color=red><strong>解析：主语从句的引导词在从句中作宾语,根据句意用 what。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>主语从句的引导词在从句中作宾语,根据句意用 what。</strong></font>
 
 4. It doesn't matter what style is in fashion this year,  It is up to you to decide  <u><font color=red><strong>     what to wear          </strong></font></u>. (wear)
 
@@ -1685,7 +2320,9 @@
 
    <font color=red><strong>what to wear</strong></font>
 
-   <font color=red><strong>解析：根据句意此处为“疑问词十不定式”作宾语; cloth的复数是clothes。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>根据句意此处为“疑问词十不定式”作宾语; cloth的复数是clothes。</strong></font>
 
    <font color=red><strong>"It doesn't matter"的意思是"没有关系"或者"不要紧"。它用于表示不太重要或者不需要太在意的事情，可以用来安慰或者鼓励别人。例如：It doesn't matter if you don't speak English perfectly, just try your best.（如果你的英语不完美也没关系，尽你所能就好。）</strong></font>
 
@@ -1697,7 +2334,9 @@
 
    <font color=red><strong>must know</strong></font>
 
-   <font color=red><strong>解析：此处must表示“偏要”</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>此处must表示“偏要”</strong></font>
 
    **"Pick up" 是一个多义词，可以有以下不同的意思：**
 
@@ -1715,7 +2354,9 @@
 
    <font color=red><strong>would know</strong></font>
 
-   <font color=red><strong>解析：if条件句表示与过去事实相反的假设,主句表示与现在事实相反的假设,故主句谓语动词用 would do的形式。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>if条件句表示与过去事实相反的假设,主句表示与现在事实相反的假设,故主句谓语动词用 would do的形式。</strong></font>
 
 7. On the national Day, up <u><font color=red><strong>     went the balloons        </strong></font></u> into the air . Then the crowd cheered up.  (go)
 
@@ -1723,7 +2364,9 @@
 
    <font color=red><strong>went the balloons</strong></font>
 
-   <font color=red><strong>解析：副词up位于句首,句子用全部倒装。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>副词up位于句首,句子用全部倒装。</strong></font>
 
 8. Some people think that as more and more people have televisions in their homes,  <u><font color=red><strong>    fewer and fewer       </strong></font></u>  people will buy books and newspapers.  (few)
 
@@ -1731,7 +2374,9 @@
 
    <font color=red><strong>fewer and fewer</strong></font>
 
-   <font color=red><strong>解析："fewer and fewer"和"less and less"都表示逐渐减少的意思，但是它们的使用场合有所不同。"Fewer and fewer"用于可数名词，表示数量的减少，例如"我班上的同学越来越少了"可以翻译为"My class has fewer and fewer students." 而"less and less"则用于不可数名词或抽象概念，表示程度或质量的减少，例如"最近我感到越来越没耐心了"可以翻译为"Recently, I have less and less patience."</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>"fewer and fewer"和"less and less"都表示逐渐减少的意思，但是它们的使用场合有所不同。"Fewer and fewer"用于可数名词，表示数量的减少，例如"我班上的同学越来越少了"可以翻译为"My class has fewer and fewer students." 而"less and less"则用于不可数名词或抽象概念，表示程度或质量的减少，例如"最近我感到越来越没耐心了"可以翻译为"Recently, I have less and less patience."</strong></font>
 
    <font color=red><strong>"more and more" 用于表示数量或程度的逐渐增加，可数名词和不可数名词都适用。例如：</strong></font>
 
@@ -1744,7 +2389,9 @@
 
    <font color=red><strong>which changed</strong></font>
 
-   <font color=red><strong>解析：非限制性定语从句的先行词是days,引导词在从句中作主语,故用 which,且句中时态为一般过去时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>非限制性定语从句的先行词是days,引导词在从句中作主语,故用 which,且句中时态为一般过去时。</strong></font>
 
 10. Next door to ours <u><font color=red><strong>   lives an old man    </strong></font></u>  who is eighty. (live)
 
@@ -1752,7 +2399,9 @@
 
     <font color=red><strong>lives an old man</strong></font>
 
-    <font color=red><strong>解析：表地点、时间、方向的介词放在句首，主语是名词，不是代词时使用完全倒装</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>表地点、时间、方向的介词放在句首，主语是名词，不是代词时使用完全倒装</strong></font>
 
 
 
@@ -1766,7 +2415,9 @@
 
    <font color=red><strong>can we improve</strong></font>
 
-   <font color=red><strong>解析：only修饰状语置于句首时句子用部分倒装。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>only修饰状语置于句首时句子用部分倒装。</strong></font>
 
    **welfare ：n.（政府给予的）福利; adj.接受福利救济的;福利的**
 
@@ -1778,7 +2429,9 @@
 
    <font color=red><strong>your feet pointing at</strong></font>
 
-   <font color=red><strong>解析：本句为“with十宾语十宾语补足语”结构， your feet与 point之间为逻辑上的主谓关系,故用动词-ing形式作宾语补足语; point at“指向,对着”。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>本句为“with十宾语十宾语补足语”结构， your feet与 point之间为逻辑上的主谓关系,故用动词-ing形式作宾语补足语; point at“指向,对着”。</strong></font>
 
 3. <u><font color=red><strong>      That he will come        </strong></font></u> to the conference has excited us. (come)
 
@@ -1786,7 +2439,9 @@
 
    <font color=red><strong>That he will come</strong></font>
 
-   <font color=red><strong>解析：that引导主语从句,在从句中不作任何成分,也无实际意义,只起连接作用,且不能省略。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>that引导主语从句,在从句中不作任何成分,也无实际意义,只起连接作用,且不能省略。</strong></font>
 
    **conference : n.会议;(通常持续几天的大型正式)研讨会;(正式)讨论会;**
 
@@ -1796,7 +2451,9 @@
 
    <font color=red><strong>(which/that is) being built</strong></font>
 
-   <font color=red><strong>解析：which引导定语从句,并在从句中作主语,也可用that;由“正在修建”可知,应用现在进行时; build与 the bridge之间为逻辑上的动宾关系,故用被动语态;本题也可填现在分词的被动式作定语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>which引导定语从句,并在从句中作主语,也可用that;由“正在修建”可知,应用现在进行时; build与 the bridge之间为逻辑上的动宾关系,故用被动语态;本题也可填现在分词的被动式作定语。</strong></font>
 
 5. I thought he was planning just an informal reception,  but it <u><font color=red><strong>       turned out to be        </strong></font></u> a splendid banquet.(turn)
 
@@ -1804,7 +2461,9 @@
 
    <font color=red><strong>turned out to be</strong></font>
 
-   <font color=red><strong>解析：turn out to be“结果是”</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>turn out to be“结果是”</strong></font>
 
    1. **"Turn out to be"是一个短语，表示某事物最终被证明是某种情况、状态或身份，有时也表示某种结果出乎意料。它通常用于描述某种预期或假设的结果，然后在某个时刻被证实是真实的。例如： "I thought the movie was going to be boring, but it turned out to be really good." (我原以为这部电影会很无聊，但最终证明它很好看。)**
    2. **Prove to be: 意为“证明是”，通常用于描述某事或某人最终被证实是某种情况或类型。 例如：The new employee proved to be an excellent addition to the team.（新员工被证明是团队的一位出色成员。）**
@@ -1818,7 +2477,9 @@
 
    <font color=red><strong>(should)be able to tell/distinguish</strong></font>
 
-   <font color=red><strong>解析：It is important that. . .句型中,that 从句应用虚拟语气,即谓语动词用“should+动词原形”,should可省略;be able to“能够”。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>It is important that. . .句型中,that 从句应用虚拟语气,即谓语动词用“should+动词原形”,should可省略;be able to“能够”。</strong></font>
 
    **"It is important that"这个句型后面接的从句需要用虚拟语气。虚拟语气用于表达一种假设、愿望、建议、命令等非事实的语气，通常在主语为"that"的从句中使用。例如：**
 
@@ -1834,7 +2495,9 @@
 
    <font color=red><strong>when he began</strong></font>
 
-   <font color=red><strong>解析：hardly.. .when.. ."-……就……”,引导时间状语从句。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>hardly.. .when.. ."-……就……”,引导时间状语从句。</strong></font>
 
 8. There is an introduction <u><font color=red><strong>        in the front of         </strong></font></u> the book,  which tells you about the book. （front)
 
@@ -1842,7 +2505,9 @@
 
    <font color=red><strong>in the front of</strong></font>
 
-   <font color=red><strong>解析：in the front of“在……前面”,表示在某物内部的前面。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>in the front of“在……前面”,表示在某物内部的前面。</strong></font>
 
 9. When I opened the door，I found my father sitting in his chair，completely  <u><font color=red><strong>      absorbed in       </strong></font></u>  a magazine. (absorb)
 
@@ -1850,7 +2515,9 @@
 
    <font color=red><strong>absorbed in</strong></font>
 
-   <font color=red><strong>解析：be absorbed in“专心于”;此处为形容词化的动词-ed形式作状语,表示状态。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>be absorbed in“专心于”;此处为形容词化的动词-ed形式作状语,表示状态。</strong></font>
 
    <font color=red><strong>这句话是一个复合句，由两个简单句组成。主句是"I found my father sitting in his chair"，从句是"When I opened the door"和"completely absorbed in a magazine"。</strong></font>
 
@@ -1864,7 +2531,9 @@
 
     <font color=red><strong>rained all day</strong></font>
 
-    <font color=red><strong>解析：根据语境可知,该句客观陈述过去发生的事情,故用一般过去时。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>根据语境可知,该句客观陈述过去发生的事情,故用一般过去时。</strong></font>
 
 
 
@@ -1878,7 +2547,7 @@
 
    <font color=red><strong>that matters</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>先行词被序数词修饰，只能用that引导定语从句,并在从句中作主语,不能省略。</strong></font>
 
@@ -1888,13 +2557,29 @@
 
    **failure ：*n.*失败；失败的人（或企业、事物）；未做到；缺乏，不足；故障，衰退；**
 
+   **"Whether...or not" 是一个常用的句型，用于表达两个或多个选择或可能性。它用来引出一个选择或提问是否发生某种情况。以下是该句型的用法：**
+
+   1. **表示选择：**
+      - **I haven't decided whether I will go to the party or not.（我还没决定是否去参加派对。）**
+      - **She asked me whether I preferred coffee or tea.（她问我是喜欢咖啡还是茶。）**
+
+   2. **提问是否发生某种情况：**
+      - **Have you decided whether or not you will take the job?（你是否已经决定是否接受这份工作？）**
+      - **I'm not sure whether or not they will come to the meeting.（我不确定他们是否会来参加会议。）**
+
+   **"Whether...or not" 结构中的 "or not" 部分可以省略，而只使用 "whether" 也可以。这样，句子的意思仍然保持不变：**
+      - **I haven't decided whether I will go to the party.（我还没决定是否去参加派对。）**
+      - **Have you decided whether you will take the job?（你是否已经决定是否接受这份工作？）**
+
+   **"Whether...or not" 结构常用于问句、陈述句和引导从句，帮助表达选择或提问是否发生某种情况。在实际使用时，根据具体的语境和句子要求选择是否使用该结构。**
+
 2. In order to improve the writing skills,  students should  <u><font color=red><strong>         attach importance to            </strong></font></u>  necessary practice.  (attach)
 
    为了提高写作技能, 学生们应该**重视**必要的练习。
 
    <font color=red><strong>attach importance to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>attach importance to“重视”。"attach importance to"是一个常用的短语，表示赋予某事物重要性或重视某事物。通常用于表达对某事的看法或态度，强调其重要性或优先级。</strong></font>
 
@@ -1927,7 +2612,7 @@
 
    <font color=red><strong>has been considering</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示从过去某个时间开始一直持续到现在的动作应用现在完成进行时。</strong></font>
 
@@ -1941,7 +2626,7 @@
 
    <font color=red><strong>sounds different</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>sound此处为系动词,后用形容词 different作表语。</strong></font>
 
@@ -1951,7 +2636,7 @@
 
    <font color=red><strong>rising from behind</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>see后可跟动词ing形式作宾语补足语,表示动作正在进行且主动语态。这句话的句首的非谓语动词是现在分词 "Seeing"，用作状语，表示时间状语，描述主句中的情境。</strong></font>
 
@@ -1961,7 +2646,7 @@
 
    <font color=red><strong>advise you to have/eat; advise (that you (should)have/eat</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>advise后可跟不定式作宾语补足语,也可后跟宾语从句,从句应用虚拟语气,即谓语动词用“should+动词原形”，should可省略</strong></font>
 
@@ -1971,7 +2656,7 @@
 
    <font color=red><strong>that it has a great influence on/that it greatly influences</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>that引导同位语从句,用来解释说明 view的内容, that在从句中不作任何成分,也无实际意义,只起连接作用,不能省略; </strong></font>
 
@@ -1991,7 +2676,7 @@
 
    <font color=red><strong>Seated in the sofa</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>分析句子成分可知,句中用了倒装语序,此处seated为形容词化的动词-ed形式,说明主语的状态。</strong></font>
 
@@ -2005,7 +2690,7 @@
 
    <font color=red><strong>whether/if she can set aside</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>it在句中作形式主语，真正的主语是后面的从句,whether/if引导主语从句,意为“是否”;</strong></font>
 
@@ -2017,7 +2702,7 @@
 
     <font color=red><strong>Under the command of</strong></font>
 
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>under the command of“在…·…的指挥下”。</strong></font>
 
@@ -2033,7 +2718,7 @@
 
    <font color=red><strong>(in) sitting there</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>spend some time in doing sth.“花费多少时间做某事”,其中in可省略。</strong></font>
 
@@ -2043,7 +2728,7 @@
 
    <font color=red><strong>can we hope to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>only强调状语置于句首时句子用部分倒装;hope后跟不定式作宾语。</strong></font>
 
@@ -2057,7 +2742,7 @@
 
    <font color=red><strong>as my teacher suggested/the way my teacher suggested</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>本句是一个方式状语从句,as表示“正如”;也可用the way my teacher suggested。"As"引导方式状语从句，表示某个行为或情况的方式或方式，通常与主句中的动词相呼应。这种从句中的谓语动词常用动词的-ing 形式。</strong></font>
 
@@ -2077,7 +2762,7 @@
 
    <font color=red><strong>must be tired</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示对现在情况的肯定推测用must do。</strong></font>
 
@@ -2089,7 +2774,7 @@
 
    <font color=red><strong>was reading a book</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示过去某个时间正在进行的动作应用过去进行时。</strong></font>
 
@@ -2101,7 +2786,7 @@
 
    <font color=red><strong>that were crossing</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>先行词既有人又有物,故只能用that引导定语从句, that在从句中作主语,不能省略;也可直接用动词-ing形式作后置定语。</strong></font>
 
@@ -2111,7 +2796,7 @@
 
    <font color=red><strong>filled with tears</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>题干中的with暗示用“with十宾语十宾语补足语”这一独立主格结构,且fill与eyes之间为逻辑上的动宾关系,故用动词-ed形式作宾语补足语;</strong></font>
 
@@ -2135,7 +2820,7 @@
 
    <font color=red><strong>would/could/should/might have arrived</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由语境可知,此处是对过去情况的虚拟,此时主句应用could/would/should/might have done的形式。</strong></font>
 
@@ -2159,7 +2844,7 @@
 
    <font color=red><strong>What if</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>What if...?“要是……怎么办?”</strong></font>
 
@@ -2169,7 +2854,7 @@
 
     <font color=red><strong>What is known to us all/What we all know</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>what引导主语从句,并在从句中作主语/宾语。</strong></font>
     
@@ -2199,7 +2884,9 @@
 
    <font color=red><strong>when we can make good use of</strong></font>
 
-   <font color=red><strong>解析：make good use of“好好利用”;定语从句的先行词是表示时间的the time,引导词在从句中作时间状语,故用 when.</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>make good use of“好好利用”;定语从句的先行词是表示时间的the time,引导词在从句中作时间状语,故用 when.</strong></font>
 
 2. It was not until I was in his place  <u><font color=red><strong>      that I understood          </strong></font></u> what it really meant to him.（understand)
 
@@ -2207,7 +2894,9 @@
 
    <font color=red><strong>that I understood</strong></font>
 
-   <font color=red><strong>解析：此处是It was not until... that...强调句,句中时态为一般过去时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>此处是It was not until... that...强调句,句中时态为一般过去时。</strong></font>
 
    **如果"Not until"句型和强调句式结合使用，通常that后面的部分不需要倒装。例如：It was not until yesterday that I realized how much I love him.（强调句中，动词"realized"并没有被倒装）**
 
@@ -2222,7 +2911,9 @@
 
    <font color=red><strong>was being robbed</strong></font>
 
-   <font color=red><strong>解析：while“当……时”,根据题意用过去进行时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>while“当……时”,根据题意用过去进行时。</strong></font>
 
 4. The committee members agreed to the suggestion that the plan <u><font color=red><strong>     (should) be put into practice       </strong></font></u>at once. (practice)
 
@@ -2230,7 +2921,9 @@
 
    <font color=red><strong>(should) be put into practice</strong></font>
 
-   <font color=red><strong>解析：表示“建议”的suggestion后的同位语从句中要用虚拟语气,谓语动词用“should+动词原形”, should可以省略，参考语法3.3.1。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示“建议”的suggestion后的同位语从句中要用虚拟语气,谓语动词用“should+动词原形”, should可以省略，参考语法3.3.1。</strong></font>
 
 5. I'd be only too happy to help you, if I<u><font color=red><strong>          had the money             </strong></font></u>  . (have)
 
@@ -2238,7 +2931,9 @@
 
    <font color=red><strong>had the money</strong></font>
 
-   <font color=red><strong>解析：if条件句表示与现在事实相反的假设,谓语动词用过去式;与将来事实相反才可以用should和were to。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>if条件句表示与现在事实相反的假设,谓语动词用过去式;与将来事实相反才可以用should和were to。</strong></font>
 
 6. Seldom  <u><font color=red><strong>      did it break down             </strong></font></u> when I drove the car to the lonely village to help the left-behind children. (break)
 
@@ -2246,7 +2941,9 @@
 
    <font color=red><strong>did it break down</strong></font>
 
-   <font color=red><strong>解析：break down“出毛病”;表示否定意义的seldom置于句首时句子用部分倒装,句中为一般过去时态。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>break down“出毛病”;表示否定意义的seldom置于句首时句子用部分倒装,句中为一般过去时态。</strong></font>
 
 7. l bet that he will come late again. <u><font color=red><strong>       It's typical of him      </strong></font></u> to do so. (typical)
 
@@ -2254,7 +2951,9 @@
 
    <font color=red><strong>It's typical of him</strong></font>
 
-   <font color=red><strong>解析：it is typical of sb to do sth.“不出所料，特有的”。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>it is typical of sb to do sth.“不出所料，特有的”。</strong></font>
 
 8. To be honest,it is the first time that I <u><font color=red><strong>         have handed in my homework             </strong></font></u> on time. (hand)
 
@@ -2262,7 +2961,9 @@
 
    <font color=red><strong>have handed in my homework</strong></font>
 
-   <font color=red><strong>解析：在“It is the first/second time that...”句型中 that从句用现在完成时; 在句型“It/That/This was the second/third.. . time that...”中that后的从句用过去完成时; hand in“上交”。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>在“It is the first/second time that...”句型中 that从句用现在完成时; 在句型“It/That/This was the second/third.. . time that...”中that后的从句用过去完成时; hand in“上交”。</strong></font>
 
 9. The little girl,  who has been spoiled has got used to <u><font color=red><strong>   being offered        </strong></font></u> everything she wants. (offer)
 
@@ -2270,7 +2971,9 @@
 
    <font color=red><strong>being offered</strong></font>
 
-   <font color=red><strong>解析：get used to doing sth.“习惯做某事”;the little girl 与 offer之间是被动关系,故用动词-ing形式的被动语态。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>get used to doing sth.“习惯做某事”;the little girl 与 offer之间是被动关系,故用动词-ing形式的被动语态。</strong></font>
 
 10. <u><font color=red><strong>     Every time you smile at        </strong></font></u> someone, you give a gift to that person. （every)
 
@@ -2278,7 +2981,9 @@
 
     <font color=red><strong>Every time you smile at</strong></font>
 
-    <font color=red><strong>解析：此处为every time引导的时间状语从句,表示“每次……的时候”</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>此处为every time引导的时间状语从句,表示“每次……的时候”</strong></font>
 
 
 
@@ -2292,7 +2997,9 @@
 
    <font color=red><strong>has no difficulty (in)</strong></font>
 
-   <font color=red><strong>解析："many a+可数名词单数”作主语时,谓语动词用单数形式;</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>"many a+可数名词单数”作主语时,谓语动词用单数形式;</strong></font>
 
    <font color=red><strong>have no difficulty in doing sth.“做某事没有困难”,其中in可省略。</strong></font>
 
@@ -2302,7 +3009,9 @@
 
    <font color=red><strong>it will take us</strong></font>
 
-   <font color=red><strong>解析：it在 that从句中作形式主语,真正的主语是后面的不定式短语。It takes/took sb some time to do sth.意为“某人做某事花了多长时间”,由句意可知用一般将来时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>it在 that从句中作形式主语,真正的主语是后面的不定式短语。It takes/took sb some time to do sth.意为“某人做某事花了多长时间”,由句意可知用一般将来时。</strong></font>
 
 3. All the evidence pointed to the fact  <u><font color=red><strong>      that he was involved in        </strong></font></u> the crime. (involve)
 
@@ -2310,7 +3019,9 @@
 
    <font color=red><strong>that he was involved in</strong></font>
 
-   <font color=red><strong>解析：that 引导同位语从句,用来解释说明fact的内容,that在从句中不作任何成分,也无实际意义,只起连接作用,不能省略; be involved in“与……有关联”.</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>that 引导同位语从句,用来解释说明fact的内容,that在从句中不作任何成分,也无实际意义,只起连接作用,不能省略; be involved in“与……有关联”.</strong></font>
 
 4. <u><font color=red><strong>        That he couldn't come back          </strong></font></u> on New Year's Eve disappointed all his family members. (come)
 
@@ -2318,7 +3029,9 @@
 
    <font color=red><strong>That he couldn't come back</strong></font>
 
-   <font color=red><strong>解析：that引导主语从句,在从句中不作任何成分,也无实际意义,只起连接作用,且不能省略；disappoint v  使失望;使破灭;使落空</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>that引导主语从句,在从句中不作任何成分,也无实际意义,只起连接作用,且不能省略；disappoint v  使失望;使破灭;使落空</strong></font>
 
 5. I <u><font color=red><strong>        could have bought          </strong></font></u> the new type of DVD that day,  but I didn't have enough money with me. (buy)
 
@@ -2326,7 +3039,9 @@
 
    <font color=red><strong>could have bought</strong></font>
 
-   <font color=red><strong>解析：由语境可知,此处是对过去情况的虚拟,应用could have done的形式;</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>由语境可知,此处是对过去情况的虚拟,应用could have done的形式;</strong></font>
 
 6. His words remind me  <u><font color=red><strong>        of what we did          </strong></font></u>  together during the past holidays. (what)
 
@@ -2334,7 +3049,9 @@
 
    <font color=red><strong>of what we did</strong></font>
 
-   <font color=red><strong>解析：remind sb of sth.“提醒某人某事,使某人想起某事”;what引导宾语从句,作介词of的宾语,并在从句中作宾语；remain v.
+   <strong>解析：</strong>
+
+   <font color=red><strong>remind sb of sth.“提醒某人某事,使某人想起某事”;what引导宾语从句,作介词of的宾语,并在从句中作宾语；remain v.
    留下，逗留，停留;保持不变; n.
    （历史）遗迹，残迹;</strong></font>
 
@@ -2344,7 +3061,9 @@
 
    <font color=red><strong>arguing with him</strong></font>
 
-   <font color=red><strong>解析：It's no use doing sth.“做某事是没用/徒劳的”;argue with sb.“和某人争论”。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>It's no use doing sth.“做某事是没用/徒劳的”;argue with sb.“和某人争论”。</strong></font>
 
 8. I saw Mary twice last month,but I <u><font color=red><strong>         haven't seen          </strong></font></u> her husband recently. (see)
 
@@ -2352,7 +3071,9 @@
 
    <font color=red><strong>haven't seen</strong></font>
 
-   <font color=red><strong>解析：结合时间状语recently可知,此处表示过去已经开始,持续到现在,并且有可能继续下去的动作,应用现在完成时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>结合时间状语recently可知,此处表示过去已经开始,持续到现在,并且有可能继续下去的动作,应用现在完成时。</strong></font>
 
 9. When I returned home from school yesterday, mother  <u><font color=red><strong>    happened to be cooking       </strong></font></u>  in the kitchen. (happen)
 
@@ -2360,7 +3081,9 @@
 
    <font color=red><strong>happened to be cooking</strong></font>
 
-   <font color=red><strong>解析：happen后跟不定式作宾语;结合语境可知,此处表示正在进行的动作,故用happen to be doing的形式。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>happen后跟不定式作宾语;结合语境可知,此处表示正在进行的动作,故用happen to be doing的形式。</strong></font>
 
    **happen to do sth. 表示“碰巧做某事”，强调行动的偶然性和意外性。**
 
@@ -2372,7 +3095,9 @@
 
     <font color=red><strong>(that/which) she had</strong></font>
 
-    <font color=red><strong>解析：that/which引导定语从句,并在从句中作宾语,可省略。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>that/which引导定语从句,并在从句中作宾语,可省略。</strong></font>
 
 
 
@@ -2386,7 +3111,9 @@
 
    <font color=red><strong>couldn't/wouldn't have lived</strong></font>
 
-   <font color=red><strong>解析：由语境可知,此处是对过去情况的虚拟,应用could/would have done的形式,此处应用否定形式。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>由语境可知,此处是对过去情况的虚拟,应用could/would have done的形式,此处应用否定形式。</strong></font>
 
 2. Helen <u><font color=red><strong>     struggled to her feet      </strong></font></u> after the struggle with two robbers. (struggle)
 
@@ -2394,7 +3121,9 @@
 
    <font color=red><strong>struggled to her feet</strong></font>
 
-   <font color=red><strong>解析：struggle to one's feet“挣扎着站起来”,由句意可知用一般过去时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>struggle to one's feet“挣扎着站起来”,由句意可知用一般过去时。</strong></font>
 
 3. Martin, who was sitting on my left,  said that this meal was the best <u><font color=red><strong>           (that) he had ever had             </strong></font></u> . (have)
 
@@ -2402,7 +3131,9 @@
 
    <font color=red><strong>(that) he had ever had</strong></font>
 
-   <font color=red><strong>解析：先行词为最高级时,只能用 that引导定语从句,此处that在从句中作宾语,可省略;表示在过去某一时刻或动作之前已完成的动作应用过去完成时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>先行词为最高级时,只能用 that引导定语从句,此处that在从句中作宾语,可省略;表示在过去某一时刻或动作之前已完成的动作应用过去完成时。</strong></font>
 
 4. The development of modern science will soon  <u><font color=red><strong>         make it possible         </strong></font></u> for some patients to recover from these illnesses. (make)
 
@@ -2410,7 +3141,9 @@
 
    <font color=red><strong>make it possible</strong></font>
 
-   <font color=red><strong>解析：分析句子结构可知,该句真正的宾语是后面的不定式短语,故用it作形式宾语.</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>分析句子结构可知,该句真正的宾语是后面的不定式短语,故用it作形式宾语.</strong></font>
 
 5. Other nutrients, such as fiber and minerals, help to keep  <u><font color=red><strong>     the body functioning          </strong></font></u> well. (function)
 
@@ -2418,7 +3151,9 @@
 
    <font color=red><strong>the body functioning </strong></font>
 
-   <font color=red><strong>解析：keep后跟动词-ing 形式作宾语补足语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>keep后跟动词-ing 形式作宾语补足语。</strong></font>
 
    **通常我们使用keep sth + 形容词/副词的形式来表达“持续保持某种状态”的意思**
 
@@ -2443,7 +3178,9 @@
 
    <font color=red><strong>is well/ highly thought of</strong></font>
 
-   <font color=red><strong>解析：think well/highly of“高度评价”;该动词短语与主语our English teacher之间为逻辑上的动宾关系,故用被动语态。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>think well/highly of“高度评价”;该动词短语与主语our English teacher之间为逻辑上的动宾关系,故用被动语态。</strong></font>
 
 7. <u><font color=red><strong>         What fun it is               </strong></font></u>to go hiking with your good friends during the holiday!（fun)
 
@@ -2451,7 +3188,9 @@
 
    <font color=red><strong>What fun it is</strong></font>
 
-   <font color=red><strong>解析：该句用了“What+a(n)十形容词十名词十主语十谓语!”这一感叹句句型结构,且 fun为不可数名词,不用冠词修饰;it在句中作形式主语,真正的主语是后面的不定式短语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>该句用了“What+a(n)十形容词十名词十主语十谓语!”这一感叹句句型结构,且 fun为不可数名词,不用冠词修饰;it在句中作形式主语,真正的主语是后面的不定式短语。</strong></font>
 
 8. “<u><font color=red><strong>           What about going              </strong></font></u> to Mount McKinley tomorrow?” he suggested.(what)
 
@@ -2459,7 +3198,9 @@
 
    <font color=red><strong>What about going</strong></font>
 
-   <font color=red><strong>解析：What about doing...?“··…怎么样?”,表示提建议。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>What about doing...?“··…怎么样?”,表示提建议。</strong></font>
 
 9. The workers in that factory complained that the money was not equally divided—some got too much while  <u><font color=red><strong>   others got too little  </strong></font></u> . (get)
 
@@ -2467,7 +3208,9 @@
 
    <font color=red><strong>others got too little</strong></font>
 
-   <font color=red><strong>解析：泛指“其他人”应用代词 others;由 got too much可知,此处应用表示相反意义的got too little.</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>泛指“其他人”应用代词 others;由 got too much可知,此处应用表示相反意义的got too little.</strong></font>
 
 10. ----Can I have a talk with you at about 5 o'clock this afternoon,Mr White?
 
@@ -2479,7 +3222,9 @@
 
     <font color=red><strong>will have come back</strong></font>
 
-    <font color=red><strong>解析：表示在将来某个时间将会完成的动作应用将来完成时。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>表示在将来某个时间将会完成的动作应用将来完成时。</strong></font>
 
 
 
@@ -2493,7 +3238,9 @@
 
    <font color=red><strong>how hard it is</strong></font>
 
-   <font color=red><strong>解析：how引导宾语从并在从中修饰和限定hard的程度;it在从句中作形式主语,真正的主语是后面的不定式短语；“make ends meet”是一个常用的习语，意思是勉强维持生计或收支平衡，特别是在经济上。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>how引导宾语从并在从中修饰和限定hard的程度;it在从句中作形式主语,真正的主语是后面的不定式短语；“make ends meet”是一个常用的习语，意思是勉强维持生计或收支平衡，特别是在经济上。</strong></font>
 
 2. It is <u><font color=red><strong>     losing his MP4 that      </strong></font></u>  makes him look so upset all these days. (lose)
 
@@ -2501,7 +3248,9 @@
 
    <font color=red><strong>losing his MP 4 that</strong></font>
 
-   <font color=red><strong>解析：该中用了强调式“It+be十被强调部分十that...”,被强调部分为“丢失了他的 MP 4”这件事其中that不能省略;分析句子结构可知，去掉强调句式后，“丢失了他的MP 4”作主语,故应用动词- ing形式。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>该中用了强调式“It+be十被强调部分十that...”,被强调部分为“丢失了他的 MP 4”这件事其中that不能省略;分析句子结构可知，去掉强调句式后，“丢失了他的MP 4”作主语,故应用动词- ing形式。</strong></font>
 
 3. He has made up his mind that he will make<u><font color=red><strong>    as big a kite     </strong></font></u>as his sister had made. (big)
 
@@ -2509,7 +3258,9 @@
 
    <font color=red><strong>as big a kite/a kite as big</strong></font>
 
-   <font color=red><strong>解析：此处为原级比较,结构为“...as十形容词原级+as...”,所修饰的名词位置可在该短语之前或之后。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>此处为原级比较,结构为“...as十形容词原级+as...”,所修饰的名词位置可在该短语之前或之后。</strong></font>
 
 4. The days <u><font color=red><strong>     that I spent       </strong></font></u>  in the countryside when I was young were the happiest time that I have ever had in my life. (spend)
 
@@ -2517,7 +3268,9 @@
 
    <font color=red><strong>(that/which) I spent</strong></font>
 
-   <font color=red><strong>解析：that/which引导定语从并在从句中作宾语,可省略。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>that/which引导定语从并在从句中作宾语,可省略。</strong></font>
 
 5. Our country  <u><font color=red><strong>    has experienced great changes    </strong></font></u> in the past thirty years,  which is the result of reform and opening-up.(experience)
 
@@ -2525,7 +3278,9 @@
 
    <font color=red><strong>has experienced great changes</strong></font>
 
-   <font color=red><strong>解析：由时间状语in the past thirty years可知，句子的时态应用现在完成时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>由时间状语in the past thirty years可知，句子的时态应用现在完成时。</strong></font>
 
 6. Are you going to attend the meeting <u><font color=red><strong>     to be held      </strong></font></u> in Room 2 tomorrow? (hold)
 
@@ -2533,7 +3288,9 @@
 
    <font color=red><strong>to be held;that/which will be held</strong></font>
 
-   <font color=red><strong>解析：不定式作后置定语,表示将来要发生的动作;</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>不定式作后置定语,表示将来要发生的动作;</strong></font>
 
    <font color=red><strong>也可用 that/which引导的定语从句，hold与 the meeting 之间为逻辑上的动宾关系,故用被动语态。</strong></font>
 
@@ -2543,7 +3300,9 @@
 
    <font color=red><strong>something stolen</strong></font>
 
-   <font color=red><strong>解析：find 后可跟动词-ed 形式作宾语补足语表示 something是steal这一动作的承受者。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>find 后可跟动词-ed 形式作宾语补足语表示 something是steal这一动作的承受者。</strong></font>
 
 8. The young man made so much noise that he <u><font color=red><strong>     shouldn't have been allowed       </strong></font></u> to attend the concert. (allow)
 
@@ -2551,7 +3310,9 @@
 
    <font color=red><strong>shouldn't have been allowed</strong></font>
 
-   <font color=red><strong>解析：表示过去本不应该做却做了应用shouldn't have done；allow与the young man 之间为逻辑上的动宾关系,故用被动语态。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示过去本不应该做却做了应用shouldn't have done；allow与the young man 之间为逻辑上的动宾关系,故用被动语态。</strong></font>
 
 9. Linda was so angry with the letters that she <u><font color=red><strong>     tore them into pieces        </strong></font></u> and threw them into the dustbin.(tear)
 
@@ -2559,7 +3320,9 @@
 
    <font color=red><strong>tore them into pieces</strong></font>
 
-   <font color=red><strong>析：tear sth into pieces“把某物撕成碎片”。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>tear sth into pieces“把某物撕成碎片”。</strong></font>
 
 10. <u><font color=red><strong>     Take enough water      </strong></font></u>with you, otherwise you will soon suffer from thirst because it is too hot and dry these days. (take)
 
@@ -2567,7 +3330,9 @@
 
     <font color=red><strong>Take enough water</strong></font>
 
-    <font color=red><strong>解析：分析句子结构可知，前一分为祈使句,故用动词原形。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>分析句子结构可知，前一分为祈使句,故用动词原形。</strong></font>
 
 
 
@@ -2581,7 +3346,9 @@
 
    <font color=red><strong>Attracted by the beauty of nature</strong></font>
 
-   <font color=red><strong>解析：逻辑主语 the girl 与attract 之间是被动关系，故用动词-ed 形式作状语，即"Attracted by the beauty of nature"在这个句子中作原因状语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>逻辑主语 the girl 与attract 之间是被动关系，故用动词-ed 形式作状语，即"Attracted by the beauty of nature"在这个句子中作原因状语。</strong></font>
 
    <font color=red><strong>如果使用了 "having been attracted"句子也是正确的，是过去完成进行时的被动形式，强调动作的发生在 "the girl" 决定留下之前。</strong></font>
 
@@ -2591,7 +3358,9 @@
 
    <font color=red><strong>(which are) equipped with cameras</strong></font>
 
-   <font color=red><strong>解析：robots 与 equip 之间是被动关系,故用动词-ed 形式作宾语补足语;也可将该句看成定语从句,先行词是 robots,引导词在从句中作主语，故用 which,be equipped with“装有·.....”</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>robots 与 equip 之间是被动关系,故用动词-ed 形式作宾语补足语;也可将该句看成定语从句,先行词是 robots,引导词在从句中作主语，故用 which,be equipped with“装有·.....”</strong></font>
 
 3. Apples are usually <u><font color=red><strong>     sold by weight      </strong></font></u> , which is widely accepted. (sell).
 
@@ -2599,7 +3368,9 @@
 
    <font color=red><strong>sold by weight</strong></font>
 
-   <font color=red><strong>解析：by“按照,根据”若其后为抽象名词,该名词前不需加冠词。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>by“按照,根据”若其后为抽象名词,该名词前不需加冠词。</strong></font>
 
 4. <u><font color=red><strong>      Being misunderstood      </strong></font></u> by others when you do nothing wrong at all is quite a bad experience.(misunderstand)
 
@@ -2607,7 +3378,9 @@
 
    <font color=red><strong>Being misunderstood</strong></font>
 
-   <font color=red><strong>解析：该何缺少主语，you与misunderstand之间是被动关系，故用动词-ing 形式的被动语态。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>该何缺少主语，you与misunderstand之间是被动关系，故用动词-ing 形式的被动语态。</strong></font>
 
    <font color=red><strong>"being done" 常用来表示一个动作正在进行且是被动的状态;"having been done"强调的是已经完成的事情对当前情况的影响</strong></font>
 
@@ -2617,7 +3390,9 @@
 
    <font color=red><strong>have/get the dictionary delivered</strong></font>
 
-   <font color=red><strong>解析：have/get sth. done“使某物被做”。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>have/get sth. done“使某物被做”。</strong></font>
 
 6. So <u><font color=red><strong>     hard did I feel       </strong></font></u> it to live in an English-speaking country that I made up my mind to learn English well. (fell)
 
@@ -2625,7 +3400,9 @@
 
    <font color=red><strong>difficult/hard did I feel</strong></font>
 
-   <font color=red><strong>解析：so十形容词”置于句首时句子用部分倒装,句中时态为一般过去时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>so十形容词”置于句首时句子用部分倒装,句中时态为一般过去时。</strong></font>
 
 7. She looks very happy.  She <u><font color=red><strong>     must have passed       </strong></font></u> the exam.
 
@@ -2635,7 +3412,9 @@
 
    <font color=red><strong>must have passed</strong></font>
 
-   <font color=red><strong>解析：表示对过去情况的肯定推测应用must have done的形式。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示对过去情况的肯定推测应用must have done的形式。</strong></font>
 
 8. Rather than go out for a walk, he <u><font color=red><strong>      prefers to stay       </strong></font></u> at home. (prefer)
 
@@ -2643,7 +3422,9 @@
 
    <font color=red><strong>prefers to stay</strong></font>
 
-   <font color=red><strong>解析：prefer to do...rather than do...“宁愿做......而不愿做......”.</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>prefer to do...rather than do...“宁愿做......而不愿做......”.</strong></font>
 
 9. I wonder <u><font color=red><strong>     why he didn't do        </strong></font></u>  as he was told to. We all know that practice makes perfect. (do)
 
@@ -2651,7 +3432,9 @@
 
    <font color=red><strong>why he didn't do</strong></font>
 
-   <font color=red><strong>解析：why引导宾语从句，并在从句中作原因状语。wonder if 是对一般疑问句提问，例如I wonder if I could get a refund.</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>why引导宾语从句，并在从句中作原因状语。wonder if 是对一般疑问句提问，例如I wonder if I could get a refund.</strong></font>
 
 10. Professor Lee usually had them <u><font color=red><strong>        hand in     </strong></font></u> their compositions before the class was over.(hand)
 
@@ -2659,7 +3442,9 @@
 
     <font color=red><strong>hand in</strong></font>
 
-    <font color=red><strong>解析：have后跟不带 to的不定式作宾语补足语;hand in“上交”;"have sb do sth"是一个常见的词组，表示让别人做某事。例如：I had my assistant send the email for me. （我让我的助手帮我发了那封邮件。）</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>have后跟不带 to的不定式作宾语补足语;hand in“上交”;"have sb do sth"是一个常见的词组，表示让别人做某事。例如：I had my assistant send the email for me. （我让我的助手帮我发了那封邮件。）</strong></font>
 
 
 
@@ -2673,7 +3458,9 @@
 
    <font color=red><strong>is longing to</strong></font>
 
-   <font color=red><strong>解析：“many a+名词”作主语时谓语动词用单数形式,根据句意用现在进行时；long for（渴望、向往）、long to（渴望做某事）。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>“many a+名词”作主语时谓语动词用单数形式,根据句意用现在进行时；long for（渴望、向往）、long to（渴望做某事）。</strong></font>
 
 2. hardly <u><font color=red><strong>     did he feel      </strong></font></u> amazed when he received the admission notice from Beijing University because he thought it was the result of his efforts. (feel)
 
@@ -2681,7 +3468,9 @@
 
    <font color=red><strong>did he feel</strong></font>
 
-   <font color=red><strong>解析：表示否定意义的hardly置于句首时句子用部分倒装,句中为一般过去时.</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示否定意义的hardly置于句首时句子用部分倒装,句中为一般过去时.</strong></font>
 
 3. But for the fact that I <u><font color=red><strong>     fastened the safety belt      </strong></font></u> in that accident, I wouldn't be alive today. (fasten)
 
@@ -2689,7 +3478,9 @@
 
    <font color=red><strong>fastened the safety belt</strong></font>
 
-   <font color=red><strong>解析：fasten the safety belt“系安全带”,句中为一般过去时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>fasten the safety belt“系安全带”,句中为一般过去时。</strong></font>
 
 4. The sports meet, originally <u><font color=red><strong>    due to be held      </strong></font></u> last Friday, was finally delayed because of the bad weather. (due)
 
@@ -2697,7 +3488,9 @@
 
    <font color=red><strong>due to be held </strong></font>
 
-   <font color=red><strong>解析：due to do sth.“预定做某事”; the sports meet与 hold之间是被动关系,故用被动语态。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>due to do sth.“预定做某事”; the sports meet与 hold之间是被动关系,故用被动语态。</strong></font>
 
 5. At the foot of the mountain <u><font color=red><strong>     lay a village        </strong></font></u> , where people lived a peaceful life. （lie)
 
@@ -2705,7 +3498,9 @@
 
    <font color=red><strong>lay a village</strong></font>
 
-   <font color=red><strong>解析：介词短语at the foot of置于句首,句子用全部倒装,句中时态为一般过去时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>介词短语at the foot of置于句首,句子用全部倒装,句中时态为一般过去时。</strong></font>
 
 6. Because the wireless network is widely applied, the users surfing the Internet by cellphones is about <u><font color=red><strong>      two times as many as     </strong></font></u> those by computers. (as)
 
@@ -2713,7 +3508,9 @@
 
    <font color=red><strong>twice/two times as many as</strong></font>
 
-   <font color=red><strong>解析：“倍数十as...as”是倍数的一种表达方式。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>“倍数十as...as”是倍数的一种表达方式。</strong></font>
 
 7. I am afraid that I didn't see the speed limit just now, officer. I <u><font color=red><strong>     must have been dreaming      </strong></font></u> .(dream)
 
@@ -2721,7 +3518,9 @@
 
    <font color=red><strong>must have been dreaming</strong></font>
 
-   <font color=red><strong>解析：根据句意,表示对过去正在发生的事情的肯定推测用must have been doing。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>根据句意,表示对过去正在发生的事情的肯定推测用must have been doing。</strong></font>
 
 8. We think that special attention should be paid to <u><font color=red><strong>    practicing speaking       </strong></font></u> English in and after class. (practice)
 
@@ -2729,7 +3528,9 @@
 
    <font color=red><strong>practicing speaking</strong></font>
 
-   <font color=red><strong>解析：pay attention to 中的to为介词,后跟动词-ing形式作宾语;practice后跟动词-ing形式作宾语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>pay attention to 中的to为介词,后跟动词-ing形式作宾语;practice后跟动词-ing形式作宾语。</strong></font>
 
 9. Children under sixteen are not permitted to see such films  <u><font color=red><strong>     as are bad for     </strong></font></u> their mental development. (bad)
 
@@ -2737,7 +3538,9 @@
 
    <font color=red><strong>as are bad for</strong></font>
 
-   <font color=red><strong>解析：“such...as”是用来引导定语从句的短语，用于进一步说明前面提到的人或物的特征或属性。“such”是一个代词，意思是“这样的”或“那样的”，通常用来指代前面提到的事物或情况。紧随其后的“as”引出了一个比较具体的例子，用于进一步说明前面所指代的事物或情况。“such films as are bad for their mental development”是定语从句，修饰“such films”，其中“such”引导主句中的“such films”，“as”引导定语从句，意为“像……这样的电影”，“are bad for their mental development”是定语从句的谓语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>“such...as”是用来引导定语从句的短语，用于进一步说明前面提到的人或物的特征或属性。“such”是一个代词，意思是“这样的”或“那样的”，通常用来指代前面提到的事物或情况。紧随其后的“as”引出了一个比较具体的例子，用于进一步说明前面所指代的事物或情况。“such films as are bad for their mental development”是定语从句，修饰“such films”，其中“such”引导主句中的“such films”，“as”引导定语从句，意为“像……这样的电影”，“are bad for their mental development”是定语从句的谓语。</strong></font>
 
    <font color=red><strong>be bad for"对……有害,对……·不利”。</strong></font>
 
@@ -2747,7 +3550,9 @@
 
     <font color=red><strong>the minute he returned</strong></font>
 
-    <font color=red><strong>解析：名词短语the minute可用来引导时间状语从句。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>名词短语the minute可用来引导时间状语从句。</strong></font>
 
 
 
@@ -2761,7 +3566,9 @@
 
    <font color=red><strong>is running out</strong></font>
 
-   <font color=red><strong>解析：现在进行时可以表示将要发生的动作或状态,run out“用完,用尽”,用主动形式表示被动意义。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>现在进行时可以表示将要发生的动作或状态,run out“用完,用尽”,用主动形式表示被动意义。</strong></font>
 
 2. I think it is her personality rather than her looks <u><font color=red><strong>      that has struck         </strong></font></u> me.  Asking her to marry me is my dream. (strike)
 
@@ -2769,7 +3576,9 @@
 
    <font color=red><strong>that has struck </strong></font>
 
-   <font color=red><strong>解析：strike sb.“打动某人”;此句是“It is...that...”强调句式,根据句意用现在完成时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>strike sb.“打动某人”;此句是“It is...that...”强调句式,根据句意用现在完成时。</strong></font>
 
 3. All the lights will be on <u><font color=red><strong>       the moment you press      </strong></font></u> the switch. (moment)
 
@@ -2777,7 +3586,9 @@
 
    <font color=red><strong>the moment you press</strong></font>
 
-   <font color=red><strong>解析：the moment“-·…·就……”,引导时间状语从句。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>the moment“-·…·就……”,引导时间状语从句。</strong></font>
 
 4. The refrigerator that I <u><font color=red><strong>     had had repaired            </strong></font></u> broke down again. What bad luck! (repair)
 
@@ -2785,7 +3596,9 @@
 
    <font color=red><strong>had had repaired</strong></font>
 
-   <font color=red><strong>解析：have sth. done“使某物被做”,动词-ed形式作宾语补足语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>have sth. done“使某物被做”,动词-ed形式作宾语补足语。</strong></font>
 
 5. My friend is crazy about the pop singer Yao Beina, He once told us,“In my mind, never <u><font color=red><strong>    have I heard     </strong></font></u> a more beautiful voice than hers. ”(hear)
 
@@ -2793,7 +3606,9 @@
 
    <font color=red><strong>have I heard</strong></font>
 
-   <font color=red><strong>解析：never置于句首用部分倒装。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>never置于句首用部分倒装。</strong></font>
 
 6. Not <u><font color=red><strong>        informed of        </strong></font></u> the meeting notice, she was absent from the meeting. (inform)
 
@@ -2801,7 +3616,9 @@
 
    <font color=red><strong>informed of</strong></font>
 
-   <font color=red><strong>解析：inform of“通知”,she与 inform 之间是被动关系,故用动词-ed形式作状语。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>inform of“通知”,she与 inform 之间是被动关系,故用动词-ed形式作状语。</strong></font>
 
 7. Had it not been for my respectable teacher Susan, I <u><font color=red><strong>     wouldn't be sitting       </strong></font></u> in the bright and spacious office now.(sit)
 
@@ -2809,7 +3626,9 @@
 
    <font color=red><strong>wouldn't be sitting</strong></font>
 
-   <font color=red><strong>解析：条件句表示与过去事实相反的假设，主句表示与现在事实相反的假设,故主句谓语动词用“would+动词原形”的形式,根据句意用现在进行时。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>条件句表示与过去事实相反的假设，主句表示与现在事实相反的假设,故主句谓语动词用“would+动词原形”的形式,根据句意用现在进行时。</strong></font>
 
 8. Jack is often educated by his parents to be friendly to others even if <u><font color=red><strong>      (he is) unfairly treated       </strong></font></u>.(treat)
 
@@ -2817,7 +3636,9 @@
 
    <font color=red><strong>(he is) unfairly treated</strong></font>
 
-   <font color=red><strong>解析：even if引导的是让步状语从句, he与treat之间是被动关系,故用被动语态;主从句主语一致,且含有be动词,故可以省略“主语+be”的形式。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>even if引导的是让步状语从句, he与treat之间是被动关系,故用被动语态;主从句主语一致,且含有be动词,故可以省略“主语+be”的形式。</strong></font>
 
 9. It <u><font color=red><strong>    never occurred to         </strong></font></u> him that he would be reduced to such a sorry state.（occur)
 
@@ -2825,7 +3646,9 @@
 
    <font color=red><strong>never occurred to</strong></font>
 
-   <font color=red><strong>解析：it occurs to sb.“某人想到”。</strong></font>
+   <strong>解析：</strong>
+
+   <font color=red><strong>it occurs to sb.“某人想到”。</strong></font>
 
 10. Since the foreigner came,  we have been giving her Chinese lessons  <u><font color=red><strong>       in exchange for       </strong></font></u> her teaching us English.(exchange)
 
@@ -2833,7 +3656,9 @@
 
     <font color=red><strong>in exchange for</strong></font>
 
-    <font color=red><strong>解析：in exchange for“作为交换,以换取”。</strong></font>
+    <strong>解析：</strong>
+    
+    <font color=red><strong>in exchange for“作为交换,以换取”。</strong></font>
 
 
 
@@ -2849,7 +3674,7 @@
 
    <font color=red><strong>has been used</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>由every修饰的名词作主语时,谓语动词用单数形式, means与 use之间是被动关系,故用被动语态,根据句意用现在完成时。</strong></font>
 
@@ -2891,7 +3716,7 @@
 
    <font color=red><strong>had he ended/put an end to</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>no sooner. . . than...“一...….就……",no sooner后的句子中用过去完成时。</strong></font>
 
@@ -2904,7 +3729,7 @@
 
    <font color=red><strong>where/in which eyesight matters</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>定语从句的先行词是activity,引导词在从句中作地点状语,故用 where,相当于in which.</strong></font>
 
@@ -2938,7 +3763,7 @@
 
    <font color=red><strong>That he was not invited/His not being invited</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>主语从句中that不作任何成分,也没有任何意义, he与 invite 之间是被动关系,故用被动语态,根据句意用一般过去时;也可看成是动名词的独立主格结构。</strong></font>
 
@@ -2950,7 +3775,7 @@
 
    <font color=red><strong>to have been killed</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>be reported to do“据报道做某事”, kill表示的动作发生在 was reported表示的动作之前,故用不定式的完成式,且he与kill之间是被动关系,故用被动语态。</strong></font>
 
@@ -2960,7 +3785,7 @@
 
    <font color=red><strong>where you can see</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意知缺少地点状语,故用 where引导地点状语从句。</strong></font>
 
@@ -2970,7 +3795,7 @@
 
    <font color=red><strong>would have lost heart</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>but for表示的条件是与过去事实相反的假设,主句谓语动词用would have done的形式。</strong></font>
 
@@ -2996,7 +3821,7 @@
 
    <font color=red><strong>that really counts</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此句为强调句式“It is...that...”。</strong></font>
 
@@ -3024,7 +3849,7 @@
 
    <font color=red><strong>needn't have cleaned</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示过去本没有必要做却做了，应用needn't have done的形式。</strong></font>
 
@@ -3034,7 +3859,7 @@
 
     <font color=red><strong>has an appetite for </strong></font>
 
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
     
     <font color=red><strong>have an appetite for“对·……有欲望”。</strong></font>
     
@@ -3061,7 +3886,7 @@
 
    <font color=red><strong>Being opposed</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>句子缺少主语,且逻辑主语与oppose之间是被动关系,故用动词-ing形式的被动语态。</strong></font>
 
@@ -3071,7 +3896,7 @@
 
    <font color=red><strong>have been affecting</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>such as后面的成分是主语 many new technologies的同位语,谓语动词的形式由主语而定,由时间状语in the past five years及句意可知,用现在完成进行时。</strong></font>
 
@@ -3081,7 +3906,7 @@
 
    <font color=red><strong>twice as many friends</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示“……是…的两倍”用“twice as. .. as...”。</strong></font>
 
@@ -3091,7 +3916,7 @@
 
    <font color=red><strong>could visit</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>该句为错综时间条件句,条件句表示与过去事实相反的假设,主句表示与现在事实相反,故主句谓语动词用“could十动词原形”。</strong></font>
 
@@ -3101,7 +3926,7 @@
 
    <font color=red><strong>Shortly after you left</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>after引导时间状语从句。</strong></font>
 
@@ -3111,7 +3936,7 @@
 
    <font color=red><strong>where/in which I grew up</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>where引导定语从句,并在从句中作地点状语,先行词是 village,此处 where相当于in which;grow up“长大”,是发生在过去的动作,故用一般过去时。</strong></font>
 
@@ -3121,7 +3946,7 @@
 
    <font color=red><strong>(should) get everything ready</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>It is/was important that...中that从句应用虚拟语气,谓语动词用“should＋动词原形”,should可省略;get后可跟形容词作宾语补足语。</strong></font>
 
@@ -3131,7 +3956,7 @@
 
    <font color=red><strong>of great value</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>"of+名词”相当于该名词相对应的形容词，of great value“很有价值的”,相当于 valuable.</strong></font>
 
@@ -3141,7 +3966,7 @@
 
    <font color=red><strong>will/shall be sleeping</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示将来某个时间正在进行的动作应用将来进行时。</strong></font>
 
@@ -3151,7 +3976,7 @@
 
     <font color=red><strong>why they choose</strong></font>
 
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
 
     <font color=red><strong>why引导同位语从句,用来解释说明question的内容,并在从句中作原因状语。</strong></font>
 
@@ -3167,7 +3992,7 @@
 
    <font color=red><strong>which first/originally appeared in</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>该句为非限制性定语从句,先行词是“Let's be friends,tuhao!”,引导词在从句中作主语，用 which,根据语境可知发生在过去,故用一般过去时。</strong></font>
 
@@ -3177,7 +4002,7 @@
 
    <font color=red><strong>Champion as he/Sun Yang is</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>as引导让步状语从句时,从句中的表语需提到句首,且表语若是单数名词还要去掉冠词。</strong></font>
 
@@ -3203,7 +4028,7 @@
 
    <font color=red><strong>Put what you want/Put everything (that）you want</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>put后可以跟宾语从句也可以跟定语从句,跟宾语从句时引导词用what，跟定语从句时引导词用that，that可以省略。</strong></font>
 
@@ -3225,7 +4050,7 @@
 
    <font color=red><strong>can/will we reduce</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>only修饰的状语置于句首时,主句部分用部分倒装。</strong></font>
 
@@ -3262,7 +4087,7 @@
 
    <font color=red><strong>It has been reported</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>it is reported“据报道”,根据句意用现在完成时。</strong></font>
 
@@ -3308,7 +4133,7 @@
 
    <font color=red><strong>was busy (in) preparing for</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>be busy in doing sth.“忙着做某事”, in可以省略。</strong></font>
 
@@ -3318,7 +4143,7 @@
 
    <font color=red><strong>being exposed to</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>句子缺少主语,用动词-ing形式,且主语“人们”与expose之间是被动关系,故用动词-ing形式的被动式。</strong></font>
 
@@ -3328,7 +4153,7 @@
 
    <font color=red><strong>why it is that</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此句为强调句的特殊疑问句式“疑问词十is it+that...”,根据句意疑问词用 why,且宾语从句中用陈述语序。</strong></font>
 
@@ -3340,7 +4165,7 @@
 
    <font color=red><strong>one of the largest countries</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>"最大的"暗示应用形容词最高级形式，表示“……之一”的 one of后应跟可数名词复数形式。</strong></font>
 
@@ -3350,7 +4175,7 @@
 
     <font color=red><strong>(should) finish it</strong></font>
 
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
 
     <font color=red><strong>非谓语作状语的句型，一般都是有一个逗号把一句话分成两个半句话，其中半句有正常的主语、谓语和宾语，这个正常的主谓宾可以写在前半句也可以写在后半句。</strong></font>
     <font color=red><strong>然后另外的半句是非谓语开头，并且这个非谓语动词表示的动作就是另半句完整的主谓宾句子中的主语“主动做的”或者“被做”或者“将要去做”。</strong></font>
@@ -3383,7 +4208,7 @@
 
    <font color=red><strong>is found smoking</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>find后可跟动词-ing形式作宾语补足语，表示 he是正在进行的smoke这一动作的发出者;find与 he之间为逻辑上的动宾关系,故用被动语态。(主将从现)</strong></font>
 
@@ -3395,7 +4220,7 @@
 
    <font color=red><strong>With the help of</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>with the help of“在…·…的帮助下”。"Under" 通常表示在某个权威或控制之下，或者是在某个物体或表面之下。因此，"在......的帮助下" 通常不用 "under"。使用 "with the help of" 或 "with the assistance of" 是更常见和自然的表达方式。</strong></font>
 
@@ -3405,7 +4230,7 @@
 
    <font color=red><strong>that computers can tell</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>that引导表语从句,在从句中不作任何成分,也无实际意义,只起连接作用,不能省略。</strong></font>
 
@@ -3418,7 +4243,7 @@
 
    <font color=red><strong>given to</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>前后两分句的主语不一致,且没有连接词连接,故用独立主格结构,同时give与 the best part 之间为逻辑上的动宾关系,故用动词-ed形式;give sth. to sb.“给某人某物”。</strong></font>
 
@@ -3432,7 +4257,7 @@
 
    <font color=red><strong>has been ringing</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>由时间状语ever since可知,应用现在完成时,且这一动作目前还在进行,故用现在完成进行时。</strong></font>
 
@@ -3444,7 +4269,7 @@
 
    <font color=red><strong>should have come</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示过去本应该做却未做,应用 should have done.</strong></font>
 
@@ -3454,7 +4279,7 @@
 
    <font color=red><strong>what we have</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>what引导宾语从句,并在从句中作宾语。</strong></font>
 
@@ -3474,7 +4299,7 @@
 
    <font color=red><strong>to get/be ready to help</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>不定式作表语,表示主语的职责等;get/be ready to do sth.“准备好做某事”</strong></font>
 
@@ -3484,7 +4309,7 @@
 
    <font color=red><strong>which/that can speak</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>which/that引导定语从句,并在从句中作主语,不能省略。</strong></font>
 
@@ -3494,7 +4319,7 @@
 
     <font color=red><strong>adds up to</strong></font>
 
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
 
     <font color=red><strong>"the number of＋可数名词复数”作主语时,谓语动词用单数形式; add up to“总计,总共”。</strong></font>
 
@@ -3510,7 +4335,7 @@
 
    <font color=red><strong>what she can to</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>doing后是宾语从句, to bid for...表示目的。</strong></font>
 
@@ -3520,7 +4345,7 @@
 
    <font color=red><strong>Dating from/back to</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>date from/back to“追溯到”; the Great Wall 与date之间是主动关系,故用动词-ing形式作状语；句首的非谓语动词是"dating"，它是作时间状语，表示时间的起点，修饰"the Great Wall"。</strong></font>
 
@@ -3532,7 +4357,7 @@
 
    <font color=red><strong>alongside whom were</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此句为“介词十关系代词”引导的非限制性定语从句,其先行词是Lady Gaga,故用alongside whom.</strong></font>
 
@@ -3544,7 +4369,7 @@
 
    <font color=red><strong>Being fed up with</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>be fed up with“厌倦”,students 与 fed之间是主动关系,故用动词-ing形式。“Being fed up with sitting in the classroom all day”是原因状语，解释了为什么这些学生辍学，因此是原因状语；"dropping out"在这个句子中是动词现在分词作结果状语。它说明了“这些学生退学的原因”是因为他们对整天坐在教室里感到厌烦。</strong></font>
 
@@ -3558,7 +4383,7 @@
 
    <font color=red><strong>would have paid off</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>but for表示的是与过去事实相反的假设,故句子的谓语动词用 would have done的形式。</strong></font>
 
@@ -3573,7 +4398,7 @@
 
    <font color=red><strong>to have applied for</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>be said to do sth.“据说做某事”, apply表示的动作发生在过去动作be said之前,故用不定式的完成式;apply for“申请……”。</strong></font>
 
@@ -3583,7 +4408,7 @@
 
    <font color=red><strong>has been betraying</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>主语后带有including短语时,谓语动词仍与主语保持一致,此处用单数形式,根据句意“泄露国家机密”是一直在进行的事情,故用现在完成进行时。</strong></font>
 
@@ -3597,7 +4422,7 @@
 
    <font color=red><strong>why it was</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此句为强调句的特殊疑问句式,且宾语从句中用陈述语序。</strong></font>
 
@@ -3609,7 +4434,7 @@
 
    <font color=red><strong>being no modern equipment</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此句为独立主格结构,逻辑主语与be之间是主动关系,故用动词-ing形式；在这个句子中，“There being no modern equipment then”是一个独立主格结构。其中，“there”是形式主语，实际上并不承担语义角色。而“being no modern equipment then”则是现在分词短语，作为主语补语，修饰形式主语“there”。整个结构与主句“they had to build their defense works by hand”并列，并且可以独立成为一个完整的句子，意为“当时没有现代设备”。</strong></font>
 
@@ -3619,7 +4444,7 @@
     
     <font color=red><strong>It will be eight months</strong></font>
     
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
     
     <font color=red><strong>句式“It will be+一段时间＋before...”表示“多长时间之后”。</strong></font>
     
@@ -3637,7 +4462,7 @@
 
    <font color=red><strong>that he will return </strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>that引导的同位语从句解释说明promise的内容。</strong></font>
 
@@ -3653,7 +4478,7 @@
 
    <font color=red><strong>that the president will visit</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>it为形式主语,真正的主语是后面的that从句.</strong></font>
 
@@ -3665,7 +4490,7 @@
 
    <font color=red><strong>(that） my watch had been stolen/my watch stolen</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>found后可以看成是宾语从句,引导词that可以省略;也可以看成是find sth. done“发现某物被做”。</strong></font>
 
@@ -3675,7 +4500,7 @@
 
    <font color=red><strong>needn't have dressed up</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>needn't have done“本没有必要做某事,实际上做了”, dress up“着装”</strong></font>
 
@@ -3687,7 +4512,7 @@
 
    <font color=red><strong>were hurt</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>主语后带有as well as短语时,谓语动词仍由主语决定,故此处谓语动词用复数形式, ten students 与hurt之间是被动关系,故用被动语态。</strong></font>
 
@@ -3697,7 +4522,7 @@
 
    <font color=red><strong>to find what we like</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>定式作表语表示主语的性质或职责等,what引导宾语从句,并在从句中作宾语；最后的“to do”是作目的状语，表明“找到我们喜欢做的事情”是为了实现“想要有所改变”的目的。</strong></font>
 
@@ -3711,7 +4536,7 @@
 
    <font color=red><strong>would/could have avoided</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>but后是与过去事实相反的假设,故句子谓语动词用 would/could have done的形式。</strong></font>
 
@@ -3721,7 +4546,7 @@
 
    <font color=red><strong>have been held</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>and 连接并列成分作主语,不表示同一概念,故谓语动词用复数形式,主语与hold之间是被动关系,故用被动语态,且根据时间状语since ancient times可知用现在完成时.</strong></font>
 
@@ -3731,7 +4556,7 @@
 
    <font color=red><strong>three times the width of</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>“倍数十width+ of...”表示“宽是……的多少倍”。"built"在这个句子中作为过去分词，用作形容词，修饰先行词"one"，表示“建造好的”。</strong></font>
 
@@ -3741,7 +4566,7 @@
 
     <font color=red><strong>is familiar to</strong></font>
     
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
     
     <font color=red><strong>be familiar to“为……所熟悉”。</strong></font>
     
@@ -3757,7 +4582,7 @@
 
    <font color=red><strong>the more upset</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>“the＋比较级,the十比较级”表示“越·…就越……”。</strong></font>
 
@@ -3767,7 +4592,7 @@
 
    <font color=red><strong>that we had met</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>在句型“It was the first/second.. . time that...”句型中,用过去完成时态。</strong></font>
 
@@ -3777,7 +4602,7 @@
 
    <font color=red><strong>(which/that is) designed for</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>定语从句的先行词是 the book,引导词在从句中作主语,故用 which 或that,be designed for“为……设计”; the book 与design之间是被动关系,也可用动词-ed形式作定语。</strong></font>
 
@@ -3787,7 +4612,7 @@
 
    <font color=red><strong>that has made him</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此句为强调句It is...that.. . ;make sb sth“使某人成为……”。</strong></font>
 
@@ -3799,7 +4624,7 @@
 
    <font color=red><strong>twice/two times the population of</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>“倍数十the population of...”表示“人口是……的多少倍”。</strong></font>
 
@@ -3809,7 +4634,7 @@
 
    <font color=red><strong>should have arrived</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>should have done“本应该做某事,实际上没做”。</strong></font>
 
@@ -3819,7 +4644,7 @@
 
    <font color=red><strong>should be paid to protecting</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>pay attention to doing sth.“关注做某事”,此处为被动形式。</strong></font>
 
@@ -3835,7 +4660,7 @@
 
    <font color=red><strong>did they solve</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>only修饰的状语置于句首时,主句用部分倒装,句中为一般过去时。</strong></font>
 
@@ -3853,7 +4678,7 @@
 
    <font color=red><strong>that he will recover from</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>doubt用在否定句中其后的引导词用that引导;recover from“从……中恢复过来”。</strong></font>
 
@@ -3866,7 +4691,7 @@
 
     <font color=red><strong>determined to</strong></font>
 
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
 
     <font color=red><strong>determine to do sth.“决定做某事”。</strong></font>
 
@@ -3884,7 +4709,7 @@
 
    <font color=red><strong>was swept (up)</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>sweep/sweep up“横扫”；主语后带有together短语时，谓语动词与主语保持一致，此处用单数形式,China与sweep/sweep up之间是被动关系，且发生在过去，故用一般过去时的被动语态。</strong></font>
 
@@ -3894,7 +4719,7 @@
 
    <font color=red><strong>caught him by the arm</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>catch sb by the arm“抓住某人的胳膊”。</strong></font>
 
@@ -3904,7 +4729,7 @@
 
    <font color=red><strong>who it was</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此句为强调句的特殊疑问句结构“疑问词十is it+that. ..”,宾语从句中要用陈述语序,且句中时态为一般过去时。</strong></font>
 
@@ -3916,7 +4741,7 @@
 
    <font color=red><strong>many colleges/universities to choose  </strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>many colleges/universities 与choose 之间是被动关系,且表示将来意义，故用不定式的主动形式表示被动意义。</strong></font>
 
@@ -3928,7 +4753,7 @@
 
    <font color=red><strong>informed of</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>(we were) informed or/about主从句主语一致，we与inform之间是被动关系，故用被动语态；当主从句主语一致且含有be动词时，可以省略“主语十be”的形式。</strong></font>
 
@@ -3956,7 +4781,7 @@
 
    <font color=red><strong>have been pulled down</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>a large number of 修饰的名词作主语时谓语动词用复数形式，由时间状语up to the present可知用现在完成时。</strong></font>
 
@@ -3974,7 +4799,7 @@
 
    <font color=red><strong>interest in</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>interest"兴趣”,与介词in搭配。</strong></font>
 
@@ -3984,7 +4809,7 @@
 
    <font color=red><strong>is likely to</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>be likely to“可能”。</strong></font>
 
@@ -3994,7 +4819,7 @@
 
    <font color=red><strong>Believe it or not</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>believe it or not“信不信由你”。</strong></font>
 
@@ -4004,7 +4829,7 @@
     
     <font color=red><strong>was he addicted in</strong></font>
     
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
     
     <font color=red><strong>so修饰的形容词置于可首时,句子用部分倒装；be addicted to“沉迷于”,句中时态为一般过去时。</strong></font>
 
@@ -4020,7 +4845,7 @@
 
    <font color=red><strong>has been provided with</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>provide sb with sth.“提供给某人某物”,此处是其被动语态，且由时间状语since the beginning of this term可知用现在完成时。</strong></font>
 
@@ -4030,7 +4855,7 @@
 
    <font color=red><strong>must have happened</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>根据句意,对过去情况的肯定推测用must have done的形式。</strong></font>
 
@@ -4040,7 +4865,7 @@
 
    <font color=red><strong>traveling together with him</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>look forward to中的 to是介词,其后接动词-ing形式或名词。</strong></font>
 
@@ -4050,7 +4875,7 @@
 
    <font color=red><strong>of whom belong to</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>该句为“the majority of+关系代词”引导的定语从句,引导词在从句中作介词 of的宾语,指代youths,故用whom.</strong></font>
 
@@ -4060,7 +4885,7 @@
 
    <font color=red><strong>at an astonishing speed</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示“以……的速度”,用介词at;astonishing“惊人的”。</strong></font>
 
@@ -4070,7 +4895,7 @@
 
    <font color=red><strong>as if/though nothing had happened</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此处为方式状语从句,as if/though“好像”。</strong></font>
 
@@ -4080,7 +4905,7 @@
 
    <font color=red><strong>What impresses me most</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>所填部分为主语从句,引导词在从句中作主语,根据句意用 what。</strong></font>
 
@@ -4102,7 +4927,7 @@
 
    <font color=red><strong>twice/double the size of</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>twice/double the size of“是……大小的两倍”。</strong></font>
 
@@ -4112,7 +4937,7 @@
 
    <font color=red><strong>more likely to succeed</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>be likely to do sth.“有可能做某事”,句意表示“更有可能”,用比较级more.</strong></font>
 
@@ -4130,7 +4955,7 @@
 
     <font color=red><strong>was he able to</strong></font>
 
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
 
     <font color=red><strong>only修饰的状语置于句首时，主句用部分倒装, be able to do sth.“能够做某事”。</strong></font>
 
@@ -4146,7 +4971,7 @@
 
    <font color=red><strong>when they settled down </strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>settle down“安静”; be about to do. .. when...“正要做某事时突然……”。</strong></font>
 
@@ -4156,7 +4981,7 @@
 
    <font color=red><strong>to completing</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>devote.. . to...“倾注……到……”, to是介词,其后接名词或动词-ing形式。</strong></font>
 
@@ -4169,7 +4994,7 @@
 
    <font color=red><strong>four times more likely</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示“……是……的几倍”用“倍数＋...+than...”,表示“可能”,用likely .</strong></font>
 
@@ -4179,7 +5004,7 @@
 
    <font color=red><strong>lost in</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示“沉浸在……中”用“be lost in...”。</strong></font>
 
@@ -4209,7 +5034,7 @@
 
    <font color=red><strong>Being occupied/To be occupied/ That one is occupied </strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>be occupied with“被……占用”,此处既可用动词-ing形式作主语也可用不定式作主语,还可用主语从句的形式。</strong></font>
 
@@ -4221,7 +5046,7 @@
 
    <font color=red><strong>was the problem/issue/ question put forward</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>not until置于句首时句子用部分倒装; put forward“提出”,此处是其被动语态;problem/issue/question“问题”</strong></font>
 
@@ -4231,7 +5056,7 @@
 
    <font color=red><strong>(which/that)I am fond of</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>which/that引导定语从句,并在从句中作宾语,可省略,先行词是sport; be fond of“喜欢,喜爱”。</strong></font>
 
@@ -4241,7 +5066,7 @@
 
    <font color=red><strong>where heavy rainfall</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>该句为地点状语从句,引导词在从句中作地点状语,故用where.</strong></font>
 
@@ -4251,7 +5076,7 @@
 
    <font color=red><strong>that brought him up</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此句为强调句的特殊疑问句式“疑问词+was it + that. ..”,宾语从句中用陈述语序;bring up“抚养”</strong></font>
 
@@ -4261,7 +5086,7 @@
 
     <font color=red><strong>moved to</strong></font>
 
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
 
     <font color=red><strong>would rather后的宾语从句中要用虚拟语气,谓语动词用一般过去时表示与将来事实相反。</strong></font>
 
@@ -4277,7 +5102,7 @@
 
    <font color=red><strong>in return</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>in return“作为报答”。</strong></font>
 
@@ -4287,7 +5112,7 @@
 
    <font color=red><strong>twice/double as much as</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>倍数修饰原级比较结构时,其结构为“倍数十as＋形容词/副词的原级十as"。</strong></font>
 
@@ -4297,7 +5122,7 @@
 
    <font color=red><strong>set aside</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>set aside“把……放到一边”。</strong></font>
 
@@ -4307,7 +5132,7 @@
 
    <font color=red><strong>the match finishes</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>根据句意“比赛结束”是将来要发生的事情,until引导的时间状语从句中常用一般现在时表示将来意义。</strong></font>
 
@@ -4317,7 +5142,7 @@
 
    <font color=red><strong>where/to which many people/persons go</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>定语从句的先行词是表示地点的parks,引导词在从句中作地点状语,故用where,根据go to...的搭配还可用to which代替。</strong></font>
 
@@ -4327,7 +5152,7 @@
 
    <font color=red><strong>what most smokers admit/admitted by most smokers</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>is后可以看成是 what引导的表语从句,也可以看成是被动结构。</strong></font>
 
@@ -4337,7 +5162,7 @@
 
    <font color=red><strong>was easy to understand</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>句中时态为一般过去时;be easy to do sth.“做某事容易”。</strong></font>
 
@@ -4347,7 +5172,7 @@
 
    <font color=red><strong>had said sorry</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>if引导的条件句表示与过去事实相反的假设,故谓语动词用过去完成时;say sorry to sb.“向某人道歉”。</strong></font>
 
@@ -4357,7 +5182,7 @@
 
    <font color=red><strong>have we seen</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>否定词never 置于句首时,句子用部分倒装,且根据句意用现在完成时。</strong></font>
 
@@ -4367,7 +5192,7 @@
 
     <font color=red><strong>What is reported</strong></font>
 
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
 
     <font color=red><strong>主语从句中的引导词在从句中作主语,表示具体意义,用 what.</strong></font>
 
@@ -4383,7 +5208,7 @@
 
    <font color=red><strong>hard I tried</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>however引导让步状语从句时,其后跟形容词或副词,此处表示“努力”用 hard。</strong></font>
 
@@ -4414,7 +5239,7 @@
 
    <font color=red><strong>to have been injured</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>be reported to do sth.“据报道…”，此处不定式表示的动作发生在be reported之后,且由时间状语可知用现在完成时。</strong></font>
    
@@ -4425,7 +5250,7 @@
 
    <font color=red><strong>can't/couldn't have referred to</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示对过去情况的否定推测用can't/couldn't have done的形式，没有must not have done的形式。</strong></font>
    
@@ -4439,7 +5264,7 @@
 
    <font color=red><strong>did people focus on</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>not until置于句首时句子用部分倒装，句中时态为一般过去时; focus on“关注”。</strong></font>
    
@@ -4461,7 +5286,7 @@
 
      <font color=red><strong>It remains to be seen</strong></font>
 
-     <font color=red><strong>解析：</strong></font>
+     <strong>解析：</strong>
 
      <font color=red><strong>remains to be done“有待被做”,此句中主语后置,用it作形式主语。</strong></font>
 
@@ -4485,7 +5310,7 @@
 
    <font color=red><strong>wouldn't have been delayed</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>条件句表示与过去事实相反,主句谓语动词用 would have done的形式。</strong></font>
 
@@ -4497,7 +5322,7 @@
 
    <font color=red><strong>that he decided</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此句为强调句式It was...that...句式,句中时态为一般过去时。</strong></font>
 
@@ -4509,7 +5334,7 @@
 
    <font color=red><strong>the rest of which was saved/and the rest of it was saved</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此句可看成是“the rest of+关系代词”引导的非限制性定语从句,先行词表示物,引导词用which;还可看成是and连接的两个句子,第二个句子中用被动语态。</strong></font>
 
@@ -4519,7 +5344,7 @@
 
    <font color=red><strong>will have taken over</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>take over“接管”,时间状语by the time her father retires表示将来意义,故此处用将来完成时。</strong></font>
 
@@ -4529,7 +5354,7 @@
 
      <font color=red><strong>Having been warned of/Warned of/After they were/have been warned of</strong></font>
 
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
     
     <font color=red><strong>逻辑主语they与 warn之间是被动关系,故用动词-ed形式作状语,根据句意可用现在完成时也可用一般过去时;还可以将此处看成是 after连接的句子,句中可用一般过去时也可用现在完成时。</strong></font>
     
@@ -4570,7 +5395,7 @@
 
    <font color=red><strong>did they regard/had they regarded examinations/exams</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>at no time置于句首时句子用部分倒装,句中可用一般过去时也可用过去完成时;exam,examination要用复数形式。</strong></font>
 
@@ -4586,7 +5411,7 @@
 
    <font color=red><strong>being modest/being a modest person</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>根据提示及 far from的用法,此处用动词-ing形式作介词的宾语。</strong></font>
 
@@ -4604,7 +5429,7 @@
 
    <font color=red><strong>wouldn't/couldn't be so foolish</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>句中时态为一般过去时,表示“不会,不可能”用 wouldn't 或couldn't; be foolish to do sth.“做某事愚蠢”。</strong></font>
 
@@ -4619,7 +5444,7 @@
 
    <font color=red><strong>is responsible for</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>be responsible for“为……负责”;主语后带有as well as短语时,谓语动词由主语决定,故此处用is.</strong></font>
 
@@ -4629,7 +5454,7 @@
 
    <font color=red><strong>In a word</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>in a word“总而言之”。</strong></font>
 
@@ -4639,7 +5464,7 @@
 
    <font color=red><strong>more and more beautiful</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>“比较级＋比较级”表示“越来越”，beautiful的比较级是借助more.</strong></font>
 
@@ -4651,7 +5476,7 @@
 
    <font color=red><strong>The instant I walked/went upstairs</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>the instant“一……一就……引导时间状语从句。</strong></font>
 
@@ -4663,7 +5488,7 @@
 
    <font color=red><strong>the traffic running</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>keep sth doing“使某物做某事”,动词-ing形式作宾语补足语。</strong></font>
 
@@ -4677,7 +5502,7 @@
 
    <font color=red><strong>I had known</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>if条件句表示与过去事实相反的假设,谓语动词用过去完成时。</strong></font>
 
@@ -4687,7 +5512,7 @@
     
     <font color=red><strong>when we were visiting</strong></font>
     
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
     
     <font color=red><strong>表语从句的引导词在从句中作时间状语,故用when.</strong></font>
 
@@ -4703,7 +5528,7 @@
 
    <font color=red><strong>couldn't have finished </strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>but for表示的条件与过去事实相反,根据句意主句谓语动词用couldn't have done的形式。</strong></font>
 
@@ -4713,7 +5538,7 @@
 
    <font color=red><strong>many problems arising</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此句为 with的复合结构,逻辑主语many problems与 arise之间是主动关系,故用“with＋名词＋动词-ing形式”。</strong></font>
 
@@ -4757,7 +5582,7 @@
 
    <font color=red><strong>It won't be long </strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>it won't be long before. ..“不久就·……”。</strong></font>
 
@@ -4790,7 +5615,7 @@
 
    <font color=red><strong>pretended to be reading</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>句中时态为一般过去时,pretend to do“假装在做某事”,由句意可知“正在读书”,用过去进行时。</strong></font>
 
@@ -4814,7 +5639,7 @@
 
    <font color=red><strong>(in）finding the road/way to</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>分词短语 "Having spent some time in the city" 是以现在分词的形式出现的，表示一个已经完成且是主动的动作。have no trouble in doing sth.“做某事没有困难”,类似have difficulty in doing sth， in可以省略。</strong></font>
 
@@ -4824,7 +5649,7 @@
 
    <font color=red><strong>occupied have I been</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>so修饰的状语置于句首时,句子用部分倒装,根据句意用现在完成时,be occupied with“被……占用”</strong></font>
 
@@ -4838,7 +5663,7 @@
 
    <font color=red><strong>half as much money</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示“……的一半”,用“half+as. . . as. ..”.</strong></font>
 
@@ -4848,7 +5673,7 @@
 
    <font color=red><strong>has been considering going back</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>根据句意可知“考虑回学校”是从过去某时开始一直持续到现在,且还可能继续持续下去的动作,用现在完成进行时。</strong></font>
 
@@ -4870,7 +5695,7 @@
 
    <font color=red><strong>(that) she could/can do</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>先行词被the only修饰时,引导词只能用that,此处that在从句中作宾语,可省略。</strong></font>
 
@@ -4883,7 +5708,7 @@
 
     <font color=red><strong>was short of money</strong></font>
 
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
 
     <font color=red><strong>be short of“缺……”,句中为一般过去时。</strong></font>
 
@@ -4926,7 +5751,7 @@
 
    <font color=red><strong>keeping everything in order</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>as well as为介词短语,故其后用动词-ing形式;keep后可跟介词短语作宾语补足语, in order“井井有条”</strong></font>
 
@@ -4942,7 +5767,7 @@
 
    <font color=red><strong>It was on this point</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>该句中用到了强调句式“It+be十被强调部分十that...”,被强调部分为on this point;表示在某一点上应用介词on,由后半句中的时态可知此处用一般过去时。</strong></font>
 
@@ -4963,7 +5788,7 @@
 
    <font color=red><strong>why her friends call</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>why引导宾语从句,并在从句中作原因状语。</strong></font>
 
@@ -4973,7 +5798,7 @@
 
    <font color=red><strong><font color=red><strong>could/would/should/might have grown better</strong></font></strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>由语境可知,此处是对过去情况的虚拟,此时主句谓语动词用could/would/should/might have done的形式。</strong></font>
 
@@ -4985,7 +5810,7 @@
 
    <font color=red><strong>is made up of</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>be made up of“由……组成”。</strong></font>
 
@@ -5041,7 +5866,7 @@
 
    <font color=red><strong>In case I forget</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>in case“以防万一”,引导条件状语从句。</strong></font>
 
@@ -5061,7 +5886,7 @@
 
    <font color=red><strong>was writing</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示过去某段时间一直在做的事情用过去进行时。</strong></font>
 
@@ -5071,7 +5896,7 @@
 
    <font color=red><strong>among which is</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此处为“介词十关系代词”引导定语从句,由“其中”可知,介词用among.</strong></font>
 
@@ -5117,7 +5942,7 @@
 
    <font color=red><strong>must have completed</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示对过去情况的肯定推测用 must have done的形式。</strong></font>
 
@@ -5135,7 +5960,7 @@
     
     <font color=red><strong>are available for</strong></font>
     
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
     
     <font color=red><strong>as well as连接两个名词时,谓语动词的形式由主语决定,故此处用复数形式; be available for“供……使用,为……所用”。</strong></font>
     
@@ -5161,7 +5986,7 @@
 
    <font color=red><strong>dying down</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>die down“渐渐平息,渐渐消失”;前后两分句的主语不一致,且没有连接词连接,故用独立主格结构;the heavy storm与 die down之间为逻辑上的主动关系,故用动词-ing形式。</strong></font>
 
@@ -5199,7 +6024,7 @@
 
    <font color=red><strong>(should) be sent to</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>demand“要求”,之后的表语从句中用虚拟语气,即从句的谓语动词用“should+动词原形”,should可省略;send.. . to sb.“把……传送给某人”,此处send与the information 之间为动宾关系,故用被动语态；"referred to in my report"是过去分词作定语，用于修饰 "the information"，表达被动的意思，即“在我报告中提到的信息”。</strong></font>
 
@@ -5219,7 +6044,7 @@
 
    <font color=red><strong>was set up</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>set up“建立”,与our school之间为动宾关系,故用被动语态,且由时间状语in 1945可知用一般过去时。</strong></font>
 
@@ -5238,7 +6063,7 @@
 
    <font color=red><strong>the fewer mistakes</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>由前半句中的the more和“越”可知,该句用了“the十比较级...,the+比较级...”结构;mistake为可数名词,故用 few修饰具复效形式，具比较级为fewer。</strong></font>
 
@@ -5248,7 +6073,7 @@
 
    <font color=red><strong>must have experienced</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示对过去清况的肯定的推测用must have done的形式。</strong></font>
 
@@ -5274,7 +6099,7 @@
 
    <font color=red><strong>that he would leave</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>that 引导同位语从句,用来解释说明word的内容,that在从句中不作任何成分,也无实际意义,只起连接作用,不能省略; leave表示的动作是从过去某个时间看来将要发生的,故用过去将来时。</strong></font>
 
@@ -5286,7 +6111,7 @@
 
    <font color=red><strong>there is no point（in） waiting</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>There is/was no point in doing sth.“做某事没有意义”,其中in可省略。</strong></font>
 
@@ -5298,7 +6123,7 @@
 
    <font color=red><strong>where I can find</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>where引导宾语从句,开在从句中作地点状语,宾语从句中用陈述语序。</strong></font>
 
@@ -5308,7 +6133,7 @@
 
    <font color=red><strong>helping others</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>that引导的宾语从句中缺少主语,应用动词-ing形式的短语作从句主语,表示某种概念或经验。</strong></font>
 
@@ -5324,7 +6149,7 @@
 
     <font color=red><strong>were visiting</strong></font>
 
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
 
     <font color=red><strong>表示过去某个时间正在进行的动作用过去进行时,且主语为 the teacher and the students,故谓语动词用复数形式。</strong></font>
     
@@ -5342,7 +6167,7 @@
 
    <font color=red><strong>(should) stay where they were</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>order“命令”,其后的同位语从句中用虚拟语气,谓语动词用“should+动词原形”,should可省略;stay后的宾语从句中引导词在句中作地点状语,故用 where。</strong></font>
 
@@ -5352,7 +6177,7 @@
 
    <font color=red><strong>is standing at the gate</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>the singer and dancer指兼有歌唱家和舞蹈家两个身份的同一个人,故谓语动词用单数形式;表示“在门口”应用介词at;由句意可知用现在进行时。</strong></font>
 
@@ -5362,7 +6187,7 @@
 
    <font color=red><strong>took me in</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>由“I was a naive fool to trust him”可知,“他欺骗我”是发生在过去的事情,故用一般过去时; take in“欺骗”。</strong></font>
 
@@ -5374,7 +6199,7 @@
 
    <font color=red><strong>knowing her address</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>现在分词短语"Not knowing her address"，它作为原因状语，表明我不知道她的地址是为什么我需要打电话给她；将分词短语"Not knowing her address"改写成普通句子时，需要加上主语和谓语动词，同时将分词短语转化为一个从句，可以改写为："Because I don't know her address, I might as well telephone her to come over." 或者 "As I don't know her address, I might as well telephone her to come over." 这两个句子的意思是一样的，只是表达方式略有不同。</strong></font>
 
@@ -5399,7 +6224,7 @@
 
    <font color=red><strong>found it is difficult/hard to concentrate</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>it在句中作形式宾语，真正的宾语是后面的不定式短语。</strong></font>
 
@@ -5411,7 +6236,7 @@
 
    <font color=red><strong>whether he would go along</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>it在句中作形式主语,真正的主语是后面的从句,whether引导主语从句,意为“是否”"；因为主句中使用的是过去时态的"was"，所以从句中要使用相应的过去时态来保持时态的一致，即"whether he would go"。</strong></font>
 
@@ -5426,7 +6251,7 @@
 
    <font color=red><strong>that matters</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>该句中用到了强调句式“It+be十被强调部分＋that...”,被强调部分为“the protection of trees”,其中 that不能省略。</strong></font>
 
@@ -5436,7 +6261,7 @@
 
    <font color=red><strong>makes the audience applaud</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>make后跟不带to的不定式作宾语补足语。</strong></font>
 
@@ -5446,7 +6271,7 @@
 
    <font color=red><strong>whatever he has begun/started</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>whatever引导宾语从句,开在从句中作宾语。</strong></font>
 
@@ -5468,7 +6293,7 @@
     
     <font color=red><strong>than the bell rang</strong></font>
     
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
     
     <font color=red><strong>no sooner.. . than.. .“—……就…·引导时间状语从句。</strong></font>
 
@@ -5484,7 +6309,7 @@
 
    <font color=red><strong>of an age/of the same age</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示“年龄相同”应用be of an age或be of the same age.</strong></font>
 
@@ -5498,7 +6323,7 @@
 
    <font color=red><strong>to inform you</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>regret后跟不定式表示对将要做的事情感到遗憾。</strong></font>
 
@@ -5520,7 +6345,7 @@
 
    <font color=red><strong>had repaired</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>have后可跟动词-ed形式作宾语补足语,表示the radio是repair这一列作的承受者;结合时间状语yesterday可知用一般过去时；have sth. done“使某物被做”</strong></font>
 
@@ -5530,7 +6355,7 @@
 
    <font color=red><strong>couldn't/wouldn't nave wasted</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>由语境及关键词or可知,此处是对过去情沉的否定虚拟,此时主句谓语动词用couldn't/wouldn't have done的形式。</strong></font>
 
@@ -5542,7 +6367,7 @@
 
    <font color=red><strong>It is a matter of time</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>it在句中作形式主语,真正的主语是后面的从句。</strong></font>
 
@@ -5552,7 +6377,7 @@
 
    <font color=red><strong>who/whom I came across</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>who/whom引导宾语从句,并在从句中作宾语,不能省略;come across“偶遇,碰到”。</strong></font>
 
@@ -5568,7 +6393,7 @@
 
    <font color=red><strong>to buy it</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>afford后跟不定式作宾语。</strong></font>
 
@@ -5585,7 +6410,7 @@
 
    <font color=red><strong>which makes it difficult</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>which引导非限制性定语从句,引导词指前面整个分句提到的事实,并在从句中作主语,故谓语动词用单数形式;it在从句中作形式宾语,真正的宾语是后面的不定式短语。</strong></font>
 
@@ -5627,7 +6452,7 @@
 
    <font color=red><strong>that the plane would take off</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>that引导同位语从句,用来解释说明news的内容, that在从句中不作任何成分,也无实际意义,只起连接作用,不能省略;take off“起飞”。</strong></font>
 
@@ -5637,7 +6462,7 @@
     
     <font color=red><strong>may/might have ended</strong></font>
     
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
     
     <font color=red><strong>表示“大概”应用情态动词may或might;此处表示对过去情况的推测,其后接have done的形式。</strong></font>
     
@@ -5654,7 +6479,7 @@
 
    <font color=red><strong>must have had</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>表示对过去情况的肯定推测用 must have done的形式。</strong></font>
 
@@ -5664,7 +6489,7 @@
 
    <font color=red><strong>what she wants to do</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>what引导主语从,并在从句中作宾语；现在分词短语coming from作定语</strong></font>
 
@@ -5679,7 +6504,7 @@
 
    <font color=red><strong>all(that)/what they can</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>what 引导宾语从句,并在从句中作宾语,相当于 all that,其中 that 可省略。</strong></font>
 
@@ -5692,7 +6517,7 @@
 
    <font color=red><strong>came into being</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>come into being“产生出现”,由句中时态可知用般过去时。</strong></font>
 
@@ -5716,7 +6541,7 @@
 
    <font color=red><strong>saying the same excuse</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>he 与 say 之间为逻辑上的主动关系，故用动词-ing形式作伴随状语。</strong></font>
 
@@ -5726,7 +6551,7 @@
 
    <font color=red><strong>How do you respond to</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>此为 how 引导的特殊疑问句；respond后跟宾语时，宾语前应加介词 to。</strong></font>
 
@@ -5752,7 +6577,7 @@
 
    <font color=red><strong>tied to a tree</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>find 后可跟动词-ed 形式作宾语补足语，表被动和完成，表示himself是tie 这一动作的承受者;tie...to...“把··...·绑在.....上”。</strong></font>
 
@@ -5762,7 +6587,7 @@
 
    <font color=red><strong>who has passed</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>who引导定语从句,并在从句中作主语,由句意及句子结构可知用现在完成时。</strong></font>
 
@@ -5772,7 +6597,7 @@
 
    <font color=red><strong>hadn't tried</strong></font>
 
-   <font color=red><strong>解析：</strong></font>
+   <strong>解析：</strong>
 
    <font color=red><strong>wish 后跟宾语从句时,从句用虚拟语气，且此处表示与过去事实相反,故谓语动词用过去完成时。</strong></font>
 
@@ -5782,7 +6607,7 @@
     
     <font color=red><strong>to look out for</strong></font>
     
-    <font color=red><strong>解析：</strong></font>
+    <strong>解析：</strong>
     
     <font color=red><strong>warn 后跟不定式作宾语补足语;look out for“当心,小心”</strong></font>
     
@@ -5806,7 +6631,7 @@
 
    <font color=red><strong>don't have access to/have no access to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>“百分数+名词”作主语时,谓语动词的单复数由该名词决定,故此处用复数形式; </strong></font>
 
@@ -5818,7 +6643,7 @@
 
    <font color=red><strong>closer to it</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>close的副词形式仍为close,其比较级形式为closer; close应与介词to搭配。</strong></font>
 
@@ -5830,7 +6655,7 @@
 
    <font color=red><strong>The first time I saw</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>名词短语the first time可用来引导时间状语从句,表示“第一次……的时候”</strong></font>
 
@@ -5852,7 +6677,7 @@
 
    <font color=red><strong>to have talked with </strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>happen后跟不定式作宾语;由“说过话”或者before I came here可知,应用完成时;talk with“与……谈话”。</strong></font>
 
@@ -5862,7 +6687,7 @@
 
    <font color=red><strong>are holding it upside down</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示现在正在进行的动作用现在进行时;upside down“上下颠倒”。</strong></font>
 
@@ -5872,7 +6697,7 @@
 
    <font color=red><strong>did he run</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>so...that...结构中的so修饰的副词置于句首时主句应用部分倒装。</strong></font>
 
@@ -5882,7 +6707,7 @@
 
    <font color=red><strong>(should) adapt to </strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>suggest意为“建议”时,其后的宾语从句中用虚拟语气,谓语动词用“should＋动词原形”,should可省略;adapt to“适应”。</strong></font>
 
@@ -5894,7 +6719,7 @@
 
    <font color=red><strong>Why that photo/picture became</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>why 引导主语从句,并在从句中作原因状语。</strong></font>
 
@@ -5904,7 +6729,7 @@
 
    <font color=red><strong>asking me to join</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>keep后跟动词-ing形式作宾语;ask后跟不定式作宾语补足语。</strong></font>
 
@@ -5916,7 +6741,7 @@
     
     <font color=red><strong>which they take pride</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>take pride in“以……为自豪”;该短语中的介词in提至从句句首,且先行词指物,故只能用which引导定语从句。</strong></font>
     
@@ -5934,7 +6759,7 @@
 
    <font color=red><strong>far from being</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>far from“远离”;介词from后应跟动词-ing形式。</strong></font>
 
@@ -5969,7 +6794,7 @@
 
    <font color=red><strong>can we save</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>only强调状语置于句首时句子用部分倒装,根据句意,助动词用can。</strong></font>
 
@@ -5979,7 +6804,7 @@
 
    <font color=red><strong>what makes life possible</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>what 引导表语从句,并在从句中作主语;make后可跟形容词作宾语补足语。</strong></font>
 
@@ -5989,7 +6814,7 @@
 
    <font color=red><strong>I were you</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>if引导的非真实条件句中,表示与现在事实相反的虚拟语气时,作从句谓语的be动词应用 were.</strong></font>
 
@@ -5999,7 +6824,7 @@
 
    <font color=red><strong>made it possible</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>it在句中作形式宾语,真正的宾语是后面的不定式短语。</strong></font>
 
@@ -6031,7 +6856,7 @@
 
    <font color=red><strong>providing/provided （that） he arrives </strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>providing/provided that可用来引导条件状语从句,其中that可省略。</strong></font>
 
@@ -6051,7 +6876,7 @@
 
    <font color=red><strong>got into a panic</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>get into a panic“陷入恐慌中”。</strong></font>
 
@@ -6061,7 +6886,7 @@
 
    <font color=red><strong>what they are</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>what引导宾语从句,并在从句中作表语。</strong></font>
 
@@ -6075,7 +6900,7 @@
 
    <font color=red><strong>have it repaired</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>have后可跟动词-ed形式作宾语补足语,表示it是repair这一动作的承受者。</strong></font>
 
@@ -6085,7 +6910,7 @@
 
     <font color=red><strong>must be watching</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>对正在进行的动作表示肯定推测用must be doing.</strong></font>
 
@@ -6103,7 +6928,7 @@
 
    <font color=red><strong>to turn off the TV</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>在此句中,it 作形式宾语,动词不定式短语作真正宾语。</strong></font>
 
@@ -6113,7 +6938,7 @@
 
    <font color=red><strong>That she has been admitted to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>此处主语从句由连词 that引导,that 在句中不作句子成分，主句的时态是一般过去式，从句用现在完成时的被动。</strong></font>
 
@@ -6147,7 +6972,7 @@
 
    <font color=red><strong>Seen from a distance</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>the island 与 see 之间是被动关系,故用动词-ed 形式作条件状语。</strong></font>
 
@@ -6179,7 +7004,7 @@
 
    <font color=red><strong>invited to the party/who have been invited to the party</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>这里的定语或定语从句都修饰前面的 people一词。</strong></font>
 
@@ -6189,7 +7014,7 @@
 
    <font color=red><strong>However far it is</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>however 一词引导让步状语从句。</strong></font>
 
@@ -6215,7 +7040,7 @@
 
    <font color=red><strong>It occurred to me</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>It occurred to sb,that..表示"某人突然想起某事"</strong></font>
 
@@ -6225,7 +7050,7 @@
 
    <font color=red><strong>that he may/might arrive</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>that引导同位语从句，说明message的具体内容;由句意“可能·····.”可知情态动词用may 或 might.</strong></font>
 
@@ -6235,7 +7060,7 @@
 
    <font color=red><strong>have driven</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>It was the first time...句型中用过去完成时。</strong></font>
 
@@ -6245,7 +7070,7 @@
 
    <font color=red><strong>was being repaired</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由于机器在昨天这个时候正在被修理所以用过去进行时的被动语态形式。</strong></font>
 
@@ -6255,7 +7080,7 @@
 
     <font color=red><strong>The harder you study</strong></font>
 
-    **解析：**
+    <strong>解析：</strong>
 
     <font color=red><strong>“the十比较级...,the十比较级...表示“越.....·越......”。</strong></font>
     
@@ -6281,7 +7106,7 @@
 
    <font color=red><strong>has been blowing</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由题意可知,blow 是从过去一直持续进行到现在而且还有可能继续下去的动作，故用现在完成进行时。</strong></font>
 
@@ -6356,7 +7181,7 @@
 
    <font color=red><strong>shall take books out</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>shall 用于第三人称作主语的陈述句中,表示要求、规定、法律等中的义务。</strong></font>
 
@@ -6404,7 +7229,7 @@
 
    <font color=red><strong>to be taken</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>anything 与 take 是被动关系，且 take 是发生在将来的动作,故用不定式的被动式作宾语补足语。</strong></font>
 
@@ -6414,7 +7239,7 @@
 
    <font color=red><strong>do good to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>do good to“对......有益处”。</strong></font>
 
@@ -6465,7 +7290,7 @@
 
    <font color=red><strong>writing smoothly</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>it 和 write 是逻辑上的主动关系，故用动词-ing 形式作状语。</strong></font>
 
@@ -6475,7 +7300,7 @@
 
    <font color=red><strong>where we parted</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>found 后缺少地点状语,故用 where 引导地点状语从句。</strong></font>
 
@@ -6520,7 +7345,7 @@
 
    <font color=red><strong>what she was</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>look like 后为表语从句，引导词在从句中作表语，且指“样貌”,故用 what 引导。</strong></font>
 
@@ -6530,7 +7355,7 @@
 
    <font color=red><strong>come out</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>come out“出版，发行”无被动语态。</strong></font>
 
@@ -6566,7 +7391,7 @@
 
    <font color=red><strong>has taken</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>当主语带有 as well as...短语时,谓语动词不受其影响仍然和主语保持一致，故此处用单数;由 recently 可知,take 是到现在为止的动作，故用现在完成时。</strong></font>
 
@@ -6587,7 +7412,7 @@
     
     <font color=red><strong>In terms of</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>in terms of“在.....·方面”。</strong></font>
     
@@ -6613,7 +7438,7 @@
 
    <font color=red><strong>did work</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意可知,work是过去发生的动作，故用一般过去时,强调谓语用助动词did。</strong></font>
 
@@ -6623,7 +7448,7 @@
 
    <font color=red><strong>should you forget</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示否定意义的介短语 in no condition置于句首时,句子用部分倒装。</strong></font>
 
@@ -6644,7 +7469,7 @@
 
    <font color=red><strong>make out</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>make out“辨认出,看出”。</strong></font>
 
@@ -6658,7 +7483,7 @@
 
    <font color=red><strong>waiting for/who were waiting for</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>主句介词在句首，句子完全倒装；句子主语 parents 与 wait是逻辑上的主动关系，故用动词-ing形式作定语，表示主动进行意义;</strong></font>
 
@@ -6670,7 +7495,7 @@
 
    <font color=red><strong>mustn't open</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>mustn't“不许,禁止”。</strong></font>
 
@@ -6691,7 +7516,7 @@
 
    <font color=red><strong>At no time</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>at no time“绝不,从不”。</strong></font>
 
@@ -6705,7 +7530,7 @@
 
    <font color=red><strong>might/may stay at</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>此处表示对将来情况把握性不大的推测,用 might 或 may。</strong></font>
 
@@ -6732,7 +7557,7 @@
 
    <font color=red><strong>when you want to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>定语从的先行词是表示时间的名词stage,引导词在从句中作时间状语,故用 when;want to do sth.“想做某事”</strong></font>
 
@@ -6744,7 +7569,7 @@
 
    <font color=red><strong>It is very convenient</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>It is convenient for. ...“.....·近便的；It is convenient for me to have a supermarket right next to my house.（我家旁边有一家超市对我来说很方便。）”.</strong></font>
 
@@ -6762,7 +7587,7 @@
     
     <font color=red><strong>am suffering from</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>由句意可知，“感冒”是目前正发生的动作,故用现在进行时。</strong></font>
     
@@ -6780,7 +7605,7 @@
 
    <font color=red><strong>to be seen</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>it指代the idea,与see是逻辑上的被动关系,目see是表示将要发生的动作,故用不定式的被动式作表语。</strong></font>
 
@@ -6828,7 +7653,7 @@
 
    <font color=red><strong>did I realize</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>only修饰的时间状语置于首时句子要用部分倒装;此处表示过去发生的动作,应用一般过去时；only then ：直到那时……（后面的句子要倒装）</strong></font>
 
@@ -6850,7 +7675,7 @@
 
    <font color=red><strong>what was destroyed/all that was destroyed</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>rebuild后的宾语从句中缺少主语,故用what引导;也可看成是定语从句先行词是all,引导词用that引导；从句是宾语从句，不是定语从句，所以不能用非谓语动词省略</strong></font>
 
@@ -6873,7 +7698,7 @@
 
    <font color=red><strong>to improve</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>“采取措施”的目的是“改善我们城市的空气质量”,且government与improve是逻辑上的主动关系，故用不定式的一般式作目的状语。</strong></font>
 
@@ -6895,7 +7720,7 @@
 
    <font color=red><strong>could have caught</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示过去本能够做某事但实际上没做用 could have done.</strong></font>
 
@@ -6920,7 +7745,7 @@
 
    <font color=red><strong>a better way</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>形容词的比较级用于否定中表示最高级意义。</strong></font>
 
@@ -6934,7 +7759,7 @@
 
    <font color=red><strong>has moved</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>move 是在将来某个时间点之前要完成的动作在时间状语从句中,常用现在完成时表示将来完成意义。</strong></font>
 
@@ -6954,7 +7779,7 @@
 
    <font color=red><strong>in order of</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>in order of“按....·的顺序”。</strong></font>
 
@@ -6966,7 +7791,7 @@
 
    <font color=red><strong>is killing me</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>kill是现在正在进行的动作，故用现在进行时。</strong></font>
 
@@ -6976,7 +7801,7 @@
 
     <font color=red><strong>as are listed</strong></font>
 
-    **解析：**
+    <strong>解析：</strong>
 
     <font color=red><strong>定语从句的先行词是things,引导词在从句中作主语，先行词things前有the same修饰，故只能用as;things与list之间是被动关系,故用被动语态。</strong></font>
     
@@ -7010,7 +7835,7 @@
 
    <font color=red><strong>to make sure</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>此处表示目的，且表示将要发生的动作，故用不定式的一般式作目的状语。</strong></font>
 
@@ -7029,7 +7854,7 @@
 
    <font color=red><strong>would have attacked</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>从句以"Though"开头，表示虽然。因为主句从句主语相同，所以省略从句主语使用非谓语动词，"frightened"是过去分词作为表语，表示感到害怕。由otherwise可知，此处为含蓄虚拟语气，表示与过去事实相反的假设，故谓语动词用would have done的形式。</strong></font>
 
@@ -7049,7 +7874,7 @@
 
    <font color=red><strong>would inform</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由意可知,inform 表示的动作是从过去看将要发生的,故用过去将来时。</strong></font>
 
@@ -7063,7 +7888,7 @@
 
    <font color=red><strong>where/in which I spent</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>定语从句的先行词是表示地点的名词 place,引导词在从句中作地点状语,故用where,相当于in which.</strong></font>
 
@@ -7073,7 +7898,7 @@
 
    <font color=red><strong>is typical of</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>typical“典型的,有代表性的”,后面常跟介词of搭配。</strong></font>
 
@@ -7099,7 +7924,7 @@
 
    <font color=red><strong>be made out</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>with引导一个介词短语作为状语修饰整个句子；make out“理解”,Henry 与 make out 之间是被动关系,用被动语态。</strong></font>
 
@@ -7130,7 +7955,7 @@
 
    <font color=red><strong>should we betray</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示否定意义的介词短语under no circumstances置于句首时，句子用部分倒装;It is required that...句式中要用虚拟语气，谓语动词用“should十动词原形”,should可以省略,故此处的助动词用should。</strong></font>
 
@@ -7143,7 +7968,7 @@
 
    <font color=red><strong>around which are</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>根据提示词及句意可知，此是“around+关系代词”引导的非限制性定语从句,先行词是 school,引导词用 which;定语从句的主语是some bookstores,故谓语动词用复数形式。</strong></font>
 
@@ -7155,7 +7980,7 @@
 
    <font color=red><strong>how he got</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>knows 后的宾语从句中缺少方式状语,故引导词用how,宾语从句中用陈述语序。</strong></font>
 
@@ -7167,7 +7992,7 @@
     
     <font color=red><strong>shall wear</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>shall 用于主语为第三人称的陈述句中,表示命令、要求、规定等中的义务；to be recognized表目的</strong></font>
     
@@ -7187,7 +8012,7 @@
 
    <font color=red><strong>is produced</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>oxygen与produce是被动关系，且表示客观事实,故用一般现在时的被动语态。</strong></font>
 
@@ -7197,7 +8022,7 @@
 
    <font color=red><strong>the most influential</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>influential“有影响力的”,其最高级形式要借助most构成。</strong></font>
 
@@ -7222,7 +8047,7 @@
 
    <font color=red><strong>Having volunteered</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>John与volunteer是逻辑上的主动关系,且volunteer表示的动作发生在主谓语动词found表示的动作之前,故用动词-ing形式的的完成式。</strong></font>
 
@@ -7248,7 +8073,7 @@
 
    <font color=red><strong>to have uncovered</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>claim“声称”,后面跟不定式作宾语uncover表示的动作发生在主谓语动词 claims 表示的动作之前,故用不定式的完成式。</strong></font>
 
@@ -7263,7 +8088,7 @@
 
    <font color=red><strong>is a way to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>going out to the bar and drinking 是指件事谓语动词用单数;此处描述一般的情况,故用一般现在时;a way to do“做·....·的一个方法”。</strong></font>
 
@@ -7279,7 +8104,7 @@
 
    <font color=red><strong>blame John for</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>blame sb.for “为·....·责怪某人”</strong></font>
 
@@ -7298,7 +8123,7 @@
 
    <font color=red><strong>arrive in London</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由will have stayed及意可知，arrive是表示将来的动作,在时间状语从句中,常用一般现在时表示将来意义;arrive in后面常接大的地方。</strong></font>
 
@@ -7308,7 +8133,7 @@
 
    <font color=red><strong>would not have missed</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由otherwise及意可知，此处表示与过去事实相反的情况，故谓语动词用would have done的形式，由句意知用否定形式。</strong></font>
 
@@ -7340,7 +8165,7 @@
 
    <font color=red><strong>that her parents had (the) time</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>此为强调式“It is/was十被强调部分十that/who...”被强调的部分是 not until the baby girl was sound asleep.</strong></font>
 
@@ -7356,7 +8181,7 @@
 
     <font color=red><strong>did she dare to</strong></font>
 
-    **解析：**
+    <strong>解析：</strong>
 
     <font color=red><strong>表示否定意义的词放在句首时,子要用部分倒装;dare 为实义动词时，后跟不定式作宾语，部分倒装要借助于 do,此处为一般过去时故用 did。</strong></font>
 
@@ -7374,7 +8199,7 @@
 
    <font color=red><strong>did you stay</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意可知,stay 表示的动作发生在过去,与现在无关,故用一般过去时。</strong></font>
 
@@ -7384,7 +8209,7 @@
 
    <font color=red><strong>that we (should) not take</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>从句中表示的是advice的内容是同位语从句,advice意为“建议”,其后接同位语从句时用虚拟语气,谓语动词用“should十动词原形”,should可以省略。</strong></font>
 
@@ -7394,7 +8219,7 @@
 
    <font color=red><strong>from whose room</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>定语从的先行词是the man,并在从句中作room的定语，根据句意用from whose引导。</strong></font>
 
@@ -7404,7 +8229,7 @@
 
    <font color=red><strong>the newly elected</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>president 与 elect 之间是被动关系，故用动词-ed 形式作定语。</strong></font>
 
@@ -7416,7 +8241,7 @@
 
    <font color=red><strong>worse and worse</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>“比较级十比较级”表示“越来越··..·.”,此处表示“越来越差”用 worse and worse。</strong></font>
 
@@ -7428,7 +8253,7 @@
 
    <font color=red><strong>The moment</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>the moment“一·....·就......”,引导时间状语从句。</strong></font>
 
@@ -7461,7 +8286,7 @@
 
    <font color=red><strong>in honor of</strong></font>
    
-   **解析：**
+   <strong>解析：</strong>
    
    <font color=red><strong>in honor of“为纪念,为祝贺”。</strong></font>
    
@@ -7519,7 +8344,7 @@
 
    <font color=red><strong>stands the library</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
    
    <font color=red><strong>表示地点的介词短语置于句首时，句子用全部倒装。</strong></font>
 
@@ -7529,7 +8354,7 @@
 
    <font color=red><strong>that we reached</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
    
    <font color=red><strong>此句是强调句 It is/was...that..，其中that 无词义，此处强调时间状语 at nine o'clock;reach 是及物动词,其后直接接宾语。</strong></font>
 
@@ -7539,7 +8364,7 @@
     
     <font color=red><strong>referring to</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>refer to“提到，谈到”,且根据句意用过去进行时。</strong></font>
     
@@ -7559,7 +8384,7 @@
 
    <font color=red><strong>would ask me</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>would可表示过去的习惯。句中的状语是省略be动词，即谓语动词和非谓语动词的转化。原句为：He was curious about the world around him</strong></font>
 
@@ -7577,7 +8402,7 @@
 
    <font color=red><strong>where I disagree with you</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>disagree with sb.“不同意某人的意见/想法”等;where引导表语从句,并在从句中作地点状语。</strong></font>
 
@@ -7587,7 +8412,7 @@
 
    <font color=red><strong>the most important</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意可知用最高级形式,important的最高级形式要借助 most。</strong></font>
 
@@ -7603,7 +8428,7 @@
 
    <font color=red><strong>to set aside</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>set aside“留出”;advise sb. to do sth.“建议某人做某事；</strong></font>
 
@@ -7623,7 +8448,7 @@
 
    <font color=red><strong>persuaded us to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由题意可知,persuade 是过去发生的动作故用一般过去时;persuade sb. to do sth.“说服某人做某事”。</strong></font>
 
@@ -7637,7 +8462,7 @@
 
    <font color=red><strong>did they realize</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
    
    <font color=red><strong>not until...置于句首时,句子要用部分倒装,此处表示过去发生的动作,故用一般过去时。</strong></font>
 
@@ -7647,7 +8472,7 @@
 
    <font color=red><strong>Apart from</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>apart from“除··...·之外”</strong></font>
 
@@ -7699,7 +8524,7 @@
 
    <font color=red><strong>her foot wounded</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>此处是 with 的复合结构,由介词 "with" 引导的非谓语过去分词done短语作状语。逻辑主语her foot与wound之间是被动关系,故用“with十名词十过去分词done”。</strong></font>
 
@@ -7711,7 +8536,7 @@
 
    <font color=red><strong>will it be possible</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>only修饰的时间状语从句位于首时，主句用部分倒装;由题意可知,此处表示将来意义,故用一般将来时;“it十be+possible to do sth,”表示“做某事是可能的”。</strong></font>
 
@@ -7733,7 +8558,7 @@
     
     <font color=red><strong>is allowed</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>当主语后有but...短语时,谓语动词不受该短语的影响，仍然与主语保持一致;主语是不定代词nobody,谓语动词用单数，且nobody与allow是逻辑上的被动关系,故用被动语态。</strong></font>
 
@@ -7752,7 +8577,9 @@
    —— 一点也不满意,我们找不到**比这更差**的了。
 
    <font color=red><strong>a worse one/house</strong></font>
+   
    **解析:**
+   
    <font color=red><strong>由not in the least可知,此处表示“房间差”;且由句意可知,表示最高级意义,比较级用于否定句中可表示最高级意义,故用a worse one/house。</strong></font>
    
    1. **be satisfied with ：对……感到满意**
@@ -7763,7 +8590,9 @@
    你能安静会吗? **正在广播**一项重要的通告。
 
    <font color=red><strong>is being broadcast</strong></font>
+
    **解析:**
+
    <font color=red><strong>announcement与broadcast之间是被动关系，且是正在发生的动作,应用现在进行时的被动语态。</strong></font>
 
    1. **announcement ：n. 公告；（报纸上的）布告；宣布**
@@ -7788,6 +8617,7 @@
    **iPhone 5s已经变得**如此受欢迎以至于年轻人都非常想要一部。
 
    <font color=red><strong>has iPhone 5s become</strong></font>
+
    **解析:**
 
    <font color=red><strong>so...that...句式中,so修饰的形容词或副词前置时需用部分倒装;且此处表示到现在完成的动作,故用现在完成时。</strong></font>
@@ -7812,9 +8642,11 @@
    大量的水**正被灌入**这个机器来冷却。
 
    <font color=red><strong>are being poured</strong></font>
-**解析:**
+
+   **解析:**
+
    <font color=red><strong>quantities of...作主语时,谓语动词用复数;water与pour是被动关系,应用被动语态。</strong></font>
-   
+
    **large quantities of ：大量……**
 
 7. What is the best way you can imagine<u><font color=red><strong>      to reduce     </strong></font></u>the overuse of water in our school? (reduce)
@@ -7822,7 +8654,9 @@
    你认为**减少**我们学校过度用水的最好方法是什么?
 
    <font color=red><strong>to reduce</strong></font>
+   
    **解析:**
+   
    <font color=red><strong>you can imagine 是插入语,the best way to do...“做··...·的最好的方法”,不定式作定语。</strong></font>
    
 8. All the drivers have been warned that driving after drinking shall<u><font color=red><strong>       bring about         </strong></font></u>serious accidents.(bring)
@@ -7830,7 +8664,9 @@
    所有司机都被警告过酒后驾驶会**引起**严重的事故。
 
    <font color=red><strong>bring about</strong></font>
+   
    **解析:**
+   
    <font color=red><strong>bring about“引起,带来”。</strong></font>
    
 9. It was only recently<u><font color=red><strong>       that I began to         </strong></font></u>realize how much my parents love me. (begin)
@@ -7838,8 +8674,9 @@
    直到最近**我才开始**意识到父母有多爱我。
 
    <font color=red><strong>that I began to</strong></font>
-**解析:**
-   
+
+   **解析:**
+
    <font color=red><strong>本句为强调句“It was...that...”,强调时间状语 only recently;begin to do sth.“开始做某事”；当 only引导的是条件状语从句时，主句需要倒装。但是当only引导的是强调句时，主句不需要倒装。</strong></font>
 
 10. Miss Li often helps the students<u><font color=red><strong>     who she thinks          </strong></font></u>are not quick at their studies. (think)
@@ -7847,6 +8684,7 @@
     李老师经常帮助**那些她认为**学习速度慢的学生。
     
     <font color=red><strong>who she thinks</strong></font>
+    
     **解析:**
     
     <font color=red><strong>定语从句的先行词是students,引导词在从句中作主语,故用who引导;此处的she thinks为插人语,定语从句中含有插入语,且先行词指人时,引导词只用who不用that。</strong></font>
@@ -7862,7 +8700,9 @@
    毫无疑问你的演唱将会**极大地促成**晚会的成功的。
 
    <font color=red><strong>contribute greatly to</strong></font>
+
    **解析:**
+
    <font color=red><strong>contribute“促成，造成”</strong></font>
 
    - **good-----better-----best**
@@ -7875,6 +8715,7 @@
    根据最新制定的交通规则，那些醉酒驾驶的人最少**被罚款**200元。
 
    <font color=red><strong>shall be fined</strong></font>
+
    **解析:**
 
    <font color=red><strong>由traffic regulations可知，此处表示规定中的义务，故用shall;且those who are accused of drunk driving与fine之间是被动关系，故用其被动语态。</strong></font>
@@ -7918,8 +8759,9 @@
    真遗憾!如果我当时听从父母的建议，我现在**就不会**那么**痛苦**了。
 
    <font color=red><strong>wouldn't be suffering</strong></font>
-**解析:**
-   
+
+   **解析:**
+
    <font color=red><strong>had I followed,..是 if I had followed的省略,表示与过去事实相反的假设,主句谓语动词应用would do的形式,由题意可知此处表示现在进行意义。</strong></font>
 
 4. Today's homework was<u><font color=red><strong>        easy to do           </strong></font></u>，so I finished it quickly and went out to play. (do)
@@ -7927,6 +8769,7 @@
    今天的作业很**容易做**,所以我很快就完成了并出去玩了。
 
    <font color=red><strong>easy to do</strong></font>
+
    **解析:**
 
    <font color=red><strong>“形容词十不定式”是常见用法,形容词表示不定式的性质、特征,用不定式的主动形式表示被动意义。</strong></font>
@@ -7941,7 +8784,9 @@
    请提醒你祖父按时吃药，因为像他那样年龄的人**有时很健忘**。
 
    <font color=red><strong>can be very forgetful</strong></font>
+   
    **解析:**
+   
    <font color=red><strong>由句意可知，健忘的”是表示一时的情况,故用can“有时会”。</strong></font>
    
 6. Alice Lillian Euis, born on September 11, 1907 in Boston, was<u><font color=red><strong>         the third oldest          </strong></font></u>of nine children. (old)
@@ -7959,7 +8804,9 @@
    **尽管**已经采取了措施为人们提供更多的公共车辆，但是公共交通工具的短缺仍然是个问题。
 
    <font color=red><strong>In spite of</strong></font>
+   
    **解析:**
+   
    <font color=red><strong>in spite of“尽管”。</strong></font>
    
    1. **这些短语都可以用来表示尽管某种情况存在，但仍然发生了另一个行为或情况。它们可以用来表达相同的含义，即不受某种限制或困难的影响，继续进行或发生某事。**
@@ -7988,7 +8835,9 @@
    在大多数国家,纸或者铁制的其他东西都会**被回收利用**。
 
    <font color=red><strong>are recycled</strong></font>
+
    **解析:**
+
    <font color=red><strong>either...or...连接的并列成分作主语时，谓语动词与最靠近的主语保持一致，由other things可知用复数形式，且other things与recycle 之间是被动关系，故用被动语态;句中陈述的是客观事实,故用一般现在时。</strong></font>
 
 9. When I got home last night, I was frightened to find that in front of my door<u><font color=red><strong>        sat a big dog         </strong></font></u>.(sit)
@@ -7996,7 +8845,9 @@
    昨晚我到家的时候，我惊恐地发现我家门前**坐着一条大狗**。
 
    <font color=red><strong>sat a big dog</strong></font>
+
    **解析:**
+
    <font color=red><strong>表示地点意义的介词短语位于句首时，句子用全部倒装。</strong></font>
 
 10. It is said that he's looking for a new job<u><font color=red><strong>      where he can get         </strong></font></u>more money to support his family. (get)
@@ -8004,6 +8855,7 @@
     据说他正在找一份**他能从中挣**更多钱来供养家人的新工作。
 
     <font color=red><strong>where/from which he can get</strong></font>
+    
     **解析:**
     
     <font color=red><strong>定语从的先行词是 job且从句意义上缺少地点状语，故用 where 引导，相当于from which.</strong></font>
@@ -8019,7 +8871,9 @@
    有足够天赋挑战她的溜冰者之一是阿莎达，从初级溜冰者开始就跟她**一直竞争**。
 
    <font color=red><strong>has been competing</strong></font>
+   
    **解析:**
+   
    <font color=red><strong>由句意及时间状语 since...可知compete是从过去开始一直持续进行到现在而且还有可能继续下去的动作,故用现在完成进行时。</strong></font>
    
    **"enough to" 是英语中的一个固定搭配，表示足够的程度或数量。它常用于表示某事物在某种程度上已经足够或满足了某种条件。**
@@ -8952,7 +9806,7 @@
 
    <font color=red><strong>less tiring</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由Compared...及题意可知,此处表示“坐火车'比“雨中或雪中驾驶”更轻松;tiring表示“令人劳累的”,其比较级在前面加less或 more,由题意可知用less。</strong></font>
 
@@ -8972,7 +9826,7 @@
 
    <font color=red><strong>can it be</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>can 用于疑问句中，可表示惊讶、怀疑等语气，that从句后置,故用it代替。</strong></font>
 
@@ -8992,7 +9846,7 @@
 
    <font color=red><strong>has she given</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示否定意义的not once放在首时，句子用部分倒装;此处表示从过去某时开始一直持续到现在的状态,故用现在完成时。</strong></font>
 
@@ -9021,7 +9875,7 @@
 
    <font color=red><strong>give away</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>give away“赠送”。</strong></font>
 
@@ -9041,11 +9895,9 @@
 
    **由于**经济政治和文化差异，中国和美国很难完全理解对方。
 
-   account for
-
    <font color=red><strong>On account of</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>on account of“由于”</strong></font>
 
@@ -9058,21 +9910,21 @@
       **"account" 可以组成多个常用的词组和短语，以下是其中一些常见的：**
 
       1. **Take into account: 考虑到，将...纳入考虑范围**
-         - **We need to take into account the opinions of all team members before making a decision.（在做决定之前，我们需要考虑到所有团队成员的意见。）**
-
+      - **We need to take into account the opinions of all team members before making a decision.（在做决定之前，我们需要考虑到所有团队成员的意见。）**
+   
       2. **Give an account of: 说明，叙述**
-         - **She gave a detailed account of her trip to Europe.（她详细叙述了她去欧洲的旅行经历。）**
-
+      - **She gave a detailed account of her trip to Europe.（她详细叙述了她去欧洲的旅行经历。）**
+   
       3. **On account of: 因为，由于**
-         - **The concert was canceled on account of bad weather.（由于天气不好，音乐会被取消了。）**
-
+      - **The concert was canceled on account of bad weather.（由于天气不好，音乐会被取消了。）**
+   
       4. **Hold someone accountable: 追究某人的责任**
-         - **The company will hold the responsible employees accountable for the project failure.（公司将追究那些对项目失败负有责任的员工的责任。）**
-
+      - **The company will hold the responsible employees accountable for the project failure.（公司将追究那些对项目失败负有责任的员工的责任。）**
+   
       5. **Account for: 解释，说明；占比**
-         - **He couldn't account for his sudden absence from work yesterday.（他无法解释昨天突然不上班的原因。）**
+      - **He couldn't account for his sudden absence from work yesterday.（他无法解释昨天突然不上班的原因。）**
          - **The company's sales account for 20% of the market share.（该公司的销售占据了市场份额的20%。）**
-
+   
       **这些是 "account" 的一些常见词组和用法，它们在不同语境中表达不同的意义，需要根据具体情况来理解和运用。**
 
 6. Last week I took part in the Civil Service Admission Examination, for which I <u><font color=red><strong>   had prepared       </strong></font></u> for nearly three months. (prepare)
@@ -9081,7 +9933,7 @@
 
    <font color=red><strong>had prepared</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意可知,prepare表示的动作发生在过去动作took part in之前,是“过去的过去”,用过去完成时。</strong></font>
 
@@ -9095,7 +9947,7 @@
 
    <font color=red><strong>(should) be made</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>本中it为形式宾语，真正的宾语为后面的从句;necessary后的从句中要用虚拟语气，谓语动词用“should十动词原形”,should 可以省略。</strong></font>
 
@@ -9105,7 +9957,7 @@
 
    <font color=red><strong>what he said</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>sum up后的宾语从句中，引导词在从句中作宾语，根据句意用what; 发生在过去的事情用一般过去时。</strong></font>
 
@@ -9119,7 +9971,7 @@
 
    <font color=red><strong>did the villagers realize</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>not until引导的状语从句位于句首时，主句要用部分倒装,句中时态为一般过去时。</strong></font>
 
@@ -9143,7 +9995,7 @@
 
     <font color=red><strong>Was it because</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>本为强调句的一般疑问句即“Is/Was+it+被强调部分十that十其他成分”,此处强调原因状语用because;句中时态为一般过去时。</strong></font>
 
@@ -9163,7 +10015,7 @@
 
    <font color=red><strong>may/might stay at home</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意可知，此处表示对将来情况把握性不大的推测，故用may或might。</strong></font>
 
@@ -9175,7 +10027,7 @@
 
    <font color=red><strong>the first time</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>the first time“第一次··....的时候”,引导时间状语从句。</strong></font>
 
@@ -9185,7 +10037,7 @@
 
    <font color=red><strong>was to blame</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>be to blame“应承担责任”,其主动形式表示被动意义;当not...but...连接的并列成分作主语时,谓语动词与最靠近的主语一致,且句中时态为一般过去时，故用 was。</strong></font>
 
@@ -9197,7 +10049,7 @@
 
    <font color=red><strong>paid off</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>pay off“取得成功,奏效”</strong></font>
 
@@ -9207,7 +10059,7 @@
 
    <font color=red><strong>had known</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由would have stayed可知,此处表示与过去事实相反的假设,条件从句应用过去完成时。</strong></font>
 
@@ -9219,7 +10071,7 @@
 
    <font color=red><strong>such fine/good weather</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>此处被修饰的中心词为不可数名词weather,故用such fine/good weather。"such" 用作形容词修饰名词 "weather"，表示天气的性质或特征，强调天气的好。这种结构是 "such + 形容词 + 名词"。</strong></font>
 
@@ -9248,7 +10100,7 @@
 
    <font color=red><strong>came the time</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示时间的副词置于句首时，子用全部倒装;由 had been looking...可知，此处表示过去发生的动作,故用一般过去时。</strong></font>
 
@@ -9258,7 +10110,7 @@
 
    <font color=red><strong>the directors of which/whose directors</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>非限制性定语从句的先行词是two movies,引导词在从句中作directors 的定语,故用the directors of which相当于whose directors。</strong></font>
 
@@ -9272,7 +10124,7 @@
 
    <font color=red><strong>under discussion</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>under discussion“正在讨论中”,为固定搭配。</strong></font>
 
@@ -9286,7 +10138,7 @@
     
     <font color=red><strong>to be accomplished</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>project与accomplish是逻辑上的被动关系，且表示发生在将来的动作,故用不定式的被动式作定语。</strong></font>
     
@@ -9304,7 +10156,7 @@
 
    <font color=red><strong>were told to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>the peasants与tell之间是被动关系,故用被动语态，主语为 peasants,且句中时态为一般过去时,故用were told to.</strong></font>
 
@@ -9316,7 +10168,7 @@
 
    <font color=red><strong>were able to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由意可知，此处表示过去成功地做到了某事,故用were able to。</strong></font>
 
@@ -9328,7 +10180,7 @@
 
    <font color=red><strong>remind me of</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>remind sb. of sth.“提醒某人某事”。</strong></font>
 
@@ -9338,7 +10190,7 @@
 
    <font color=red><strong>did she smile</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>nor ：conj. 也不（通常与 neither 连用）； （用于肯定动词前，表示同意刚提及的否定命题）也不。否定词nor置于句首，句子用部分倒装，“nor十助动词十主语”表示前面的否定情况也适用于后者。</strong></font>
 
@@ -9348,7 +10200,7 @@
 
    <font color=red><strong>would have known</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>条件何表示与过去事实相反的假设，主句谓语动词用would have done的形式。</strong></font>
 
@@ -9358,7 +10210,7 @@
 
    <font color=red><strong>where/on which you can chat</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>定语从句的先行词是 QQ,且从句意义上缺少地点状语，故用where引导，相当于 on which.</strong></font>
 
@@ -9368,7 +10220,7 @@
 
    <font color=red><strong>who likes</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>定语从句的先行词为the only one,从何中缺少主语,故用who引导，不可用 that;当先行词被the only修饰时,从句中的谓语动词用单数。</strong></font>
 
@@ -9398,7 +10250,7 @@
 
    <font color=red><strong>(any) worse</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意可知此处表示最高级意义“最差的”在否定句中常用比较级表示最高级意义。</strong></font>
 
@@ -9408,7 +10260,7 @@
 
    <font color=red><strong>check</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>them和check是逻辑上的主动关系，且表示动作的全过程，故用不带to的不定式作宾语补足语。</strong></font>
 
@@ -9431,7 +10283,7 @@
     
     <font color=red><strong>was aware of</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>be aware of“注意到，觉察到”。</strong></font>
     
@@ -9449,7 +10301,7 @@
 
    <font color=red><strong>as he is</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>此句为as引导的让步状语从句,从句中的表语需要提到as之前。</strong></font>
 
@@ -9459,7 +10311,7 @@
 
    <font color=red><strong>do</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>make sb.do“使某人做某事”,不带to的不定式作宾语补足语。</strong></font>
 
@@ -9469,7 +10321,7 @@
 
    <font color=red><strong>that/which they reached</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>定语从句的先行词是the lowest level of the site,并在从句中作reached的宾语,故用that或which引导。</strong></font>
 
@@ -9479,7 +10331,7 @@
 
    <font color=red><strong>is canceled</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>toll与cancel是逻辑上的被动关系，且表示目前的事实，故用一般现在时的被动语态。</strong></font>
 
@@ -9489,7 +10341,7 @@
 
    <font color=red><strong>a happier</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意可知,此处表示最高级意义,在否定句中常用比较级表示最高级意义,此处表示泛指意义，应用a happier.</strong></font>
 
@@ -9499,7 +10351,7 @@
 
    <font color=red><strong>would go skiing</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示过去的习惯,用would;go skiing“滑雪”。</strong></font>
 
@@ -9509,7 +10361,7 @@
 
    <font color=red><strong>to discover</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由意可知，把作业落在家里”表示意料之外的结果,且发生在主句谓语之后,故用不定式的一般式。</strong></font>
 
@@ -9519,7 +10371,7 @@
 
    <font color=red><strong>in front of </strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>in front of“在......前面”</strong></font>
 
@@ -9529,7 +10381,7 @@
 
    <font color=red><strong>did I feel</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>在so...that...引导的结果状语从句中，so修饰的形容词或副词置于句首时,句子要用部分倒装。</strong></font>
 
@@ -9539,7 +10391,7 @@
     
     <font color=red><strong>are discussing</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>当主语后有along with...短语修饰时,谓语动词不受该短语的影响，仍然与主语保持一致,故用复数形式,由句意及时间状语可知用现在进行时。</strong></font>
     
@@ -9574,7 +10426,7 @@
 
    <font color=red><strong>to have contributed to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>be reported to do“据报道......”,为固定用法contribute to发生在主句谓语动词之前,故用不定式的完成式。</strong></font>
 
@@ -9584,7 +10436,7 @@
 
    <font color=red><strong>had taken</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>take everything into consideration是发生在过去动作made之前的动作，故用过去完成时。</strong></font>
 
@@ -9620,7 +10472,7 @@
 
    <font color=red><strong>is bamboo</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>百分数修饰的名词作主语时，其谓语动词由修饰的名词决定,此处由diet决定,故用单数形式，且表示一种事实,用一般现在时。</strong></font>
 
@@ -9650,7 +10502,7 @@
 
    <font color=red><strong>better received</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意可知，此处表示最高级意义,在否定句中常用比较级表示最高级意义。</strong></font>
 
@@ -9662,11 +10514,9 @@
 
    BC省温哥华市是一个美丽的城市，春节期间我去那里旅游了两天。
 
-   in which
-
    <font color=red><strong>to which</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>非限制性定语从句的先行词是Xiamen,并在从句中作paid a two day visit的宾语，由pay a visit to可知此处用to which引导。</strong></font>
 
@@ -9678,7 +10528,7 @@
 
    <font color=red><strong>picked out</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>pick out“辨认出”。</strong></font>
 
@@ -9688,7 +10538,7 @@
 
    <font color=red><strong>must talk</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意可知,表示“非要，偏要”,用 must。</strong></font>
 
@@ -9698,7 +10548,7 @@
 
    <font color=red><strong>in turn</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>in turn“依次”。</strong></font>
 
@@ -9708,7 +10558,7 @@
 
    <font color=red><strong>have I found</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示否定意义的副词放在首时，句子要用部分倒装;此处表示到现在为止的动作,故用现在完成时。</strong></font>
 
@@ -9722,7 +10572,7 @@
     
     <font color=red><strong>how was it</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>本句是强调句式的特殊疑问句式“特殊疑问词+is/was十it+that+其他成分”,强调方式状语，故用how引导。</strong></font>
     
@@ -9742,7 +10592,7 @@
 
    <font color=red><strong>Not realizing</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>Jeff与realize是逻辑上的主动关系，故用动词-ing 形式作状语,表示主动、进行意义，其否定形式是在其前加not.</strong></font>
 
@@ -9754,7 +10604,7 @@
 
    <font color=red><strong>on my way to school</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>on one's way to...“在某人去·.....的路上”。</strong></font>
 
@@ -9764,7 +10614,7 @@
 
    <font color=red><strong>might/may not have heard</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示对过去发生的情况把握性不大的推测,用might/may not have heard.</strong></font>
 
@@ -9776,7 +10626,7 @@
 
    <font color=red><strong>which worries his mother</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>非限制性定语从的先行词是前面的整个句子,引导词在从句中作主语，故用which;worry sb.“使某人担心”,句中时态为一般现在时,故此处也用一般现在时。</strong></font>
 
@@ -9808,7 +10658,7 @@
 
    <font color=red><strong>refer to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>refer to“参考,查看,查阅”。</strong></font>
 
@@ -9821,7 +10671,7 @@
 
    <font color=red><strong>even more than</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意可知，此处表示比较意义，且表示“比··.···还要重”,修饰weight 用much,其比较级是more,故用even more than。</strong></font>
 
@@ -9831,7 +10681,7 @@
 
    <font color=red><strong>are not allowed</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>lie detector tests与allow之间是被动关系且句意表示否定,故用其被动语态的否定形式。</strong></font>
 
@@ -9845,7 +10695,7 @@
 
    <font color=red><strong>It was at that school</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由意及句子结构可知此为 It is/was...that...强调句,强调地点状语at that school,且句中时态为一般过去时。</strong></font>
 
@@ -9855,7 +10705,7 @@
 
    <font color=red><strong>did I experience</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>only修饰的状语从置于首时，主句要用部分倒装;且由句意可知,描述过去发生的事实,故用一般过去时。</strong></font>
 
@@ -9890,7 +10740,7 @@
     
     <font color=red><strong>was taken</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>“a great deal十不可数名词”作主语时,谓语动词用单数形式,rice与take之间是被动关系，且由时间状语yesterday可知用一般过去时，故用一般过去时的被动语态。</strong></font>
     
@@ -9980,7 +10830,7 @@
 
    <font color=red><strong>Being needed</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>逻辑主语one与need是逻辑上的被动关系且表示一般的事实，故用动词-ing 形式的被动式作主语。</strong></font>
 
@@ -9990,7 +10840,7 @@
 
    <font color=red><strong>more real</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意及than可知，此处表示比较意义,表示“低成本电影”比“好莱坞电影”更真实，用more real than。</strong></font>
 
@@ -10016,7 +10866,7 @@
 
    <font color=red><strong>can be very cold</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>can表推测用于肯定时表示偶然的情况或一时的可能性，意为“有时会”。</strong></font>
 
@@ -10026,7 +10876,7 @@
 
    <font color=red><strong>what worries the public</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表语从句的引导词在句中作主语故用what。worry sb.“使某人担心”根据句中时态，此处用一般现在时。</strong></font>
 
@@ -10052,7 +10902,7 @@
 
    <font color=red><strong>by drawing pictures</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>by表示方法时，侧重某种方法手段其后接动词-ing形式。</strong></font>
 
@@ -10062,7 +10912,7 @@
 
    <font color=red><strong>arrived in</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>arrive in后接表示大地方的地名，根据句意arrive 表示的动作发生在过去，故用一般过去时。</strong></font>
 
@@ -10076,7 +10926,7 @@
 
    <font color=red><strong>was delivered</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>the package与deliver之间是被动关系，且该被动动作发生在过去,故用一般过去时的被动语态。</strong></font>
 
@@ -10086,7 +10936,7 @@
 
    <font color=red><strong>would he do it</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示否定意义的介词短语置于句首时，句子用部分倒装;且表示从过去看来将要发生的动作,故用过去将来时。</strong></font>
 
@@ -10096,7 +10946,7 @@
 
    <font color=red><strong>remain</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>and连接的两个名词性从句作主语，表示两件事情谓语动词用复数形式，remain没有进行时和被动式。</strong></font>
 
@@ -10106,7 +10956,7 @@
 
     <font color=red><strong>who it is</strong></font>
 
-    **解析：**
+    <strong>解析：</strong>
 
     <font color=red><strong>宾语从句是强调句的特殊疑问句“疑园词+is it...that...”,宾语从句中要用陈述语序。</strong></font>
 
@@ -10122,7 +10972,7 @@
 
    <font color=red><strong>to improving</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>devote...to...“把.....·贡献于......”,其中to是介词,后接动词-ing形式。</strong></font>
 
@@ -10135,7 +10985,7 @@
 
    <font color=red><strong>will have left</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>“打包物品”是将来的动作，“飞机起飞”表示到将来某个时间已完成的动作,故用将来完成时。</strong></font>
 
@@ -10145,7 +10995,7 @@
 
    <font color=red><strong>more expensive</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由of the two cups及意可知，此处暗含两个杯子的比较,故用比较级形式，expensive的比较级形式为more expensive。</strong></font>
 
@@ -10159,7 +11009,7 @@
 
    <font color=red>**faster**</font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由句意可知,用比较级faster,表示“更快一些”。</strong></font>
 
@@ -10169,7 +11019,7 @@
 
    <font color=red><strong>suffering from</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>victims和suffer为主动关系，故用动词-ing形式作补足语;suffer from“遭受,饱受”。</strong></font>
 
@@ -10179,7 +11029,7 @@
 
    <font color=red><strong>(should) pay</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示“命令”的order后的宾语从句中用虚拟语气,谓语动词用“should+动词原形”,should可以省略。</strong></font>
 
@@ -10199,7 +11049,7 @@
 
    <font color=red><strong>who is responsible for</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>引导词在同位语从中作主语，指人,故用 who;be responsible for“为··...·负责”</strong></font>
 
@@ -10214,7 +11064,7 @@
 
    <font color=red><strong>is prohibited</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>当主语后面有including短语时,谓语动词不受该短语的影响，仍与主语保持一致，此处主语是动名词短语smoking in all public places,谓语动词用单数形式;表示一般事实用一般现在时。</strong></font>
 
@@ -10224,7 +11074,7 @@
 
    <font color=red><strong>Is it the price that</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>强调句的一般疑问句式为“Is/Was it...that/who...?”,被强调的是主语the price that you see ont he gift receipt.</strong></font>
 
@@ -10234,7 +11084,7 @@
     
     <font color=red><strong>will you abandon</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>under no circumstance“无论如何”,置于句首时,句子用部分倒装;根据句意助动词用will。</strong></font>
     
@@ -10257,7 +11107,7 @@
 
    <font color=red><strong>come across</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>come across“遇到”。</strong></font>
 
@@ -10269,7 +11119,7 @@
 
    <font color=red><strong>has been looking</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由时间状语for three days可知，此处表示从过去某时开始一直延续到现在且还有可能继续下去的动作,应用现在完成进行时。</strong></font>
 
@@ -10279,7 +11129,7 @@
 
    <font color=red><strong>Regardless of</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>regardless of“不考虑”；make sense  有意义；</strong></font>
 
@@ -10349,7 +11199,7 @@
 
    <font color=red><strong>a more interesting</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>比较级用于否定中表示最高级意义。</strong></font>
 
@@ -10381,7 +11231,7 @@
 
    <font color=red><strong>(In order/So as) not to regret</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由时间状语 in the future可知，“不留遗憾”发生在将来,many students和regret为逻辑上的主动关系，故用不定式作目的状语;也可用In order/So as not to regret.</strong></font>
 
@@ -10451,7 +11301,7 @@
 
    <font color=red><strong>must have driven</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>对过去情况的肯定推测用must have done.</strong></font>
 
@@ -10461,7 +11311,7 @@
 
    <font color=red><strong>how to solve</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>宾语从句中的引导词在从句中作方式状语故用how，此处为“疑问词十不定式”作宾语。</strong></font>
 
@@ -10473,7 +11323,7 @@
 
    <font color=red><strong>has been quizzed</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>根据时间状语so far（到目前为止）可知子用现在完成时，主语后有along with...短语,谓语动词的单复数形式要取决于主语句子的主语是more than one student,谓语动词应用单数，且student与quiz之间是被动关系，故用被动语态。</strong></font>
 
@@ -10526,7 +11376,7 @@
 
    <font color=red><strong>that show</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>强调句式为“It be..:that/who”被强调的是主语，其中的that不能被其他词代替。</strong></font>
 
@@ -10538,7 +11388,7 @@
     
     <font color=red><strong>can you see</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>only 修饰状语从句置于句首时，主用部分倒装，此处陈述的是客观事实,应用一般现在时。</strong></font>
     
@@ -10576,7 +11426,7 @@
 
    <font color=red><strong>get over</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>get over“克服,从·....·中恢复”</strong></font>
 
@@ -10592,7 +11442,7 @@
 
    <font color=red><strong>has faced the challenge of</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>根据时间状语up to now 可知，句子用现在完成时,face the challenge of...“面临·.····的挑战”。</strong></font>
 
@@ -10643,7 +11493,7 @@
 
    <font color=red><strong>in return</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>in return“作为回报”。</strong></font>
 
@@ -10655,7 +11505,7 @@
 
    <font color=red><strong>the higher the price is</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>本句是“the十比较级...，the十比较级...”的形式。</strong></font>
 
@@ -10667,7 +11517,7 @@
 
    <font color=red><strong>Cooled/If (it is) cooled</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>this kind of steel和cool为被动关系,故用动词-ed形式作状语,相当于if it is cooled,主从句主语一致，且含有 be 动词,可以省略“主语+be 的形式”。</strong></font>
 
@@ -10677,7 +11527,7 @@
 
    <font color=red><strong>(should) learn</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>在It is necessary/strange/natural that...这类句型中,that引导的主语从句中用虚拟语气，谓语动词用“should十动词原形”,should 可以省略。</strong></font>
 
@@ -10687,7 +11537,7 @@
 
    <font color=red><strong>that we got lost</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>that引导同位语从句,解释说明story的具体内容,that在从句中不充当成分，只起连接作用;get lost“迷路”。</strong></font>
 
@@ -10697,7 +11547,7 @@
 
    <font color=red><strong>determine</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>either...or...连接的并列成分作主语时,谓语动词要与最靠近的名词保持一致，此处应与surroundings一致,谓语动词用复数形式;且表示一般事实,用一般现在时。</strong></font>
 
@@ -10715,7 +11565,7 @@
 
    <font color=red><strong>How is it that</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>强调的特殊疑问句式为“特殊疑问词+is/was+it+that/who...?”,此处是对方式状语进行强调，故用how。</strong></font>
 
@@ -10725,7 +11575,7 @@
 
     <font color=red><strong>can this medicine</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>only强调状语置于句首时句子用部分倒装。</strong></font>
     
@@ -10743,7 +11593,7 @@
 
    <font color=red><strong>stand for</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>stand for“代表;象征”</strong></font>
 
@@ -10791,7 +11641,7 @@
 
    <font color=red><strong>was adopted</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>主语a new approach和adopt为逻辑上的被动关系。由时间状语the other day可知，动作发生在过去故用一般过去时的被动语态。</strong></font>
 
@@ -10829,7 +11679,7 @@
 
    <font color=red><strong>in possession of</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>in possession of“藏有·.....”。</strong></font>
 
@@ -10847,7 +11697,7 @@
 
    <font color=red><strong>better off</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由后面的than可知应用比较级，而由got a well-paid job可知应用well off“富裕的”，其比较级为better off.</strong></font>
 
@@ -10857,7 +11707,7 @@
 
    <font color=red><strong>to find</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>不定式作结果状语,常表示出人意料的结果，尤其与only连用时。</strong></font>
 
@@ -10869,7 +11719,7 @@
 
    <font color=red><strong>should have finished</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>should have done 表示“本该做···..·实际上没做”。</strong></font>
 
@@ -10879,7 +11729,7 @@
 
    <font color=red><strong>which is not far from/being not far from</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>非限制性定语从句的先行词是the Garden Hotel,引导词在从中作主语，故用which;which is not far from相当于 being not far from.</strong></font>
 
@@ -10889,7 +11739,7 @@
 
    <font color=red><strong>are all very important</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>并列的动名词作主语,表示不同的事情,故谓语动词用复数;表示客观事实用一般现在时。</strong></font>
 
@@ -10901,7 +11751,7 @@
 
    <font color=red><strong>didn't mean giving up</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>mean 意为“意味着”时,后跟动词-ing形式作宾语;give up“放弃”。</strong></font>
 
@@ -10920,7 +11770,7 @@
 
     <font color=red><strong>do they stop</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>否定词seldom置于句首时，子用部分倒装,且此处表示一个客观事实,故用一般现在时。</strong></font>
     
@@ -10938,7 +11788,7 @@
 
    <font color=red><strong>caught my attention</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>catch one's attention“引人注意”,由时间状语可知用一般过去时。</strong></font>
 
@@ -10948,7 +11798,7 @@
 
    <font color=red><strong>make</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>主句用一般将来时,unless引导的条件状语从句常用一般现在时表示将来意义。</strong></font>
 
@@ -10958,7 +11808,7 @@
 
    <font color=red><strong>in response to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>in response to“回应”。</strong></font>
 
@@ -10976,7 +11826,7 @@
 
    <font color=red><strong>the fewest</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>根据all the girls 可知是三者或三者以上进行比较,用最高级。</strong></font>
 
@@ -10986,7 +11836,7 @@
 
    <font color=red><strong>to cross</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>被修饰词是序数词 the first,用不定式作定语。</strong></font>
 
@@ -10996,7 +11846,7 @@
 
    <font color=red><strong>shall not fire</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>shall用于第二、三人称作主语的陈述句中,表示命令、警告等。</strong></font>
 
@@ -11022,7 +11872,7 @@
 
    <font color=red><strong>that I have ever taught</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>定语从句的引导词在从句中作宾语，且先行词student被形容词最高级修饰，故用 that;根据句意用现在完成时。</strong></font>
 
@@ -11032,7 +11882,7 @@
 
    <font color=red><strong>was written</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>Great Expectations是专有名词,虽然形式上是复数形式,但表示单数意义,故谓语动词用单数形式，且与write之间是被动关系，由时间状语in 1860可知用一般过去时,故用一般过去时的被动语态。</strong></font>
 
@@ -11042,7 +11892,7 @@
 
    <font color=red><strong>who it was that</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>此为强调句的特殊疑问形式“疑问词(who)+is/was+it that,..”。句中时态为一般过去时，且宾语从句中用陈述语序。</strong></font>
 
@@ -11089,7 +11939,7 @@
 
     <font color=red><strong>have I felt</strong></font>
 
-    **解析：**
+    <strong>解析：</strong>
 
     <font color=red><strong>表示否定意义的seldom置于句首时,句子用部分倒装;由句意可知应用现在完成时,表示从过去开始一直持续到现在的动作或状态</strong></font>
     
@@ -11131,7 +11981,7 @@
 
    <font color=red><strong>which/that stands for the spirit; standing for the spirit</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>先行词为animal，可用which或that引导定语从句,也可以使用现在分词短语作后置定语。stand for“代表”</strong></font>
 
@@ -11141,7 +11991,7 @@
 
    <font color=red><strong>how to use the Internet</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>know后的宾语从句中用“疑问词+to do”作宾语;注意在名词Internet前常用定冠词the。</strong></font>
 
@@ -11153,7 +12003,7 @@
 
    <font color=red><strong>couldn't help crying</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>can't help doing sth.“禁不住做某事”此句中的时态为一般过去时,故用 couldn't。</strong></font>
 
@@ -11191,7 +12041,7 @@
 
    <font color=red><strong>arrange for him to meet</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>arrange for sb. to do sth.“安排人做某事”。</strong></font>
 
@@ -11203,7 +12053,7 @@
 
    <font color=red><strong>has trouble (in) eating and drinking</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>have trouble in doing sth.“做某事有困难”,in 可以省略。</strong></font>
 
@@ -11215,7 +12065,7 @@
 
    <font color=red><strong>was not until two months later</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>It is not until... that ..“.....·时候才......”。该句型中,until要放在be动词之后。注意句中的that不可省略。</strong></font>
 
@@ -11256,7 +12106,7 @@
 
    <font color=red><strong>would have had a dinner</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>根据前面从中的had not been,可知是与过去的事实相反，主句谓语动词用would have done的形式。</strong></font>
 
@@ -11288,7 +12138,7 @@
 
    <font color=red><strong>it occurred to her</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>occur 作“突然想起”讲时，常用于it occurs to sb.that句型中。</strong></font>
 
@@ -11304,7 +12154,7 @@
 
    <font color=red><strong>would rather be remembered</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>remember和Alexander Bell之间是逻辑上的动宾关系，用被动语态。would rather... than... “宁可……也不……”</strong></font>
 
@@ -11336,7 +12186,7 @@
     
     <font color=red><strong>from being frozen</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>prevent...from doing“防止·.....做某事”，freeze与the seeds之间为逻辑上的动宾关系,故应用动名词的被动语态形式。</strong></font>
     
@@ -11362,7 +12212,7 @@
 
    <font color=red><strong>I have visited</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表达“这是某人第几次做某事”常用this is/wasthe first/second/last...time that 十主语十完成时态结构。</strong></font>
 
@@ -11372,19 +12222,37 @@
 
    <font color=red><strong>will be waiting for you</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>根据意，在将来的某个时间正在做某事,应用将来进行时。</strong></font>
 
 3. Not only<u><font color=red><strong>    did they tell us        </strong></font></u>what had happened in the accident, they also told us what measures they had taken. (tell)
 
-   **他们不但告诉我们**事故中发生的事情,还告诉了我们他们所采取的措施。
+   **他们不但告诉我们**事故中发生的事情，还告诉了我们他们所采取的措施。
 
    <font color=red><strong>did they tell us</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>当not only位于首时，其后使用部分倒装。</strong></font>
+
+   **"Not only... but also..." 和 "Not only... also..." 都是表示并列关系的句型，但它们在用法上有一些区别。**
+
+   1. **"Not only... but also...": 这个句型用来强调两个或多个事物的同时存在，表达一个增强的意义。"Not only"引导第一个事物，"but also"引导第二个事物。**
+
+      **例句：**
+
+      - **She is not only intelligent but also kind-hearted.（她不仅聪明，而且善良。）**
+      - **The concert was attended not only by adults but also by children.（音乐会不仅有成年人参加，而且还有孩子参加。）**
+
+   2. **"Not only... also...": 这个句型也用来表达两个或多个事物的同时存在，但它没有使用 "but" 连接词，而是直接使用 "also" 来连接第二个事物。**
+
+      **例句：**
+
+      - **He not only sings beautifully but also dances exceptionally well.（他不仅歌唱得很好，而且舞蹈也非常出色。）**
+      - **The book not only entertains but also educates the readers.（这本书不仅娱乐读者，而且还给他们带来教育。）**
+
+   **总结：虽然这两种句型都表示并列关系，但 "Not only... but also..." 结构更常用，尤其在形容词和副词修饰语的情况下。而 "Not only... also..." 结构在表示两个事物的同时存在时也是可以使用的，尤其在名词或动词短语的情况下。**
 
 4. Mr Li's house <u><font color=red><strong>    has been broken into         </strong></font></u>three times in the past two months, all resulting in great losses.(break)
 
@@ -11392,9 +12260,13 @@
 
    <font color=red><strong>has been broken into</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>根据句中的in the past two months可知，应使用现在完成时态;break into“破门而入”根据句意可知,应使用其被动语态。</strong></font>
+
+   **result in ：导致：表示某个行为或事件最终产生的后果或影响。**
+
+   **losses ：*n.*损失；损耗（loss 的复数）**
 
 5. If Jim had taken his parents' advice, the incident wouldn't <u><font color=red><strong>     have affected him so deeply        </strong></font></u>.(affect)
 
@@ -11402,9 +12274,28 @@
 
    <font color=red><strong>have affected him so deeply</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>根据前面条件从句中的had taken可知是与过去的事实相反，主句谓语动词用would have done的形式。</strong></font>
+
+   **"affect"、"effect" 和 "affort" 的区别。**
+
+   1. **affect（动词）：表示对某事物产生影响、改变或引起变化。**
+
+      **His words affected her deeply.（他的话对她产生了深远的影响。）**
+
+   2. **effect（名词）：表示行动、决策或事件所产生的结果、影响或后果。**
+
+      **The new policy had a positive effect on the company's profitability.（新政策对公司的盈利能力产生了积极的影响。）**
+
+   3. **effort（名词）：表示为实现某事而付出的努力、精力或行动。**
+
+      **He put a lot of effort into his research project.（他在研究项目上付出了很多努力。）**
+
+   **简要总结：**
+   - **"Affect" 是一个动词，表示影响、改变或引起变化。**
+   - **"Effect" 是一个名词，表示结果、影响或后果。**
+   - **"Effort" 是一个名词，表示付出的努力、精力或行动。**
 
 6. The agreement <u><font color=red><strong>     has raised the hope that     </strong></font></u> the war between the two countries may come to an end soon. (raise)
 
@@ -11412,7 +12303,7 @@
 
    <font color=red><strong>has raised the hope that</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>that引导同位语从句解释说明hope的内容;根据句意可知,主句用现在完成时态,强调事件对现在造成的影响。</strong></font>
 
@@ -11422,9 +12313,11 @@
 
    <font color=red><strong>in order to/so as to/to make sure that</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>不定式在这里用作目的状语相当于in order to或so as to;that引导宾语从句。</strong></font>
+
+   **correctly ：adv. 正确地；合适地；得体地**
 
 8. <u><font color=red><strong>       Not having passed         </strong></font></u>the driving test, the driver insisted on his being given another chance. (pass)
 
@@ -11432,7 +12325,7 @@
 
    <font color=red><strong>Not having passed</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>动词-ing形式的否定式要把not置于之前该动词所表示的动作发生在insisted之前,应用完成时。</strong></font>
 
@@ -11442,7 +12335,7 @@
 
    <font color=red><strong>do what he could to</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>do what sb. could to do sth..表示“尽某人的最大努力去做某事”。其中what he could.为宾语从句,could 后用不定式作目的状语。</strong></font>
 
@@ -11452,9 +12345,21 @@
     
     <font color=red><strong>hear English spoken/hear others speak English</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>动词 hear后应用过去分词或动词原形作宾语补足语。</strong></font>
+    
+    1. **first of all ：首先：表示在一系列事物中最先要考虑或处理的事物。**
+    
+       **First of all, let me ask you something.** 
+    
+       **首先，让我问你一件事。**
+    
+    2. **opportunity**
+    
+       ***n.*时机，机会**
+    
+       
 
 
 
@@ -11466,11 +12371,9 @@
 
    近来许多法国影片登陆中国，**带来了一种不同**于好莱坞影片的**风格**。
 
-   bringing a kind of different style 
-
    <font color=red><strong>bringing a different style/which brings a different style</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>many French films与bring之间是主动关系,故用动词-ing形式作状语;也可看成是非限制性定语从句,先行词是前面的整个句子,引导词用which,由句意可知用一般现在时。</strong></font>
 
@@ -11478,35 +12381,35 @@
 
    在炎热的夏季，许多市民都有**开着窗户**睡觉的习惯。
 
-   with opening the windows
-
    <font color=red><strong>with their/the windows open</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>此处是“with十名词+形容词”构成的独立主格结构作伴随状语。</strong></font>
 
+   **have the habit of ：有…的习惯**
+
 3. Bob is never ashamed of<u><font color=red><strong>     what he has done       </strong></font></u>，even if he ends up doing something wrong. (do)
 
-   鲍勃从不为**他做过的事**感到羞愧,即使在他做了错事的时候。
-
-   what he has done
+   鲍勃从不为**他做过的事**感到羞愧，即使他最后做了错事。
 
    <font color=red><strong>what he has done</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>由意可知of后的宾语从句的引导词用what,且时态用现在完成时。</strong></font>
+
+   **is ashamed of ：为......感到羞愧：对某人或某事感到羞耻或尴尬，**
+
+   **end up doing ：最终做：表示在一系列事件或过程之后，最后采取某种行动或达到某种结果。**
 
 4. Seldom<u><font color=red><strong>       have I got any news          </strong></font></u>about my friend Johnson since we graduated from college last year. (get)
 
    自从去年我们大学毕业后，**我**就很少**得到**我的朋友约翰逊的**任何消息。**
 
-   have I get messages
-
    <font color=red><strong>have I got any news</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>表示否定意义的seldom位于首时句子用部分倒装。根据后面的since可知，应用现在完成时。</strong></font>
 
@@ -11514,11 +12417,9 @@
 
    **她为了能**赶上第二天早上的早班车,露西把闹钟时间提前了半个小时。
 
-   In order to
-
    <font color=red><strong>In order that she could/can</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>in order that作目的状语,从句中的谓语常用can或could。</strong></font>
 
@@ -11526,11 +12427,9 @@
 
    这些孩子在毁坏了他们家园的这次地震中得以**幸存。**
 
-   to have survived from
-
    <font color=red><strong>to have survived</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>be lucky to do.·..··是幸运的”,根据句意及语境,应使用不定式的完成式。</strong></font>
 
@@ -11538,23 +12437,43 @@
 
    别着急。我们**很快**就会找出克服困难的办法的。
 
-   won't be long
-
    <font color=red><strong>won't be long before</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>It won't be long before表示“某事很快就会发生”。</strong></font>
+
+   "**Work" 是一个多功能的词汇，可以与其他词组合成多种词组。以下是一些类似于 "work out" 的常见词组：**
+
+   1. **Work out: 意为 "解决"、"计算"、"锻炼" 等。**
+      - **I need to work out a solution to this problem.（我需要找到这个问题的解决方案。）**
+      - **She works out at the gym three times a week.（她每周在健身房锻炼三次。）**
+
+   2. **Work on: 意为 "致力于"、"修复"、"处理" 等。**
+      - **He is working on a new project.（他正在致力于一个新项目。）**
+      - **The technicians are working on fixing the broken machine.（技术人员正在修理坏掉的机器。）**
+
+   3. **Work through: 意为 "克服"、"处理"、"逐步解决" 等。**
+      - **We need to work through these challenges together.（我们需要一起克服这些挑战。）**
+      - **She is working through her emotions after the loss.（她正在逐步处理失去后的情绪。）**
+
+   4. **Work up: 意为 "产生"、"激发"、"发展" 等。**
+      - **The movie worked up a lot of excitement among the audience.（这部电影在观众中引发了很大的兴奋。）**
+      - **He worked up the courage to ask her out.（他鼓起勇气邀请她出去。）**
+
+   5. **Work off: 意为 "消耗"、"锻炼" 等。**
+      - **He needs to work off the extra calories from the indulgent meal.（他需要消耗掉那顿奢侈大餐的多余卡路里。）**
+      - **She goes for a run to work off stress.（她去跑步来消除压力。）**
+
+   **这些是一些常见的以 "work" 开头的词组，它们在不同的语境中具有不同的意义和用法。**
 
 8. You can hardly imagine what great difficulty I have had <u><font color=red><strong>     trying to work out         </strong></font></u>the maths problem. (try)
 
    你无法想象我**试图解出**这道数学题时我遇到了多大的困难。
 
-   trying to solve
-
    <font color=red><strong>(in)trying to work out</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>“做某事有困难”常用have difficulty/trouble in doing sth.,in 可以省略;work out“计算出”;try to d“试图做某事”。</strong></font>
 
@@ -11562,23 +12481,21 @@
 
    我不得不时刻提醒自己，自信和**完美**并不是**一回事。**
 
-   as same as perfect
-
    <font color=red><strong>the same as being perfect</strong></font>
 
-   **解析：**
+   <strong>解析：</strong>
 
    <font color=red><strong>the same as being perfect在句中作表语，且连词as后面的成分应同宾语从句的主语being confident保持一致。</strong></font>
 
+   **constantly *adv.*总是，经常地，不断地**
+
 10. You ought to<u><font color=red><strong>        have been present            </strong></font></u>at the meeting yesterday ,for it was considered of great importance.(present)
 
-    你本该**出席**昨天的会议，因为它被认为是一一次极其重要的会议。
-    
-    have been present
+    你本该**出席**昨天的会议，因为它被认为是一次极其重要的会议。
     
     <font color=red><strong>have been present</strong></font>
     
-    **解析：**
+    <strong>解析：</strong>
     
     <font color=red><strong>ought to have done sth.表示“本应该做某事”;be present“出席,到场”。</strong></font>
 
@@ -11588,45 +12505,213 @@
 
 ## lesson 81
 
-1. Philip seemed<u><font color=red><strong>              </strong></font></u>to Jane. He knew her well. ( introduce)
+1. Philip seemed<u><font color=red><strong>      to have been introduced        </strong></font></u>to Jane. He knew her well. (introduce)
 
    菲利普似乎**已经被介绍**给了简。他很了解她。
 
-2. The two high officials' <u><font color=red><strong>              </strong></font></u>has caused a stir among the common public. ( arrest)
+   <font color=red><strong>to have been introduced</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>seem常和不定式搭配;根据句意可知，此处应用被动语态;根据后一句可知,不定式所表示的动作已经完成,故用完成时。</strong></font>
+
+2. The two high officials' <u><font color=red><strong>      being arrested        </strong></font></u>has caused a stir among the common public. (arrest)
 
    这两个高官的**被捕**已经在民众中引起了轰动。
 
-3. Thank goodness for poetry, without which I<u><font color=red><strong>          </strong></font></u>so wonderful a childhood. ( spend)
+   <font color=red><strong>being arrested</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>空格前为名词的所有格，故后面应跟动词-ing形式;arrest 和 officials 为逻辑上的动宾关系，故用动词-ing形式的被动式。</strong></font>
+
+   **official  ：n. 裁判，官员；行政人员**
+
+   **stir ：v. 搅拌，搅和（液体等物质）；激发，打动；（情感）逐渐产生，萌发；（使）行动，活动；（使）微动；离开；**
+
+   **n. 搅动，搅拌；激动（情绪），愤怒（情绪）；微动，颤动；轻微的感觉；监狱**
+
+3. Thank goodness for poetry, without which I<u><font color=red><strong>    couldn't  have spent      </strong></font></u>so wonderful a childhood. (spend)
 
    感谢诗歌，没有它我**不会度过**如此美好的童年。
 
-4. At first, they took it for granted that <u><font color=red><strong>             </strong></font></u>the library. (access)
+   <font color=red><strong>couldn't/wouldn't have spent</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>根据前面的without和何意可知,此处是与过去事实相反的假设,故主句谓语动词用could/would have done.</strong></font>
+
+   **goodness ：n. 善良，美德；（尤指食物中的）营养，精华**
+
+   **Thank goodness ：谢天谢地：表示庆幸、感激的一种说法，用于在遇到好事或者避免了坏事时表示感激。**
+
+   **wonderful ：adj. 绝妙的，令人惊叹的，极好的**
+
+4. At first, they took it for granted that <u><font color=red><strong>      everyone had free access to       </strong></font></u>the library. (access)
 
    起初,他们想当然地认为**每个人**都可以**免费使用**图书馆。
 
-5. We accepted the invitation. Only later<u><font color=red><strong>              </strong></font></u>it might be a trap. ( suspect)
+   <font color=red><strong>everyone had free access to</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>take it for granted that...是固定句式,表示“认为·..···是理所当然的”,it在句中作形式宾语,真正的宾语为后面的that从句,此处that不能省略。</strong></font>
+
+   **have access to ：有权使用：指可以使用或接触到某种资源、设施或信息。**
+
+   **have free access to ：免费使用：指可以随意使用某物或某种资源，无需支付费用。**
+
+5. We accepted the invitation. Only later<u><font color=red><strong>      did we suspect        </strong></font></u>it might be a trap. (suspect)
 
    我们接受了邀请。只是到后来**我们怀疑**它是一个圈套。
 
-6. The National Development and Reform Commission<u><font color=red><strong>           </strong></font></u>the trend of the food prices recently. (follow)
+   <font color=red><strong>did we suspect</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>only修饰的状语位于句首时，其后的句子要用部分倒装。</strong></font>
+
+   **accepted ：adj. 公认的，为公众所接受的；v. 接受；相信，认为……正确；同意（accept 的过去式和过去分词形式）**
+
+   **invitation ：*n.*邀请；引起，招致；（尤指正式地）征求，请求；请帖，请柬**
+
+   **invite ：*v.*邀请，约请；征求，请求；引起，招致；*n.*<非正式>请柬，请帖**
+
+   **inviter ：*n.*邀请者**
+
+   **only later ：仅在以后：表示某事只在稍后的时间发生，通常用于强调某事并非立即发生。**
+
+6. The National Development and Reform Commission<u><font color=red><strong>     has been following      </strong></font></u>the trend of the food prices recently. (follow)
 
    最近,国家发展和改革委员会**一直在跟踪**食品价格的走势。
 
-7. On account of the upward oil price,it<u><font color=red><strong>             </strong></font></u>that people should share their cars and give each other lifts. (suggest)
+   <font color=red><strong>has been following</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示从过去某个时间开始一直持续到现在的动作应用现在完成进行时。</strong></font>
+
+   **Commission ：n. 考察团，委员会；佣金，回扣；犯罪；委托，命令；（军队中的）官职，军衔；v. 委托撰写，委托制作；委任，**
+
+   **trend ：n. 趋势，动态；时尚，风尚；热门话题**
+
+7. On account of the upward oil price,it<u><font color=red><strong>      has been suggested       </strong></font></u>that people should share their cars and give each other lifts. (suggest)
 
    由于石油价格上涨,**已建议**人们合用汽车，让彼此搭顺路车。
 
-8. I called the clothing agent <u><font color=red><strong>            </strong></font></u>on the Internet. (find)
+   <font color=red><strong>has been suggested</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>根据提示可知,该动作已经发生并强调对现在的影响,故用现在完成时;suggest与it为逻辑上的动宾关系,故用被动语态。</strong></font>
+
+   **give sb a lift ：搭便车：为某人提供便利的交通方式，通常是让他们搭乘自己的汽车。**
+
+   **英语中表示原因的短语有很多，以下是一些常用的短语以及它们的用法：**
+
+   1. **Due to（由于）：常用于正式文体中，后面接名词或名词短语作为原因。**
+      - **Due to bad weather, the flight was delayed.（由于天气恶劣，航班延误了。）**
+      - **The cancellation of the event was due to lack of funding.（活动取消是因为资金不足。）**
+
+   2. **Because of（因为）：用于口语和书面语中，后面接名词、代词、动名词或从句作为原因。**
+      - **He couldn't attend the party because of a prior commitment.（他因为有其他约定不能参加派对。）**
+      - **The project was delayed because of technical difficulties.（由于技术困难，项目延迟了。）**
+      - **They had to leave early because of the heavy traffic.（由于交通拥堵，他们不得不提前离开。）**
+
+   3. **As a result of（由于，结果）：常用于正式文体中，后面接名词或名词短语作为原因。**
+      - **As a result of the economic crisis, many people lost their jobs.（由于经济危机，很多人失业了。）**
+      - **The company's profits have increased as a result of the new marketing strategy.（由于新的营销策略，公司的利润增加了。）**
+
+   4. **Owing to（由于）：与"due to"相似，后面接名词或名词短语作为原因。**
+      - **The match was canceled owing to bad weather.（由于天气恶劣，比赛取消了。）**
+      - **Owing to his lack of experience, he was not hired for the job.（由于缺乏经验，他没有被录用。）**
+
+   5. **Thanks to（多亏了）：表示积极的原因，后面接名词或名词短语作为原因。**
+      - **Thanks to your help, I was able to finish the project on time.（多亏了你的帮助，我能够按时完成项目。）**
+      - **Thanks to modern technology, communication has become much easier.（多亏了现代技术，交流变得更加容易了。）**
+
+   **这些短语后面可以接名词、代词、动名词或从句，具体的选择取决于上下文和句子的结构。如果要表达详细的原因或解释，可以使用从句作为后面的内容。如果只需要简单地说明原因，可以使用名词、代词或动名词。**
+
+   **例如，下面是一些例句：**
+
+   - **Because of the heavy rain, the outdoor concert was canceled.（由于大雨，户外音乐会被取消了。）（名词）**
+   - **She couldn't attend the meeting due to a family emergency.（由于家庭紧急情况，她无法参加会议。）（名词）**
+   - **As a result of his hard work, he got promoted.（由于他的努力工作，他得到了晋升。）（名词）**
+   - **Owing to the power outage, the entire city was in darkness.（由于停电，整个城市都陷入黑暗之中。）（名词）**
+   - **Thanks to her excellent negotiation skills, the deal was successful.（多亏了她出色的谈判技巧，这笔交易取得了成功。）（名词）**
+   - **The match was postponed because of the bad weather.（由于天气恶劣，比赛被推迟了。）（动名词）**
+   - **He was late for work due to heavy traffic.（由于交通堵塞，他上班迟到了。）（动名词）**
+   - **Thanks to the new software, our productivity has significantly increased.（多亏了新软件，我们的生产力显著提高了。）（动名词）**
+   - **The team lost the game as a result of poor performance.（由于表现不佳，这个团队输掉了比赛。）（从句）**
+   - **They had to cancel the event because of a lack of funding.（由于资金不足，他们不得不取消活动。）（从句）**
+
+   
+
+   **在英语中，有许多短语可以用来引导原因状语从句，表示"因为"或"由于"等说明原因的关系。这些短语在不同的语境中有不同的应用场景和特点。下面是一些常见的短语，以及它们的应用场景和特点，并附上例句：**
+
+   1. **Because（因为）：**
+      - **应用场景："Because" 是最常用的引导原因状语从句的短语，适用于各种场合。**
+      - **特点：直接、简洁，常用于句首或句中。**
+      - **例句：I couldn't attend the meeting because I had a doctor's appointment.**
+      **（我因为有个医生约会而无法参加会议。）**
+   2. **Since（因为）：**
+      - **应用场景：常用于口语和书面语中，表示已知的事实或原因。**
+      - **特点：语气较为委婉，也可以表示推理或暗示。**
+      - **例句：Since it's raining, we should stay indoors.**
+      **（由于下雨，我们应该呆在室内。）**
+   3. **As（由于）：**
+      - **应用场景：常用于口语和书面语中，表示已知的原因。**
+      - **特点：强调原因，常用于句首。**
+      - **例句：As he didn't study for the exam, he failed.**
+      **（由于他没有为考试学习，所以他没通过。）**
+
+   **这些短语在不同的语境中有不同的应用场景和语气，根据具体情况选择合适的短语可以更准确地表达原因关系。**
+
+8. I called the clothing agent <u><font color=red><strong>     whose phone number I found       </strong></font></u>on the Internet. (find)
 
    我给在网上**找到**了**其电话号码**的服装代理商打电话。
 
-9. At the Asian Games in Guangzhou, China got nearly<u><font color=red><strong>                </strong></font></u>gold medals as Japan. (many)
+   <font color=red><strong>whose phone number I found/whose phone number I had found</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>whose引导定语从句，修饰先行词agent;此处可以只是陈述“发现电话号码”这件过去发生的事情,也可以强调其在“打电话”前已经完成,故既可用一般过去时,也可用过去完成时。</strong></font>
+
+9. At the Asian Games in Guangzhou, China got nearly<u><font color=red><strong>        four times as many        </strong></font></u>gold medals as Japan. (many)
 
    在广州亚运会上,中国获得的金牌数几乎**是**日本的**四倍多。**
 
-10. Production of wine is almost completely European, with France<u><font color=red><strong>             </strong></font></u>40%. (account)
+   <font color=red><strong>four times as many</strong></font>
 
-    葡萄酒的生产几乎都在欧洲,法国就**占**了40%。
+   <strong>解析：</strong>
+
+   <font color=red><strong>由题干中的as可知，此处应用“倍数+as...as...”结构。</strong></font>
+
+   **在英语中，我们可以使用"倍数+as...as..."的结构来进行比较，表示两个事物在数量或程度上的相等或相似关系。这个结构通常用于形容词和副词的比较，可以帮助我们表达两个事物之间的相似性或相等性。下面是一些示例和用法解释：**
+
+   1. **形容词的比较：**
+      - **My new car is twice as expensive as my old one.（我的新车比旧车贵两倍。）**
+      - **This book is three times as interesting as the one I read last week.（这本书比我上周读的那本有趣三倍。）**
+      - **She is twice as tall as her younger sister.（她比她妹妹高两倍。）**
+
+   2. **副词的比较：**
+      - **He runs twice as fast as I do.（他跑得比我快两倍。）**
+      - **The new computer works three times as efficiently as the old one.（新电脑的工作效率是旧电脑的三倍。）**
+      - **She speaks English twice as fluently as her brother.（她讲英语比她弟弟流利两倍。）**
+
+   **这个结构中，倍数通常用基数词（如twice、three times、four times等），后面接"as...as..."来表达相等或相似的程度。"as"后面的词可以是形容词、副词、形容词短语或副词短语。**
+
+   **需要注意的是，这个结构中"as"前后的词形式需要保持一致。如果要表示不等关系，可以使用"倍数+比较级"的结构，例如："My new car is twice more expensive than my old one."（我的新车比旧车贵两倍多。）**
+
+10. Production of wine is almost completely European, with France<u><font color=red><strong>     accounting for        </strong></font></u>40%. (account)
+
+    葡萄酒的生产几乎都在欧洲，法国就**占**了40%。
+    
+    <font color=red><strong>accounting for</strong></font>
+    
+    <strong>解析：</strong>
+    
+    <font color=red><strong>根据题于中的with及France与account是逻辑上的主谓关系可知,此处应用“with十主语十动词-ing形式”;account for“在数量或比例上占”。</strong></font>
 
 
 
@@ -11634,45 +12719,184 @@
 
 ## lesson 82
 
-1. <u><font color=red><strong>               </strong></font></u>her mother, she is not beatiful in appearance. (resemble)
+1. <u><font color=red><strong>        Not resembling       </strong></font></u>her mother, she is not beautiful in appearance. (resemble)
 
    **不像**她的妈妈，她的外表并不美丽。
 
-2. Though he <u><font color=red><strong>               </strong></font></u>,we were still sceptical. (deny)
+   <font color=red><strong>Not resembling</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>逻辑主语she与resemble之间是主动关系,故用动词-ing形式作状语,由句意可知表示否定，故在其前加not。</strong></font>
+
+   **resemble ：v. 像，与……相似**
+
+   **appearance ：*n.*露面，演出；出庭，到场；外表，外观；表面现象，假象；出现；起源，问世；表现；出版，广播**
+
+   **appear ：*v.*出现，呈现；首次使用，起源；出庭；演出，出场；出版，发表；记载**，
+
+2. Though he <u><font color=red><strong>      denied cheating in the exam         </strong></font></u>,we were still sceptical. (deny)
 
    尽管他**否认在考试中作弊**，我们仍持怀疑态度。
 
-3. When Mark opened the door, he saw a woman<u><font color=red><strong>                </strong></font></u>.He has niever seen her before. (stand)
+   <font color=red><strong>denied cheating in the exam</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>本句时态为过去时,因此用一般过去时;deny后跟动词-ing形式作宾语。</strong></font>
+
+   **deny doing sth ：否认做某事：表示否定或拒绝承认自己做过某事。**
+
+   **sceptical ：*adj.*持怀疑态度的，不相信的；（哲）怀疑论的，不可知论的**
+
+3. When Mark opened the door, he saw a woman<u><font color=red><strong>      standing there          </strong></font></u>.He has never seen her before. (stand)
 
    当马克打开门时，他看到一个女人**站在那里**。他以前从未见过她。
 
-4. Such a loud noise did they make that<u><font color=red><strong>                </strong></font></u>.(read)
+   <font color=red><strong>standing there</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>see后跟动词-ing形式作宾语补足语，表示a woman是stand这一动作的执行者。</strong></font>
+
+4. Such a loud noise did they make that<u><font color=red><strong>          I couldn't go on reading      </strong></font></u>.(read)
 
    他们制造了如此大的噪音，以至于**我无法继续读书。**
 
-5. <u><font color=red><strong>              </strong></font></u>，he has learned to share with his parents. (as)
+   <font color=red><strong>I couldn't go on reading</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>such...that...引导结果状语从句;go on doing sth.“继续做某事”。</strong></font>
+
+   **"Aloud" 和 "loud" 是两个不同的词，它们有不同的含义和用法。**
+
+   1. **"Aloud" 是一个副词，意思是“出声地，大声地”。它指的是以可以被其他人听到的声音发出或表达出来。"Aloud" 通常用于描述阅读、朗诵、讲话等活动时声音的强度。**
+      - **She read the poem aloud to the class.（她向班上大声朗读了这首诗。）**
+      - **Please speak aloud so that everyone can hear you.（请大声说话，以便大家都能听到。）**
+
+   2. **"Loud" 是一个形容词，意思是“响亮的，大声的”。它描述声音的音量高或强烈，通常用于描述声音的特点。**
+      - **The music at the party was very loud.（派对上的音乐很大声。）**
+      - **The thunder was so loud that it shook the windows.（雷声太响了，把窗户都震动了。）**
+
+   **总结来说，"aloud" 强调声音是以可以被其他人听到的方式发出，而 "loud" 强调声音的音量或强度。**
+
+5. <u><font color=red><strong>       Child as he is       </strong></font></u>，he has learned to share with his parents. (as)
 
    **尽管他是个孩子**，他已经学会与父母分享。
 
-6. It's well known to us that in no case<u><font color=red><strong>               </strong></font></u>without having a wide investigation. (draw)
+   <font color=red><strong>Child as he is</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>as引导让步状语从句时,从句中的表语、状语或谓语中的实义动词要置于句首。</strong></font>
+
+   **当使用 "as" 引导让步状语从句时，通常会将从句中的表语、状语或谓语中的实义动词置于句首，以强调让步的内容。这种结构常用于强调某个情况或条件，与主句中的情况相对立。以下是一些例子：**
+
+   1. **"As"引导的让步状语从句中的表语：**
+      - **As tired as she was, she continued working.（尽管她很累，她还是继续工作。）**
+      - **As rich as he may be, he is not happy.（虽然他可能很富有，但他并不快乐。）**
+
+   2. **"As"引导的让步状语从句中的状语：**
+      - **As childish as it may seem, I still enjoy playing video games.（尽管这看起来很幼稚，但我仍然喜欢玩电子游戏。）**
+      - **As cold as it was, they went for a walk.（尽管天很冷，他们还是去散步了。）**
+   3. **"As"引导的让步状语从句中的谓语中的实义动词：**
+      - **As hard as he tried, he couldn't solve the puzzle.（尽管他努力了，他无法解决这个难题。）**
+      - **As brave as he is, he couldn't face his fears.（尽管他很勇敢，但他无法面对自己的恐惧。）**
+
+   **需要注意的是，这种结构不是必须的，而是根据强调或表达的需要来决定。在让步状语从句中，将表语、状语或谓语中的实义动词置于句首可以突出让步的内容，强调与主句的对比。**
+
+6. It's well known to us that in no case<u><font color=red><strong>      can we draw a conclusion         </strong></font></u>without having a wide investigation. (draw)
 
    众所周知，没有广泛的调查**我们**绝不**能下结论。**
 
-7. <u><font color=red><strong>                 </strong></font></u>of the new organization really delights everyone and we all think he deserves it.(appoint)
+   <font color=red><strong>can we draw a conclusion</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示否定意义的词组in no case放在句首,句子用部分倒装。</strong></font>
+
+   **英语中表示"得出结论"或"作结论"的表达方式有多种。以下是一些常用的表达方式：**
+
+   1. **Draw a conclusion：得出结论**
+      
+      **Based on the evidence, we can draw the conclusion that he is guilty.（根据证据，我们可以得出结论他有罪。）**
+      
+   2. **Reach a conclusion：得出结论**
+      
+      **After analyzing all the data, we reached the conclusion that the project is not feasible.（在分析了所有数据之后，我们得出结论这个项目不可行。）**
+      
+   3. **Come to a conclusion：得出结论**
+      
+      **After a lengthy discussion, we finally came to the conclusion that more research is needed.（经过长时间的讨论，我们最终得出结论需要进行更多的研究。）**
+      
+   4. **Formulate a conclusion：形成结论**
+      
+      **The researchers formulated their conclusion based on the findings of the study.（研究人员根据研究结果形成了结论。）**
+      
+   5. **Make a conclusion：得出结论**
+      
+      **It is premature to make a conclusion without further investigation.（在进一步调查之前得出结论是不成熟的。）**
+      
+   6. **Arrive at a conclusion：得出结论**
+      
+      **After reviewing all the evidence, we arrived at the conclusion that the suspect is innocent.（在审查了所有证据后，我们得出结论嫌疑人是无辜的。）**
+
+   **这些表达方式都可以用于描述根据一定的分析、推理或评估得出结论的过程。具体使用哪种表达方式可以根据具体语境和个人偏好来决定。**
+
+7. <u><font color=red><strong>        His being appointed(as) chairman         </strong></font></u>of the new organization really delights everyone and we all think he deserves it.(appoint)
 
    **他被任命为**新组织的**主席**，这使每个人都很高兴,我们都认为他理应得到这一职位。
 
-8. <u><font color=red><strong>                 </strong></font></u>the head teacher stood on the passage of the classroom, watching the students  dancing over a chain of rubber bands. (fold)
+   <font color=red><strong>His being appointed(as) chairman/That he has been appointed (as)chairman</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>空格处在中作主语,可用动词-ing形式，而动词-ing形式的发出者与句子的主语不一致,需要在动词-ing形式前加上形容词性物主代词或名词所有格充当其逻辑主语,构成动名词的复合结构;</strong></font>
+
+   <font color=red><strong>空格处作句子的主语，也可用主语从句,引导词在从句中不作任何成分，且没有任何意义,故用that引导。</strong></font>
+
+   **delight ：*n.*高兴；令人高兴的人或物，乐事；*v.*使高兴；以……为乐**
+
+8. <u><font color=red><strong>         With arms folded        </strong></font></u>the head teacher stood on the passage of the classroom, watching the students dancing over a chain of rubber bands. (fold)
 
    班主任**交叉着胳膊**站在教室的过道上,观看学生们跳皮筋。
 
-9. Seeing the old talking and laughing happily, we find it is worthwhile<u><font color=red><strong>             </strong></font></u>.(attend)
+   <font color=red><strong>With arms folded</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>此处是“with十名词十动词-ed 形式”表伴随arms和fold之间为被动关系，故用fold的动词-ed形式。</strong></font>
+
+   **a chain of ：一系列，一连串：指一组相互关联的事物或事件。**
+
+   **passage ：n. （书、演讲、乐曲等的）段，章；（人生或体育赛事等中的）阶段；过道，走廊；（人群等中的）通道，通路；v. 使（微生物）继代移种，使传代；（使）通过通道**
+
+   **folded ：v. 折叠；交叉合拢；失败垮台；把牲畜关在栏中（fold 的过去分词）**
+
+   **rubber ：n. 橡胶，合成橡胶；<英> 橡皮擦；<英> 黑板擦；<美，非正式> 避孕套；<美，非正式> 橡胶套鞋；（桥牌或板球的）一盘，决胜局；（棒球比赛中投手站的）投手板；多轮决胜负的比赛（如三局两胜）；adj. 橡胶制成的**
+
+   **band ：n. 乐队；一伙，一群；范围，段；带，箍；带状物，条纹；波段，频带；戒指；v. 给……分级，把……分段；用带绑扎；加彩条**
+
+9. Seeing the old talking and laughing happily, we find it is worthwhile<u><font color=red><strong>   to attend them          </strong></font></u>.(attend)
 
    看到这些老人谈笑风生，我们发现**照料他们**是值得的。
 
-10. Many coal mine accidents<u><font color=red><strong>         </strong></font></u>if we had followed the strict safety rules. ( avoid)
+   <font color=red><strong>to attend them/attending them</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>be worthwhile to do sth./be worthwhile doing sth.“值得做某事”。</strong></font>
+
+10. Many coal mine accidents<u><font color=red><strong>    would have been avoided     </strong></font></u>if we had followed the strict safety rules. (avoid)
 
     如果我们严格遵守安全条例,许多的矿难是**本能够避免的。**
+    
+    <font color=red><strong>could/would have been avoided</strong></font>
+    
+    <strong>解析：</strong>
+    
+    <font color=red><strong>表示对过去情况的虚拟，根据句意主句谓语动词用could/would have done的形式;coal mine accidents与avoid之间是被动关系，故用被动语态。</strong></font>
 
 
 
@@ -11680,45 +12904,125 @@
 
 ## lesson 83
 
-1. I'm not feeling well in the stomach. I<u><font color=red><strong>               </strong></font></u>so much fried chicken just now. (eat)
+1. I'm not feeling well in the stomach. I<u><font color=red><strong>     oughtn't to have eaten          </strong></font></u>so much fried chicken just now. (eat)
 
    我感觉胃不舒服。我刚才**不应该吃**那么多炸鸡。
 
-2. How I wish my house <u><font color=red><strong>            </strong></font></u>.It's more valuable now. (sell)
+   <font color=red><strong>shouldn't/oughtn't to have eaten</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示“过去不应该做某事,而实际上已经做了”,用shouldn't/oughtn't to have done的形式。</strong></font>
+
+   **"Should"和"ought to"在用法上有一些相似之处，但也存在一些细微的区别。**
+
+   **"Should"和"ought to"都用于表达建议、期望或推荐的事物。它们都可以用来提供一种合适或理想的行为或选择。**
+
+   **一般来说，"should"更常见且更普遍使用。它在日常口语和书面语中都很常见，用于表示一种常规的建议或期望。例如：**
+
+   - **You should eat more vegetables.**
+   - **I should call my parents tonight.**
+
+   **另一方面，"ought to"在口语中相对较少使用，但在正式的写作和更强调道德、义务或责任的语境中更为常见。它传达的是一种强烈的建议或应尽的责任。例如：**
+
+   - **You ought to apologize for what you did.**
+   - **We ought to help those in need.**
+
+   **总的来说，"should"是一种更常见和通用的表达方式，而"ought to"则更常用于强调道德或责任。然而，具体的语境和个人偏好也会对它们的使用产生影响。**
+
+2. How I wish my house <u><font color=red><strong>       had not been sold     </strong></font></u>.It's more valuable now. (sell)
 
    我多么希望我的房子**没有卖掉。**它现在更值钱了。
 
-3. The star said he had hoped to win the Golden Horse Fim Awards within 20 years, but<u><font color=red><strong>                 </strong></font></u>was that his dream was realized so soon. (shock)
+   <font color=red><strong>had not been sold</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>wish后的宾语从句中用虚拟语气，此处表示与过去事实相反，故谓语动词用had done的形式，表示否定意义用had not done,且my house与sell之间是被动关系,故用被动语态。</strong></font>
+
+3. The star said he had hoped to win the Golden Horse Film Awards within 20 years, but<u><font color=red><strong>      what made him shocked           </strong></font></u>was that his dream was realized so soon. (shock)
 
    这位明星说他原本希望在20年内获得金马奖,但**令他震惊**的是他的梦想这么快就实现了。
 
-4. With the fact that he's younger than the rest of us  <u><font color=red><strong>              </strong></font></u>,I think he has done pretty well indeed. (consideration)
+   <font color=red><strong>what shocked him/what made him shocked</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>what在此导主语从句，由句中的said，was等词可知谓语动词用一般过去时。</strong></font>
+
+4. With the fact that he's younger than the rest of us  <u><font color=red><strong>     taken into consideration         </strong></font></u>,I think he has done pretty well indeed. (consideration)
 
    **考虑到**他比我们其他人都小的事实,我认为他做得确实很好了。
 
-5. Could you tell me <u><font color=red><strong>              </strong></font></u>you found the missing boy? (it)
+   <font color=red><strong>taken into consideration</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>take...into consideration意为“考虑到·.....”;fact和take之间为被动关系,故用“with十名词(短语)十动词-ed 形式”构成的复合结构。</strong></font>
+
+5. Could you tell me <u><font color=red><strong>     where it was that         </strong></font></u>you found the missing boy? (it)
 
    你能告诉我你**到底在哪里**找到了这个走失的男孩吗?
 
-6. After enjoying Dinosaur World, the children came to Panda Park,<u><font color=red><strong>                 </strong></font></u>.(where)
+   <font color=red><strong>where it was that</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>该为强调的特殊疑问句式“疑问词+is/was it that/who. .. ?”</strong></font>
+
+6. After enjoying Dinosaur World, the children came to Panda Park,<u><font color=red><strong>       in which they saw two pandas          </strong></font></u>.(where)
 
    欣赏完了恐龙世界后，孩子们来到了大熊猫园，**在那里他们看见了两只大熊猫。**
 
-7. The writer made up his mind to devote all he had<u><font color=red><strong>               </strong></font></u>some schools for the children in the  poor areas. (set)
+   <font color=red><strong>where/in which they saw two pandas</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>where引导定语从修饰先行词Panda Park，where相当于in which;根据句中的came可知，从句中谓语动词应用see的过去式saw。</strong></font>
+
+7. The writer made up his mind to devote all he had<u><font color=red><strong>    to setting up           </strong></font></u>some schools for the children in the  poor areas. (set)
 
    这个作家决定倾其所有为贫困地区的孩子们**建造**一些学校。
 
-8. <u><font color=red><strong>                </strong></font></u>,there was no hope of her being able to fall asleep. (as)
+   <font color=red><strong>to setting up</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>devote... to doing...为“把......奉献给......”;set up意为“建立”。</strong></font>
+
+8. <u><font color=red><strong>        Tired as she was        </strong></font></u>,there was no hope of her being able to fall asleep. (as)
 
    **尽管她很累,**但却没有能人睡的希望。
 
-9. So difficult <u><font color=red><strong>            </strong></font></u>it to adjust to an English-speaking environment that he determined to learn English hard. (feel)
+   <font color=red><strong>Tired as she was</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>as引导让步状语从句时，从句中的表语状语以及谓语中的实义动词等需提前到从句句首。</strong></font>
+
+9. So difficult <u><font color=red><strong>     did he feel       </strong></font></u>it to adjust to an English-speaking environment that he determined to learn English hard. (feel)
 
    **他感到**适应说英语的语言环境是如此难，所以他决心努力学习英语。
 
-10. Across the lake are two small villages,<u><font color=red><strong>               </strong></font></u>a historic reform in China. (see)
+   <font color=red><strong>did he feel</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>在so...that...结构中,so引导的部分置于句首时,句子用部分倒装。</strong></font>
+
+   **adjust ：*v.*调整，调节；整理（衣服）；适应，习惯；（保险理赔时）理算，评估（损失，损害）**
+
+   **adjustment ：*n.*调整，校正；（行为、思想的）调节，适应；调节器**
+
+10. Across the lake are two small villages,<u><font color=red><strong>       one of which has seen        </strong></font></u>a historic reform in China. (see)
 
     湖的对岸是两个小村庄，**其中之一见证过**中国的历史性改革。
+    
+    <font color=red><strong>one of which has seen/and one of them has seen</strong></font>
+    
+    <strong>解析：</strong>
+    
+    <font color=red><strong>此处可用“介词+关系代词”引导定语从句或用and连接与前半句并列的分句;由句意可知用现在完成时。</strong></font>
 
 
 
@@ -11726,45 +13030,197 @@
 
 ## lesson 84
 
-1. The boy is a diligent student and not once<u><font color=red><strong>            </strong></font></u>coming late. (catch)
+1. The boy is a diligent student and not once<u><font color=red><strong>     has he been caught       </strong></font></u>coming late. (catch)
 
    这个男孩是个勤奋的学生,**他一次也没被逮到过**迟到。
 
-2. The X Games<u><font color=red><strong>               </strong></font></u>than sports like football and basketball. ( familiar)
+   <font color=red><strong>has he been caught</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示否定意义的词置于句首,句子用部分倒装,由句意可知用现在完成时;catch sb.doing sth.“发现某人做某事”,此处是其被动语态。</strong></font>
+
+2. The X Games<u><font color=red><strong>       are less familiar to us        </strong></font></u>than sports like football and basketball. (familiar)
 
    极限运动**不如**足球和篮球这样的运动那样**为我们所熟悉。**
 
-3. <u><font color=red><strong>               </strong></font></u>is that Africa had contacts with India from the earliest times. ( know )
+   is not familiar
+
+   <font color=red><strong>are less familiar to us</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>由句中的than可知，此处是比较级根据“不像······那样为我们所熟悉”可知应用less; be familiar to sb.意为“被某人所熟悉”。</strong></font>
+
+   1. **familiar ：*adj.*熟悉的；常见的，普通的；非正式的，随和的；过分亲密的，随便的**
+
+      1. **Be/Become  familiar with sth：**
+
+         **熟悉：对某事物或某人有充分了解和认识，能够熟练应对。**
+
+      2. **be familiar to**
+
+         **为……所熟悉；被某人熟悉**
+
+   2. **similar： *adj.*相像的，类似的；（几何图形）相似的**
+
+      **以下是一些常见的与"similar"（相似的）相关的词组：**
+
+      1. **"Similar to": 与...相似**
+         - **This situation is similar to what we experienced last year.**
+         
+           **这种情况与我们去年经历的情况类似。**
+         
+         - **Her dress is similar to the one I saw in the fashion magazine.**
+         
+           **她的衣服和我在时尚杂志上看到的那件很像。**
+         
+      2. **"Similar in": 在...方面相似**
+         - **These two paintings are similar in style and composition.**
+         
+           **这两幅画在风格和构图上很相似。**
+         
+         - **The two siblings are similar in appearance but have different personalities.**
+         
+           **这两个兄弟姐妹外貌相似，但性格不同。**
+
+3. <u><font color=red><strong>      What is known to all         </strong></font></u>is that Africa had contacts with India from the earliest times. (know )
 
    **众所周知,**非洲从很早的时候起就与印度有联系。
 
-4. It was only after serious consideration<u><font color=red><strong>              </strong></font></u>to help the secretary of the human resources manager. (decide)
+   <font color=red><strong>What is known to all/What we all know/What's well known</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>所填部分为主语,主语从句中引导词在从句中作主语,由句意可知用what。</strong></font>
+
+   **"众所周知"的英文表达有几种，可以根据具体的语境和表达方式选择适合的翻译。以下是常见的几种表达方式：**
+
+   1. **"As is well known":**
+      - **As is well known, the sun rises in the east.（众所周知，太阳从东方升起。）**
+      - **As is well known, exercise is beneficial for our health.（众所周知，锻炼对我们的健康有益。）**
+
+   2. **"It is widely known":**
+      - **It is widely known that smoking is harmful to health.（众所周知，吸烟对健康有害。）**
+      - **It is widely known that the Earth revolves around the sun.（众所周知，地球绕着太阳旋转。）**
+
+   3. **"It is common knowledge":**
+      - **It is common knowledge that water boils at 100 degrees Celsius.（众所周知，水在100摄氏度沸腾。）**
+      - **It is common knowledge that the Internet has revolutionized communication.（众所周知，互联网已经改变了通信方式。）**
+
+   4. **"Everyone knows":**
+      - **Everyone knows that dogs are loyal companions.（人人皆知，狗是忠诚的伴侣。）**
+      - **Everyone knows that the sky is blue during the day.（人人皆知，白天天空是蓝色的。）**
+
+4. It was only after serious consideration<u><font color=red><strong>     that he decided         </strong></font></u>to help the secretary of the human resources manager. (decide)
 
    经过认真考虑之后,**他才决定**帮助这位人力资源部经理的秘书。
 
-5. My sisters,<u><font color=red><strong>              </strong></font></u>yesterday, will come to see us this evening. (show)
+   <font color=red><strong>that he decided</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>此处用了强调句式“It is/was十被强调部分+that/who...”;句中时态为一般过去时，故用decide的过去式。</strong></font>
+
+5. My sisters,<u><font color=red><strong>      whose photos I showed you        </strong></font></u>yesterday, will come to see us this evening. (show)
 
    我的姐妹们今天晚上要来看望我们，**她们的照片**我昨天**给你看过。**
 
-6. Please don't call me at 4:00 tomorrow afternoon.I<u><font color=red><strong>              </strong></font></u>then. (have)
+   <font color=red><strong>whose photos I showed you</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>先行词是my sisters，与名词photo为所属关系，故用whose引导;由yesterday 可知用一般过去时。</strong></font>
+
+6. Please don't call me at 4:00 tomorrow afternoon. I<u><font color=red><strong>      will be having a meeting       </strong></font></u>then. (have)
 
    明天下午四点不要给我打电话。我那时**正开会。**
 
-7. This is not what you<u><font color=red><strong>              </strong></font></u>,so please don' t ask me. (suppose)
+   <font color=red><strong>will be having a meeting</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>由句中的tomorrow和then可知have a meeting表示的动作发生在明天下午4点，故用将来进行时。</strong></font>
+
+7. This is not what you<u><font color=red><strong>      are supposed to know        </strong></font></u>,so please don' t ask me. (suppose)
 
    这不是你**应该知道**的，所以请不要问我。
 
-8. <u><font color=red><strong>                  </strong></font></u>two gold medals at the Asian Games held in Guangzhou made his family very proud. (win)
+   should suppose of
+
+   <font color=red><strong>are supposed to know</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>be supposed to do sth意为“应该做某事”。</strong></font>
+
+   - **suppose ：*v.*推断，料想，猜想；假设，假定，设想；预期，需要，以……为条件；相信，认为（某事物是可能的）；**
+
+     **"Suppose"是一个多功能的词，在不同的语境下可以有不同的用法。以下是一些常见的用法：**
+
+     1. **"Suppose"作为动词，表示假设、推测或认为：**
+        - **I suppose he'll be here soon.（我猜他很快就会到这里。）**
+        - **Suppose we go to the movies tonight.（假设我们今晚去看电影吧。）**
+        - **She supposed that he would agree with the plan.（她认为他会同意这个计划。）**
+
+     2. **"Suppose"作为连词，引导一个假设或条件：**
+        - **Suppose it rains tomorrow, what will we do?（假设明天下雨，我们该怎么办？）**
+        - **Suppose you win the lottery, what would you do with the money?（假设你中了彩票，你会怎么处理这笔钱？）**
+
+     3. **"Suppose"作为表示推论或推理的词：**
+        - **If he didn't call, I suppose something must have come up.（如果他没打电话，我猜肯定出了什么事。）**
+        - **The car won't start. I suppose the battery is dead.（车发动不了。我猜测是电池没电了。）**
+
+     4. **"Suppose"作为礼貌性的表达，用于引入一个请求、建议或询问：**
+        - **Suppose we have dinner together sometime.（要不我们找个时间一起吃饭吧。）**
+        - **Suppose I borrow your pen for a moment.（可以借用你的笔一下吗？）**
+
+   - **supposed ：*adj.*假定的，据说的；应当的；预期的；被允许的；坚信的；*v.*预期，推断；假定；认为（suppose 的过去式和过去分词形式）**
+
+     **"Supposed"是"suppose"的过去分词形式，根据语境的不同，可以有以下几种常见的用法：**
+
+     1. **"Supposed to" 表示应该、应当或被期望的情况：**
+        - **I am supposed to be at work by 9 AM.（我应该在上午9点前到达工作岗位。）**
+        - **This document is supposed to be confidential.（这份文件应该保密。）**
+        - **She was supposed to call me yesterday, but she didn't.（她应该昨天给我打电话，但她没有。）**
+
+     2. **"Supposed" 作为形容词，表示所谓的或被认为的：**
+        - **The supposed thief was caught by the police.（所谓的小偷被警察抓住了。）**
+        - **He claimed to have seen a supposed UFO in the sky.（他声称在天空中看到了一架所谓的不明飞行物。）**
+
+     3. **"Supposed" 作为副词，表示根据一般看法或预期：**
+        - **He is supposed to be a talented musician.（他被认为是一位有才华的音乐家。）**
+        - **The repairs were supposed to be completed by yesterday.（维修工作应该在昨天完成。）**
+
+8. <u><font color=red><strong>         His winning         </strong></font></u>two gold medals at the Asian Games held in Guangzhou made his family very proud. (win)
 
    在广州举办的亚运会上**他获得了**两枚金牌,这让他的家人非常自豪。
 
-9. I totally understand why you were so angry at his remarks. I <u><font color=red><strong>                </strong></font></u>the same way in your place. (feel)
+   <font color=red><strong>His winning/That he (had) won</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>空格处在句中作主语，可用动词-ing形式,而动词-ing形式的动作发出者不是谓语动词的主语,因此需要在动词-ing形式前加上形容词性物主代词充当其逻辑主语,构成动词-ing 形式的独立主格结构;也可看成是主语从句,引导词 that 在从句中不作任何成分,且没有实际意义。</strong></font>
+
+9. I totally understand why you were so angry at his remarks. I <u><font color=red><strong>      would have felt          </strong></font></u>the same way in your place. (feel)
 
    我完全理解你为什么对他的评论如此生气。处在你的位置,我**也会**有同感。
 
-10. He <u><font color=red><strong>                    </strong></font></u>in the forest, because he hasn't returned yet. ( lost)
+   <font color=red><strong>would have felt</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示与过去事实相反的情况，主句中的谓语动词用would have done的形式。</strong></font>
+
+10. He <u><font color=red><strong>          must have been lost         </strong></font></u>in the forest, because he hasn't returned yet. ( lost)
 
     他**一定**是在森林里**迷路了**，因为他到现在也没回来。
+
+    <font color=red><strong>must have been lost/must have got lost/must have lost hisway</strong></font>
+
+    <strong>解析：</strong>
+
+    <font color=red><strong>表示对过去情况的肯定推测用must have done的形式。</strong></font>
 
 
 
@@ -11772,45 +13228,162 @@
 
 ## lesson 85
 
-1. You<u><font color=red><strong>           </strong></font></u>with Tom. After all, he is a child, (better)
+1. You<u><font color=red><strong>     had better not get angry      </strong></font></u>with Tom. After all, he is a child, (better)
 
    你**最好不要生**汤姆的**气**。毕竟，他是个孩子。
 
-2. I'll go back to the place <u><font color=red><strong>            </strong></font></u>and live there forever. ( bring)
+   <font color=red><strong>had better not be/get angry</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>had better not do sth.“最好不要做某事”</strong></font>
+
+   **生某人的气：**
+
+   1. **be angry with sb**
+   2. **be mad at**
+   3. **get mad at sb**
+   4. **get angry with**
+
+2. I'll go back to the place <u><font color=red><strong>     in which I was brought up       </strong></font></u>and live there forever. ( bring)
 
    我将回到**我长大的地方**并永远住在那儿。
 
-3. <u><font color=red><strong>             </strong></font></u>thick snow, the children rushed out, jumping up and down in the snow. (cover)
+   <font color=red><strong>where/in which I was brought up</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>先行词是表示地点的place,因此用 where引导定语从句,相当于in which;bring up和I为逻辑上的动宾关系,故用被动语态，且根据语境用一般过去时。</strong></font>
+
+3. <u><font color=red><strong>       Seeing the ground covered with      </strong></font></u>thick snow, the children rushed out, jumping up and down in the snow. (cover)
 
    **看见地上覆盖着**厚厚的积雪孩子们冲了出去,在雪里跳上跳下。
 
-4. Had it not been for their arriving in time, many more people<u><font color=red><strong>              </strong></font></u>.(injure)
+   <font color=red><strong>Seeing the ground covered with/by</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>children和see之间是逻辑上的主动关系，因此用动词-ing 形式作状语;此处是“see十名词十过去分词”的结构。</strong></font>
+
+   **"see + 名词 + 过去分词" 的结构可以用来描述某人亲眼目睹或经历的特定情况或事件。这种结构通常表示对过去的观察或经历。以下是一些例子：**
+
+   1. **See a car crash: 目睹车祸**
+      - **I saw a car crash on my way to work this morning. It was a chaotic scene.**
+
+   2. **See a building demolished: 目睹建筑物拆除**
+      - **They were sad to see their childhood home being demolished to make way for a new development.**
+
+   3. **See a plan fail: 目睹计划失败**
+      - **We saw our carefully devised plan fail due to unforeseen circumstances.**
+
+   4. **See a child cry: 看到孩子哭泣**
+      - **The teacher saw a child cry because they were feeling left out during recess.**
+
+   5. **See a project completed: 目睹项目完成**
+      - **After months of hard work, they finally saw their project completed and ready for launch.**
+
+   6. **See a dream come true: 见证梦想成真**
+      - **She couldn't believe her eyes when she saw her lifelong dream come true.**
+
+   **这些例子展示了"see + 名词 + 过去分词" 结构的用法，用以描述过去的观察或经历。这种结构强调亲眼目睹或亲自经历某个事件或情况。**
+
+4. Had it not been for their arriving in time, many more people<u><font color=red><strong>      would have been injured        </strong></font></u>.(injure)
 
    如果不是他们及时赶到，更多的人**会受伤。**
 
-5. <u><font color=red><strong>               </strong></font></u>,we have to get there  before sunrise. (whatever)
+   <font color=red><strong>would have been injured</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>该句是省略if的虚拟条件句,表示与过去事实相反的情况，故此处主句中的谓语动词用would have done的形式;injure和people之间为逻辑上的动宾关系,故用被动语态。</strong></font>
+
+5. <u><font color=red><strong>       Whatever happens        </strong></font></u>,we have to get there  before sunrise. (whatever)
 
    **不管发生什么**，我们必须在日出之前到达那里。
 
-6. When was it<u><font color=red><strong>          </strong></font></u>yesterday? (call)
+   <font color=red><strong>Whatever happens</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>whatever引导让步状语从句,相当于no matter what</strong></font>
+
+   在**英语中，当引用一个未知的名词时，通常使用单数形式。这是因为未知的名词被视为一个抽象概念，而不是具体的可数名词。例如，在短语"Whatever happens"中，"happens" 是单数形式，因为它指代的是发生的事件或情况，而不是特定的、可数的名词。类似地，其他类似结构中的名词也会使用单数形式。例如：**
+
+   - **No matter what occurs...**
+   - **Whichever path you choose...**
+   - **However it turns out...**
+
+   **请注意，这只是一个一般规则，并不适用于所有情况。有时在特定的语境中，名词可能需要使用复数形式。因此，具体的语境和句子结构也会对名词的使用产生影响。**
+
+6. When was it<u><font color=red><strong>    that you called me      </strong></font></u>yesterday? (call)
 
    昨天你什么时候**给我打的电话?**
 
-7. Not only<u><font color=red><strong>                </strong></font></u>,we should also put what  have learnt to good use. (study)
+   <font color=red><strong>that you called me</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>此处为强调句的特殊疑问句式“疑问词+is/was it+that/who...?”</strong></font>
+
+7. Not only<u><font color=red><strong>        should we study hard        </strong></font></u>,we should also put what  have learn to good use. (study)
 
    **我们**不仅**应该好好学习**,还应该学以致用。
 
-8. The local government is trying to make<u><font color=red><strong>              </strong></font></u>the importance of protecting the enironment.( aware)
+   <font color=red><strong>should we study hard</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>not only置于首时,子句用部分倒装,根据汉语提示，助动词用should。</strong></font>
+
+8. The local government is trying to make<u><font color=red><strong>       the public aware of       </strong></font></u>the importance of protecting the environment.( aware)
 
    当地政府正在努力让**民众意识到**保护环境的重要性。
 
-9. It doesn't make any sense to me <u><font color=red><strong>                </strong></font></u>the meeting tomorrow. (attend)
+   <font color=red><strong>the public aware of</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>make sb.do sth.“让某人做某事”aware of...“意识到·.....”</strong></font>
+
+   **"Are aware of" 是一个常用的表达，意思是"意识到"、"知道"或"了解"。它用来描述某人对某个事实、情况或信息有认知和了解。以下是一些类似的表达方式：**
+
+   1. **Be conscious of: 对...有意识、意识到**
+      - **He should be conscious of the risks involved in the project.**
+      - **We need to be conscious of our impact on the environment.**
+
+   2. **Be cognizant of: 意识到、知道**
+      - **I am cognizant of the fact that it will take time to achieve our goals.**
+      - **The team needs to be cognizant of the potential challenges ahead.**
+
+   3. **Be informed of: 被告知、得到通知**
+      - **They were informed of the change in schedule.**
+      - **She wants to be informed of any updates regarding the situation.**
+
+   4. **Be knowledgeable about: 对...有知识、了解**
+      - **He is knowledgeable about various programming languages.**
+      - **It's important to be knowledgeable about the topic before making a decision.**
+
+   这些表达方式都可以用来描述人们对某个信息、情况或事实的认知和了解程度。具体使用哪种表达方式取决于上下文和个人偏好。
+
+9. It doesn't make any sense to me <u><font color=red><strong>       whether he will attend         </strong></font></u>the meeting tomorrow. (attend)
 
    明天**他是否参加**会议对于我来说没有任何意义。
 
-10. If Lily had known that Tom was marrying her for her money, she<u><font color=red><strong>             </strong></font></u>get engaged to him. (agree)
+   <font color=red><strong>whether he will attend</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>句中的 it 为形式主语，真正的主语是 whether引导的主语从句。</strong></font>
+
+10. If Lily had known that Tom was marrying her for her money, she<u><font color=red><strong>      would not have agreed to       </strong></font></u>get engaged to him. (agree)
 
     如果莉莉知道汤姆是为了她的钱而和她结婚，她就**不会同意**和他订婚了。
+    
+    <font color=red><strong>would not have agreed to</strong></font>
+    
+    <strong>解析：</strong>
+    
+    <font color=red><strong>if引导的虚拟条件句表示与过去事实相反，主句中的谓语动词用would/could/shouldmight have done的形式，由汉语提示可知，此处情态动词用would;agree to do sth.“同意做某事”。</strong></font>
 
 
 
@@ -11818,43 +13391,141 @@
 
 ## lesson 86
 
-1. Tibet has been one of the hottest places for visitors, because it<u><font color=red><strong>             </strong></font></u>not only the typical highland landscape, but a colorful ethnic cultural diversity as well. (treat)
+1. Tibet has been one of the hottest places for visitors, because it<u><font color=red><strong>      treats visitors to       </strong></font></u>not only the typical highland landscape, but a colorful ethnic cultural diversity as well. (treat)
 
    对于游客而言，西藏已成为最受欢迎的地方,因为它不仅**带给游客**典型的高原风光，还让他们领略到多彩多样的民族文化。
 
-2. Bob is said <u><font color=red><strong>                  </strong></font></u>the stage as he has become a teacher. (leave)
+   <font color=red><strong>treats visitors to</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>treat sb. to sth,“以·....·款待某人”。</strong></font>
+
+2. Bob is said <u><font color=red><strong>       to have already left           </strong></font></u>the stage as he has become a teacher. (leave)
 
    据说因为鲍勃已成为一名教师,**他早就已经离开了**舞台。
 
-3. Three days later, he got home from the disaster area,<u><font color=red><strong>            </strong></font></u>.(feel)
+   <font color=red><strong>to have already left</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>be said to do...“据说做某事”,不定式的完成式表示已完成的动作或结束的状态。</strong></font>
+
+   **"Be said to do..." 是一个常用的句型，用于传达某人据说、据传、据称会做某事的信息。它常用于引述别人的观点、报道或传闻。以下是该句型的用法：**
+
+   1. **用于陈述句：**
+      - **He is said to be a talented musician.（据说他是一位有才华的音乐家。）**
+      - **The new restaurant is said to serve delicious food.（据说这家新餐厅的食物很美味。）**
+
+   2. **用于疑问句：**
+      - **Is she said to have won the competition?（据说她赢得了比赛吗？）**
+      - **Are they said to be moving to a different city?（据说他们要搬到另一个城市吗？）**
+
+   3. **用于否定句：**
+      - **He is not said to have any previous experience in that field.（据说他在那个领域没有任何经验。）**
+      - **They are not said to be interested in the new project.（据说他们对这个新项目不感兴趣。）**
+
+   **这个句型强调传闻或观点，并不一定表示事实的确认。需要注意的是，"be said to do..." 结构中的动词一般使用不定式形式（如 to be、to have），表示将来的动作或状态。具体使用该句型时，可以根据语境和需要进行适当的调整。**
+
+3. Three days later, he got home from the disaster area,<u><font color=red><strong>     feeling very tired       </strong></font></u>.(feel)
 
    三天后,他从灾区回到家,**感到很累。**
 
-4. Was it when you were admitted to that university<u><font color=red><strong>              </strong></font></u>what your teacher had said to you?(sense)
+   <font color=red><strong>feeling very tired/and felt very tired</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>逻辑主语he与feel之间是主动关系,故用动词-ing形式作伴随状语;也可看成是and连接的两个句子。</strong></font>
+
+4. Was it when you were admitted to that university<u><font color=red><strong>     that you made sense of         </strong></font></u>what your teacher had said to you?(sense)
 
    是不是当你被那所大学录取的时候**你才懂得了**你的老师对你说过的话?
 
-5. You should<u><font color=red><strong>                    </strong></font></u>of your time. (use)
+   <font color=red><strong>that you made sense of</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>此处强调式的一般疑问结构“Is/Was it十被强调部分+that/who...?”;make sense of意为“弄懂·..··.的意思”。</strong></font>
+
+5. You should<u><font color=red><strong>           make full use         </strong></font></u>of your time. (use)
 
    你应该**充分利用**你的时间。
 
-6. I was very busy yesterday; otherwise I<u><font color=red><strong>                 </strong></font></u>the conference. ( attend)
+   <font color=red><strong>make full use</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>make full use of...意为“充分利用·.....”。</strong></font>
+
+   **英语中可以使用以下几种方式表达 "充分利用"：**
+
+   1. **Make the most of: 最大限度地利用**
+      - **We need to make the most of our time and resources to complete the project.**
+      - **She always tries to make the most of every opportunity that comes her way.**
+
+   2. **Take full advantage of: 充分利用**
+      - **It's important to take full advantage of the available resources for optimal results.**
+      - **He took full advantage of his language skills to secure a job overseas.**
+
+   3. **Utilize fully: 充分利用**
+      - **We should utilize the available technology fully to streamline our operations.**
+      - **The team was able to utilize their collective expertise fully to solve the complex problem.**
+
+   4. **Optimize the use of: 优化使用**
+      - **The company aims to optimize the use of its resources to improve efficiency.**
+      - **They implemented new strategies to optimize the use of their budget.**
+
+   **这些表达方式都可以用来表示 "充分利用" 的意思，可以根据具体的语境和需要选择适合的表达方式。**
+
+6. I was very busy yesterday; otherwise I<u><font color=red><strong>       would have attended          </strong></font></u>the conference. (attend)
 
    昨天我非常忙;否则我**就会参加**会议了。
 
-7. When asked <u><font color=red><strong>              </strong></font></u>Tom said he was not present when the fire strted. (break)
+   <font color=red><strong>would have attended</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>otherwise暗示虚拟条件，与过去事实相反，故句中的谓语动词用would have done的形式。</strong></font>
+
+7. When asked <u><font color=red><strong>      how the fire broke out        </strong></font></u>Tom said he was not present when the fire strted. (break)
 
    当被问及**火是怎么烧起来**时，汤姆说起火时他不在场。
 
-8. <u><font color=red><strong>                  </strong></font></u>whether the house price, which has been rising in the last several years, will go down as expected. ! ( remain)
+   <font color=red><strong>how the fire broke out</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>how在此引导宾语从句;break out意为“爆发”。</strong></font>
+
+8. <u><font color=red><strong>        It remains to be seen          </strong></font></u>whether the house price, which has been rising in the last several years, will go down as expected. ! (remain)
 
    在过去几年中一直上涨的房价能否如预期般下降,我们**拭目以待。**
 
-9. At no time <u><font color=red><strong>               </strong></font></u>this secret. (inform)
+   <font color=red><strong>It remains to be seen</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>it为形式主语,真正的主语是后面whether引导的从句;此处remain接不定式的被动语态作表语，表示将来的动作。</strong></font>
+
+9. At no time <u><font color=red><strong>       should you inform her of        </strong></font></u>this secret. (inform)
 
    在任何时候**你**都不**应该告诉她**这个秘密。
 
-10. <u><font color=red><strong>                  </strong></font></u>,the new clle graduates are so eaily taken in by some cheats in society. (have)
+   <font color=red><strong>should you inform her of</strong></font>
+
+   <strong>解析：</strong>
+
+   <font color=red><strong>表示否定意义的介词短语at no time位于句首,句子用部分倒装。</strong></font>
+
+10. <u><font color=red><strong>         Not having any experience         </strong></font></u>,the new collage graduates are so early taken in by some cheats in society. (have)
 
     **因为缺乏经验,**刚毕业的大学生很容易被社会上的骗子欺骗。
+    
+    <font color=red><strong>Not having any experience/Having little/no experience</strong></font>
+    
+    <strong>解析：</strong>
+    
+    <font color=red><strong>逻辑主语the new college graduates与have之间为主动关系,故用动词-ing形式作原因状语,由句意可知用否定形式,可在其前加not,也可借助little，on表示否定意义。</strong></font>
+    
+    
 
