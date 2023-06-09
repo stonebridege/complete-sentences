@@ -333,7 +333,7 @@
 
 ## lesson 02
 
-1. Up till now I <u><font color=red><strong>have been looking for</strong></font></u> an idea flat , But the house price is too high for me to accept .(look)
+1. Up till now I <u><font color=red><strong>     have been looking for     </strong></font></u> an idea flat , But the house price is too high for me to accept .(look)
 
    直到现在我**一直在寻找**理想的公寓。但房价太高我不能接受
 
@@ -343,7 +343,35 @@
 
    <font color=red><strong>look for"寻找"，由时间状语up till now可知，look for是一个从过去开始一直持续到现在的动作，故用现在完成进行时。</strong></font>
 
-2. Tom got another C in the final exam . If only he <u><font color=red><strong>had not wasted time （in)  playing</strong></font></u> computer games !
+   **以下是一些与动词 "look" 相关的常见短语：**
+
+   1. **Look up: 查阅，搜索**
+      - **I need to look up the definition of this word.**
+
+   2. **Look forward to: 期待**
+      - **I'm looking forward to the weekend.**
+
+   3. **Look after: 照顾，照料**
+      - **Can you look after my cat while I'm away?**
+
+   4. **Look out: 注意，小心**
+      - **Look out! There's a car coming.**
+
+   5. **Look for: 寻找**
+      - **I'm looking for my keys. Have you seen them?**
+
+   6. **Look into: 调查，研究**
+      - **The committee will look into the matter and report back.**
+
+   7. **Look down on: 看不起，蔑视**
+      - **She looks down on people who don't have a college degree.**
+
+   8. **Look up to: 尊敬，仰慕**
+      - **I've always looked up to my older brother.**
+
+   **这些短语是常见的，但并不是全部，"look" 还可以与其他动词或介词组合形成更多的短语和习语。**
+
+2. Tom got another C in the final exam . If only he <u><font color=red><strong>    had not wasted time （in)  playing     </strong></font></u> computer games !
 
    汤姆在期末考试中又得了C。要是**他没有浪费时间玩**游戏该多好！
 
@@ -355,7 +383,7 @@
 
    <font color=red><strong>If only……"要是……就好了;后用虚拟语气"</strong></font>
 
-3. Huawei seemed <u><font color=red><strong>to have behaved better</strong></font></u> than ZTE  and it secured a stable profit increase last year.(behave)
+3. Huawei seemed <u><font color=red><strong>    to have behaved better    </strong></font></u> than ZTE  and it secured a stable profit increase last year.(behave)
 
    华为似乎比中兴**表现得更好**,它去年获得了稳定的效益增长。
 
@@ -367,7 +395,15 @@
 
    <font color=red><strong>A比B……：A+be/V.+比较级+than+B</strong></font>
 
-4. So little <u><font color=red><strong>did they know about/of</strong></font></u> new campus life that in the first month almost all freshmen were at a loss how to arrange their schedule.(know)
+   1. **secure  adj.稳固的；安全的，稳妥的；有自信的；感到有保障的；v.（尤指经过努力而）获得，得到；使安全，保护；确保，保证；**
+      - **Double-check that the ladder is secure. （再检查一下梯子是否安全。）**
+      - **Our objective must be to secure a peace settlement. （我们的目标必须是确保达成一个和平协议。）**
+   2. **secured  *v.*固定，系牢；锁上；保护，使安全；（经过努力）获得；做担保（secure 的过去式和过去分词）**
+   3. **profit  n.利润，盈利；利益，好处；v.获益，得益；赢利，获利**
+      - **Profit from exports rose 7.3%. (出口利润增长了7.3%。)**
+   4. **increase   v.增长，增强，增大; n.增长；增长量**
+
+4. So little <u><font color=red><strong>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;did they know about/of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></font></u> new campus life that in the first month almost all freshmen were at a loss how to arrange their schedule.(know)
 
    在第一个月,几乎所有的新生对大学校园新生活**了解**甚少,以至于他们不知道如何安排时间。
 
@@ -377,7 +413,14 @@
 
    <font color=red><strong>know about/ of sth.“了解某事”;so……that……句式中“so＋形容词/副词”部分置于句首时,主句要用部分倒装,句中时态为一般过去时,故此处也用一般过去时</strong></font>
 
-5. <u><font color=red><strong>The moment I saw</strong></font></u> the man,I realized that he was the very one the police were searching for.(moment)
+   **at a loss ：不知所措：处于困惑、不确定或不知道如何处理某事的状态。**
+
+   **arrange：安排，强调根据具体情况做出的安排和调整，例如：**
+
+   - **I need to arrange a meeting with my supervisor next week.**
+   - **We have arranged to meet at the airport at 8 am.**
+
+5. <u><font color=red><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The moment I saw&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></font></u> the man，I realized that he was the very one the police were searching for.(moment)
 
    **我一看到**那个人，就意识到他正式警方正在寻找的那个人。
 
@@ -387,7 +430,43 @@
 
    <font color=red><strong>名词短语 the moment可以引导时间状语从句,表示“一……就……”。</strong></font>
 
-6. Have you seen scenes <u><font color=red><strong>in which/where people cross</strong></font></u> the roads together without observing the traffic lights?
+   **以下是一些表示 "搜索" 或 "寻找" 的常见词组：**
+
+   1. **Look for: 寻找**
+      
+      **I'm looking for my keys. Have you seen them?（我在找我的钥匙，你见到了吗？）**
+
+   2. **Search for: 搜寻，寻找**
+      
+      **I'm searching for information about that topic.(我正在搜寻关于那个主题的信息。)**
+
+   3. **Seek out: 找到，寻找**
+      
+      **We need to seek out new opportunities for growth.(我们需要寻找新的发展机会。)**
+
+   4. **Hunt for: 搜寻，寻找**
+      
+      **They went hunting for a new apartment.(他们去寻找一套新公寓。)**
+
+   5. **Scout around: 到处搜索，四处寻找**
+      
+      **We need to scout around for the best prices.(我们需要四处寻找最好的价格。)**
+
+   6. **Explore for: 探索，寻找**
+      
+      **They are exploring for oil in the region.(他们正在该地区寻找石油。)**
+
+   7. **Dig for: 挖掘，搜寻**
+      
+      **Archaeologists are digging for artifacts in the ancient ruins.(考古学家正在古代遗迹中挖掘文物。)**
+
+   8. **Ferret out: 搜寻，查明**
+      
+      **The detective was able to ferret out the truth.(那名侦探能够查明事实真相。)**
+
+   **这些词组可以用于表示在不同情境下的 "搜索" 或 "寻找" 活动。请根据具体的语境选择合适的词组。**
+
+6. Have you seen scenes <u><font color=red><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in which/where people cross&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></font></u> the roads together without observing the traffic lights?
 
    This is a typical Chinese way.(cross)
 
@@ -399,7 +478,23 @@
 
    <font color=red><strong>定语从句的先行词是表示地点的scenes,引导词在从句中作地点状语,故用where,相当于in which.</strong></font>
 
-7. Mistakes are unavoidable in our life. Nevertheless,<u><font color=red><strong>The fewer mistakes we make</strong></font></u>,the closer we will get to our ambition.(make)
+   **"Without" 是一个介词，用于表示缺乏、没有或排除某个因素的情况。以下是 "without" 的常见用法：**
+
+   1. **表示缺乏或没有某事物：**
+      - **He went to the store without money.(他没有带钱去商店。)**
+      - **She left without saying goodbye.(她离开时没有说再见。)**
+      
+   2. **表示排除或不受某个因素的影响：**
+      - **She completed the task without any help.(她在没有任何帮助的情况下完成了任务。)**
+      - **He achieved success without compromising his values.(他在不妥协自己价值观的情况下取得了成功。)**
+      
+   3. **表示没有经历或不依赖于某个动作或状态：**
+      - **She passed the exam without studying.(她没有学习就通过了考试。)**
+      - **He managed to fix the car without any previous experience.(他成功修理了车，尽管没有任何之前的经验。)**
+
+   **需要注意的是，在句子中使用 "without" 时，通常需要加上名词、代词或动名词作为宾语，或者使用从句来提供更多的信息。这样可以更清晰地表达出 "without" 所指代的内容或条件。**
+
+7. Mistakes are unavoidable in our life. Nevertheless,<u><font color=red><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fewer mistakes we make&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></font></u>,the closer we will get to our ambition.(make)
 
    我们的生活中错误是难以避免的。然而，**我们犯的错误越少** ，离目标就会越近。
 
@@ -409,7 +504,9 @@
 
    <font color=red><strong>此题是“the十比较级...，the+比较级...”结构,表示“越……就越……”，形式上的倒装，宾语提前。</strong></font>
 
-8. In 2013,my daughter and I would watch Where Are We Going,Dad? produced by Hunan Satellite TV, <u><font color=red><strong>however/no matter how busy we were</strong></font></u> .(busy)
+   **unavoidable : *adj.*不可避免的；不能废除的**
+
+8. In 2013,my daughter and I would watch Where Are We Going,Dad? produced by Hunan Satellite TV, <u><font color=red><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;however/no matter how busy we were&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></font></u> .(busy)
 
    2013年，**无论我们有多忙**，我和女儿都会观看湖南卫视的《爸爸去哪儿》。
 
@@ -419,7 +516,7 @@
 
    <font color=red><strong>由句意可知,此句是让步状语从句,疑问词-ever相当于“no matter十疑问词”，形式上的倒装，表语提前。</strong></font>
 
-9. When asked <u><font color=red><strong>what it was</strong></font></u> that made his students so crazy about his lessons,the teacher smiled without saying anything.(what)
+9. When asked <u><font color=red><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what it was&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></font></u> that made his students so crazy about his lessons,the teacher smiled without saying anything.(what)
 
    当被问及**到底是什么**让学生如此喜爱他的课时，这位老师笑而不语。
 
@@ -429,7 +526,7 @@
 
    <font color=red><strong>此处为强调句的特殊疑问句式,根据句意,特殊疑问词用 what,宾语从句中需用陈述语序；强调句的特殊疑问句式：疑问词+ is (was) it + that +句子的其他成分，特殊疑问词即是被强调的成分。</strong></font>
 
-10. <u><font color=red><strong>It worries his mother/It makes his mother worried</strong></font></u> a lot that the retirement age will be delayed little with China entering aging society.(worry)
+10. <u><font color=red><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It worries his mother/It makes his mother worried&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></font></u> a lot that the retirement age will be delayed little with China entering aging society.(worry)
 
     随着中国进入老龄化社会，退休年龄将逐渐推迟，**这让他妈妈很担心**。
 
@@ -460,6 +557,14 @@
        - **例句：The sudden change in his behavior made his friends worried.（他行为的突然变化让他的朋友感到担忧。）**
     
     **总结来说，"worry about"表示自己的担忧，关注某个问题或情况；"worry someone"表示让别人感到担忧；"make someone worried"表示某事让某人感到担忧。**
+    
+    
+    
+    **society相关的单词**
+    
+    1. **social adj.社会的;社会上的;社会地位的；n.联谊会;联欢会**
+    2. **society n.社会(共同遵守一定的习俗、法律等的特定群体);学会;协会;社团;**
+    3. **socially adv.社会上;交际上;和睦地**
 
 
 
@@ -467,7 +572,7 @@
 
 ## lesson 03
 
-1. Finally he reached a lonely island <u><font color=red><strong>( which/that was) cut off</strong></font></u> from the outside world.(cut)
+1. Finally he reached a lonely island <u><font color=red><strong>       ( which/that was) cut off      </strong></font></u> from the outside world.(cut)
 
    最后，他来到了一个与外界**隔绝的**孤岛
 
@@ -477,7 +582,25 @@
 
    <font color=red><strong>cut off“隔绝”：定语从句的先行词是a lonely island，引导词在从句中作主语，故用which 或that；也可直接用动词-ed形式做定语(非谓语动词)</strong></font>
 
-2. It has been proved that <u><font color=red><strong>eating vegetables in/during childhood</strong></font></u> helps to protect you against serious illnesses in later life.(eat)
+   **"Cut" 是一个常见的词，它可以与许多其他词组合形成不同的短语和习语。以下是一些常见的 "cut" 短语及其用法：**
+
+   1. **Cut down (on): 减少，削减**
+      - **I need to cut down on my sugar intake.（我需要减少摄入糖的量。）**
+      - **The company is cutting down on expenses to improve profits.（公司正在削减开支以提高利润。）**
+   2. **Cut off: 切断，中断**
+      - **The storm cut off the power supply to the entire town.（暴风雨使整个城镇的电力供应中断。）**
+      - **She was cut off from her family for many years.（她与家人断绝了联系很多年。）**
+   3. **Cut out: 剪掉，删去；停止做某事**
+      - **I cut out the article from the newspaper.（我从报纸上剪下了这篇文章。）**
+      - **You should cut out junk food for better health.（为了更好的健康，你应该戒掉垃圾食品。）**
+   4. **Cut through: 穿过，抄近路**
+      - **We cut through the park to get to the other side of the city.（我们穿过公园以便到达城市的另一侧。）**
+      - **The new road cuts through the mountain, making travel faster.（这条新路穿越了山脉，使得旅行更快捷。）**
+   5. **Cut in: 插嘴，插入；插入交通队列**
+      - **She always cuts in and interrupts our conversations.（她总是插嘴打断我们的谈话。）**
+      - **The car cut in front of me without using the turn signal.（那辆车没有使用转向灯就插入到我前面。）**
+
+2. It has been proved that <u><font color=red><strong>     eating vegetables in/during childhood     </strong></font></u> helps to protect you against serious illnesses in later life.(eat)
 
    已经得到证实**童年吃蔬菜**有助于你在以后的生活中抵御重病
 
@@ -487,7 +610,11 @@
 
    <font color=red><strong>整体句子是it做形式主语，真正的主语是that后面的句子；that后的从句中缺少主语，根据句意“童年时吃蔬菜有助于……”是一种经验，故用动词-ing形式作主语；表示“在·……时/期间”用介词in或during。</strong></font>
 
-3. The reform of College Entrance Examination will <u><font color=red><strong>begin with English</strong></font></u> whose result is not as expected.(begin)
+   **protect against ：使免受**
+
+   **illness ：*n.*疾病；（某种）病，患病期**
+
+3. The reform of College Entrance Examination will <u><font color=red><strong>    begin with English    </strong></font></u> whose result is not as expected.(begin)
 
    高考改革将**从英语学科开始**，其结果也不像预期那样
 
@@ -497,7 +624,7 @@
 
    <font color=red><strong>begin with sth.“从……开始”。</strong></font>
 
-4. I am sorry <u><font color=red><strong>to have called you up</strong></font></u> at such an awkward time，but I really have something urgent to tell you.(call)
+4. I am sorry <u><font color=red><strong>    to have called you up    </strong></font></u> at such an awkward time，but I really have something urgent to tell you.(call)
 
    我真的抱歉在这么不合适的时间**给你打电话**，但我真的有急事告诉你。
 
@@ -509,7 +636,9 @@
 
    <font color=red><strong>修饰something，anything……不定代词时，形容词后置。</strong></font>
 
-5. How can you ask again？I think you <u><font color=red><strong>were not listening to me</strong></font></u> at all when I presented the answer to you.(listen)
+   **awkward ：*adj.*令人尴尬的，使人难堪的；难对付的，难处理的；**
+
+5. How can you ask again？I think you <u><font color=red><strong>     were not listening to me    </strong></font></u> at all when I presented the answer to you.(listen)
 
    你怎么又问一遍?我认为当时我在给你讲解答案时**你**根本**没听**
 
@@ -519,7 +648,7 @@
 
    <font color=red><strong>由题意及句子可知not listen表示的动作发生在presented表示的过去动作发生时,表示“当……时,正在……”,故用过去进行时。</strong></font>
 
-6. Never before in his life <u><font color=red><strong>had he suffered</strong></font></u> such a great loss,so he almost lost the hope of life.(suffer)
+6. Never before in his life <u><font color=red><strong>     had he suffered    </strong></font></u> such a great loss,so he almost lost the hope of life.(suffer)
 
    他一生从来没有**遭受过**如此重大的损失,所以他几乎失去了生活的希望。
 
@@ -529,7 +658,7 @@
 
    <font color=red><strong>表示否定意义的never 置于句首时，句子用部分倒装，且由句意可知用过去完成时。)</strong></font>
 
-7. It was <u><font color=red><strong>because he felt lonely/because of his feeling lonely</strong></font></u> that he moved out of the remote village and settled down in the big city.(feel)
+7. It was <u><font color=red><strong>     because he felt lonely/because of his feeling lonely     </strong></font></u> that he moved out of the remote village and settled down in the big city.(feel)
 
    就是**因为他觉得孤单**,他才搬出那个偏僻的村庄在大城市定居下来的。
 
@@ -539,7 +668,7 @@
 
    <font color=red><strong>It was...that...是强调句式，被强调的是原因状语，故可用原因状语从句或because of...短语。注意强调原因状语时，若为从句只能用because引导。</strong></font>
 
-8. Had the natural disaster happened at midnight,it <u><font color=red><strong>might have caused</strong></font></u> much greater damage.(cause)
+8. Had the natural disaster happened at midnight,it <u><font color=red><strong>    might have caused    </strong></font></u> much greater damage.(cause)
 
    如果这场自然灾害发生在半夜,它**可能会造成**更大的损害。
 
@@ -549,7 +678,7 @@
 
    <font color=red><strong>虚拟语气，对已经发生的事情进行假设，might have done表示对过去发生事情的假设。</strong></font>
 
-9. All his property,the books, the pictures and the house,<u><font color=red><strong>was destroyed</strong></font></u> by the big fire.(destroy)
+9. All his property,the books, the pictures and the house,<u><font color=red><strong>    was destroyed    </strong></font></u> by the big fire.(destroy)
 
    他所有的财产、书、画以及房子都**被**这场大火**烧毁了**。
 
@@ -559,7 +688,9 @@
 
    <font color=red><strong>本句的主语是all his property,而 the books,the pictures and the house是其同位语，property表示财产,是不可数名词,故谓语动词用单数形式,且事情发生在说话之前,主谓之间是被动语态,故用一般过去时的被动语态。</strong></font>
 
-10. If you don't insist on <u><font color=red><strong>going after your dream</strong></font></u>,you will never have it.(go)
+   **property ：*n.*所有物，财产；地产，房地产；**
+
+10. If you don't insist on <u><font color=red><strong>     going after your dream    </strong></font></u>,you will never have it.(go)
 
     如果不坚持**去追逐你的梦想**,你将永远不会实现梦想。
 
@@ -577,7 +708,7 @@
 
 ## lesson 04
 
-1. What my father often tells me is <u><font color=red><strong>that what makes</strong></font></u> a girl shine is not her looks but her personality.(make)
+1. What my father often tells me is <u><font color=red><strong>    that what makes     </strong></font></u> a girl shine is not her looks but her personality.(make)
 
    我爸爸经常告诉我**让**一个女孩耀眼的不是她的外表而是她的个性
 
@@ -589,7 +720,7 @@
 
 2. —Will you be able to receive the guests from Germany?
 
-   —I am afraid not. I <u><font color=red><strong>will be attending</strong></font></u> an  important meeting then.
+   —I am afraid not. I <u><font color=red><strong>     will be attending     </strong></font></u> an  important meeting then.
 
    你能够接待德国的哪些客人吗？
 
@@ -601,7 +732,7 @@
 
    <font color=red><strong>“正在参加一个重要的会议”发生在将来某个时间点;故用将来进行时。</strong></font>
 
-3. On the surface of the water <u><font color=red><strong>floated some dead leaves</strong></font></u>，Which spoiled the beautiful scenery of the park.(float)
+3. On the surface of the water <u><font color=red><strong>    floated some dead leaves    </strong></font></u>，Which spoiled the beautiful scenery of the park.(float)
 
    河面上**飘着一些枯叶**,这破坏了公园的美景。
 
@@ -611,7 +742,7 @@
 
    <font color=red><strong>介词短语位于句首时,句子用全部倒装,由句中的时态可知用一般过去时。</strong></font>
 
-4. Those always <u><font color=red><strong>associating money with</strong></font></u> happiness may never feel happy,for they are never content.(associate)
+4. Those always <u><font color=red><strong>   associating money with     </strong></font></u> happiness may never feel happy,for they are never content.(associate)
 
    那些总是**把金钱**和幸福**联系起来的**人也许永远不会感到幸福,因为他们永不知足。
 
@@ -621,7 +752,7 @@
 
    <font color=red><strong>associate. .. with...“把……和……联系起来”;指代人的 those与 associate之间是主动关系,故用动词-ing形式作定语。</strong></font>
 
-5. Chinese medicine <u><font color=red><strong>is usually/often cooked</strong></font></u> using special plants that can be used for medicine.(cook)
+5. Chinese medicine <u><font color=red><strong>   is usually/often cooked   </strong></font></u> using special plants that can be used for medicine.(cook)
 
    中药**通常是**用可以作为药物的特殊植物来煮的。
 
@@ -631,7 +762,7 @@
 
    <font color=red><strong>Chinese medicine与 cook之间是被动关系,且句子讲的是事实,故用一般现在时的被动语态。</strong></font>
 
-6. My aunt,<u><font color=red><strong>whose photo/picture I showed you</strong></font></u> yesterday,will come to guide me,on how to apply for the job I want.(show).
+6. My aunt,<u><font color=red><strong>     whose photo/picture I showed you   </strong></font></u> yesterday,will come to guide me,on how to apply for the job I want.(show).
 
    我的姑姑,昨天**我给你们看过她的照片**,将会来指导我如何申请我想要的工作。
 
@@ -641,7 +772,7 @@
 
    <font color=red><strong>show sb. sth.“向某人展示某物”,该句为非限制性定语从句,my aunt与 photo/picture之间是所有关系,故用 whose作定语的关系代词,由时间状语可知用一般过去时。</strong></font>
 
-7. If it hadn't been for your timely help,we <u><font color=red><strong>would be trapped</strong></font></u> in a dilemma now.(trap)
+7. If it hadn't been for your timely help,we <u><font color=red><strong>    would be trapped    </strong></font></u> in a dilemma now.(trap)
 
    要不是因为你及时的帮助,我们现在**还困在**进退两难的境地中。
 
@@ -651,7 +782,7 @@
 
    <font color=red><strong>从句与过去事实相反,主句与现在事实相反,故主句谓语动词用“would+动词原形”的形式。</strong></font>
 
-8. You can never imagine <u><font color=red><strong>what exciting news</strong></font></u> you have told us!(news).
+8. You can never imagine <u><font color=red><strong>     what exciting news     </strong></font></u> you have told us!(news).
 
    你绝对想象不到你告诉我们的**是多么令人兴奋的消息啊**!
 
@@ -661,7 +792,7 @@
 
    <font color=red><strong>表示“令人兴奋的”用exciting;imagine的宾语从句是感叹句的形式,中心词是名词news,故用what 引导。</strong></font>
 
-9. We use passwords to keep our personal information secret and safe,but some passwords we use may not be <u><font color=red><strong>as/ so reliable as</strong></font></u> we think.(reliable).
+9. We use passwords to keep our personal information secret and safe,but some passwords we use may not be <u><font color=red><strong>     as/ so reliable as     </strong></font></u> we think.(reliable).
 
    我们使用密码来使得个人信息安全、保密,但是我们所用的有些密码可能并不**像**我们所认为的**那样可靠**。
 
@@ -671,7 +802,7 @@
 
    <font color=red><strong>表示“不如……那样·…”,用not as/so. . .as...原级结构形式表示。</strong></font>
 
-10. The samples <u><font color=red><strong>varied in quality</strong></font></u> but were generally acceptable.(vary)
+10. The samples <u><font color=red><strong>     varied in quality    </strong></font></u> but were generally acceptable.(vary)
 
     虽然样本**质量不一**,但都是可以接受的。
 
