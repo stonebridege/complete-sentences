@@ -63,9 +63,10 @@
       - **The new microwave oven is very convenient for quick cooking.（这个新的微波炉非常适合快速烹饪。）**
 
    3. **表示行动或安排的方便：**
+      
       - **It's convenient to have a grocery store nearby.（附近有一家杂货店非常方便。）**
       - **The online booking system makes it convenient to reserve a table at the restaurant.（在线预订系统使得在餐厅预定桌子非常方便。）**
-
+      
    4. **表达某人个人的方便程度：**
       - **I'll call you later when it's convenient for you.（在你方便的时候，我稍后给你打电话。）**
       - **Please let me know a convenient time for our meeting.（请告诉我一个方便的时间进行我们的会议。）**
@@ -98,6 +99,7 @@
 
    1. **issue n.议题，争论点；发放，分配； v.发表；分配；正式发行；流出**
    2. **outstanding ：*adj.*杰出的，优秀的；显著的，突出的；未解决的，未完成的；**
+   3. **ahead of ：1.在......之前：表示在时间或顺序上早于某人或某事。；2.领先：在比赛或竞争中处于优势地位。**
 
 4. Had it not been for the hazy weather , You <u><font color=red><strong>       would have seen the beautiful bridge        </strong></font></u>  in the distance yesterday . (see)
 
@@ -109,7 +111,11 @@
 
    <font color=red><strong>由句意可知,此句是与过去事实相反的假设,条件状语从句中用过去完成时,主句谓语动词用 would have done的形式；</strong></font>
 
-   <font color=red><strong>从句是去掉if的条件句，要倒装</strong></font>
+   <font color=red><strong>从句是去掉if的条件句，要倒装（If it had been for…）</strong></font>
+
+   
+
+   **Distance  n.远处；疏远，隔阂；差别，差距；进展；距离；v.疏远，远离；adj.远距离的**
 
    **"Distance" 这个词有多种表达方式，用于描述距离的不同方面和概念。以下是一些常见的表达方式：**
 
@@ -119,17 +125,19 @@
       - **She could see the mountain peak in the distance.（她能看到远处的山峰。）**
 
    2. **Distance oneself from: 与...保持距离，与...保持疏远**
+      
       - **He decided to distance himself from the controversial political group.（他决定与这个有争议的政治团体保持距离。）**
       - **She wanted to distance herself from the negative influence of her past.（她希望与过去的负面影响保持疏远。）**
-
+      
    3. **Far distance: 远距离**
       - **They had a long-distance relationship for several years.（他们在远距离的情况下维持了几年的关系。）**
       - **He enjoys hiking in remote places and exploring far distances.（他喜欢在偏远地方徒步旅行和探索远距离。）**
 
    4. **Within walking distance: 步行可达**
+      
       - **The grocery store is within walking distance from my house.（这家杂货店离我家步行可达。）**
       - **The hotel is conveniently located within walking distance of the main attractions.（这家酒店地理位置便利，离主要景点步行可达。）**
-
+      
    5. **"In the distance" 表示在远处，用于描述某物或某事物位于观察者远离的位置。它可以用来形容视野中的远方或遥远的地点。以下是一些例句来说明其用法：**
 
       1. **I saw a ship in the distance, sailing towards the horizon.（我看到远处有一艘船，驶向地平线。）**
@@ -137,7 +145,7 @@
 
       **这个短语用于描述远处的景象或位置，强调观察者与所描述事物之间的距离。**
 
-5. The reason why he is absent from the meeting is,I think <u><font color=red><strong>       that he might not  have been informed       </strong></font></u>  of it.(inform)
+5. The reason why he is absent from the meeting is，I think <u><font color=red><strong>       that he might not  have been informed       </strong></font></u>  of it.(inform)
 
    我认为他缺席会议的原因是**他可能没被通知**此事。
 
@@ -220,6 +228,12 @@
    <strong>解析：</strong>
 
    <font color=red><strong>not only. ..but also...连接两个句子, not only位于句首时,含not only的分句用部分倒装,由but后分句中的动词形式可知此处用一般现在时。</strong></font>
+
+   **image ：*n.*形象，印象；影像，映像，图像；**
+
+   **imagine ：*v.*想象，设想；料想，认为；误以为，胡乱猜想**
+
+   
 
    **banned ：*adj.*被禁的，被取缔的；*v.*禁止；（官方）把……逐出；（ban 的过去式和过去分词）**
 
@@ -335,7 +349,7 @@
 
 1. Up till now I <u><font color=red><strong>     have been looking for     </strong></font></u> an idea flat , But the house price is too high for me to accept .(look)
 
-   直到现在我**一直在寻找**理想的公寓。但房价太高我不能接受
+   直到现在我**一直在寻找**理想的公寓。但房价太高我不能接受。
 
    <font color=red><strong>have been looking for</strong></font>
 
@@ -354,7 +368,7 @@
    3. **Look after: 照顾，照料**
       - **Can you look after my cat while I'm away?**
 
-   4. **Look out: 注意，小心**
+   4. **Look out: 注意，小心（watch out：当心，小心：用于提醒他人注意危险或潜在问题。）**
       - **Look out! There's a car coming.**
 
    5. **Look for: 寻找**
@@ -368,8 +382,6 @@
 
    8. **Look up to: 尊敬，仰慕**
       - **I've always looked up to my older brother.**
-
-   **这些短语是常见的，但并不是全部，"look" 还可以与其他动词或介词组合形成更多的短语和习语。**
 
 2. Tom got another C in the final exam . If only he <u><font color=red><strong>    had not wasted time （in)  playing     </strong></font></u> computer games !
 
@@ -396,14 +408,47 @@
    <font color=red><strong>A比B……：A+be/V.+比较级+than+B</strong></font>
 
    1. **secure  adj.稳固的；安全的，稳妥的；有自信的；感到有保障的；v.（尤指经过努力而）获得，得到；使安全，保护；确保，保证；**
+
       - **Double-check that the ladder is secure. （再检查一下梯子是否安全。）**
       - **Our objective must be to secure a peace settlement. （我们的目标必须是确保达成一个和平协议。）**
+
    2. **secured  *v.*固定，系牢；锁上；保护，使安全；（经过努力）获得；做担保（secure 的过去式和过去分词）**
+
    3. **profit  n.利润，盈利；利益，好处；v.获益，得益；赢利，获利**
+
       - **Profit from exports rose 7.3%. (出口利润增长了7.3%。)**
+
    4. **increase   v.增长，增强，增大; n.增长；增长量**
 
-4. So little <u><font color=red><strong>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;did they know about/of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></font></u> new campus life that in the first month almost all freshmen were at a loss how to arrange their schedule.(know)
+   5. **"Seem" 是一个常用的动词，用于表达某事物的外观、感觉或推断。它表示某种主观判断或印象。以下是 "seem" 的用法：**
+
+      1. **"Seem" + 形容词**
+         - **She seems tired. (她看起来很累。)**
+         - **It seems impossible. (看起来不可能。)**
+
+      2. **"Seem" + 不定式**
+         - **He seems to be happy. (他似乎很开心。)**
+         - **It seems to rain later. (似乎后面要下雨。)**
+
+      3. **"Seem" + 名词短语**
+         - **The plan seems reasonable. (计划似乎是合理的。)**
+         - **It seems like a good opportunity. (看起来是个好机会。)**
+
+      4. **"Seem" + 从句**
+         - **She seems like she's in a hurry. (她好像很着急。)**
+         - **It seems that he knows the answer. (看起来他知道答案。)**
+
+      **需要注意的是，"seem" 表示的是主观感觉或推测，可能与事实不一致。此外，"seem" 通常不与进行时态连用，因为它本身已经表示一种状态或观点。**
+
+      **例如：**
+      - **You seem upset. (你看起来很不高兴。)**
+      - **She seems to have a lot of experience. (她似乎有很多经验。)**
+      - **It seems like a good movie. (看起来是一部不错的电影。)**
+      - **He seems to be enjoying himself. (他似乎很开心。)**
+
+      **希望以上解释对你有所帮助！如有其他问题，请随时提问。**
+
+4. So little <u><font color=red><strong>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;did they know about&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></font></u> new campus life that in the first month almost all freshmen were at a loss how to arrange their schedule.(know)
 
    在第一个月,几乎所有的新生对大学校园新生活**了解**甚少,以至于他们不知道如何安排时间。
 
@@ -448,10 +493,6 @@
       
       **They went hunting for a new apartment.(他们去寻找一套新公寓。)**
 
-   5. **Scout around: 到处搜索，四处寻找**
-      
-      **We need to scout around for the best prices.(我们需要四处寻找最好的价格。)**
-
    6. **Explore for: 探索，寻找**
       
       **They are exploring for oil in the region.(他们正在该地区寻找石油。)**
@@ -459,10 +500,6 @@
    7. **Dig for: 挖掘，搜寻**
       
       **Archaeologists are digging for artifacts in the ancient ruins.(考古学家正在古代遗迹中挖掘文物。)**
-
-   8. **Ferret out: 搜寻，查明**
-      
-      **The detective was able to ferret out the truth.(那名侦探能够查明事实真相。)**
 
    **这些词组可以用于表示在不同情境下的 "搜索" 或 "寻找" 活动。请根据具体的语境选择合适的词组。**
 
@@ -477,6 +514,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>定语从句的先行词是表示地点的scenes,引导词在从句中作地点状语,故用where,相当于in which.</strong></font>
+
+   **observe : *v.*注意到，观察到；注视，监视；（在科学研究中）观测，发现；说话，**
 
    **"Without" 是一个介词，用于表示缺乏、没有或排除某个因素的情况。以下是 "without" 的常见用法：**
 
@@ -502,9 +541,25 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>此题是“the十比较级...，the+比较级...”结构,表示“越……就越……”，形式上的倒装，宾语提前。</strong></font>
+   <font color=red><strong>此题是“the+比较级...，the+比较级...”结构,表示“越……就越……”，形式上的倒装，宾语提前。</strong></font>
 
    **unavoidable : *adj.*不可避免的；不能废除的**
+
+   
+
+   **"the+比较级...，the+比较级..." 结构中要进行形式上的倒装。在这种结构中，"the" 和比较级形容词之间发生倒装，使得句子更加强调比较的关系。**
+
+   **以下是该结构的形式上倒装示例：**
+
+   - **The more, the merrier. (越多越好。)**
+   - **The earlier you arrive, the better seats you'll get. (你越早到，得到的座位越好。)**
+   - **The bigger they are, the harder they fall. (它们越大，摔得越重。)**
+   - **The more you practice, the better you'll become. (你练习得越多，你就会变得越好。)**
+   - **The more apples you pick, the more money you earn.(你摘的苹果越多，你挣的钱越多)**
+   - **The fewer people, the quieter it is. (人越少，越安静。)**
+   - **The higher the temperature, the greater the risk. (温度越高，风险越大。)**
+
+   **注意，这种结构中的倒装只发生在 "the" 和比较级之间，其他部分的语序保持不变。这种形式上的倒装是为了突出比较的程度或关系。**
 
 8. In 2013,my daughter and I would watch Where Are We Going,Dad? produced by Hunan Satellite TV, <u><font color=red><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;however/no matter how busy we were&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></font></u> .(busy)
 
@@ -514,7 +569,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>由句意可知,此句是让步状语从句,疑问词-ever相当于“no matter十疑问词”，形式上的倒装，表语提前。</strong></font>
+   <font color=red><strong>由句意可知,此句是让步状语从句,疑问词-ever相当于“no matter+疑问词”，形式上的倒装，表语提前。</strong></font>
 
 9. When asked <u><font color=red><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what it was&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></font></u> that made his students so crazy about his lessons,the teacher smiled without saying anything.(what)
 
@@ -582,6 +637,20 @@
 
    <font color=red><strong>cut off“隔绝”：定语从句的先行词是a lonely island，引导词在从句中作主语，故用which 或that；也可直接用动词-ed形式做定语(非谓语动词)</strong></font>
 
+   **"Lonely" 和 "alone" 都可以表示孤独或独处的含义，但它们在用法和含义上略有不同。**
+
+   - **"Lonely" 指的是感觉孤独、缺乏陪伴或与他人隔离的状态。它强调内心感受和情感状态。例如：**
+     - **She felt lonely after moving to a new city.（搬到新城市后，她感到孤独。）**
+     - **He often feels lonely when his friends are not around.（当他的朋友不在身边时，他经常感到孤独。）**
+
+   - **"Alone" 表示独自一人，没有他人陪伴。它强调的是身体上的独处状态，而不一定涉及内心感受。例如：**
+     - **I prefer to be alone when I'm working.（我在工作时更喜欢独自一人。）**
+     - **She likes to spend time alone in nature.（她喜欢独自一人在大自然中度过时间。）**
+
+   **可以说 "lonely" 更侧重于描述情感状态和内心感受，而 "alone" 更侧重于描述身体上的独处状态。然而，这两个词在某些情况下可以互换使用，具体取决于语境和所要表达的意思。**
+
+   
+
    **"Cut" 是一个常见的词，它可以与许多其他词组合形成不同的短语和习语。以下是一些常见的 "cut" 短语及其用法：**
 
    1. **Cut down (on): 减少，削减**
@@ -624,6 +693,24 @@
 
    <font color=red><strong>begin with sth.“从……开始”。</strong></font>
 
+   **Entrance ：n. 入口，进口；进入，进门；**
+
+   **exit ：*n.*出口，通道，太平门；（车辆驶出公路的）出路；离去；**
+
+   
+
+   **"Examination" 和 "exam" 是同一概念的不同表达方式，它们在意义上没有实质性的区别。**
+
+   **"Examination" 是一个完整的词，指的是一种正式的测试、评估或考试，通常用于正式场合或正式文体中。它可以指大型考试、期末考试、入学考试等。例如：**
+   - **I have an important examination tomorrow.**
+   - **The final examination will cover all the topics we studied this semester.**
+
+   **"Exam" 则是 "examination" 的缩写形式，它更为口语化，常用于非正式的场合或口语交流中。"Exam" 通常用于指代具体的考试活动，如一次小测验、一套试题或一场简短的测试。例如：**
+   - **I have a math exam tomorrow morning.**
+   - **Did you study for the chemistry exam?**
+
+   **总结而言，"examination" 是更正式、正式场合中常见的表达方式，而 "exam" 则是更口语化、非正式场合中常用的简化形式。两者在意义上基本相同，可以根据语境和口语偏好选择使用。**
+
 4. I am sorry <u><font color=red><strong>    to have called you up    </strong></font></u> at such an awkward time，but I really have something urgent to tell you.(call)
 
    我真的抱歉在这么不合适的时间**给你打电话**，但我真的有急事告诉你。
@@ -648,7 +735,7 @@
 
    <font color=red><strong>由题意及句子可知not listen表示的动作发生在presented表示的过去动作发生时,表示“当……时,正在……”,故用过去进行时。</strong></font>
 
-6. Never before in his life <u><font color=red><strong>     had he suffered    </strong></font></u> such a great loss,so he almost lost the hope of life.(suffer)
+6. Never before in his life <u><font color=red><strong>     had he suffered    </strong></font></u> such a great loss，so he almost lost the hope of life.(suffer)
 
    他一生从来没有**遭受过**如此重大的损失,所以他几乎失去了生活的希望。
 
@@ -668,7 +755,13 @@
 
    <font color=red><strong>It was...that...是强调句式，被强调的是原因状语，故可用原因状语从句或because of...短语。注意强调原因状语时，若为从句只能用because引导。</strong></font>
 
-8. Had the natural disaster happened at midnight,it <u><font color=red><strong>    might have caused    </strong></font></u> much greater damage.(cause)
+   **move out (of) ：搬出：离开原来居住的地方，将个人物品搬到另一个地方。**
+
+   **remote : *adj.*边远的，偏僻的；（距离或空间上）遥远的；**
+
+   **settle down : 安定下来：指在生活、工作或感情方面达到稳定的状态，通常意味着长期居住在某个地方。**
+
+8. Had the natural disaster happened at midnight,  it <u><font color=red><strong>    might have caused    </strong></font></u> much greater damage.(cause)
 
    如果这场自然灾害发生在半夜,它**可能会造成**更大的损害。
 
@@ -677,6 +770,24 @@
    <strong>解析：</strong>
 
    <font color=red><strong>虚拟语气，对已经发生的事情进行假设，might have done表示对过去发生事情的假设。</strong></font>
+
+   **disaster ：*n.*灾难，灾害；祸患，灾难性事物；彻底的失败**
+
+   **damage ：n. （有形的）损坏，损失；损害，伤害；损害赔偿金；费用，代价 ；v. 损坏，损害；对……造成坏影响**
+
+   
+
+   **"much/many + 比较级" 的结构用于强调在某个方面程度更高或数量更多的情况。它用于比较两个事物之间的差异，并强调其中一个事物在数量或程度上超过另一个。**
+
+   **当使用 "much + 比较级" 时，它通常用于修饰不可数名词，表示程度更高。例如：**
+   - **She has much more experience in this field than I do.（她在这个领域的经验比我多得多。）**
+   - **The new car is much faster than the old one.（新车比旧车快得多。）**
+
+   **当使用 "many + 比较级" 时，它通常用于修饰可数名词复数形式，表示数量更多。例如：**
+   - **There are many more students in the new class compared to the previous one.（与之前的班级相比，新班级有更多的学生。）**
+   - **He has many more books than his sister.（他比他妹妹有更多的书。）**
+
+   **这种结构可以用来比较两个事物在数量或程度上的差异，强调其中一个事物的增加或超过另一个事物。注意，在这个结构中，比较级通常要与 "much" 或 "many" 搭配使用，以突出差异的程度或数量。**
 
 9. All his property,the books, the pictures and the house,<u><font color=red><strong>    was destroyed    </strong></font></u> by the big fire.(destroy)
 
@@ -690,7 +801,7 @@
 
    **property ：*n.*所有物，财产；地产，房地产；**
 
-10. If you don't insist on <u><font color=red><strong>     going after your dream    </strong></font></u>,you will never have it.(go)
+10. If you don't insist on <u><font color=red><strong>     going after your dream    </strong></font></u>,  you will never have it.(go)
 
     如果不坚持**去追逐你的梦想**,你将永远不会实现梦想。
 
@@ -701,6 +812,19 @@
     <font color=red><strong>go after one's dream“追逐某人的梦想”; insist on doing sth.“坚持做某事”。</strong></font>
     
     <font color=red><strong>条件状语从句，主将从现</strong></font>
+    
+    **"go"是一个非常常用的动词，在英语中有许多与之相关的词组。以下是一些常见的以"go"为中心的词组：**
+    
+    1. **Go ahead: 继续，前进**
+    2. **Go away: 走开，离开**
+    3. **Go back: 返回，回到**
+    4. **Go for it: 尽管去做，全力以赴**
+    5. **Go on: 继续，进行下去**
+    6. **Go out: 出去，外出**
+    7. **Go over: 仔细检查，复习**
+    8. **Go through: 经历，经受**
+    9. **Go with: 与...相配，与...一起去**
+    10. **Go off: 爆炸，响起**
 
 
 
@@ -718,6 +842,14 @@
 
    <font color=red><strong>is后为that引导的表语从句,表语从句中又含有主语从句,从句缺少主语,根据句意用what引导。</strong></font>
 
+   **personality ：*n.*个性，性格；魅力；特色；有突出个性的人；名人**
+
+   **individual ：adj.单独的，个别的；个人的；独特的；n.个人，个体；有个性的人；某种类型的人**
+
+   **personal ：adj.个人的(personal information：私人信息)，私人的；针对个人的，人身攻击的；人身的，身体的；亲自的；有人性的；n.私人信息发布，私人广告；个人启事栏，私人广告栏**
+
+   **private ：*adj.*私有的，自用的；（服务，行业）私营的，**
+
 2. —Will you be able to receive the guests from Germany?
 
    —I am afraid not. I <u><font color=red><strong>     will be attending     </strong></font></u> an  important meeting then.
@@ -732,6 +864,22 @@
 
    <font color=red><strong>“正在参加一个重要的会议”发生在将来某个时间点;故用将来进行时。</strong></font>
 
+   **英语中表示"担心某事，恐怕某事，担心某事"的表达方式有多种。以下是几种常见的表达方式：**
+
+   1. **Be worried/concerned about something: 对某事感到担心/关注**
+      - **I'm worried about the upcoming exam.（我对即将来临的考试感到担心。）**
+      - **He is concerned about the safety of his family.（他对家人的安全感到关注。）**
+
+   2. **Be afraid/worried/scared that: 担心/害怕/恐怕...**
+      - **I'm afraid that I won't be able to make it on time.（恐怕我无法按时赶到。）**
+      - **She is worried that the project might not be successful.（她担心这个项目可能不会成功。）**
+   3. **Have concerns/fears about something: 对某事有担忧/恐惧**
+      - **They have concerns about the environmental impact of the new construction project.（他们对新建筑项目的环境影响有所担忧。）**
+      - **The parents have fears about their child's safety.（父母对孩子的安全感到担忧。）**
+   4. **Be anxious/nervous about something: 对某事感到焦虑/紧张**
+      - **He is anxious about the job interview tomorrow.（他对明天的面试感到焦虑。）**
+      - **She is nervous about giving a presentation in front of a large audience.（她对在大庭广众面前进行演讲感到紧张。）**
+
 3. On the surface of the water <u><font color=red><strong>    floated some dead leaves    </strong></font></u>，Which spoiled the beautiful scenery of the park.(float)
 
    河面上**飘着一些枯叶**,这破坏了公园的美景。
@@ -742,6 +890,14 @@
 
    <font color=red><strong>介词短语位于句首时,句子用全部倒装,由句中的时态可知用一般过去时。</strong></font>
 
+   **leaves ：n.树叶，叶片；花瓣；（纸）页，张；薄金属片；活动桌板，折叠桌板；（leaf 的复数）**
+
+   **spoil ：v.破坏，糟蹋；溺爱，宠坏；善待，格外关照；（食物）变质，腐败；使（选票）作废；n.赃物，战利品（the spoils）；成功所带来的好处（spoils）；**
+
+   **scenery ：*n.*风景，景色；舞台布景**
+
+   **scene : *n.*事发地，现场；事件，场面；（戏剧、书、电影等的）片段，情节；**
+
 4. Those always <u><font color=red><strong>   associating money with     </strong></font></u> happiness may never feel happy,for they are never content.(associate)
 
    那些总是**把金钱**和幸福**联系起来的**人也许永远不会感到幸福,因为他们永不知足。
@@ -751,6 +907,30 @@
    <strong>解析：</strong>
 
    <font color=red><strong>associate. .. with...“把……和……联系起来”;指代人的 those与 associate之间是主动关系,故用动词-ing形式作定语。</strong></font>
+
+   **英语中表示"把……和……联系起来"的常用表达方式包括：**
+
+   1. **Connect/link/tie together: 把……连接起来**
+      - **She connected the dots and solved the puzzle.（她把线索连接起来解开了谜题。）**
+      - **The bridge ties the two cities together.（这座桥把两个城市连接起来。）**
+
+   2. **Associate/relate/connect with: 将……与……联系起来**
+      - **Many people associate success with hard work.（很多人把成功与努力工作联系在一起。）**
+      - **The smell of freshly baked bread is often associated with comfort and home.（新鲜烤面包的香味常常与舒适和家庭联系在一起。）**
+
+   3. **Combine/blend/mix: 结合/混合**
+      - **The chef combined different flavors to create a unique dish.（厨师将不同的味道结合在一起，创造出独特的菜肴。）**
+      - **The artist blended colors to create a beautiful painting.（艺术家混合颜色创作了一幅美丽的画作。）**
+
+   4. **Integrate/incorporate: 融合/整合**
+      - **The company aims to integrate technology into everyday life.（该公司旨在将技术融入日常生活。）**
+      - **The new curriculum incorporates both theory and practical experience.（新的课程整合了理论和实践经验。）**
+
+   5. **See/recognize the connection/link between: 看到/认识到……之间的联系**
+      - **I see a strong connection between regular exercise and good health.（我看到经常锻炼和良好健康之间存在着密切的联系。）**
+      - **He recognized the link between stress and poor sleep quality.（他认识到压力与睡眠质量不佳之间的联系。）**
+
+   **content : n.目录；所含物，容纳的东西；（书、文章、演讲、电影等的）内容；含量；v.使满意，使满足**
 
 5. Chinese medicine <u><font color=red><strong>   is usually/often cooked   </strong></font></u> using special plants that can be used for medicine.(cook)
 
@@ -771,6 +951,16 @@
    <strong>解析：</strong>
 
    <font color=red><strong>show sb. sth.“向某人展示某物”,该句为非限制性定语从句,my aunt与 photo/picture之间是所有关系,故用 whose作定语的关系代词,由时间状语可知用一般过去时。</strong></font>
+
+   **guidance : *n.*指导，指引；（火箭等的）制导**
+
+   **guide : v.带领，引导（某人至某地）；任向导；指导，影响；解释，阐明；n.指南，手册；导游，向导；准则，指针；**
+
+   **direct : adj.径直的；坦率的；直接的，亲身的；v.把……对准；管理，指导；给……指路；指引，引导；导演；adv.径直地，直达地；亲自，直接**
+
+   **direction : *n.*方向，方位；趋势，动向；指示，说明；目标；方面；**
+
+   **director : *n.*导演；管理者，负责人；董事，理事**
 
 7. If it hadn't been for your timely help,we <u><font color=red><strong>    would be trapped    </strong></font></u> in a dilemma now.(trap)
 
@@ -802,6 +992,30 @@
 
    <font color=red><strong>表示“不如……那样·…”,用not as/so. . .as...原级结构形式表示。</strong></font>
 
+   **"As/So...as..." 是一个常用的比较结构，用来表示两个事物在某个方面相等或相似。它的基本形式是：as/so + 形容词/副词的原级 + as + 被比较的人或物。**
+
+   **这个结构可以用于表示相等程度、相似程度、数量或程度的比较。下面是一些例句和不同用法的解释：**
+
+   1. **相等程度的比较：**
+      - **He is as tall as his brother.（他和他的兄弟一样高。）**
+      - **The book is as expensive as I expected.（这本书和我预期的一样贵。）**
+
+   2. **相似程度的比较：**
+      - **She sings as beautifully as a bird.（她唱歌像一只鸟一样动听。）**
+      - **The new car drives as smoothly as butter.（新车开起来像黄油一样顺畅。）**
+
+   3. **数量或程度的比较：**
+      - **I have as much money as you do.（我有和你一样多的钱。）**
+      - **He works as hard as anyone in the company.（他和公司里的任何人一样努力工作。）**
+
+   **注意，当比较对象是名词时，需要使用相应的代词或名词短语作为比较的依据：**
+   - **She is as smart as her sister.（她和她的姐姐一样聪明。）**
+   - **The building is as tall as a skyscraper.（这座建筑像摩天大楼一样高。）**
+
+   **此外，还可以使用 "not as/so...as..." 来表示否定的比较：**
+   - **This restaurant is not as expensive as the other one.（这家餐厅没有另一家那么贵。）**
+   - **She doesn't run as fast as her brother.（她跑得没有她兄弟那么快。）**
+
 10. The samples <u><font color=red><strong>     varied in quality    </strong></font></u> but were generally acceptable.(vary)
 
     虽然样本**质量不一**,但都是可以接受的。
@@ -811,6 +1025,56 @@
     <strong>解析：</strong>
     
     <font color=red><strong>vary in quality“质量不”,且由句中时态可知用一般过去时。</strong></font>
+    
+    **"Vary" 是一个常用的动词，表示变化、不同或多样化。它可以用于不同的语境和用法，下面是一些常见的用法和例句：**
+    
+    1. **不同、多样化：**
+       - **The prices of the products vary depending on the brand.（产品的价格因品牌而异。）**
+       - **The flavors of ice cream vary from chocolate to strawberry.（冰淇淋的口味从巧克力到草莓各不相同。）**
+    
+    2. **变化、改变：**
+       - **The weather varies from day to day.（天气日渐变化。）**
+       - **Her mood can vary dramatically throughout the day.（她的情绪在一天中可以出现剧烈的变化。）**
+    
+    3. **不一致、相异：**
+       - **The opinions of the members vary on this issue.（成员对这个问题持不同意见。）**
+       - **The results of the experiment varied significantly.（实验结果存在显著差异。）**
+    
+    4. **区别、不同于：**
+       - **Her approach to problem-solving varies from her colleagues'.（她解决问题的方式与她的同事不同。）**
+       - **The customs in different countries vary greatly.（不同国家的风俗习惯有很大的差异。）**
+    
+    5. **根据不同情况进行调整或变化：**
+       - **We need to vary our workout routine to avoid boredom.（我们需要改变锻炼计划以避免无聊。）**
+       - **She varies her teaching methods to accommodate different learning styles.（她根据不同的学习风格调整教学方法。）**
+    
+    **需要注意的是，"vary" 是一个及物动词，常与介词 "from" 或 "according to" 搭配使用。此外，它还有名词形式 "variation"，形容词形式 "varied" 和副词形式 "variously"。**
+    
+    
+    
+    **"Vary" 是一个多功能的动词，可以在不同的语境中使用。它通常可以搭配不同的介词、副词或形容词，形成固定的搭配表达特定的意思。下面是一些常见的固定搭配：**
+    
+    1. **Vary from...to...：表示范围或变化的极限。**
+       - **Prices vary from $10 to $50.（价格从10美元到50美元不等。）**
+       - **The length of the river varies from 200 to 500 kilometers.（河流的长度从200公里到500公里不等。）**
+    
+    2. **Vary according to：根据不同的因素或情况变化。**
+       - **Prices vary according to demand.（价格根据需求变化。）**
+       - **The schedule may vary according to weather conditions.（时间表可能根据天气情况变化。）**
+    
+    3. **Vary with：随着某个因素或条件的变化而变化。**
+       - **The intensity of the pain varies with the severity of the injury.（疼痛的强度随着伤势的严重程度而变化。）**
+       - **Our workload varies with the season.（我们的工作量随着季节变化。）**
+    
+    4. **Vary greatly/widely：表示巨大或广泛的变化。**
+       - **The prices of houses in this city vary greatly.（这个城市的房价变化很大。）**
+       - **People's opinions on this matter vary widely.（人们对这个问题的意见各不相同。）**
+    
+    5. **Vary little/slightly：表示变化很小或稍微。**
+       - **The temperature varies little throughout the year.（全年的气温变化很小。）**
+       - **The results of the experiment varied slightly.（实验结果稍有变化。）**
+    
+    **请注意，这些是一些常见的搭配，但并不是所有的搭配都是固定的，因为 "vary" 的用法非常灵活，可以根据具体语境和意义进行变化。因此，在实际使用中，还需根据具体情况选择合适的搭配。**
 
 
 
@@ -818,7 +1082,7 @@
 
 ## lesson 05
 
-1. A ride on Beijing subway costs just two yuan per person,  <u><font color=red><strong>no matter how/however far you travel</strong></font></u>.(travel)
+1. A ride on Beijing subway costs just two yuan per person,  <u><font color=red><strong>      no matter how/however far you travel      </strong></font></u>.(travel)
 
    **无论你去多远**，乘坐北京地铁每人次只需要两元钱。
 
@@ -826,9 +1090,9 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>引导让步状语从句时,“no matter十疑问词”相当于疑问词-ever。</strong></font>
+   <font color=red><strong>引导让步状语从句时,“no matter+疑问词”相当于疑问词-ever。</strong></font>
 
-2. Some people wear masks only in crowds，<u><font color=red><strong>where/in which they expect</strong></font></u> to come into contact with lots of germs.(expect)
+2. Some people wear masks only in crowds，<u><font color=red><strong>    where/in which they expect     </strong></font></u> to come into contact with lots of germs.(expect)
 
    很多人只在人多的地方戴口罩，他们**认为在那儿**会接触到很多细菌
 
@@ -840,7 +1104,7 @@
 
    <font color=red><strong>“come into contact with”表示“接触到”</strong></font>
 
-3. Not only <u><font color=red><strong>did it occur to</strong></font></u> Michael that he cloud one day become a top student in his class.(occur)
+3. Not only <u><font color=red><strong>   did it occur to    </strong></font></u> Michael that he cloud one day become a top student in his class.(occur)
 
    迈克尔从来**都没想过**有一天他能成为班上的尖子生。
 
@@ -852,7 +1116,16 @@
 
     <font color=red><strong>it occurs to sb.“某人想到”，It suddenly occurred to me that I had left my keys in the office.</strong></font>
 
-4. —Why are your eyes so red?  You <u><font color=red><strong>couldn't/can't have slept</strong></font></u> well last night.
+   **"It occurs to someone" 是一个常用的表达方式，用来表示某人突然想到或意识到某件事情。通常在这个短语后面会跟着一个从句或一个宾语，用来说明或描述具体的想法或意识。**
+
+   **例句：**
+   - **It occurred to me that I forgot to lock the door.（我突然想起来我忘记锁门了。）**
+   - **It occurs to him that he should call his mother and wish her happy birthday.（他突然意识到应该给妈妈打电话祝她生日快乐。）**
+   - **It occurred to us that we could take a different route to avoid traffic.（我们突然想到可以走另一条路以避开交通堵塞。）**
+
+   **这个表达方式常用于个人的思考、回忆或灵感的揭示，并在日常口语和书面语中都可以使用。**
+
+4. —Why are your eyes so red?  You <u><font color=red><strong>    couldn't/can't have slept    </strong></font></u> well last night.
 
    —Yeah，I stayed up late writing a report.(sleep)
 
@@ -866,7 +1139,7 @@
 
    <font color=red><strong>表示对过去事情的否定推测。</strong></font>
 
-5. The airport <u><font color=red><strong>to be completed</strong></font></u> next year will help promote tourism in the area.(complete)
+5. The airport <u><font color=red><strong>    to be completed    </strong></font></u> next year will help promote tourism in the area.(complete)
 
    明年**竣工的**飞机场将有助于促进该地区的旅游业
 
@@ -878,7 +1151,7 @@
 
 6. —Do you think George has passed the driving test?
 
-   —No. If so,he <u><font color=red><strong>would have driven</strong></font></u> his car to our college yesterday.(drive)
+   —No. If so,he <u><font color=red><strong>    would have driven    </strong></font></u> his car to our college yesterday.(drive)
 
    —你认为乔治通过了驾驶测试吗？
 
@@ -890,7 +1163,7 @@
 
    <font color=red><strong>主句表示与过去事实相反的假设,故谓语动词用 would/should/could/might+have done的形式。</strong></font>
 
-7. He hasn't slept at all for three days in a row.  <u><font color=red><strong>It is no wonder/No wonder that</strong></font></u> he is tired out.(wonder)
+7. He hasn't slept at all for three days in a row.  <u><font color=red><strong>   It is no wonder/No wonder that   </strong></font></u> he is tired out.(wonder)
 
    他连续三天根本没睡觉。**难怪**他疲惫不堪。
 
@@ -902,7 +1175,7 @@
 
    <font color=red><strong>“难怪”在英语中通常可以表示为“It’s no wonder that...”、“No wonder...”、“It’s not surprising that...”等等。</strong></font>
 
-8. I <u><font color=red><strong>had intended to</strong></font></u> take a holiday this year,  but I wasn't able to get away.(intend)
+8. I <u><font color=red><strong>   had intended to   </strong></font></u> take a holiday this year,  but I wasn't able to get away.(intend)
 
    我**原打算**今年休假，但是脱不开身。
 
@@ -912,7 +1185,7 @@
 
    <font color=red><strong>intend to do sth.“打算做某事”; had intended可以表示原本打算做却没做的事情；plan的过去完成时可以表示未曾实现的打算或意图。</strong></font>
 
-9. In the tent,  there were many children from the earthquake-stricken area,  <u><font color=red><strong>their ages varying/whose ages varied</strong></font></u> from 10 to 17.
+9. In the tent,  there were many children from the earthquake-stricken area,  <u><font color=red><strong>   their ages varying/whose ages varied    </strong></font></u> from 10 to 17.(vary)
 
    在这个帐篷里，有很多震区的孩子，**他们的年龄**从十岁到十七岁**不等**。
 
@@ -922,7 +1195,7 @@
 
    <font color=red><strong>their ages 与vary之间是主动关系,故用动词ing形式独立主格结构;也可将此句看成是非限制性定语从句,先行词与ages之间是修饰的‘关系。</strong></font>
 
-10. The police were seeking more information to find out <u><font color=red><strong>who it was that killed</strong></font></u> the rich merchant.(kill)
+10. The police were seeking more information to find out <u><font color=red><strong>    who it was that killed   </strong></font></u> the rich merchant.(kill)
 
     警察们正在寻找更多的信息找出**到底是谁杀了**这个富商。
     
@@ -1196,7 +1469,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>根据句子结构及句意可知,此句为强调句的一般疑问句形式“Was it十被强调部分十that...?”。</strong></font>
+   <font color=red><strong>根据句子结构及句意可知,此句为强调句的一般疑问句形式“Was it+被强调部分+that...?”。</strong></font>
 
 7. Do you still remember one of the key points that <u><font color=red><strong>were referred to</strong></font></u> in his report?I can't remember it at all
    你还记得他报告中**涉及**的一个关键点之一吗?我一点也记不得了。
@@ -1205,7 +1478,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>关系代词作主语,定语从句中谓语动词的形式取决于先行词。在“one of十复数名词”后的定语从句中,谓语动词用复数形式。</strong></font>
+   <font color=red><strong>关系代词作主语,定语从句中谓语动词的形式取决于先行词。在“one of+复数名词”后的定语从句中,谓语动词用复数形式。</strong></font>
 
 8. China has been pushing the reform of public hospitals <u><font color=red><strong>for the benefit of</strong></font></u> all the citizens.(benefit)
    **为**了全体公民的**利益**,中国已经推行了公立医院的改革。
@@ -1232,7 +1505,7 @@
 
     <strong>解析：</strong>
 
-    <font color=red><strong>形容词的原级比较可以用“as十形容词原级十as”表示,且第一个as后的形容词如果作定语修饰名词,该名词前有不定冠词时要置于形容词之后。</strong></font>
+    <font color=red><strong>形容词的原级比较可以用“as+形容词原级+as”表示,且第一个as后的形容词如果作定语修饰名词,该名词前有不定冠词时要置于形容词之后。</strong></font>
 
 
 
@@ -1486,7 +1759,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>break away from“与……决裂”，insist 表示“坚持要求”时,其后的宾语从句要用虚拟语气，谓语动词用“should十动词原形”，should 可以省略。</strong></font>
+   <font color=red><strong>break away from“与……决裂”，insist 表示“坚持要求”时,其后的宾语从句要用虚拟语气，谓语动词用“should+动词原形”，should 可以省略。</strong></font>
 
 4. By no means <u><font color=red><strong>   can/will/should you tell lies/a lie </strong></font></u> before your parents.(tell)
 
@@ -1667,7 +1940,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>表示“在……期间”用介词during;此句是“介词十which”引导的非限制性定语从句;concentrate on“专注于”。</strong></font>
+   <font color=red><strong>表示“在……期间”用介词during;此句是“介词+which”引导的非限制性定语从句;concentrate on“专注于”。</strong></font>
 
 9. Very often , your success depends on <u><font color=red><strong>        how you handle        </strong></font></u> the failure.(handle)
 
@@ -1776,7 +2049,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>在 so.. . that...句式中,如果“so十副词”置于句首,主句需用部分倒装,the man 与 injure之间是被动关系,且该被动动作发生在过去,故用一般过去时的被动语态。</strong></font>
+   <font color=red><strong>在 so.. . that...句式中,如果“so+副词”置于句首,主句需用部分倒装,the man 与 injure之间是被动关系,且该被动动作发生在过去,故用一般过去时的被动语态。</strong></font>
 
    <font color=red><strong>"fail to do sth"是一个动词短语，表示未能做某事，即失败了。例如：I failed to pass the driving test.（我没能通过驾驶考试。）</strong></font>
 
@@ -1885,7 +2158,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>条件句表示与将来事实相反的假设,根据句意主句谓语动词用“would十动词原形”。</strong></font>
+   <font color=red><strong>条件句表示与将来事实相反的假设,根据句意主句谓语动词用“would+动词原形”。</strong></font>
 
 3. The manager as well as the staff <u><font color=red><strong>        was chatting          </strong></font></u> cheerfully during the tea break when the boss came in.(chat)
 
@@ -1905,7 +2178,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>在 so. . . that...句式中,“so十形容词”位于句首时,句子用部分倒装;由从句可知,主句用一般过去时。</strong></font>
+   <font color=red><strong>在 so. . . that...句式中,“so+形容词”位于句首时,句子用部分倒装;由从句可知,主句用一般过去时。</strong></font>
 
    1. <font color=red><strong>Escape from：从某处逃离，例如：Escape from prison（从监狱逃离）。</strong></font>
    1. **sudden ：adj.突然的，忽然的;意外的，突然发生的;**
@@ -1919,7 +2192,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>此句为强调句的特殊疑问句结构“疑问词+is/was十it+ that...?”,宾语从句中用陈述语序。</strong></font>
+   <font color=red><strong>此句为强调句的特殊疑问句结构“疑问词+is/was+it+ that...?”,宾语从句中用陈述语序。</strong></font>
 
 6. I regret  <u><font color=red><strong>       not spending             </strong></font></u> more time with my grandma before she passed away. (not spend)
 
@@ -2400,7 +2673,7 @@
 
     <strong>解析：</strong>
     
-    <font color=red><strong>此处为“疑问词十不定式”作宾语。</strong></font>
+    <font color=red><strong>此处为“疑问词+不定式”作宾语。</strong></font>
     
     <font color=red><strong>"no longer"是一个词组，用来表示某事物不再继续存在或不再发生。它的意思相当于"not anymore"或者"not any longer"。例如： "I no longer work there"（我不再在那里工作了）或者 "She no longer lives in this city"（她不再住在这个城市了）。</strong></font>
 
@@ -2453,7 +2726,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>根据句意此处为“疑问词十不定式”作宾语; cloth的复数是clothes。</strong></font>
+   <font color=red><strong>根据句意此处为“疑问词+不定式”作宾语; cloth的复数是clothes。</strong></font>
 
    <font color=red><strong>"It doesn't matter"的意思是"没有关系"或者"不要紧"。它用于表示不太重要或者不需要太在意的事情，可以用来安慰或者鼓励别人。例如：It doesn't matter if you don't speak English perfectly, just try your best.（如果你的英语不完美也没关系，尽你所能就好。）</strong></font>
 
@@ -2562,7 +2835,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>本句为“with十宾语十宾语补足语”结构， your feet与 point之间为逻辑上的主谓关系,故用动词-ing形式作宾语补足语; point at“指向,对着”。</strong></font>
+   <font color=red><strong>本句为“with+宾语+宾语补足语”结构， your feet与 point之间为逻辑上的主谓关系,故用动词-ing形式作宾语补足语; point at“指向,对着”。</strong></font>
 
 3. <u><font color=red><strong>      That he will come        </strong></font></u> to the conference has excited us. (come)
 
@@ -2929,7 +3202,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>题干中的with暗示用“with十宾语十宾语补足语”这一独立主格结构,且fill与eyes之间为逻辑上的动宾关系,故用动词-ed形式作宾语补足语;</strong></font>
+   <font color=red><strong>题干中的with暗示用“with+宾语+宾语补足语”这一独立主格结构,且fill与eyes之间为逻辑上的动宾关系,故用动词-ed形式作宾语补足语;</strong></font>
 
    1. **be upset at ：因……心烦意乱**
 
@@ -3321,7 +3594,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>该句用了“What+a(n)十形容词十名词十主语十谓语!”这一感叹句句型结构,且 fun为不可数名词,不用冠词修饰;it在句中作形式主语,真正的主语是后面的不定式短语。</strong></font>
+   <font color=red><strong>该句用了“What+a(n)+形容词+名词+主语+谓语!”这一感叹句句型结构,且 fun为不可数名词,不用冠词修饰;it在句中作形式主语,真正的主语是后面的不定式短语。</strong></font>
 
 8. “<u><font color=red><strong>           What about going              </strong></font></u> to Mount McKinley tomorrow?” he suggested.(what)
 
@@ -3381,7 +3654,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>该中用了强调式“It+be十被强调部分十that...”,被强调部分为“丢失了他的 MP 4”这件事其中that不能省略;分析句子结构可知，去掉强调句式后，“丢失了他的MP 4”作主语,故应用动词- ing形式。</strong></font>
+   <font color=red><strong>该中用了强调式“It+be+被强调部分+that...”,被强调部分为“丢失了他的 MP 4”这件事其中that不能省略;分析句子结构可知，去掉强调句式后，“丢失了他的MP 4”作主语,故应用动词- ing形式。</strong></font>
 
 3. He has made up his mind that he will make<u><font color=red><strong>    as big a kite     </strong></font></u>as his sister had made. (big)
 
@@ -3391,7 +3664,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>此处为原级比较,结构为“...as十形容词原级+as...”,所修饰的名词位置可在该短语之前或之后。</strong></font>
+   <font color=red><strong>此处为原级比较,结构为“...as+形容词原级+as...”,所修饰的名词位置可在该短语之前或之后。</strong></font>
 
 4. The days <u><font color=red><strong>     that I spent       </strong></font></u>  in the countryside when I was young were the happiest time that I have ever had in my life. (spend)
 
@@ -3533,7 +3806,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>so十形容词”置于句首时句子用部分倒装,句中时态为一般过去时。</strong></font>
+   <font color=red><strong>so+形容词”置于句首时句子用部分倒装,句中时态为一般过去时。</strong></font>
 
 7. She looks very happy.  She <u><font color=red><strong>     must have passed       </strong></font></u> the exam.
 
@@ -3641,7 +3914,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>“倍数十as...as”是倍数的一种表达方式。</strong></font>
+   <font color=red><strong>“倍数+as...as”是倍数的一种表达方式。</strong></font>
 
 7. I am afraid that I didn't see the speed limit just now, officer. I <u><font color=red><strong>     must have been dreaming      </strong></font></u> .(dream)
 
@@ -4049,7 +4322,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>该句为错综时间条件句,条件句表示与过去事实相反的假设,主句表示与现在事实相反,故主句谓语动词用“could十动词原形”。</strong></font>
+   <font color=red><strong>该句为错综时间条件句,条件句表示与过去事实相反的假设,主句表示与现在事实相反,故主句谓语动词用“could+动词原形”。</strong></font>
 
 5. <u><font color=red><strong>      Shortly after you left      </strong></font></u><u><font color=red><strong>               </strong></font></u><u><font color=red><strong>               </strong></font></u>，a man came into the office looking for you.(shortly)
 
@@ -4286,7 +4559,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>此句为强调句的特殊疑问句式“疑问词十is it+that...”,根据句意疑问词用 why,且宾语从句中用陈述语序。</strong></font>
+   <font color=red><strong>此句为强调句的特殊疑问句式“疑问词+is it+that...”,根据句意疑问词用 why,且宾语从句中用陈述语序。</strong></font>
 
    be late for ：v.迟到
 
@@ -4316,7 +4589,7 @@
     
     <font color=red><strong>可以改为 When seeing the police, he made a run for the exit.改为正常结构为When he saw the police, he made a run for the exit.</strong></font>
     
-    <font color=red><strong>require“要求”,其后跟宾语从句时从句中用虚拟语气,谓语动词用“should十动词原形”,should可省略。</strong></font>
+    <font color=red><strong>require“要求”,其后跟宾语从句时从句中用虚拟语气,谓语动词用“should+动词原形”,should可省略。</strong></font>
     
     **"toward" 是一个介词，表示朝向、对于、关于的意思。它可以用来表示方向、趋势、倾向、感情等方面，常见的用法包括：**
     
@@ -4490,7 +4763,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>此句为“介词十关系代词”引导的非限制性定语从句,其先行词是Lady Gaga,故用alongside whom.</strong></font>
+   <font color=red><strong>此句为“介词+关系代词”引导的非限制性定语从句,其先行词是Lady Gaga,故用alongside whom.</strong></font>
 
    <font color=red><strong>这句话中的非限制性定语从句是“the famous super star, alongside whom were several bodyguards”。这个定语从句修饰先行词“Lady Gaga”，用逗号和主句隔开，不是必需的信息，但可以提供额外的描述。其中，关系代词“whom”在定语从句中作为介词“alongside”的宾语，并且指代先行词“Lady Gaga”。</strong></font>
 
@@ -4689,7 +4962,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>“倍数十width+ of...”表示“宽是……的多少倍”。"built"在这个句子中作为过去分词，用作形容词，修饰先行词"one"，表示“建造好的”。</strong></font>
+   <font color=red><strong>“倍数+width+ of...”表示“宽是……的多少倍”。"built"在这个句子中作为过去分词，用作形容词，修饰先行词"one"，表示“建造好的”。</strong></font>
 
 10. Yichang <u><font color=red><strong>    is familiar to     </strong></font></u> many foreigners for the Three Georges. (familiar)
 
@@ -4715,7 +4988,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>“the＋比较级,the十比较级”表示“越·…就越……”。</strong></font>
+   <font color=red><strong>“the＋比较级,the+比较级”表示“越·…就越……”。</strong></font>
 
 2. It was the first time in fifteen years<u><font color=red><strong>         that we had met         </strong></font></u>.(meet)
 
@@ -4757,7 +5030,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>“倍数十the population of...”表示“人口是……的多少倍”。</strong></font>
+   <font color=red><strong>“倍数+the population of...”表示“人口是……的多少倍”。</strong></font>
 
 6. Mr White<u><font color=red><strong>     should have arrived      </strong></font></u>at 8:30 for the meeting but he didn't turn up. (arrive)
 
@@ -4862,7 +5135,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>此句为强调句的特殊疑问句结构“疑问词十is it+that. ..”,宾语从句中要用陈述语序,且句中时态为一般过去时。</strong></font>
+   <font color=red><strong>此句为强调句的特殊疑问句结构“疑问词+is it+that. ..”,宾语从句中要用陈述语序,且句中时态为一般过去时。</strong></font>
 
    **let out ：出租（房屋、土地等）;放出，释放（水、空气等）;呼（气）;发出（声音）**
 
@@ -4886,7 +5159,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>(we were) informed or/about主从句主语一致，we与inform之间是被动关系，故用被动语态；当主从句主语一致且含有be动词时，可以省略“主语十be”的形式。</strong></font>
+   <font color=red><strong>(we were) informed or/about主从句主语一致，we与inform之间是被动关系，故用被动语态；当主从句主语一致且含有be动词时，可以省略“主语+be”的形式。</strong></font>
 
    - **"Many"指的是“许多”的意思，它后面通常接可数名词的复数形式或不可数名词。例如，“Many people are afraid of spiders”（许多人害怕蜘蛛），“Many watermelons were sold at the market”（市场上卖出了许多西瓜）。**
 
@@ -5245,7 +5518,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>倍数修饰原级比较结构时,其结构为“倍数十as＋形容词/副词的原级十as"。</strong></font>
+   <font color=red><strong>倍数修饰原级比较结构时,其结构为“倍数+as+形容词/副词的原级+as"。</strong></font>
 
 3. Einstein liked Bose's paper so much that he <u><font color=red><strong>    set aside      </strong></font></u>his own work and translated it into German. (set)
 
@@ -5900,7 +6173,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>该句中用到了强调句式“It+be十被强调部分十that...”,被强调部分为on this point;表示在某一点上应用介词on,由后半句中的时态可知此处用一般过去时。</strong></font>
+   <font color=red><strong>该句中用到了强调句式“It+be+被强调部分+that...”,被强调部分为on this point;表示在某一点上应用介词on,由后半句中的时态可知此处用一般过去时。</strong></font>
 
    **"Agree" 是一个常用的动词，表示同意或赞同某种想法、观点、建议等。以下是一些常见的和 "agree" 相关的短语：**
 
@@ -6029,7 +6302,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>此处为“介词十关系代词”引导定语从句,由“其中”可知,介词用among.</strong></font>
+   <font color=red><strong>此处为“介词+关系代词”引导定语从句,由“其中”可知,介词用among.</strong></font>
 
    - **places of interest ：名胜古迹**
 
@@ -6196,7 +6469,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>由前半句中的the more和“越”可知,该句用了“the十比较级...,the+比较级...”结构;mistake为可数名词,故用 few修饰具复效形式，具比较级为fewer。</strong></font>
+   <font color=red><strong>由前半句中的the more和“越”可知,该句用了“the+比较级...,the+比较级...”结构;mistake为可数名词,故用 few修饰具复效形式，具比较级为fewer。</strong></font>
 
 5. The man has been out of work for almost four years. He<u><font color=red><strong>     must have experienced      </strong></font></u>a lot of difficulties. (experience)
 
@@ -6384,7 +6657,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>该句中用到了强调句式“It+be十被强调部分＋that...”,被强调部分为“the protection of trees”,其中 that不能省略。</strong></font>
+   <font color=red><strong>该句中用到了强调句式“It+be+被强调部分+that...”,被强调部分为“the protection of trees”,其中 that不能省略。</strong></font>
 
 8. Their performance includes rhythm and rhyming words as well as tongue twister, which<u><font color=red><strong>    makes the audience applaud       </strong></font></u>.(make)
 
@@ -7213,7 +7486,7 @@
 
     <strong>解析：</strong>
 
-    <font color=red><strong>“the十比较级...,the十比较级...表示“越.....·越......”。</strong></font>
+    <font color=red><strong>“the+比较级...,the+比较级...表示“越.....·越......”。</strong></font>
     
     **progress ：*n.*进步，进展；前进，行进；（社会的）进步；*v.*进步，进展；使（任务，事业）取得持续进展；**
     
@@ -8088,7 +8361,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>表示否定意义的介词短语under no circumstances置于句首时，句子用部分倒装;It is required that...句式中要用虚拟语气，谓语动词用“should十动词原形”,should可以省略,故此处的助动词用should。</strong></font>
+   <font color=red><strong>表示否定意义的介词短语under no circumstances置于句首时，句子用部分倒装;It is required that...句式中要用虚拟语气，谓语动词用“should+动词原形”,should可以省略,故此处的助动词用should。</strong></font>
 
    1. **Under no circumstances 用于强调某种绝对的否定或限制条件。它表示在任何情况下都不会发生或被允许。这个短语常用于警告、规定或强调某种禁止或限制。在句首时后面句子要部分倒装**
    2. **temptation ：n. 引诱，诱惑；诱惑人的东西；（魔鬼对耶稣的）引诱（the Temptation）**
@@ -8298,7 +8571,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>此为强调式“It is/was十被强调部分十that/who...”被强调的部分是 not until the baby girl was sound asleep.</strong></font>
+   <font color=red><strong>此为强调式“It is/was+被强调部分+that/who...”被强调的部分是 not until the baby girl was sound asleep.</strong></font>
 
    **sound sleep ：舒适的睡眠；酣睡**
 
@@ -8342,7 +8615,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>从句中表示的是advice的内容是同位语从句,advice意为“建议”,其后接同位语从句时用虚拟语气,谓语动词用“should十动词原形”,should可以省略。</strong></font>
+   <font color=red><strong>从句中表示的是advice的内容是同位语从句,advice意为“建议”,其后接同位语从句时用虚拟语气,谓语动词用“should+动词原形”,should可以省略。</strong></font>
 
 3. In the police station, I saw the man<u><font color=red><strong>        from whose room         </strong></font></u>the thief had stolen the TV set.(room)
 
@@ -8374,7 +8647,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>“比较级十比较级”表示“越来越··..·.”,此处表示“越来越差”用 worse and worse。</strong></font>
+   <font color=red><strong>“比较级+比较级”表示“越来越··..·.”,此处表示“越来越差”用 worse and worse。</strong></font>
 
    **be polluted with sth ：被某事污染**
 
@@ -8657,7 +8930,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>此处是 with 的复合结构,由介词 "with" 引导的非谓语过去分词done短语作状语。逻辑主语her foot与wound之间是被动关系,故用“with十名词十过去分词done”。</strong></font>
+   <font color=red><strong>此处是 with 的复合结构,由介词 "with" 引导的非谓语过去分词done短语作状语。逻辑主语her foot与wound之间是被动关系,故用“with+名词+过去分词done”。</strong></font>
 
    **relay ：v. 传递，传达（信息、新闻等）n. 接力赛；接班的人（或动物），轮换者；**
 
@@ -8669,7 +8942,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>only修饰的时间状语从句位于首时，主句用部分倒装;由题意可知,此处表示将来意义,故用一般将来时;“it十be+possible to do sth,”表示“做某事是可能的”。</strong></font>
+   <font color=red><strong>only修饰的时间状语从句位于首时，主句用部分倒装;由题意可知,此处表示将来意义,故用一般将来时;“it+be+possible to do sth,”表示“做某事是可能的”。</strong></font>
 
    **monitor ：n. 显示器，监控器；监视仪，监护仪；监督员，监察员；v. 监视；监听（外国广播或电话）；监控（无线电或电视传输信号）**
 
@@ -8903,7 +9176,7 @@
 
    **解析:**
 
-   <font color=red><strong>“形容词十不定式”是常见用法,形容词表示不定式的性质、特征,用不定式的主动形式表示被动意义。</strong></font>
+   <font color=red><strong>“形容词+不定式”是常见用法,形容词表示不定式的性质、特征,用不定式的主动形式表示被动意义。</strong></font>
 
    1. **"……was easy to do,……" 表达了完成作业后的行动。它强调了完成作业的速度和随后外出游玩的事实。**
    2. **"……was easy to have done,……" 强调的是作业的完成状态。使用"to have done"表示作业已经完成，强调的是完成的结果。**
@@ -9226,7 +9499,7 @@
 
    **解析:**
 
-   <font color=red><strong>表示“建议”的suggest后的宾语从中用虚拟语气，谓语动词用“should十动词原形”,should可以省略，此处children与reward 之间是被动关系，故用其被动语态。</strong></font>
+   <font color=red><strong>表示“建议”的suggest后的宾语从中用虚拟语气，谓语动词用“should+动词原形”,should可以省略，此处children与reward 之间是被动关系，故用其被动语态。</strong></font>
 
 6. Friendships fade away if there isn't a good balance<u><font color=red><strong>      between the give and the take           </strong></font></u>.(between)
 
@@ -9428,7 +9701,7 @@
 
    **解析:**
 
-   <font color=red><strong>由语境可知,此处表示“养猫”比“养狗”容易,故用比较级;take care of...“照顾:.....”;此处是“it is十形容词十不定式”结构。</strong></font>
+   <font color=red><strong>由语境可知,此处表示“养猫”比“养狗”容易,故用比较级;take care of...“照顾:.....”;此处是“it is+形容词+不定式”结构。</strong></font>
 
 9. In which play of Shakespear's is it<u><font color=red><strong>       that he appears          </strong></font></u>?(appear)
 
@@ -9438,7 +9711,7 @@
 
    **解析:**
 
-   <font color=red><strong>此句为强调句的一般疑问句即“Is/Was it十被强调部分十that十其他成分”。</strong></font>
+   <font color=red><strong>此句为强调句的一般疑问句即“Is/Was it+被强调部分+that+其他成分”。</strong></font>
 
 10. --How was the weather then?
 
@@ -9516,7 +9789,7 @@
 
    **解析**
 
-   <font color=red><strong>本为强调句结构“It is/was十被强调部分+that十其他成分”中的 that,强调的是时间状语从句。</strong></font>
+   <font color=red><strong>本为强调句结构“It is/was+被强调部分+that+其他成分”中的 that,强调的是时间状语从句。</strong></font>
 
    - **work on ：影响，对……起作用；继续工作；从事于……；设法说服**
    - **efficiently ：adv. 高效地**
@@ -9775,7 +10048,7 @@
 
    **解析**
 
-   <font color=red><strong>此句为强调句“It was十被强调部分十that+其他成分”,强调的是时间状语。</strong></font>
+   <font color=red><strong>此句为强调句“It was+被强调部分+that+其他成分”,强调的是时间状语。</strong></font>
 
 9. Many teenagers like to play computer games<u><font color=red><strong>     whose roles/the roles of which can be chosen       </strong></font></u>as they like. (choose)
 
@@ -9891,7 +10164,7 @@
 
    **解析**
 
-   <font color=red><strong>本为强调句的特殊疑问句式“特殊疑问词+is/was+it+that十其他成分”,be seated“就座”。</strong></font>
+   <font color=red><strong>本为强调句的特殊疑问句式“特殊疑问词+is/was+it+that+其他成分”,be seated“就座”。</strong></font>
 
 8. He got to the station early, <u><font color=red><strong>    for fear of       </strong></font></u>missing her.(fear)
 
@@ -10080,7 +10353,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>本中it为形式宾语，真正的宾语为后面的从句;necessary后的从句中要用虚拟语气，谓语动词用“should十动词原形”,should 可以省略。</strong></font>
+   <font color=red><strong>本中it为形式宾语，真正的宾语为后面的从句;necessary后的从句中要用虚拟语气，谓语动词用“should+动词原形”,should 可以省略。</strong></font>
 
 8. Bob's lectures covered a fairly wide range and I can't sum up<u><font color=red><strong>      what he said      </strong></font></u>in a few sentences. (say)
 
@@ -10128,7 +10401,7 @@
     
     <strong>解析：</strong>
     
-    <font color=red><strong>本为强调句的一般疑问句即“Is/Was+it+被强调部分十that十其他成分”,此处强调原因状语用because;句中时态为一般过去时。</strong></font>
+    <font color=red><strong>本为强调句的一般疑问句即“Is/Was+it+被强调部分+that+其他成分”,此处强调原因状语用because;句中时态为一般过去时。</strong></font>
 
 
 
@@ -10323,7 +10596,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>nor ：conj. 也不（通常与 neither 连用）； （用于肯定动词前，表示同意刚提及的否定命题）也不。否定词nor置于句首，句子用部分倒装，“nor十助动词十主语”表示前面的否定情况也适用于后者。</strong></font>
+   <font color=red><strong>nor ：conj. 也不（通常与 neither 连用）； （用于肯定动词前，表示同意刚提及的否定命题）也不。否定词nor置于句首，句子用部分倒装，“nor+助动词+主语”表示前面的否定情况也适用于后者。</strong></font>
 
 5. .Had you joined the chat room ten minutes ago, you <u><font color=red><strong>     would have known         </strong></font></u>what we were talking about then. (know)
 
@@ -10705,7 +10978,7 @@
     
     <strong>解析：</strong>
     
-    <font color=red><strong>本句是强调句式的特殊疑问句式“特殊疑问词+is/was十it+that+其他成分”,强调方式状语，故用how引导。</strong></font>
+    <font color=red><strong>本句是强调句式的特殊疑问句式“特殊疑问词+is/was+it+that+其他成分”,强调方式状语，故用how引导。</strong></font>
     
     make every effort to do ：竭尽全力：尽最大努力去做某事，全力以赴。
 
@@ -10873,7 +11146,7 @@
     
     <strong>解析：</strong>
     
-    <font color=red><strong>“a great deal十不可数名词”作主语时,谓语动词用单数形式,rice与take之间是被动关系，且由时间状语yesterday可知用一般过去时，故用一般过去时的被动语态。</strong></font>
+    <font color=red><strong>“a great deal+不可数名词”作主语时,谓语动词用单数形式,rice与take之间是被动关系，且由时间状语yesterday可知用一般过去时，故用一般过去时的被动语态。</strong></font>
     
     **A great deal of ：大量的：表示数量很多的意思，用于修饰不可数名词。**
     
@@ -11444,7 +11717,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>宾语从句中的引导词在从句中作方式状语故用how，此处为“疑问词十不定式”作宾语。</strong></font>
+   <font color=red><strong>宾语从句中的引导词在从句中作方式状语故用how，此处为“疑问词+不定式”作宾语。</strong></font>
 
    **green hand ：n. 生手；没有经验的人**
 
@@ -11638,7 +11911,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>本句是“the十比较级...，the十比较级...”的形式。</strong></font>
+   <font color=red><strong>本句是“the+比较级...，the+比较级...”的形式。</strong></font>
 
    **The harder the shrub is to grow的正常语序The shrub is harder to grow.**
 
@@ -11660,7 +11933,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>在It is necessary/strange/natural that...这类句型中,that引导的主语从句中用虚拟语气，谓语动词用“should十动词原形”,should 可以省略。</strong></font>
+   <font color=red><strong>在It is necessary/strange/natural that...这类句型中,that引导的主语从句中用虚拟语气，谓语动词用“should+动词原形”,should 可以省略。</strong></font>
 
 7. I still remember the story, believe it or not,<u><font color=red><strong>      that we got lost        </strong></font></u>in the mountain picnic.(get) 
 
@@ -11781,26 +12054,32 @@
    **词组和用法相关于 "adopt"：**
 
    1. **Adopt a child/pet: 领养孩子/宠物**
-      - **They decided to adopt a child from a local orphanage.（他们决定从当地的孤儿院领养一个孩子。）**
-
+      
+      **They decided to adopt a child from a local orphanage.（他们决定从当地的孤儿院领养一个孩子。）**
+      
    2. **Adopt a policy/approach: 采取政策/方法**
-      - **The government plans to adopt stricter regulations to combat pollution.（政府计划采取更严格的规定来对抗污染。）**
-
+      
+      **The government plans to adopt stricter regulations to combat pollution.（政府计划采取更严格的规定来对抗污染。）**
+      
    3. **Adopt a resolution: 通过决议**
-      - **The committee voted to adopt the resolution unanimously.（委员会一致通过了该决议。）**
+      
+      **The committee voted to adopt the resolution unanimously.（委员会一致通过了该决议。）**
 
    
 
    **词组和用法相关于 "adapt"：**
 
    1. **Adapt to: 适应**
-      - **It took him some time to adapt to the new working environment.（他花了一些时间来适应新的工作环境。）**
-
+      
+      **It took him some time to adapt to the new working environment.（他花了一些时间来适应新的工作环境。）**
+      
    2. **Adapt something for/from: 为...做出调整/改编**
-      - **The novel was adapted for the big screen and turned into a successful film.（这部小说被改编成了一部成功的电影。）**
-
+      
+      **The novel was adapted for the big screen and turned into a successful film.（这部小说被改编成了一部成功的电影。）**
+      
    3. **Adaptation: 改编，适应**
-      - **The adaptation of the play received rave reviews from the critics.（该剧的改编受到了评论家的好评。）**
+      
+      **The adaptation of the play received rave reviews from the critics.（该剧的改编受到了评论家的好评。）**
 
    **请注意，"adopt" 意味着接受、采用或收养某物或某人，而 "adapt" 意味着调整、改编或适应新环境。希望这些例子能帮助你更好地理解这两个词的用法。如果你有任何进一步的问题，请随时提问。**
 
@@ -11943,6 +12222,8 @@
 
    <font color=red><strong>in response to“回应”。</strong></font>
 
+   **complaint ：n. 抱怨，投诉；不满的缘由，抱怨的问题；疾病，不适**
+
    **criticism ：*n.*批评，批判；意见；评论，评价；**
 
    **criticize ：*v.*批评，指责；评论**
@@ -11971,6 +12252,10 @@
 
    <font color=red><strong>被修饰词是序数词 the first,用不定式作定语。</strong></font>
 
+   **overtake ：*v.*追上， 赶上并超过（汽车或人）；（发展或增长）超越，超过；突然降临于，意外发生在；（情感等）压倒，使难以承受**
+
+   **finishing ：n. 得分的表现和技巧；（非正式）最后的修整；v. 完成；结束；（竞赛）获得（名次）；用完，吃光（finish 的现在分词）**
+
 6. “Everyone <u><font color=red><strong>      shall not fire        </strong></font></u>without the signal or you'll be severely punished or even killed," urged  the commander. (fire）
 
    “没有信号任何人**不准开枪**，否则将受到严厉惩罚甚至处死，”指挥官敦促道。
@@ -11997,7 +12282,7 @@
 
    **punish ：v. 处罚，惩罚（做错事或犯法的人）；惩处（犯罪行为）；粗暴地对待；**
 
-7. She was probably the hardest working student <u><font color=red><strong>       that I have ever taught        </strong></font></u>.( teach)
+7. She was probably the hardest working student <u><font color=red><strong>       that I have ever taught        </strong></font></u>.(teach)
 
    她也许**是我曾经教过**的学生中学习最努力的。
 
@@ -12033,35 +12318,45 @@
    4. **"Find" 这个词可以与其他词组合形成各种不同的词组。以下是一些常见的以 "find" 开头的词组及其意义：**
 
       1. **Find out：查明，弄清楚**
-         - **I need to find out the truth about what happened.**
-
+         
+         **I need to find out the truth about what happened.**
+         
       2. **Find a way: 找到方法**
-         - **We need to find a way to solve this problem.**
-
+         
+         **We need to find a way to solve this problem.**
+         
       3. **Find fault: 找茬，挑剔**
-         - **He always finds fault with everything I do.**
-
+         
+         **He always finds fault with everything I do.**
+         
       4. **Find common ground: 找到共同点**
-         - **We need to find common ground in order to reach an agreement.**
-
+         
+         **We need to find common ground in order to reach an agreement.**
+         
       5. **Find meaning: 找到意义**
-         - **I'm trying to find meaning in my work.**
-
+         
+         **I'm trying to find meaning in my work.**
+         
       6. **Find joy: 找到快乐**
-         - **Traveling always helps me find joy.**
-
+         
+         **Traveling always helps me find joy.**
+         
       7. **Find peace: 找到内心的平静**
-         - **Meditation helps me find peace in a chaotic world.**
-
+         
+         **Meditation helps me find peace in a chaotic world.**
+         
       8. **Find the right balance: 找到合适的平衡**
-         - **It's important to find the right balance between work and personal life.**
-
+         
+         **It's important to find the right balance between work and personal life.**
+         
       9. **Find your voice: 找到自己的声音**
-         - **Through writing, she found her voice and expressed her thoughts.**
-
+         
+         **Through writing, she found her voice and expressed her thoughts.**
+         
       10. **Find a solution: 找到解决方案**
-          - **We need to find a solution to this problem as soon as possible.**
-
+          
+          **We need to find a solution to this problem as soon as possible.**
+      
       **这些是一些常见的以 "find" 开头的词组，它们可以根据具体语境和用途的不同产生不同的含义和用法。**
 
 10. I have been living in the United States for twenty years, but seldom<u><font color=red><strong>     have I felt          </strong></font></u>so lonely as now. (feel)
@@ -12128,6 +12423,18 @@
 
    **simply ：adv. 仅仅，只，不过；简直，的确； 简单地，简明地；朴素地，简朴地**
 
+   **如果你想表达“大部分……”，通常会使用"most"或"most of"。**
+
+   **"Most" 用于修饰可数名词或不可数名词的复数形式，例如：**
+   - **Most students prefer coffee over tea.（大部分学生喜欢咖啡而不是茶。）**
+   - **Most of the milk has been consumed.（大部分牛奶已经被消耗了。）**
+
+   **"Most of" 用于修饰可数名词或不可数名词的复数形式，并且在后面跟上名词的具体形式，例如：**
+   - **Most of the students prefer coffee over tea.（大部分学生喜欢咖啡而不是茶。）**
+   - **Most of the milk in the refrigerator has been consumed.（冰箱里的大部分牛奶已经被消耗了。）**
+
+   **因此，使用"most" 或 "most of" 取决于你要修饰的名词是否具体。如果你想要强调大部分的具体名词，就使用 "most of"；如果你只想表达大部分的概念而不涉及具体的名词，就使用 "most"。**
+
 3. The man <u><font color=red><strong>      couldn't help crying      </strong></font></u>in excitement when he finally got the ticket after standing in the line for more than eight hours. (help)
 
    当那个男子在排队等候八个多小时最终买到车票时，他**禁不住**激动地**哭了**
@@ -12137,6 +12444,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>can't help doing sth.“禁不住做某事”此句中的时态为一般过去时,故用 couldn't。</strong></font>
+
+   <font color=red><strong>in excitement：兴奋地，表示在兴奋的情绪下进行某种行为或活动。</strong></font>
 
    1. **excited ：adj.激动的，兴奋的；忧虑的，气愤的；v.使兴奋，使激动；激发，引起（excite 过去式和过去分词形式）**
 
@@ -12164,7 +12473,11 @@
         1. **I couldn't but accept the job offer because I needed the money.（由于需要钱，我不得不接受这份工作邀请。）**
         2. **We couldn't but apologize for the mistake we made.（我们不得不为我们犯的错误道歉。）**
 
-      **总体来说，"can't help but do something" 表达的是一种内在的冲动或欲望，强调无法抗拒；而 "can't but do something" 则更强调由于外在条件或无其他选择，不得不采取某种行动。**
+      **总体来说，**
+      
+      **"can't help but do something" 表达的是一种内在的冲动或欲望，强调无法抗拒；**
+      
+      **"can't but do something" 则更强调由于外在条件或无其他选择，不得不采取某种行动。**
 
 4. The secretary said that she was quite busy and couldn't <u><font color=red><strong>    arrange for him to meet        </strong></font></u>the boss of their company.(arrange)
 
@@ -12188,7 +12501,30 @@
 
    <font color=red><strong>have trouble in doing sth.“做某事有困难”,in 可以省略。</strong></font>
 
+   **ancient times : 古代：指很久以前的时代，通常是指人类历史的早期阶段。**
+
+   **ancestor : *n.*祖先，祖宗；（动植物）原种；原型，雏形**
+
+   
+
    **on one's own ：独自地，靠自己：指一个人独立完成某事，没有他人的帮助。**
+
+   **英语中表示"独自地，靠自己地"的表达方式有多种，以下是一些常见的表达方式：**
+
+   1. **Alone: 表示一个人独自地，没有其他人陪伴。**
+      
+      **He prefers to eat alone.（他喜欢一个人吃饭。）**
+   2. **By oneself: 强调单独地，依靠自己完成某事。**
+      
+      **She traveled to the new city by herself.（她一个人去了那个新城市。）**
+   3. **On one's own: 表示独立地，独自负责或处理事情。**
+      
+      **After graduating, she started living on her own.（毕业后，她开始独自生活。）**
+   4. **Independently: 表示独立地，独自做某事或不依赖他人。**
+      
+      **The child can dress himself independently.（那个孩子可以独立地穿衣服。）**
+
+   **这些表达方式可以根据具体语境选择使用，以准确传达独自地或靠自己地的含义。**
 
 6. It  <u><font color=red><strong>    <font color=red><strong>was not until two months later</strong></font>            </strong></font></u>that the police announced the result of the investigation. (until)
 
@@ -12215,22 +12551,17 @@
 
       **以下是一些例句来说明这个用法：**
 
-      1. **It is not until the sun goes down that I feel relaxed.**
-         **（直到太阳下山我才感到放松。）**
-
-      2. **It is not until you lose something that you realize its value.**
-         **（只有当你失去某样东西时才会意识到它的价值。）**
-
-      3. **It is not until she turned 30 that she decided to start her own business.**
-         **（直到她三十岁时她才决定开始自己的事业。）**
-
-      4. **It is not until I finished reading the book that I understood its true meaning.**
-         **（直到我读完这本书才明白它的真正含义。）**
-
-      **这个句型强调了某个事件或行为发生的时间延迟，以及这个时间点之前的状态或感受。它可以帮助表达出某个行动或认识的延迟性。**
-
+      1. **It is not until the sun goes down that I feel relaxed.（直到太阳下山我才感到放松。）**
+      
+   2. **It is not until you lose something that you realize its value.（只有当你失去某样东西时才会意识到它的价值。）**
+      
+      3. **It is not until she turned 30 that she decided to start her own business.（直到她三十岁时她才决定开始自己的事业。）**
+      
+      4. **It is not until I finished reading the book that I understood its true meaning.（直到我读完这本书才明白它的真正含义。）**
+      
    
-
+   **这个句型强调了某个事件或行为发生的时间延迟，以及这个时间点之前的状态或感受。它可以帮助表达出某个行动或认识的延迟性。**
+   
 7. If the old man's wife had not been sick, the family<u><font color=red><strong>    would have had a dinner     </strong></font></u>happily at home together. (have)
 
    如果这位老人的妻子不生病的话，一家人就**可以**一起在家高兴兴地**吃一顿晚饭了**。
@@ -12262,6 +12593,36 @@
       - **The news sickens me.（这个消息让我感到恶心。）**
 
    **这些是一些常见的"sick"的用法，具体用法取决于上下文和句子的语境。**
+
+   
+
+   **在英语中，表示生病的常见表达方式包括：**
+
+   1. **Be sick: 表示生病，通常用于一般的生病状态。**
+      
+      **I am sick with a cold.（我感冒了。）**
+
+   2. **Get ill: 表示某人开始生病或变得病了。**
+      
+      **She got ill after eating the spoiled food.（她吃了变质食物后生病了。）**
+
+   3. **Fall ill: 表示某人突然生病或某种病情的发生。**
+      
+      **He fell ill with a high fever.（他突然发高烧了。）**
+
+   4. **Be unwell: 表示身体不适，感觉不舒服，但并未明确指出具体的疾病。**
+      
+      **She has been feeling unwell for a few days.（她已经感觉不舒服几天了。）**
+
+   5. **Be under the weather: 表示身体不适，感觉不好。**
+      
+      **He's been feeling a bit under the weather lately.（他最近感觉有点不舒服。）**
+
+   6. **Have a health issue/condition: 表示拥有某种健康问题或疾病。**
+      
+      **He has a heart condition and needs regular check-ups.（他有心脏问题，需要定期检查。）**
+
+   **这些表达方式可以根据具体的病情和语境选择使用，以准确地表达生病的意思。**
 
 8. While looking for her lost child anxiously，<u><font color=red><strong>   it occurred to her     </strong></font></u>that she could turn to the police for help.(occur)
 
@@ -12305,6 +12666,26 @@
 
       **总结：这两种表达都是正确的，只是在语境和用法上略有区别。第一种结构强调两个选项之间的偏好，而第二种结构则强调在特定条件下的偏好或选择。**
 
+      **在英语中，表示"宁可...也不..."的表达方式有以下几种：**
+
+      1. **Would rather...than...**
+
+         **I would rather stay home than go to the party.（我宁愿呆在家里也不去参加派对。）**
+
+      2. **Prefer...to...**
+
+         **She prefers reading books to watching TV.（她宁愿读书也不愿看电视。）**
+
+      3. **Would prefer...over...**
+
+         **They would prefer to eat at a restaurant over cooking at home.（他们宁愿在餐馆吃饭也不愿在家做饭。）**
+
+      4. **Would choose...rather than...**
+
+         **He would choose to walk rather than take the bus.（他宁愿走路也不愿坐公交车。）**
+
+      **这些表达方式可以根据具体的语境选择使用，表达出"宁可...也不..."的意思。**
+
    2. **inventor ：n. 发明者，发明家**
 
    3. **invent ：v. 发明，创造；编造，虚构**
@@ -12321,15 +12702,26 @@
     
     <font color=red><strong>prevent...from doing“防止·.....做某事”，freeze与the seeds之间为逻辑上的动宾关系,故应用动名词的被动语态形式。</strong></font>
     
-    **thereby ：adv. 因此，从而**
-    
-    **freeze ：v. 结冰；冻住；冷藏，冷冻；感到很冷，冻僵；突然停止，呆住；使（物价或工资等）固定不动；冻结（钱财）；n. 冻结；停止；冰冻期；霜冻**
-    
-    **frozen ：adj. 结冰的，冻硬的；（食物）冷冻的，冷藏的；冻坏的，冻僵的；吓呆的，惊呆的；（行为、态度等）冷淡的；v. 结冰；凝固（freeze 的过去分词形式）**
-    
-    **seed ：n. 种子，籽；<美>（苹果或橙子等的）果核，籽；<旧> 精液，精子（常为幽默用法）；**
-    
-    
+    1. **thereby ：adv. 因此，从而**
+    2. **freeze ：v. 结冰；冻住；冷藏，冷冻；感到很冷，冻僵；突然停止，呆住；使（物价或工资等）固定不动；冻结（钱财）；n. 冻结；停止；冰冻期；霜冻**
+    3. **frozen ：adj. 结冰的，冻硬的；（食物）冷冻的，冷藏的；冻坏的，冻僵的；吓呆的，惊呆的；（行为、态度等）冷淡的；v. 结冰；凝固（freeze 的过去分词形式）**
+    4. **seed ：n. 种子，籽；<美>（苹果或橙子等的）果核，籽；**
+    5. **动词 "help" 在英语中有许多固定的用法和短语。以下是其中一些常见的用法：**
+       1. **Help + 宾语 + 动词原形：表示帮助某人做某事。**
+          - **I helped my friend clean the house.（我帮助我的朋友打扫房子。）**
+          - **They helped their parents with the gardening.（他们帮助父母做园艺工作。）**
+       2. **Help + 宾语 + 不定式：表示帮助某人准备或完成某项任务。**
+          - **Can you help me to find my keys?（你能帮我找到我的钥匙吗？）**
+          - **She helped him to write a letter.（她帮助他写信。）**
+       3. **Help + 宾语 + with + 名词/动名词：表示帮助某人处理或完成某项任务。**
+          - **I helped him with his homework.（我帮他做作业。）**
+          - **She helped me with the cooking.（她帮我做饭。）**
+       4. **Can't help + 动词-ing：表示无法控制自己做某事，表示情感或习惯。**
+          - **I can't help laughing when I see that video.（当我看到那个视频时，我情不自禁地笑了。）**
+          - **She can't help but worry about her children.（她禁不住担心她的孩子。）**
+       5. **Help sb by doing sth :表示通过做某事来帮助某人。它的结构是 "help" + 宾语 + "by" + 动名词。**
+          - **I helped my friend by cleaning his house. （我通过打扫他的房子来帮助我的朋友。）**
+          - **She helps her colleagues by organizing meetings. （她通过组织会议来帮助她的同事。）**
 
 
 
@@ -12345,7 +12737,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>表达“这是某人第几次做某事”常用this is/wasthe first/second/last...time that 十主语十完成时态结构。</strong></font>
+   <font color=red><strong>表达“这是某人第几次做某事”常用this is/wasthe first/second/last...time that +主语+完成时态结构。</strong></font>
 
 2. Don't worry. I promise I<u><font color=red><strong>    will be waiting for you          </strong></font></u>right here the moment you get off the plane. (wait)
 
@@ -12356,6 +12748,18 @@
    <strong>解析：</strong>
 
    <font color=red><strong>根据意，在将来的某个时间正在做某事,应用将来进行时。</strong></font>
+
+   **"Get out" 和 "get off" 是两个常用的短语，它们都表示离开某个地方，但在用法上有一些区别。**
+
+   1. **"Get out" 通常用于离开封闭的空间或场所，表示从内部移动到外部或离开某个特定区域。**
+      - **She got out of the car and went into the house.（她下了车，走进了房子。）**
+      - **Get out of my room!（离开我的房间！）**
+      
+   2. **"Get off" 通常用于离开交通工具或从表面上移开身体，表示从某个位置移动到另一个位置。**
+      - **We need to get off the bus at the next stop.（我们需要在下一站下车。）**
+      - **Please get off the table!（请从桌子上下来！）**
+
+   **总的来说，"get out" 更侧重于离开封闭的空间或特定区域，而 "get off" 更侧重于离开交通工具或移动身体从某个表面。具体使用哪个取决于具体的语境和动作的性质。**
 
 3. Not only<u><font color=red><strong>    did they tell us        </strong></font></u>what had happened in the accident, they also told us what measures they had taken. (tell)
 
@@ -12409,7 +12813,7 @@
 
    <font color=red><strong>根据前面条件从句中的had taken可知是与过去的事实相反，主句谓语动词用would have done的形式。</strong></font>
 
-   **"affect"、"effect" 和 "affort" 的区别。**
+   **"affect"、"effect" 和 "effort" 的区别。**
 
    1. **affect（动词）：表示对某事物产生影响、改变或引起变化。**
 
@@ -12424,6 +12828,7 @@
       **He put a lot of effort into his research project.（他在研究项目上付出了很多努力。）**
 
    **简要总结：**
+
    - **"Affect" 是一个动词，表示影响、改变或引起变化。**
    - **"Effect" 是一个名词，表示结果、影响或后果。**
    - **"Effort" 是一个名词，表示付出的努力、精力或行动。**
@@ -12437,6 +12842,16 @@
    <strong>解析：</strong>
 
    <font color=red><strong>that引导同位语从句解释说明hope的内容;根据句意可知,主句用现在完成时态,强调事件对现在造成的影响。</strong></font>
+
+   **表示合同或协议的常见名词有：**
+
+   1. **Contract（合同）：指双方或多方之间达成的法律协议，约定各方的权利和义务。**
+   2. **Agreement（协议）：指双方或多方之间就某个事项达成的共识或约定。**
+   3. **Treaty（条约）：指国家之间或国际组织之间达成的正式协议，具有法律约束力。**
+   4. **Pact（协定）：指双方或多方之间达成的正式协议，常用于国际关系或政治领域。**
+   5. **Memorandum of Understanding (MOU)（谅解备忘录）：指各方之间达成的非正式协议，用于明确双方的合作意向和原则，不具备法律约束力。**
+
+   **这些词汇的选择取决于具体的情况和文件的性质。在商务和法律领域中，常常会根据具体的协议内容和层级来选择合适的词汇。**
 
 7. He repeated his instruction <u><font color=red><strong>      so as to make sure that           </strong></font></u>everyone in the room understood it correctly. (sure)
 
@@ -12460,6 +12875,22 @@
 
    <font color=red><strong>动词-ing形式的否定式要把not置于之前该动词所表示的动作发生在insisted之前,应用完成时。</strong></font>
 
+   **动词 "insist" 表示坚持某种立场、要求或观点，强调对其的坚决性。以下是 "insist" 的常见用法：**
+
+   1. **Insist on + 名词/动名词：坚持要求/主张做某事。**
+      - **She insisted on speaking to the manager.（她坚持要求和经理交谈。）**
+      - **They insisted on having a meeting to discuss the issue.（他们坚持要开会讨论这个问题。）**
+      
+   2. **Insist (that) + 从句：坚持认为/要求/建议。**
+      - **He insisted (that) he was innocent.（他坚持认为自己无辜。）**
+      - **She insisted (that) they leave immediately.（她坚持要他们立即离开。）**
+      
+   3. **Insist + on + 宾语从句：坚持要求/主张某事。**
+      - **She insisted on knowing the truth.（她坚持要知道真相。）**
+      - **They insisted on him apologizing for his behavior.（他们坚持要求他为自己的行为道歉。）**
+
+   **注意：在使用 "insist" 时，有时候可以省略 "that" 引导的从句，但也可以选择使用它来引导从句，这取决于句子的流畅性和上下文的需要。**
+
 9. Robin, my best friend, promised to <u><font color=red><strong>      do what he could to       </strong></font></u>help me with my English. (could)
 
    我最要好的朋友罗宾许诺将**尽他最大的努力**来帮助我学习英语。
@@ -12468,7 +12899,23 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>do what sb. could to do sth..表示“尽某人的最大努力去做某事”。其中what he could.为宾语从句,could 后用不定式作目的状语。</strong></font>
+   <font color=red><strong>do what sb. could to do sth..表示“尽某人的最大努力去做某事”。其中what he could.为宾语从句,could 后用不定式作目的状语；**Help + 宾语 + with + 名词/动名词：表示帮助某人处理或完成某项任务。**</strong></font>
+
+   **在英语中，表达 "尽某人的最大努力去做某事" 的常见方式有以下几种：**
+
+   1. **Do one's best to do something**
+      - **She did her best to complete the project on time.（她尽力按时完成了这个项目。）**
+      - **They are doing their best to help those in need.（他们正尽力帮助那些有需要的人。）**
+      
+   2. **Make every effort to do something**
+      - **He made every effort to find a solution to the problem.（他尽一切努力寻找问题的解决办法。）**
+      - **The team is making every effort to win the championship.（团队正在竭尽全力争取获得冠军。）**
+      
+   3. **Spare no effort to do something**
+      - **The organization spared no effort to provide relief to the affected areas.（该组织不遗余力地向受灾地区提供救援。）**
+      - **They spared no effort to make the event a success.（他们不遗余力地使这个活动取得成功。）**
+
+   **这些表达方式都传达了一个人尽力去做某事、全力以赴的意思。具体使用哪种表达方式取决于语境和个人偏好。**
 
 10. To learn English well, we should first of all find opportunities to<u><font color=red><strong>       hear English spoken            </strong></font></u>as much as possible. (hear)
 
@@ -12478,7 +12925,7 @@
     
     <strong>解析：</strong>
     
-    <font color=red><strong>动词 hear后应用过去分词或动词原形作宾语补足语。</strong></font>
+    <font color=red><strong>动词hear后应用过去分词或动词原形作宾语补足语。</strong></font>
     
     1. **first of all ：首先：表示在一系列事物中最先要考虑或处理的事物。**
     
@@ -12486,11 +12933,33 @@
     
        **首先，让我问你一件事。**
     
-    2. **opportunity**
+    2. **opportunity；*n.*时机，机会**
     
-       ***n.*时机，机会**
+       - **opportunity to 去做……的机会：表示有一个时机或场合可以去做某事。**
     
-       
+         **I grasped the opportunity to work abroad. （我毫不犹豫地抓住了去国外工作的机会。）**
+    
+       - **opportunity for 为......的机会：表示为某个目的或目标提供的可能性或时机。**
+    
+         **This will be a marvellous opportunity for her. （这对她可是千载难逢的机会呀。）**
+    
+         **marvellous ：adj. 极好的，绝妙的；令人惊奇的，不同寻常的**
+    
+    3. **类似于 "as much as possible" 和 "as soon as possible" 的句式有以下几种：**
+    
+       1. **"as + 形容词/副词 + as possible"**
+          - **He tried to finish the work as quickly as possible.（他尽可能快地完成了这项工作。）**
+          - **Please arrive as early as possible.（请尽可能早地到达。）**
+          
+       2. **"as much/many + 名词 + as possible"**
+          - **Bring as much water as possible for the hike.（尽可能带上多一点水去远足。）**
+          - **We need to gather as many people as possible for the event.（我们需要尽可能多地召集人参加这个活动。）**
+          
+       3. **"as soon as + 从句 + possible"**
+          - **Please send me the report as soon as possible.（请尽快把报告发给我。）**
+          - **I will let you know as soon as possible when the decision is made.（决定一出来，我会尽快通知你。）**
+    
+       **这些句式都用来表示尽量做某事、尽早完成某事的意思，根据具体情境和需要选择合适的句式使用。**
 
 
 
@@ -12508,6 +12977,22 @@
 
    <font color=red><strong>many French films与bring之间是主动关系,故用动词-ing形式作状语;也可看成是非限制性定语从句,先行词是前面的整个句子,引导词用which,由句意可知用一般现在时。</strong></font>
 
+   **compare to 与......相比：表示将一个事物与另一个事物进行比较，以突出它们之间的差异或相似之处。**
+
+   **"Compare to" 和 "compare with" 都是表示比较的用法，但它们在用法上有一些区别。**
+
+   1. **"Compare to":**
+      - **用于将一个事物与另一个事物进行比较，强调相似性或类比。**
+      - **它用于将一个事物与另一个事物进行联系或类比，常用于描述抽象或感性的特征。**
+      - **例句：She compared his singing to the sound of a nightingale.**
+        **（她把他的唱歌声比作夜莺的声音。）**
+
+   2. **"Compare with":**
+      - **用于将两个事物进行详细比较，强调相似点和差异点。**
+      - **它用于比较两个或多个事物的相似之处和不同之处，常用于描述具体的特征或属性。**
+      - **例句：You can compare the prices of different products with each other.**
+        **（你可以将不同产品的价格进行比较。）**
+
 2. In hot summer, many citizens have the habit of sleeping<u><font color=red><strong>     with the windows open        </strong></font></u>.(with)
 
    在炎热的夏季，许多市民都有**开着窗户**睡觉的习惯。
@@ -12516,7 +13001,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>此处是“with十名词+形容词”构成的独立主格结构作伴随状语。</strong></font>
+   <font color=red><strong>此处是“with+名词+形容词”构成的独立主格结构作伴随状语。</strong></font>
 
    **have the habit of ：有…的习惯**
 
@@ -12533,6 +13018,43 @@
    **is ashamed of ：为......感到羞愧：对某人或某事感到羞耻或尴尬，**
 
    **end up doing ：最终做：表示在一系列事件或过程之后，最后采取某种行动或达到某种结果。**
+
+   **除了使用助动词+not的方式表示否定外，还可以使用以下表达方式：**
+
+   1. **使用否定副词（Negative Adverbs）: 在谓语动词前加上否定副词来表示否定。常见的否定副词有：never（从不）、rarely（很少）、hardly（几乎不）、seldom（很少）、barely（几乎不）、scarcely（几乎不）、not often（不经常）等。**
+      **例句：I never said that. （我从未说过那样的话。）**
+      **例句：She rarely goes to parties. （她很少参加聚会。）**
+
+   2. **使用否定词（Negative Words）: 使用否定词来表达否定意义。常见的否定词有：nobody（没有人）、nothing（没有什么）、nowhere（没有地方）、no one（没有人）、none（没有）等。**
+      **例句：There is nobody in the room. （房间里没有人。）**
+      **例句：I have nothing to say. （我没有什么可说的。）**
+
+   3. **使用否定短语（Negative Phrases）: 使用由否定词构成的短语来表示否定。例如：not a single（没有一个）、not in the slightest（一点也不）、not at all（一点也不）、in no way（绝不）等。**
+      **例句：I have not a single doubt about his abilities. （我对他的能力一点疑问都没有。）**
+      **例句：She is not at all interested in sports. （她对运动一点兴趣都没有。）**
+
+   **这些表达方式可以根据具体语境和句子的需要来选择使用。**
+
+   
+
+   **除了使用 "not" 和 "never" 表示否定外，还有一些其他表达方式：**
+
+   1. **No: 表示没有、不是的否定形式。**
+      **例句：There is no way I can help you. （我无法帮助你。）**
+
+   2. **None: 表示没有、无的否定形式。**
+      **例句：None of the students passed the test. （没有一个学生通过了考试。）**
+
+   3. **Neither/nor: 表示两个或多个否定选择中的任何一个。**
+      **例句：Neither John nor Mary likes coffee. （既不是John喜欢咖啡，也不是Mary喜欢咖啡。）**
+
+   4. **Little/few: 表示数量很少或几乎没有。**
+      **例句：There is little hope for success. （成功的希望很小。）**
+
+   5. **Hardly/scarcely: 表示几乎没有或几乎不。**
+      **例句：He hardly ever goes out on weekends. （他几乎不在周末出去。）**
+
+   **这些表达方式可以根据语境和句子的需要来选择使用。**
 
 4. Seldom<u><font color=red><strong>       have I got any news          </strong></font></u>about my friend Johnson since we graduated from college last year. (get)
 
@@ -12563,6 +13085,9 @@
    <strong>解析：</strong>
 
    <font color=red><strong>be lucky to do.·..··是幸运的”,根据句意及语境,应使用不定式的完成式。</strong></font>
+
+   - **survive on 依靠生存：指在某种条件或资源下维持生活。**
+   - **survive from 从......中幸存：在某种危险或困难的情况下继续生存或存在。**
 
 7. Just take it easy. It <u><font color=red><strong>      won't be long before           </strong></font></u>  we work out a way to overcome the difficulties. (long)
 
@@ -12620,6 +13145,10 @@
 
    **constantly *adv.*总是，经常地，不断地**
 
+   **constant adj.持续不断的，经常发生的；恒定的，不变的；忠诚的，忠实的；n.常数，恒量；不变的事物**
+
+   **remain : v.逗留，留下；剩余，遗留；保持不变，一直是；n.剩余（物），遗迹；遗体，残骸**
+
 10. You ought to<u><font color=red><strong>        have been present            </strong></font></u>at the meeting yesterday ,for it was considered of great importance.(present)
 
     你本该**出席**昨天的会议，因为它被认为是一次极其重要的会议。
@@ -12629,6 +13158,12 @@
     <strong>解析：</strong>
     
     <font color=red><strong>ought to have done sth.表示“本应该做某事”;be present“出席,到场”。</strong></font>
+    
+    **importance : n. 重要，重要性；傲慢；名望**
+    
+    **great importance ：重大意义：表示某事物具有非常高的价值和重要性。**
+    
+    **be considered of ：被认为是：指某人或某事被认为具有某种特点或价值。**
 
 
 
@@ -12646,6 +13181,23 @@
 
    <font color=red><strong>seem常和不定式搭配;根据句意可知，此处应用被动语态;根据后一句可知,不定式所表示的动作已经完成,故用完成时。</strong></font>
 
+   **"well" 是一个多功能的词，可以在不同语境中有不同的用法和含义。它既可以用作形容词，也可以用作副词、名词和介词。**
+
+   **作为形容词时，"well" 通常用来描述健康状况或事物的状态，例如：**
+
+   - **"She is in good health and feels well."（她身体健康，感觉良好。）**
+   - **"The team is doing well in the competition."（这个团队在比赛中表现得不错。）**
+
+   **作为副词时，"well" 用来描述动作或情况的方式，例如：**
+
+   - **"She sings well."（她唱得好。）**
+   - **"He plays the piano very well."（他弹得非常好。）**
+   - **"The company is doing well financially."（这家公司在经济上运作得很好。）**
+
+   **除此之外，"well" 还可以用作名词，表示水井或源泉，以及介词，表示从某个地方涌出或涌向某个地方。**
+
+   **因此，"well" 可以用来形容动作，但它还有其他的用法和含义，具体取决于上下文和所描述的内容。**
+
 2. The two high officials' <u><font color=red><strong>      being arrested        </strong></font></u>has caused a stir among the common public. (arrest)
 
    这两个高官的**被捕**已经在民众中引起了轰动。
@@ -12662,6 +13214,69 @@
 
    **n. 搅动，搅拌；激动（情绪），愤怒（情绪）；微动，颤动；轻微的感觉；监狱**
 
+   **"cause" 是一个常用的英语单词，可以作为名词和动词使用。下面是一些常见的用法：**
+
+   1. **作为名词（Noun）：n.原因，起因；动机，缘由；（奋斗的）目标，事业；诉讼案件**
+      - **"The cause of the problem is still unknown."（问题的原因仍然未知。）**
+      - **"They are fighting for a worthy cause."（他们正在为一个值得的事业而战。）**
+      - **"The organization supports various charitable causes."（该组织支持各种慈善事业。）**
+
+   2. **作为动词（Verb）：*v.*造成，引起；使感到，使拥有**
+      - **"Smoking causes serious health problems."（吸烟会导致严重的健康问题。）**
+      - **"The accident was caused by a mechanical failure."（事故是由机械故障引起的。）**
+      - **"His behavior caused a lot of trouble for everyone."（他的行为给大家带来了很多麻烦。）**
+
+   **此外，"cause" 还可以构成一些常见的短语和表达，例如：**
+   - **"because of"（因为）：I couldn't attend the party because of a prior commitment.（因为之前有安排，我不能参加派对。）**
+   - **"cause and effect"（因果关系）：There is a cause and effect relationship between smoking and lung cancer.（吸烟与肺癌之间存在因果关系。）**
+   - **"for a good cause"（为了正当的事业）：They are raising money for a good cause.（他们在为正当的事业筹集资金。）**
+
+   **总而言之，"cause" 可以用作名词和动词，描述某个问题或事件的原因，以及引起某个结果或影响。它还可以构成一些常见的短语和表达，以表达因果关系或为了正当的事业而努力。**
+
+   
+
+   **在英语中，表示官员（government officials）的说法有多种。以下是其中一些常见的表达方式：**
+
+   1. **Official（官员、官方人员）：这是最常见和通用的表达方式。**
+      
+      **"The government officials held a press conference to address the issue."（政府官员举行了新闻发布会来解决这个问题。）**
+      
+   2. **Government representative（政府代表）：用来指代代表政府的官员。**
+      
+      **"The government representative attended the international summit."（政府代表参加了国际峰会。）**
+      
+   3. **Civil servant（公务员）：特指从事政府工作的人员。**
+      
+      **"Civil servants are responsible for implementing government policies."（公务员负责执行政府政策。）**
+      
+   4. **Bureaucrat（官僚）：有时用来贬义地形容官员。**
+      
+      **"The bureaucrats seem more interested in paperwork than solving real issues."（这些官僚似乎对文件工作比解决实际问题更感兴趣。）**
+      
+   5. **Politician（政治家）：用于指代从事政治活动并担任公职的人。**
+      
+      **"The politician addressed the concerns of the constituents in his speech."（这位政治家在讲话中回应了选民的关切。）**
+
+   **需要注意的是，这些表达方式并非完全互换使用，具体使用哪种取决于上下文和所涉及的官员身份及职责。**
+
+   
+
+   **"Among" 和 "between" 是表示物体、人或概念之间关系的两个常用的介词。它们之间的主要区别在于：**
+
+   1. **"Among" 用于三个或三个以上的事物之间的关系，表示在一个群体或集合中的位置、分配或相互交互的关系。**
+      - **"He was among friends at the party."（在派对上，他与朋友们在一起。）**
+      - **"The book was hidden among the other books on the shelf."（这本书被藏在书架上其他书籍之间。）**
+      - **"The committee made a decision among themselves."（委员会在彼此之间做出了决定。）**
+
+   2. **"Between" 用于两个事物之间的关系，表示在两者之间的位置、交互或比较。**
+      - **"They had a private conversation between themselves."（他们之间进行了私下交谈。）**
+      - **"The agreement was reached between the two countries."（这个协议是两个国家之间达成的。）**
+      - **"She couldn't decide between the two options."（她无法在这两个选项之间做出决定。）**
+
+   **需要注意的是，尽管 "between" 通常用于两个事物之间，但在某些情况下也可以用于多个事物之间，这时可以选择使用 "among" 或 "between"，具体取决于说话者想要强调的关系和语境。**
+
+   **总而言之，"among" 用于三个或三个以上的事物之间的关系，而 "between" 用于两个事物之间的关系。**
+
 3. Thank goodness for poetry, without which I<u><font color=red><strong>    couldn't  have spent      </strong></font></u>so wonderful a childhood. (spend)
 
    感谢诗歌，没有它我**不会度过**如此美好的童年。
@@ -12676,6 +13291,8 @@
 
    **Thank goodness ：谢天谢地：表示庆幸、感激的一种说法，用于在遇到好事或者避免了坏事时表示感激。**
 
+   **Thank goodness ：谢天谢地：表示庆幸、感激的一种说法，用于在遇到好事或者避免了坏事时表示感激。**
+
    **wonderful ：adj. 绝妙的，令人惊叹的，极好的**
 
 4. At first, they took it for granted that <u><font color=red><strong>      everyone had free access to       </strong></font></u>the library. (access)
@@ -12687,6 +13304,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>take it for granted that...是固定句式,表示“认为·..···是理所当然的”,it在句中作形式宾语,真正的宾语为后面的that从句,此处that不能省略。</strong></font>
+
+   **granted ：*adv.*的确，诚然；*conj.*因为（granted that）；*v.*授予，给予；承认（grant 的过去式和过去分词形式）**
 
    **have access to ：有权使用：指可以使用或接触到某种资源、设施或信息。**
 
@@ -12737,6 +13356,10 @@
    <font color=red><strong>根据提示可知,该动作已经发生并强调对现在的影响,故用现在完成时;suggest与it为逻辑上的动宾关系,故用被动语态。</strong></font>
 
    **give sb a lift ：搭便车：为某人提供便利的交通方式，通常是让他们搭乘自己的汽车。**
+
+   **On account of ：由于，因为：表示某种原因或理由导致的结果。**
+
+   **upward ：adj. 升高的，上升的；向上的，朝上的；adv. 向上，向高处；改善，升高；（数量）上升地，上涨地**
 
    **英语中表示原因的短语有很多，以下是一些常用的短语以及它们的用法：**
 
@@ -12834,6 +13457,22 @@
 
    **需要注意的是，这个结构中"as"前后的词形式需要保持一致。如果要表示不等关系，可以使用"倍数+比较级"的结构，例如："My new car is twice more expensive than my old one."（我的新车比旧车贵两倍多。）**
 
+   **在英语中，要表达"是……的多少倍"，可以使用以下表达方式：**
+
+   1. **"X times (as) much/large/big as Y"：**
+      - **"The distance from Earth to the Moon is about 240,000 miles, which is 30 times as far as the distance from New York to Los Angeles."（从地球到月球的距离约为24万英里，是从纽约到洛杉矶距离的30倍。）**
+      - **"The population of City A is four times larger than that of City B."（A市的人口是B市的四倍。）**
+      
+   2. **"X is X times (greater/bigger/more) than Y"：**
+      - **"Her salary is five times greater than mine."（她的薪水是我的五倍。）**
+      - **"The new building is three times bigger than the old one."（新楼比旧楼大三倍。）**
+      
+   3. **"X is X times the size/amount/number of Y"：**
+      - **"The capacity of the new stadium is ten times the size of the old one."（新体育场的容量是旧体育场的十倍。）**
+      - **"The company's revenue this year is four times the amount of last year."（该公司今年的收入是去年的四倍。）**
+
+   **需要注意的是，以上表达方式中的"times"可以省略，但为了更清晰地表达倍数关系，通常会包含该词。**
+
 10. Production of wine is almost completely European, with France<u><font color=red><strong>     accounting for        </strong></font></u>40%. (account)
 
     葡萄酒的生产几乎都在欧洲，法国就**占**了40%。
@@ -12842,7 +13481,42 @@
     
     <strong>解析：</strong>
     
-    <font color=red><strong>根据题于中的with及France与account是逻辑上的主谓关系可知,此处应用“with十主语十动词-ing形式”;account for“在数量或比例上占”。</strong></font>
+    <font color=red><strong>根据题于中的with及France与account是逻辑上的主谓关系可知,此处应用“with+主语+动词-ing形式”;account for“在数量或比例上占”。</strong></font>
+    
+    **European adj. 欧洲的，欧洲人的；（与）欧盟（有关）的 ；n. 欧洲人；欧盟成员国国民；欧盟的拥护者**
+    
+    **以下是一些与 "account" 相关的常见词组，并附上例句说明：**
+    
+    1. **名词短语：**
+       1. **"bank account"（银行账户）：I need to transfer some money to my bank account.**
+          **（我需要把一些钱转到我的银行账户上。）**
+       2. **"email account"（电子邮件账户）：I forgot the password to my email account.**
+          **（我忘记了我的电子邮件账户的密码。）**
+       3. **"social media account"（社交媒体账户）：She manages multiple social media accounts for her clients.**
+          **（她为客户管理着多个社交媒体账户。）**
+       4. **"user account"（用户账户）：You need to create a user account to access the online platform.**
+          **（你需要创建一个用户账户才能访问该在线平台。）**
+       5. **"on account of"（因为、由于）：The match was canceled on account of bad weather.**
+          **（比赛因为恶劣天气被取消了。）**
+    2. **动词短语：**
+    
+       1. **"account for"（解释、说明、占据（一定比例））：Can you account for the missing funds in the report?**
+          **（你能解释一下报告中缺失的资金吗？）**
+    
+       2. **"take into account"（考虑、重视）：When making a decision, we should take into account all relevant factors.**
+          **（在做决定时，我们应该考虑所有相关因素。）**
+    
+          **We need to take into account the opinions of all stakeholders.**
+          **（我们需要考虑所有利益相关者的意见。）**
+    
+       3. **"hold someone accountable"（追究责任）：The company will hold the employee accountable for the mistake.**
+          **（公司将追究员工的错误责任。）**
+    
+       4. **"give an account of"（描述、叙述）：She gave a detailed account of the events leading up to the accident.**
+          **（她详细叙述了导致事故发生的事件。）**
+    
+       5. **"on account of"（由于、因为）：He couldn't attend the meeting on account of a family emergency.**
+          **（由于家庭紧急情况，他无法参加会议。）**
 
 
 
@@ -12920,7 +13594,9 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>as引导让步状语从句时,从句中的表语、状语或谓语中的实义动词要置于句首。</strong></font>
+   <font color=red><strong>as引导让步状语从句时,从句中的表语、状语或谓语中的实义动词要置于句首；</strong></font>
+
+   <font color=red><strong>原本的完整状语从句是 "As he is a child"，表示让步关系，意思是 "尽管他是个孩子"。为了使句子更简洁，可以将状语从句中的 "As" 省略，并将主语和谓语进行部分倒装，得到 "Child as he is"。</strong></font>
 
    **当使用 "as" 引导让步状语从句时，通常会将从句中的表语、状语或谓语中的实义动词置于句首，以强调让步的内容。这种结构常用于强调某个情况或条件，与主句中的情况相对立。以下是一些例子：**
 
@@ -12947,33 +13623,71 @@
 
    <font color=red><strong>表示否定意义的词组in no case放在句首,句子用部分倒装。</strong></font>
 
-   **英语中表示"得出结论"或"作结论"的表达方式有多种。以下是一些常用的表达方式：**
+   1. **"It's well known to us that..." 是一个常用的表达方式，用来引出一个被广泛认知的事实或观点。它的结构是 "It is well known to us that + 陈述句"，其中的 "It" 是形式主语，而真正的主语则是后面的陈述句。**
 
-   1. **Draw a conclusion：得出结论**
-      
-      **Based on the evidence, we can draw the conclusion that he is guilty.（根据证据，我们可以得出结论他有罪。）**
-      
-   2. **Reach a conclusion：得出结论**
-      
-      **After analyzing all the data, we reached the conclusion that the project is not feasible.（在分析了所有数据之后，我们得出结论这个项目不可行。）**
-      
-   3. **Come to a conclusion：得出结论**
-      
-      **After a lengthy discussion, we finally came to the conclusion that more research is needed.（经过长时间的讨论，我们最终得出结论需要进行更多的研究。）**
-      
-   4. **Formulate a conclusion：形成结论**
-      
-      **The researchers formulated their conclusion based on the findings of the study.（研究人员根据研究结果形成了结论。）**
-      
-   5. **Make a conclusion：得出结论**
-      
-      **It is premature to make a conclusion without further investigation.（在进一步调查之前得出结论是不成熟的。）**
-      
-   6. **Arrive at a conclusion：得出结论**
-      
-      **After reviewing all the evidence, we arrived at the conclusion that the suspect is innocent.（在审查了所有证据后，我们得出结论嫌疑人是无辜的。）**
+      **这个表达方式常用于正式的演讲、论文、报道或其他书面文体中，用来引入一个被普遍接受或公认的信息。它强调说话者与听众或读者共同拥有这个知识或了解这个事实。**
 
-   **这些表达方式都可以用于描述根据一定的分析、推理或评估得出结论的过程。具体使用哪种表达方式可以根据具体语境和个人偏好来决定。**
+      **以下是一些示例：**
+
+      1. **"It's well known to us that smoking is harmful to our health."（我们都知道吸烟对健康有害。）**
+
+      2. **"It's well known to us that exercise is essential for maintaining a healthy lifestyle."（我们都知道锻炼对于保持健康的生活方式至关重要。）**
+
+      3. **"It's well known to us that the Earth orbits around the Sun."（我们都知道地球绕着太阳运行。）**
+
+      4. **"It's well known to us that a balanced diet is important for overall well-being."（我们都知道均衡的饮食对整体健康很重要。）**
+
+      **这个表达方式传达了一种共识和普遍的认知，强调所提到的事实或观点是被大多数人接受和了解的。**
+
+      
+
+   2. **"In no case" 是一个表示绝对否定或完全排除的表达方式，意思是 "在任何情况下都不" 或 "绝不"。它强调某个情况或条件绝对不会发生或被接受。**
+
+      **这个表达方式常用于强调某种限制或否定的观点，通常与否定的动词或词组连用。下面是一些例子：**
+
+      1. **"In no case should you disclose your password to anyone."（你绝对不应该向任何人透露你的密码。）**
+
+      2. **"In no case will we tolerate any form of discrimination."（我们绝不容忍任何形式的歧视。）**
+
+      3. **"In no case can you leave the premises before completing your shift."（你在完成工作之前绝对不能离开工作场所。）**
+
+      4. **"In no case should this medicine be taken without consulting a doctor."（在未经医生咨询的情况下绝对不应该服用这种药物。）**
+
+      **这个表达方式强调了对某种行为、决定或情况的强烈否定，并表示绝对的限制或禁止。它用于强调严格的规定或原则，以确保某些事情不会发生或被接受。**
+
+      **需要注意的是，这个表达方式常用于正式或官方的语境中，以传达一种严肃或强硬的语气。**
+
+      
+
+   3. **英语中表示"得出结论"或"作结论"的表达方式有多种。以下是一些常用的表达方式：**
+
+      1. **Draw a conclusion：得出结论**
+
+         **Based on the evidence, we can draw the conclusion that he is guilty.（根据证据，我们可以得出结论他有罪。）**
+
+      2. **Reach a conclusion：得出结论**
+
+         **After analyzing all the data, we reached the conclusion that the project is not feasible.（在分析了所有数据之后，我们得出结论这个项目不可行。）**
+
+      3. **Come to a conclusion：得出结论**
+
+         **After a lengthy discussion, we finally came to the conclusion that more research is needed.（经过长时间的讨论，我们最终得出结论需要进行更多的研究。）**
+
+      4. **Formulate a conclusion：形成结论**
+
+         **The researchers formulated their conclusion based on the findings of the study.（研究人员根据研究结果形成了结论。）**
+
+      5. **Make a conclusion：得出结论**
+
+         **It is premature to make a conclusion without further investigation.（在进一步调查之前得出结论是不成熟的。）**
+
+      6. **Arrive at a conclusion：得出结论**
+
+         **After reviewing all the evidence, we arrived at the conclusion that the suspect is innocent.（在审查了所有证据后，我们得出结论嫌疑人是无辜的。）**
+
+      **这些表达方式都可以用于描述根据一定的分析、推理或评估得出结论的过程。具体使用哪种表达方式可以根据具体语境和个人偏好来决定。**
+
+   
 
 7. <u><font color=red><strong>        His being appointed(as) chairman         </strong></font></u>of the new organization really delights everyone and we all think he deserves it.(appoint)
 
@@ -12987,7 +13701,11 @@
 
    <font color=red><strong>空格处作句子的主语，也可用主语从句,引导词在从句中不作任何成分，且没有任何意义,故用that引导。</strong></font>
 
+   **appoint ：v. 任命，指派；约定，安排（日期、时间）；装饰，布置（房间或空间）；**
+
    **delight ：*n.*高兴；令人高兴的人或物，乐事；*v.*使高兴；以……为乐**
+
+   **deserve ：v. 值得，应受**
 
 8. <u><font color=red><strong>         With arms folded        </strong></font></u>the head teacher stood on the passage of the classroom, watching the students dancing over a chain of rubber bands. (fold)
 
@@ -12997,7 +13715,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>此处是“with十名词十动词-ed 形式”表伴随arms和fold之间为被动关系，故用fold的动词-ed形式。</strong></font>
+   <font color=red><strong>此处是“with+名词+动词-ed 形式”表伴随arms和fold之间为被动关系，故用fold的动词-ed形式。</strong></font>
 
    **a chain of ：一系列，一连串：指一组相互关联的事物或事件。**
 
@@ -13009,7 +13727,9 @@
 
    **band ：n. 乐队；一伙，一群；范围，段；带，箍；带状物，条纹；波段，频带；戒指；v. 给……分级，把……分段；用带绑扎；加彩条**
 
-9. Seeing the old talking and laughing happily, we find it is worthwhile<u><font color=red><strong>   to attend them          </strong></font></u>.(attend)
+   **stand on : 站在：指在某个物体或表面上站立。**
+
+9. Seeing the old talking and laughing happily, we find it is worthwhile <u><font color=red><strong>   to attend them          </strong></font></u>.(attend)
 
    看到这些老人谈笑风生，我们发现**照料他们**是值得的。
 
@@ -13018,6 +13738,10 @@
    <strong>解析：</strong>
 
    <font color=red><strong>be worthwhile to do sth./be worthwhile doing sth.“值得做某事”。</strong></font>
+
+   **worthwhile ： *adj.*重要的，有益的，值得做的**
+
+   **attend ：v. 随同，陪同；经常去，定期去(学校、教堂等)；伴随……而至，（作为结果）伴随；出席，参加；注意，专心；处理，照料；致力于**
 
 10. Many coal mine accidents<u><font color=red><strong>    would have been avoided     </strong></font></u>if we had followed the strict safety rules. (avoid)
 
@@ -13044,6 +13768,10 @@
    <strong>解析：</strong>
 
    <font color=red><strong>表示“过去不应该做某事,而实际上已经做了”,用shouldn't/oughtn't to have done的形式。</strong></font>
+
+    **just now ：刚刚：表示某个动作或事件在很短时间之前发生。**
+
+   
 
    **"Should"和"ought to"在用法上有一些相似之处，但也存在一些细微的区别。**
 
@@ -13081,15 +13809,30 @@
 
    <font color=red><strong>what在此导主语从句，由句中的said，was等词可知谓语动词用一般过去时。</strong></font>
 
+   **realize ：v.**
+
+   1. **了解，意识到；（所担心的事）发生，产生（be realized）；**
+   2. **实现（目标、梦想等）；（充分）发挥出自己的潜力； 把（概念等）具体表现出来；用（语言特征）表达；获得（金钱，利润）；**
+   3. **变现，变卖（资产）**
+
+   **Award**
+
+   1. **n. 奖，奖品；（收入的）增加；（赔偿）裁定额；（毕业证书等的）授予；奖学金**
+   2. **v. 授予，颁发；判给，裁定**
+
 4. With the fact that he's younger than the rest of us  <u><font color=red><strong>     taken into consideration         </strong></font></u>,I think he has done pretty well indeed. (consideration)
 
-   **考虑到**他比我们其他人都小的事实,我认为他做得确实很好了。
+   **考虑到**他比我们其他人都小的事实，我认为他做得确实很好了。
 
    <font color=red><strong>taken into consideration</strong></font>
 
    <strong>解析：</strong>
 
-   <font color=red><strong>take...into consideration意为“考虑到·.....”;fact和take之间为被动关系,故用“with十名词(短语)十动词-ed 形式”构成的复合结构。</strong></font>
+   <font color=red><strong>take...into consideration意为“考虑到·.....”;fact和take之间为被动关系,故用“with+名词(短语)+动词-ed 形式”构成的复合结构。</strong></font>
+
+   **the rest of ：其余的，剩下的：指除了某个特定部分之外的其他部分。**
+
+   **indeed ：*adv.*确实，的确；实际上；真正地；**
 
 5. Could you tell me <u><font color=red><strong>     where it was that         </strong></font></u>you found the missing boy? (it)
 
@@ -13101,6 +13844,11 @@
 
    <font color=red><strong>该为强调的特殊疑问句式“疑问词+is/was it that/who. .. ?”</strong></font>
 
+   **missing ：**
+
+   - **adj. 找不到的，丢失的；缺少的，缺损的；（人）失踪的，下落不明的；遗漏的，未被包括在内的**
+   - **v. 未击中，未抓住；未做，错过；思念，怀念（miss 的现在分词形式）**
+
 6. After enjoying Dinosaur World, the children came to Panda Park,<u><font color=red><strong>       in which they saw two pandas          </strong></font></u>.(where)
 
    欣赏完了恐龙世界后，孩子们来到了大熊猫园，**在那里他们看见了两只大熊猫。**
@@ -13111,7 +13859,14 @@
 
    <font color=red><strong>where引导定语从修饰先行词Panda Park，where相当于in which;根据句中的came可知，从句中谓语动词应用see的过去式saw。</strong></font>
 
-7. The writer made up his mind to devote all he had<u><font color=red><strong>    to setting up           </strong></font></u>some schools for the children in the  poor areas. (set)
+   **come to**
+
+   1. **恢复知觉：在昏迷、晕厥或失去意识后恢复清醒；**
+   2. **达到：到达某个地点或状态；**
+   3. **涉及：涉及到某个问题或主题；**
+   4. **共计：总计达到某个数目。**
+
+7. The writer made up his mind to devote all he had<u><font color=red><strong>    to setting up           </strong></font></u>some schools for the children in the poor areas. (set)
 
    这个作家决定倾其所有为贫困地区的孩子们**建造**一些学校。
 
@@ -13121,9 +13876,25 @@
 
    <font color=red><strong>devote... to doing...为“把......奉献给......”;set up意为“建立”。</strong></font>
 
+   1. **make up**
+
+      **1、化妆：用化妆品改变或改善面部外观；**
+
+      **2、弥补：补偿或弥补失去或损失的东西；**
+
+      **3、编造：虚构或捏造事实、故事等。**
+
+   2. **make up with 与……重修旧好；与……和解**
+
+   3. **make up of 构成；由……组成**
+
+   4. **make up for 弥补，补偿：指为了弥补某种损失、失误或不足而采取的行动。**
+
+   5. **make up one's mind to 下定决心去做：表示一个人决定要去做某事，已经做好了充分的思想准备。**
+
 8. <u><font color=red><strong>        Tired as she was        </strong></font></u>,there was no hope of her being able to fall asleep. (as)
 
-   **尽管她很累,**但却没有能人睡的希望。
+   **尽管她很累，**她无法入睡的希望不存在。。
 
    <font color=red><strong>Tired as she was</strong></font>
 
@@ -13141,9 +13912,13 @@
 
    <font color=red><strong>在so...that...结构中,so引导的部分置于句首时,句子用部分倒装。</strong></font>
 
-   **adjust ：*v.*调整，调节；整理（衣服）；适应，习惯；（保险理赔时）理算，评估（损失，损害）**
+   <font color=red><strong>如果句子不用倒装：He found it so difficult to adjust to an English-speaking environment that he determined to learn English hard.</strong></font>
 
-   **adjustment ：*n.*调整，校正；（行为、思想的）调节，适应；调节器**
+   1. **adjust ：*v.*调整，调节；整理（衣服）；适应，习惯；（保险理赔时）理算，评估（损失，损害）**
+
+      **adjust to 适应调整以适应适应于调整**
+
+   2. **adjustment ：*n.*调整，校正；（行为、思想的）调节，适应；调节器**
 
 10. Across the lake are two small villages,<u><font color=red><strong>       one of which has seen        </strong></font></u>a historic reform in China. (see)
 
@@ -13154,6 +13929,43 @@
     <strong>解析：</strong>
     
     <font color=red><strong>此处可用“介词+关系代词”引导定语从句或用and连接与前半句并列的分句;由句意可知用现在完成时。</strong></font>
+    
+    1. **historic adj. 历史上重要的；过去的，与历史（或过去）有关的；（时态）历史的**
+    
+    2. **"Across" 和 "cross" 是两个与横越、穿越或横贯相关的词汇，但在使用上有一些区别。**
+    
+       1. **Across（副词/介词）：**
+          - **作为副词时，"across" 表示从一边或一地横跨到另一边或另一地。它可以用来描述跨越距离、空间或时间的动作或状态。**
+            **例如：**
+            - **"He swam across the river."（他游过了河流。）**
+            - **"The bridge extends across the valley."（桥梁横跨整个山谷。）**
+            - **"They sailed across the ocean."（他们航行穿过了海洋。）**
+    
+          - **作为介词时，"across" 表示在某个表面、地区或范围上横贯或穿过。它可以用来表示在某个方向上或通过某个区域。**
+            **例如：**
+            - **"She walked across the street."（她走过了街道。）**
+            - **"They hiked across the forest."（他们穿越了森林。）**
+            - **"We traveled across Europe."（我们在欧洲旅行。）**
+    
+       2. **Cross（动词/名词/形容词）：**
+          - **作为动词时，"cross" 表示横穿、穿过或交叉。它可以指行人或车辆在道路上横穿，或是交叉路径等。**
+            **例如：**
+            - **"She crossed the road at the pedestrian crossing."（她在人行横道穿过马路。）**
+            - **"The two roads cross each other at the intersection."（这两条路在十字路口交叉。）**
+    
+          - **作为名词时，"cross" 指的是十字形状的符号或图案，常用于交叉口、交叉点等表示。**
+            **例如：**
+            - **"Draw a cross on the paper."（在纸上画一个十字。）**
+            - **"The treasure is marked with a cross on the map."（在地图上用十字标记宝藏。）**
+    
+          - **作为形容词时，"cross" 表示交叉的、跨越的或混合的特征。**
+            **例如：**
+            - **"He has a cross-cultural background."（他具有跨文化的背景。）**
+            - **"The novel is a cross-genre work, blending elements of romance and mystery."（这本小说是一部跨流派作品，融合了浪漫和神秘元素。）**
+    
+       **综上所述，"across" 强调横越或穿越，通常用作副词或介词，而 "cross" 可以作为动词、名词或形容词，涉及到交叉、穿过或十字形状的含**
+    
+       **义。**
 
 
 
@@ -13174,8 +13986,6 @@
 2. The X Games<u><font color=red><strong>       are less familiar to us        </strong></font></u>than sports like football and basketball. (familiar)
 
    极限运动**不如**足球和篮球这样的运动那样**为我们所熟悉。**
-
-   is not familiar
 
    <font color=red><strong>are less familiar to us</strong></font>
 
@@ -13214,7 +14024,7 @@
          - **The two siblings are similar in appearance but have different personalities.**
          
            **这两个兄弟姐妹外貌相似，但性格不同。**
-
+   
 3. <u><font color=red><strong>      What is known to all         </strong></font></u>is that Africa had contacts with India from the earliest times. (know )
 
    **众所周知,**非洲从很早的时候起就与印度有联系。
@@ -13251,7 +14061,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>此处用了强调句式“It is/was十被强调部分+that/who...”;句中时态为一般过去时，故用decide的过去式。</strong></font>
+   <font color=red><strong>此处用了强调句式“It is/was+被强调部分+that/who...”;句中时态为一般过去时，故用decide的过去式。</strong></font>
 
 5. My sisters,<u><font color=red><strong>      whose photos I showed you        </strong></font></u>yesterday, will come to see us this evening. (show)
 
@@ -13394,27 +14204,33 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>children和see之间是逻辑上的主动关系，因此用动词-ing 形式作状语;此处是“see十名词十过去分词”的结构。</strong></font>
+   <font color=red><strong>children和see之间是逻辑上的主动关系，因此用动词-ing 形式作状语;此处是“see+名词+过去分词”的结构。</strong></font>
 
    **"see + 名词 + 过去分词" 的结构可以用来描述某人亲眼目睹或经历的特定情况或事件。这种结构通常表示对过去的观察或经历。以下是一些例子：**
 
    1. **See a car crash: 目睹车祸**
-      - **I saw a car crash on my way to work this morning. It was a chaotic scene.**
-
+      
+      **I saw a car crash on my way to work this morning. It was a chaotic scene.**
+      
    2. **See a building demolished: 目睹建筑物拆除**
-      - **They were sad to see their childhood home being demolished to make way for a new development.**
-
+      
+      **They were sad to see their childhood home being demolished to make way for a new development.**
+      
    3. **See a plan fail: 目睹计划失败**
-      - **We saw our carefully devised plan fail due to unforeseen circumstances.**
-
+      
+      **We saw our carefully devised plan fail due to unforeseen circumstances.**
+      
    4. **See a child cry: 看到孩子哭泣**
-      - **The teacher saw a child cry because they were feeling left out during recess.**
-
+      
+      **The teacher saw a child cry because they were feeling left out during recess.**
+      
    5. **See a project completed: 目睹项目完成**
-      - **After months of hard work, they finally saw their project completed and ready for launch.**
-
+      
+      **After months of hard work, they finally saw their project completed and ready for launch.**
+      
    6. **See a dream come true: 见证梦想成真**
-      - **She couldn't believe her eyes when she saw her lifelong dream come true.**
+      
+      **She couldn't believe her eyes when she saw her lifelong dream come true.**
 
    **这些例子展示了"see + 名词 + 过去分词" 结构的用法，用以描述过去的观察或经历。这种结构强调亲眼目睹或亲自经历某个事件或情况。**
 
@@ -13576,7 +14392,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>此处强调式的一般疑问结构“Is/Was it十被强调部分+that/who...?”;make sense of意为“弄懂·..··.的意思”。</strong></font>
+   <font color=red><strong>此处强调式的一般疑问结构“Is/Was it+被强调部分+that/who...?”;make sense of意为“弄懂·..··.的意思”。</strong></font>
 
 5. You should<u><font color=red><strong>           make full use         </strong></font></u>of your time. (use)
 
