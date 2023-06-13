@@ -11380,8 +11380,47 @@
 
    <font color=red><strong>devote...to...“把.....·贡献于......”,其中to是介词,后接动词-ing形式。</strong></font>
 
-   1. **devote sth to doing sth 把……献给做某事**
-   2. **devote oneself to doing sth 献身于做某事全身心投入做某事**
+   **devote sth to doing sth 把……献给做某事**
+
+   **devote oneself to doing sth 献身于做某事全身心投入做某事**
+
+   
+
+   1. **"Donate" 和 "devote" 都是表示付出或奉献的动词，但它们在用法和含义上有一些区别。下面是对它们的解释和用法：**
+
+      1. **"Donate" 表示自愿地给予或捐赠物品、金钱或时间，通常是为了支持慈善事业、机构或特定的目的。**
+         - **She donated a large sum of money to the charity organization.（她向慈善机构捐赠了一大笔钱。）**
+         - **They donated clothes and blankets to the homeless shelter.（他们向无家可归者庇护所捐赠了衣物和毯子。）**
+         
+      2. **"Devote" 表示全身心投入、致力于某个目标、事业或活动，通常表示一种专注和奉献的态度。**
+         - **She devoted her entire career to helping underprivileged children.（她将整个职业生涯致力于帮助贫困儿童。）**
+         - **He devoted countless hours to mastering the piano.（他花费了无数个小时来精通钢琴。）**
+
+      **总结来说：**
+      - **"Donate" 强调将物品、金钱或时间自愿地给予或捐赠，通常用于慈善行为或特定目的。**
+      - **"Devote" 强调全身心地投入、致力于某个目标、事业或活动，表示一种专注和奉献的态度。**
+
+      
+
+   2. **"Donate" 是一个动词，指的是自愿地给予、捐赠或奉献物品、金钱或时间，通常是为了帮助他人或支持一个事业或慈善机构。以下是 "donate" 的一些常见用法和相关表达：**
+
+      1. **"Donate (something)"：表示捐赠特定的物品、金钱或资源。**
+         - **She donated clothes and blankets to the homeless shelter.（她向无家可归者庇护所捐赠了衣物和毯子。）**
+         - **They donated a large sum of money to the charity organization.（他们向慈善机构捐赠了一大笔钱。）**
+
+      2. **"Donate to (an organization/cause)"：表示向某个组织或事业捐赠。**
+         - **They donated to the local hospital to support medical research.（他们向当地医院捐赠资金，以支持医学研究。）**
+         - **Many people donated to the hurricane relief fund.（许多人向飓风救援基金捐款。）**
+
+      3. **"Make a donation"：表示进行捐赠。**
+         - **He made a donation to the school's scholarship fund.（他向学校的奖学金基金捐款。）**
+         - **The organization is asking for people to make donations for their upcoming event.（该组织要求人们为他们即将举办的活动捐款。）**
+
+      4. **"Donor"：表示捐赠者，即进行捐赠的人或组织。**
+         - **The anonymous donor contributed a significant amount to the charity.（这位匿名捐赠者向慈善机构捐赠了一笔可观的金额。）**
+         - **The blood bank is in need of more donors to meet the demand.（血库需要更多的捐血者以满足需求。）**
+
+      **"Donate" 是一种慷慨和乐于助人的行为，可以帮助改善他人的生活，推动社会的发展。具体的捐赠方式和对象可以根据个人的喜好和价值观来选择。**
 
 2. Hurry up, Harry. Or by the time you pack your belongings, the flight<u><font color=red><strong>     will have left         </strong></font></u>!(leave)
 
@@ -11392,6 +11431,10 @@
    <strong>解析：</strong>
 
    <font color=red><strong>“打包物品”是将来的动作，“飞机起飞”表示到将来某个时间已完成的动作,故用将来完成时。</strong></font>
+
+   **pack ：v. （把……）打包，收拾（行李）；包装，装箱；（用柔软材料）把……裹（包）起来；**
+
+   **package ：n. 包裹；<美>（包装食物等的）盒，包；（建议或提供的想法或服务的）一套，一揽子；v. 把……打包，把……装箱（以便出售）；**
 
 3. Of the two cups, the yellow one is<u><font color=red><strong>        more expensive       </strong></font></u>,but I really like it. (expensive)
 
@@ -11417,6 +11460,8 @@
 
    <font color=red><strong>由句意可知,用比较级faster,表示“更快一些”。</strong></font>
 
+   **hurt ：v. 使受伤，使疼痛；感到受伤，感到疼痛；损害；处于困境，手头拮据；伤心；adj. （身体上）受伤的；（感情上）痛苦的；n. 心灵创伤，委屈；（身体上的）伤，痛**
+
 5. When the police arrived at the accident spot, they saw many victims<u><font color=red><strong>      suffering from         </strong></font></u>great pain.(suffer)
 
    当警察到达事故现场的时候,他们目睹很多受害者**饱受**巨大的痛苦。
@@ -11426,6 +11471,10 @@
    <strong>解析：</strong>
 
    <font color=red><strong>victims和suffer为主动关系，故用动词-ing形式作补足语;suffer from“遭受,饱受”。</strong></font>
+
+   **victim ：n. 受害者，罹难者；（面对不幸事件或虐待时的）无助者，患病者；牺牲品，祭品；受骗者**
+
+   **spot：n. 地点，场所；（人体的）部位，地方；有某种特质的部分；点，斑点；污点，污渍；**
 
 6. The judge ordered that the defendant<u><font color=red><strong>      (should) pay         </strong></font></u>for all the loss of the damage. (pay)
 
@@ -11462,6 +11511,32 @@
    - **adj. 定居的，稳定的；习惯的，舒适自在的；有人居住的；决定的，定下的**
    - **v. 解决，结束（纠纷）；确定，决定；移居，定居（settle 的过去式和过去分词形式）**
 
+   **"Settle" 是一个多功能的动词，具有多种用法和含义。以下是 "settle" 的几种常见用法：**
+
+   1. **定居或安顿：**
+      - **They decided to settle in a small town after retirement.（他们决定退休后在一个小镇定居。）**
+      - **The family settled into their new home and started unpacking.（这个家庭定居在他们的新家里，开始打开行李。）**
+
+   2. **解决问题或争议：**
+      - **We need to settle this issue before moving forward.（我们需要在继续之前解决这个问题。）**
+      - **The two parties agreed to settle their dispute through mediation.（双方同意通过调解解决争议。）**
+
+   3. **支付或结算账单或欠款：**
+      - **I'll settle the bill for dinner tonight.（我会结算今晚的账单。）**
+      - **He finally settled his outstanding debts and became debt-free.（他最终偿还了所有未付清的债务，成为无债一身轻。）**
+
+   4. **决定或达成协议：**
+      - **They settled on a date for the meeting.（他们确定了会议的日期。）**
+      - **The parties involved in the negotiation finally settled on a compromise.（参与谈判的各方最终达成了妥协。）**
+
+   5. **定型或定论：**
+      - **The dust finally settled after the construction work was completed.（建筑工作完成后，尘土终于定型。）**
+      - **The debate continued for hours before a consensus was settled upon.（辩论持续了几个小时，最终达成共识。）**
+
+   6. **安排或处理细节：**
+      - **She settled the travel arrangements for the upcoming conference.（她安排了即将举行的会议的旅行事宜。）**
+      - **He quickly settled the paperwork and submitted the application.（他迅速处理了文件并提交了申请。）**
+
 8. Smoking in all public places, including bars, restaurants, cafes, and hotels,<u><font color=red><strong>         is prohibited       </strong></font></u>in New Zealand.(prohibit)
 
    在新西兰，所有公共场所包括酒吧、饭店咖啡店、旅馆都**禁止**吸烟。
@@ -11482,6 +11557,8 @@
 
    <font color=red><strong>强调句的一般疑问句式为“Is/Was it...that/who...?”,被强调的是主语the price that you see ont he gift receipt.</strong></font>
 
+   **receipt ：n. 发票，收据；<正式>收到，接收；(企业、银行、政府等）收到的款项，收入（receipts）**
+
 10. You are a well-educated person. Under no circumstance <u><font color=red><strong>      will you abandon           </strong></font></u> yourself to adult books.(abandon)
 
     你是一个受过良好教育的人。无论如何**你都不会沉湎于**成人不健康读物。
@@ -11492,12 +11569,30 @@
     
     <font color=red><strong>under no circumstance“无论如何”,置于句首时,句子用部分倒装;根据句意助动词用will。</strong></font>
     
+    **abandon oneself to ：沉湎于，沉湎于，某事，沉迷某事物，完全屈从于**
+    
     **Under no circumstance**
     
     - **n. 条件，情况，环境；境况，经济状况；详情，原委；命运，境遇**
     - **v. 处于某种情况**
     
-    **abandon oneself to ：沉湎于，沉湎于，某事，沉迷某事物，完全屈从于**
+    **除了"Under no circumstance"之外，还有一些与其意思相近的短语和表达方式，用来表示强调某种情况或条件绝对不会发生。以下是几个例子：**
+    
+    1. **"In no case"：在任何情况下都不会。**
+       - **In no case should you reveal your password to anyone.（在任何情况下都不要向任何人透露你的密码。）**
+    
+    2. **"Under no condition(s)"：在任何条件下都不。**
+       - **Under no condition should you drive after consuming alcohol.（在任何条件下都不要在喝酒后开车。）**
+    
+    3. **"By no means"：绝对不。**
+       - **By no means should you attempt to climb that mountain without proper equipment.（绝对不要在没有适当装备的情况下尝试攀登那座山。）**
+    
+    4. **"Not under any circumstances"：在任何情况下都不。**
+       - **Not under any circumstances should you give out your personal information to strangers.（在任何情况下都不要向陌生人提供你的个人信息。）**
+    
+    **这些短语都用于强调某种情况或条件是绝对不会发生的，表达一种坚决和明确的立场。请根据具体语境和需要选择适当的表达方式。**
+    
+    
 
 
 
@@ -11516,6 +11611,39 @@
    <font color=red><strong>come across“遇到”。</strong></font>
 
    **expression ： n. 表达，表示；表情，神情；（表演、歌唱或演奏时的）情感表现；词语，措词；式，表达式；挤压**
+
+   **"Express" 是一个常用的动词和形容词，在不同的语境中有不同的用法。以下是一些常见的用法：**
+
+   1. **作为动词：**
+      - **表达、陈述或表露：He expressed his opinion on the matter.（他表达了对这个问题的看法。）**
+      - **表示快速运送或寄送：We express mailed the package to her.（我们用快递给她寄送了包裹。）**
+      - **表示清楚地传达或阐述：She expressed herself eloquently during the presentation.（她在演讲中清晰地表达了自己。）**
+
+   2. **作为形容词 "expressed"：**
+      - **表示明确指明的、明确表达的：Her expressed desire was to travel around the world.（她明确表达的愿望是环游世界。）**
+      - **表示已经明确表达出来的：The company followed the expressed wishes of its customers.（公司遵循了客户的明确愿望。）**
+
+   3. **"Express" 还可以作为名词，表示快递服务或特快专递：**
+      - **I need to send this document by express.（我需要用特快专递寄送这份文件。）**
+
+   
+
+   **"Press" 是一个多义词，可以作为动词、名词和形容词使用，具体用法如下：**
+
+   **作为动词：**
+   1. **压、按压或挤压：She pressed the button to start the machine.（她按下按钮启动了机器。）**
+   2. **压榨或榨取：They press the olives to extract the oil.（他们榨取橄榄油。）**
+   3. **迫使、催促或敦促：The deadline is approaching, and it's pressing us to finish the project.（截止日期即将到来，迫使我们完成项目。）**
+   4. **报道或报道：The journalist pressed the politician for answers.（记者追问政治家要回答。）**
+
+   **作为名词：**
+   1. **新闻界或媒体：The press was invited to attend the conference.（新闻界受邀参加会议。）**
+   2. **压力、压迫或压制：She felt the press of responsibilities on her shoulders.（她感受到了肩上的责任压力。）**
+   3. **印刷、出版或印刷机：The book is now in press and will be released next month.（这本书正在印刷中，将于下个月发布。）**
+
+   **作为形容词 "pressing"：**
+   1. **紧迫的、迫切的或紧急的：We have a pressing issue that needs immediate attention.（我们有一个迫切需要立即处理的问题。）**
+   2. **紧密的或紧凑的：The clothes were neatly folded and packed into a pressing suitcase.（衣服被整齐地折叠并装入一个紧凑的手提箱。）**
 
 2. Nancy <u><font color=red><strong>       has been looking       </strong></font></u>for her lost little son for three days, but she still hasn't found him. (look)
 
@@ -11537,61 +11665,55 @@
 
    <font color=red><strong>regardless of“不考虑”；make sense  有意义；</strong></font>
 
-   - **"Regardless of"是一个短语，表示不论、不管、不顾的意思。它常用来引导一个状语从句，表达不受某种条件或情况的限制，无论该条件存在与否，都会采取相同的行动或产生相同的结果。**
+   1. **"Regardless of"是一个短语，表示不论、不管、不顾的意思。它常用来引导一个状语从句，表达不受某种条件或情况的限制，无论该条件存在与否，都会采取相同的行动或产生相同的结果。**
 
-     **以下是几个关于"regardless of"的例句：**
+      **以下是几个关于"regardless of"的例句：**
 
-     1. **Regardless of the weather, we will go hiking tomorrow.**
-   **（不论天气如何，我们明天都会去徒步旅行。）**
-     
-     2. **She pursued her dreams regardless of the obstacles she faced.**
-   **（她不顾面临的障碍追求自己的梦想。）**
-     
-     3. **The company treats all employees equally, regardless of their background or experience.**
-   **（该公司平等对待所有员工，不论他们的背景或经验如何。）**
-     
-     4. **He loves her unconditionally, regardless of her past mistakes.**
-   **（他无条件地爱她，不论她过去犯过什么错误。）**
-     
-     **总之，"regardless of"用于表示无论、不管的含义，强调某种条件或情况对行动或结果没有影响。**
-
-     
-
-   - **"Make sense"是一个常用的短语，表示某事合乎逻辑、有意义或可理解。它常用于询问、表达或评估某个观点、陈述或情况是否具有合理性或逻辑性。**
-
-     **以下是几个关于"make sense"的例句：**
-
-     1. **I didn't understand the instructions at first, but now they make sense to me.**
-   **（起初我不理解这些说明，但现在我明白了。）**
-     
-     2. **His explanation doesn't make sense. It's confusing and contradictory.**
-   **（他的解释不合乎逻辑，令人困惑且自相矛盾。）**
-     
-     3. **Does it make sense to invest all your savings in a risky venture?**
-   **（把所有的储蓄都投资在一个风险很大的企业上，这合乎逻辑吗？）**
-     
-     4. **The proposal makes sense from a financial standpoint.**
-   **（从财务角度来看，这个提议是合理的。）**
-     
-     **"Make sense"常用于口语和书面语，用于表示某事是否合理、合乎逻辑或可理解。它用于各种情况，包括解释、观点、建议、计划等的评估和理解。**
+      1. **Regardless of the weather, we will go hiking tomorrow.（不论天气如何，我们明天都会去徒步旅行。）**
    
-     
-
-   - **"Make sense to"和"make sense of"都是与"make sense"相关的短语，但它们有着略微不同的用法和意义。**
-
-     1. **"Make sense to": 这个短语表示某事对某人来说是合理、可理解或有意义的。它强调的是信息、观点或解释是否能够被某人理解或接受。**
-
-        **例句：**
-        - **His explanation didn't make sense to me. (他的解释对我来说没有意义。)**
-        - **Does this plan make sense to you? (这个计划对你来说有意义吗？)**
-
-     2. **"Make sense of": 这个短语表示某人在面对复杂或混乱的信息、情况或问题时，努力理解、解释或整理其中的意义、关系或模式。**
+      2. **She pursued her dreams regardless of the obstacles she faced.（她不顾面临的障碍追求自己的梦想。）**
    
-        **例句：**
-        - **I'm trying to make sense of the data we collected. (我正在努力理解我们收集的数据。)**
-        - **It took me a while to make sense of her confusing explanation. (我花了一些时间才弄清楚她混乱的解释。)**
+      3. **The company treats all employees equally, regardless of their background or experience.（该公司平等对待所有员工，不论他们的背景或经验如何。）**
+   
+      4. **He loves her unconditionally, regardless of her past mistakes.（他无条件地爱她，不论她过去犯过什么错误。）**
+   
+      **总之，"regardless of"用于表示无论、不管的含义，强调某种条件或情况对行动或结果没有影响。**
+   
+      
+   
+   2. **"Make sense"是一个常用的短语，表示某事合乎逻辑、有意义或可理解。它常用于询问、表达或评估某个观点、陈述或情况是否具有合理性或逻辑性。**
 
-     **总体而言，"make sense to"强调接受者是否能够理解某事，而"make sense of"强调主体努力理解、整理或解释某事。**
+      **以下是几个关于"make sense"的例句：**
+
+      1. **I didn't understand the instructions at first, but now they make sense to me.（起初我不理解这些说明，但现在我明白了。）**
+
+      2. **His explanation doesn't make sense. It's confusing and contradictory.（他的解释不合乎逻辑，令人困惑且自相矛盾。）**
+
+      3. **Does it make sense to invest all your savings in a risky venture?（把所有的储蓄都投资在一个风险很大的企业上，这合乎逻辑吗？）**
+   
+      4. **The proposal makes sense from a financial standpoint.（从财务角度来看，这个提议是合理的。）**
+   
+      **"Make sense"常用于口语和书面语，用于表示某事是否合理、合乎逻辑或可理解。它用于各种情况，包括解释、观点、建议、计划等的评估和理解。**
+   
+      
+   
+   3. **"Make sense to"和"make sense of"都是与"make sense"相关的短语，但它们有着略微不同的用法和意义。**
+   
+      1. **"Make sense to": 这个短语表示某事对某人来说是合理、可理解或有意义的。它强调的是信息、观点或解释是否能够被某人理解或接受。**
+   
+         **例句：**
+   
+         - **His explanation didn't make sense to me. (他的解释对我来说没有意义。)**
+         - **Does this plan make sense to you? (这个计划对你来说有意义吗？)**
+   
+      2. **"Make sense of": 这个短语表示某人在面对复杂或混乱的信息、情况或问题时，努力理解、解释或整理其中的意义、关系或模式。**
+   
+         **例句：**
+   
+         - **I'm trying to make sense of the data we collected. (我正在努力理解我们收集的数据。)**
+         - **It took me a while to make sense of her confusing explanation. (我花了一些时间才弄清楚她混乱的解释。)**
+
+      **总体而言，"make sense to"强调接受者是否能够理解某事，而"make sense of"强调主体努力理解、整理或解释某事。**
    
 4. ---What do you think of the speech given by the CEO from Hong Kong?
 
@@ -11606,6 +11728,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>比较级用于否定中表示最高级意义。</strong></font>
+
+   **Excellent ：adj. 极好的，卓越的**
 
    **"Think of," "think about," 和 "think over" 都是与 "think" 相关的短语，它们有着略微不同的意思和用法。**
 
@@ -11639,65 +11763,69 @@
 
    <font color=red><strong>由时间状语 in the future可知，“不留遗憾”发生在将来,many students和regret为逻辑上的主动关系，故用不定式作目的状语;也可用In order/So as not to regret.</strong></font>
 
-   - **struggle to do**
+   1. **"Regret" 是一个常用的动词和名词，用于表达遗憾、后悔或感到抱歉的情感。以下是 "regret" 的几种常见用法：**
 
-     **"Struggle to do" 是一个常见的表达，意思是"努力做某事"或"艰难地做某事"。它表示在面对困难、挑战或障碍时付出努力或奋斗。**
+      1. **作为动词：**
+         - **表达对已经发生的事情感到遗憾或后悔：I regret not studying harder when I was in school.（我后悔在学校时没有更努力地学习。）**
+         - **表示为某事或某人感到抱歉：He regrets his actions and wants to apologize.（他对自己的行为感到抱歉，并想要道歉。）**
 
-     **以下是一些例句：**
+      2. **作为名词：**
+         - **表示感到遗憾或懊悔的情感：She expressed her regret for missing the opportunity.（她表达了对错过机会的遗憾。）**
+         - **表示道歉或表达懊悔的正式声明：The company issued a formal regret for the inconvenience caused.（公司就所造成的不便发布了正式的道歉声明。）**
 
-     1. **She struggled to open the jammed door.**
-        **她努力打开被卡住的门。**
+      3. **"Regret" 还可以与其他词组合形成一些常见的短语：**
+         - **"Regret doing"：表示对已经做过的事情感到遗憾或后悔：She regrets quitting her job without a backup plan.（她后悔没有备选计划就辞职了。）**
+         - **"Regret to inform/tell"：表示很遗憾地告知某个消息或情况：We regret to inform you that the event has been canceled.（我们很遗憾地告知您，该活动已经取消。）**
 
-     2. **He struggled to find a solution to the problem.**
-        **他努力寻找解决问题的方法。**
+   2. **struggle to do**
 
-     3. **They struggled to make ends meet after losing their jobs.**
-        **失业后，他们努力维持生计。**
+      **"Struggle to do" 是一个常见的表达，意思是"努力做某事"或"艰难地做某事"。它表示在面对困难、挑战或障碍时付出努力或奋斗。**
 
-     4. **The team struggled to overcome their lack of experience.**
-        **这个团队努力克服他们的经验不足。**
+      **以下是一些例句：**
 
-     5. **She struggled to concentrate on her studies with so many distractions.**
-        **在众多的干扰下，她努力集中精力学习。**
+      1. **She struggled to open the jammed door.**
+         **她努力打开被卡住的门。**
 
-     **需要注意的是，"struggle to do" 是一个不及物动词短语，通常不带宾语。如果需要带宾语，可以使用 "struggle to + 动词 + 宾语" 的结构。**
+      2. **He struggled to find a solution to the problem.**
+         **他努力寻找解决问题的方法。**
 
-     
+      3. **They struggled to make ends meet after losing their jobs.**
+         **失业后，他们努力维持生计。**
 
-   - **achieve one's dream**
+      4. **The team struggled to overcome their lack of experience.**
+         **这个团队努力克服他们的经验不足。**
 
-     **实现某人的梦想：指通过努力和坚持，最终达到个人的目标或愿望。**
+      5. **She struggled to concentrate on her studies with so many distractions.**
+         **在众多的干扰下，她努力集中精力学习。**
 
-     **realize one's dream**
-     **实现某人的梦想：指通过努力和坚持，使个人的愿望或目标得以实现。；**
+      **需要注意的是，"struggle to do" 是一个不及物动词短语，通常不带宾语。如果需要带宾语，可以使用 "struggle to + 动词 + 宾语" 的结构。**
 
-     **make one's dream come true**
-     **实现某人的梦想：指帮助某人实现他们的愿望或目标。；**
+   3. **achieve one's dream**
 
-     **fulfill one's dream**
-     **实现某人的梦想：指通过努力和坚持，使个人的愿望或目标得以实现。；**
+      **实现某人的梦想：指通过努力和坚持，最终达到个人的目标或愿望。**
 
-     
+      **realize one's dream**
+      **实现某人的梦想：指通过努力和坚持，使个人的愿望或目标得以实现。；**
 
-   - **"so as to do" 和 "in order to do" 都是用来表达目的的短语，它们的意思和用法非常相似。**
+      **make one's dream come true**
+      **实现某人的梦想：指帮助某人实现他们的愿望或目标。；**
 
-     1. **"so as to do": 这个短语用于表示为了达到特定的目的或目标而采取某个行动。它强调行动与目的之间的直接关联和目的性。**
+      **fulfill one's dream**
+      **实现某人的梦想：指通过努力和坚持，使个人的愿望或目标得以实现。；**
 
-        **例句：**
+   4. **"so as to do" 和 "in order to do" 都是用来表达目的的短语，它们的意思和用法非常相似。**
 
-        - **She woke up early so as to catch the first train. (她早起是为了赶上第一班火车。)**
-        - **I'm studying hard so as to pass the exam. (我努力学习是为了通过考试。)**
+      1. **"so as to do": 这个短语用于表示为了达到特定的目的或目标而采取某个行动。它强调行动与目的之间的直接关联和目的性。**
+         - **She woke up early so as to catch the first train. (她早起是为了赶上第一班火车。)**
+         - **I'm studying hard so as to pass the exam. (我努力学习是为了通过考试。)**
 
-     2. **"in order to do": 这个短语也用于表示为了实现某个目标或目的而采取行动。它强调的是为了达到目的而采取有序、有计划的行动。**
+      2. **"in order to do": 这个短语也用于表示为了实现某个目标或目的而采取行动。它强调的是为了达到目的而采取有序、有计划的行动。**
+         - **He went to the supermarket in order to buy some groceries. (他去超市是为了买一些杂货。)**
+         - **We need to save money in order to afford a vacation next year. (我们需要存钱以便明年能负担得起度假。)**
 
-        **例句：**
+      **总的来说，"so as to do" 和 "in order to do" 都用于表达目的，表示为了达到某个目标或目的而采取行动。它们在使用上没有太大的区别，选择使用哪个取决于个人喜好或句子的语境。**
 
-        - **He went to the supermarket in order to buy some groceries. (他去超市是为了买一些杂货。)**
-        - **We need to save money in order to afford a vacation next year. (我们需要存钱以便明年能负担得起度假。)**
-
-     **总的来说，"so as to do" 和 "in order to do" 都用于表达目的，表示为了达到某个目标或目的而采取行动。它们在使用上没有太大的区别，选择使用哪个取决于个人喜好或句子的语境。**
-
-     
+   
 
 6. You<u><font color=red><strong>      must have driven         </strong></font></u>very fast if you went from New York to Boston in six hours. (drive)
 
@@ -11731,48 +11859,78 @@
 
    <font color=red><strong>根据时间状语so far（到目前为止）可知子用现在完成时，主语后有along with...短语,谓语动词的单复数形式要取决于主语句子的主语是more than one student,谓语动词应用单数，且student与quiz之间是被动关系，故用被动语态。</strong></font>
 
-   **当 "more than" 修饰名词作为主语时，有一些注意点需要考虑：**
+   1. **"Along with" 是一个常见的短语，在句子中表示伴随、与...一起或除...之外的意思。以下是几种常见用法：**
 
-   1. **动词的单复数形式：根据修饰的名词是否可数，确定所用动词的单复数形式。**
+      1. **表示伴随或附带：**
+         - **She brought her friends along with her to the party.（她带着她的朋友一起去了派对。）**
+         - **The package came with a free gift along with the main product.（这个包裹附带了一个免费赠品，除了主要产品。）**
 
-      **如果被修饰的名词是可数名词的复数形式，动词使用复数形式；**
+      2. **表示与...一起或和...一道：**
+         - **He went hiking along with his siblings.（他和他的兄弟姐妹一起去徒步旅行。）**
+         - **I attended the meeting along with my colleagues.（我和我的同事一同参加了会议。）**
 
-      **如果被修饰的名词是不可数名词或可数名词的单数形式，动词使用单数形式。**
+      3. **表示除...之外，还有其他：**
+         - **She prepared pasta along with several side dishes for the dinner.（她为晚餐准备了意大利面，还有几道配菜。）**
+         - **Along with the book, he also gave me a bookmark.（除了这本书，他还给了我一个书签。）**
 
-      **例如：**
+      **"Along with" 通常用于连接两个或多个事物，表示它们的关联或同时发生。请根据具体的语境选择适当的用法。**
 
-      - **More than one student has submitted their assignments. (单数形式)**
-        **不止一个学生已经提交了他们的作业。**
+      
 
-      - **More than 100 people were present at the meeting. (复数形式)**
-        **会议上有100多人到场。**
+   2. **"Be quizzed for" 是一个短语，表示被询问或审问某个事情或问题。这个短语通常用于描述接受提问或受到质询的情况。下面是一些例句：**
 
-        
+      1. **He was quizzed for his involvement in the controversial project.（他因参与有争议的项目而受到了质询。）**
 
-   2. **注意谓语动词的位置：当 "more than" 修饰名词作为主语时，谓语动词通常位于修饰的名词之后。**
+      2. **The suspect was quizzed for hours by the police about his whereabouts on the night of the crime.（嫌疑人被警方盘问了数小时，询问他在犯罪当晚的行踪。）**
 
-      **例如：**
+      3. **The students were quizzed for their understanding of the new chapter in the textbook.（学生们被提问以测试他们对教科书中新章节的理解。）**
 
-      - **More than half of the cake has been eaten.**
-        **蛋糕的一半以上已经被吃掉了。**
+      **在以上例句中，"be quizzed for" 表示被问及某个事情或问题，并且通常暗示着一种考察或审查的情况。请注意，"quizzed" 可以用于不同的时态和主语形式，根据具体情况进行相应的变化。**
 
-      - **More than 50% of the students are interested in sports.**
-        **超过50%的学生对体育感兴趣。**
+      
 
-   3. **不同含义的区分：根据上下文，确保理解 "more than" 的含义。它可以表示数量、程度、强调或其他比较关系。根据具体情境，选择适当的解释。**
+   3. **当 "more than" 修饰名词作为主语时，有一些注意点需要考虑：**
 
-      **例如：**
+      1. **动词的单复数形式：根据修饰的名词是否可数，确定所用动词的单复数形式。**
 
-      - **More than 200 tickets were sold for the concert. (数量)**
-        **音乐会售出了200多张门票。**
+         **如果被修饰的名词是可数名词的复数形式，动词使用复数形式；**
 
-      - **Her dedication is more than admirable. (程度)**
-        **她的奉献精神令人钦佩。**
+         **如果被修饰的名词是不可数名词或可数名词的单数形式，动词使用单数形式。**
 
-      - **This job requires more than just technical skills. (强调)**
-        **这份工作需要的不仅仅是技术技能。**
+         **例如：**
 
-   **总之，使用 "more than" 修饰名词作为主语时，需要注意动词形式的一致性，正确放置谓语动词，并根据上下文准确理解其含义。**
+         - **More than one student has submitted their assignments. (单数形式)**
+           **不止一个学生已经提交了他们的作业。**
+
+         - **More than 100 people were present at the meeting. (复数形式)**
+           **会议上有100多人到场。**
+
+           
+
+      2. **注意谓语动词的位置：当 "more than" 修饰名词作为主语时，谓语动词通常位于修饰的名词之后。**
+
+         **例如：**
+
+         - **More than half of the cake has been eaten.**
+           **蛋糕的一半以上已经被吃掉了。**
+
+         - **More than 50% of the students are interested in sports.**
+           **超过50%的学生对体育感兴趣。**
+
+      3. **不同含义的区分：根据上下文，确保理解 "more than" 的含义。它可以表示数量、程度、强调或其他比较关系。根据具体情境，选择适当的解释。**
+
+         **例如：**
+
+         - **More than 200 tickets were sold for the concert. (数量)**
+           **音乐会售出了200多张门票。**
+
+         - **Her dedication is more than admirable. (程度)**
+           **她的奉献精神令人钦佩。**
+
+         - **This job requires more than just technical skills. (强调)**
+           **这份工作需要的不仅仅是技术技能。**
+
+      **总之，使用 "more than" 修饰名词作为主语时，需要注意动词形式的一致性，正确放置谓语动词，并根据上下文准确理解其含义。**
 
 9. It is our daily decisions, rather than our abilities,<u><font color=red><strong>    that show    </strong></font></u>what we truly are. (show)
 
@@ -11785,6 +11943,12 @@
    <font color=red><strong>强调句式为“It be..:that/who”被强调的是主语，其中的that不能被其他词代替。</strong></font>
 
    **rather than ：而不，而不是：表示在两个选择中，不应该做出某个选择。**
+
+   **decision ：n. 决定，抉择；判决，裁定；果断，决断力；作决定，决策**
+
+   **ability ：n. 能力，能够；才能，技能，本领**
+
+   **truly ：adv. 真实地，如实地；真正地，完全地；诚挚地，真诚地；准确地；非常，很**
 
 10. Only when it rains in summer<u><font color=red><strong>    can you see      </strong></font></u>such beautiful rainbows here.(see)
 
@@ -11800,19 +11964,15 @@
     
     **通常情况下，英语中的条件状语从句是由连词"if"或"when"引导的，并不需要倒装。例如：**
     
-    - **If you study hard, you will pass the exam.**
-    **（如果你努力学习，你会通过考试。）**
+    - **If you study hard, you will pass the exam.（如果你努力学习，你会通过考试。）**
     
-    - **When it rains, I usually stay indoors.**
-    **（下雨时，我通常呆在室内。）**
+    - **When it rains, I usually stay indoors.（下雨时，我通常呆在室内。）**
     
     **然而，当使用"only when"作为条件状语从句的引导词时，主句往往需要倒装，将助动词或情态动词放在主语之前。例如：**
     
-    - **Only when you study hard will you pass the exam.**
-    **（只有当你努力学习，你才能通过考试。）**
+    - **Only when you study hard will you pass the exam.（只有当你努力学习，你才能通过考试。）**
     
-    - **Only when it rains do I stay indoors.**
-    **（只有下雨时，我才呆在室内。）**
+    - **Only when it rains do I stay indoors.（只有下雨时，我才呆在室内。）**
     
     **这种倒装结构强调了条件从句对主句的限制和关联。**
     
@@ -11840,6 +12000,10 @@
 
    **abnormal ：*adj.*反常的，异常的，变态的；不规则的**
 
+   **formal ：*adj.*庄重的，合乎礼仪的；（语言）正式的，规范的；拘谨的；（教育或培训）正规的；形式上的，表面的；官方的，公开的；*n.*正式的社交聚会；**
+
+   **informal ：*adj.*轻松友好的，不拘礼节的；（文字或言谈）非正式的，口语体的；（服装）休闲的，家居的；（组织、团体和安排）非官方的，非正规的**
+
 2. Up to now, our society<u><font color=red><strong>     has faced the challenge of    </strong></font></u>limited living space and a shortage of natural resources.(face)
 
    迄今为止，我们的社会**面临着**生存空间有限、自然资源缺乏**的挑战。**
@@ -11865,8 +12029,8 @@
       **用来表示某物的短缺或不足。它通常用于描述某种资源、物品或者情况缺乏的情况。**
 
       1. **There is a shortage of clean water in many developing countries. 许多发展中国家面临着清洁水资源短缺的问题。**
-   2. **The pandemic has caused a shortage of medical supplies. 疫情导致医疗用品短缺。**
-   
+      2. **The pandemic has caused a shortage of medical supplies. 疫情导致医疗用品短缺。**
+      
    7. **limited**
 
       ***adj.*有限的；受限的；受宪法限制的；（公司）有限责任的 (=Ltd)**
@@ -11915,7 +12079,7 @@
 
    **The harder the shrub is to grow的正常语序The shrub is harder to grow.**
 
-5. <u><font color=red><strong>         Cooled          </strong></font></u>in the air, this kind of steal becomes harder and harder. (cool)
+5. <u><font color=red><strong>         Cooled          </strong></font></u>in the air, this kind of steel becomes harder and harder. (cool)
 
    置于空中**冷却**，这种钢铁会变得越来越硬。
 
@@ -11934,6 +12098,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>在It is necessary/strange/natural that...这类句型中,that引导的主语从句中用虚拟语气，谓语动词用“should+动词原形”,should 可以省略。</strong></font>
+
+   **both... and... ：既......又......：用于连接两个相互关联的事物或特征，表示两者都具有。**
 
 7. I still remember the story, believe it or not,<u><font color=red><strong>      that we got lost        </strong></font></u>in the mountain picnic.(get) 
 
@@ -11955,6 +12121,10 @@
 
    <font color=red><strong>either...or...连接的并列成分作主语时,谓语动词要与最靠近的名词保持一致，此处应与surroundings一致,谓语动词用复数形式;且表示一般事实,用一般现在时。</strong></font>
 
+   **location ：n. 地点，位置；（电影的）外景拍摄地；定位；（计算机内存里的）地址**
+
+   **surround ：v. 围绕，环绕；（军队，警察等）包围；与……紧密相连（或相关）；喜欢结交（某类人），身边总有（某类东西）n. （物品的）边，饰边；周围的事物，环境**
+
    **surrounding ：*adj.*周围的，附近的 *n.*周围环境（surroundings）**
 
    **surroundings ：*n.*周围环境，周围事物**
@@ -11973,6 +12143,8 @@
 
    <font color=red><strong>强调的特殊疑问句式为“特殊疑问词+is/was+it+that/who...?”,此处是对方式状语进行强调，故用how。</strong></font>
 
+   **diaries /*ˈdaɪəriz*/ n. 日记，日记簿；日志（diary 的复数形式）**
+
 10. Only taken according to the directions<u><font color=red><strong>     can this medicine       </strong></font></u>be quite effective. (medicine)
 
     只有按照说明服用，**这种药才能**非常有效。
@@ -11984,6 +12156,28 @@
     <font color=red><strong>only强调状语置于句首时句子用部分倒装。</strong></font>
     
     **effective ：adj. 产生预期结果的，有效的；实际的，事实上的；（法律、规则等）生效的，起作用的；给人深刻印象的**
+    
+     **"according"、"accord" 和 "according to" 的用法。**
+    
+    1. **"According" 是一个介词或副词，通常与 "to" 搭配使用。它表示与某事一致或符合。**
+    
+       - **例句："According to the teacher, the exam will be postponed."**
+         **翻译："根据老师的说法，考试将被推迟。"**
+       - **在这个例句中，"according to" 表示所提到的信息与老师的说法一致。**
+    
+    2. **"Accord" 是一个名词，表示两个或多个方面之间的协议、和谐或一致。**
+    
+       - **例句："They reached an accord on the terms of the contract."**
+         **翻译："他们就合同条款达成了一致。"**
+       - **在这个例句中，"accord" 表示达成的协议或一致。**
+    
+    3. **"According to" 是一个短语，用于引用基于某种来源或参考的信息或陈述。**
+    
+       - **例句："According to the survey, 80% of respondents prefer tea over coffee."**
+         **翻译："根据调查，80% 的受访者更喜欢茶而不是咖啡。"**
+       - **在这个例句中，"according to" 引用了调查作为信息的来源。**
+    
+    
 
 
 
@@ -12049,6 +12243,10 @@
 
    <font color=red><strong>主语a new approach和adopt为逻辑上的被动关系。由时间状语the other day可知，动作发生在过去故用一般过去时的被动语态。</strong></font>
 
+   **approach ：v. 靠近，临近；接洽，交谈；对付，处理；近似，接近于；n. 方法，态度；靠近，接近；接洽，要求；通道，路径；进场着陆；近似物**
+
+   **the other day ：前几天：指不久前的某一天，通常是过去的几天之内。**
+
    **当涉及到 "adopt" 和 "adapt" 时，它们虽然发音相似，但在含义和用法上有所不同。下面是关于这两个词的一些常见词组和用法：**
 
    **词组和用法相关于 "adopt"：**
@@ -12081,7 +12279,7 @@
       
       **The adaptation of the play received rave reviews from the critics.（该剧的改编受到了评论家的好评。）**
 
-   **请注意，"adopt" 意味着接受、采用或收养某物或某人，而 "adapt" 意味着调整、改编或适应新环境。希望这些例子能帮助你更好地理解这两个词的用法。如果你有任何进一步的问题，请随时提问。**
+   **请注意，"adopt" 意味着接受、采用或收养某物或某人，而 "adapt" 意味着调整、改编或适应新环境。**
 
 3. She said that she hadn't done anything illegal when questioned by the police, but she was found<u><font color=red><strong>         in possession of        </strong></font></u>dangerous drugs the next day. (possession)
 
@@ -12096,6 +12294,8 @@
    **possession ：n. <正式> 拥有，持有；个人财产，所有物；持有违禁物，私藏毒品（或武器）；（对球的）控制，球权；进攻；领地，殖民地；鬼魂附体，着魔；（观点或情感的）支配，控制**
 
    **illegal ：adj. 非法的，违法的；违规的；n. 非法移民，非法劳工**
+
+   **legal ：adj. 法律允许的，合法的；与法律有关的，法律的；**
 
 4. 一Jane, Peter has got a well-paid job in a foreign company.
 
@@ -12123,6 +12323,10 @@
 
    **hurry to do ：赶紧去做：表示尽快去完成某件事情，强调时间紧迫。**
 
+   **hurry to : 赶紧去：表示尽快去某个地方或做某件事情。**
+
+   **only to find that : 结果却发现却发现结果却发现······却只发现**
+
 6. You have broken your promise; you<u><font color=red><strong>         should have finished        </strong></font></u>painting the house long ago. (finish)
 
    你食言了;你很久以前就**本该**把房子粉刷**完**的。
@@ -12132,6 +12336,22 @@
    <strong>解析：</strong>
 
    <font color=red><strong>should have done 表示“本该做···..·实际上没做”。</strong></font>
+
+   "**Finish to do" 和 "finish doing" 是两种不同的用法，表达了不同的含义。**
+
+   1. **"Finish to do"：表示完成去做某事的动作。这种结构通常用于表示动作的目的或意图。它强调的是动作的目标或完成状态。**
+
+      **Example: She finished her work to go on vacation.（她完成工作以便度假。）**
+
+      **在这个例子中，"finish to do" 表示她完成工作的目的是为了度假。**
+
+   2. **"Finish doing"：表示完成已经做过的动作。这种结构用于描述已经进行或完成的动作。**
+
+      **Example: He finished eating dinner and then watched a movie.（他吃完晚饭后看了一部电影。）**
+
+      **在这个例子中，"finish doing" 表示他吃完晚饭这个已经进行或完成的动作。**
+
+   **请注意，在大多数情况下，"finish doing" 是更常用和自然的表达方式。"Finish to do" 的使用相对较少，更多地用于表达目的或意图**。
 
 7. There's quite a good one called the Garden Hotel in the town,<u><font color=red><strong>    which is not far from/being not far from        </strong></font></u>the railway station.(far)
 
@@ -12185,6 +12405,22 @@
     <font color=red><strong>否定词seldom置于句首时，子用部分倒装,且此处表示一个客观事实,故用一般现在时。</strong></font>
     
     **Seldom ：adv. 不常，很少**
+    
+    **"Stop to do" 和 "stop doing" 是两种不同的用法，表示了不同的含义。**
+    
+    1. **"Stop to do"：表示停下正在进行的动作，以便去做另一件事。这种结构强调的是中断当前的动作并专注于进行另一个动作。**
+    
+       **Example: He stopped to answer the phone.（他停下来接电话。）**
+    
+       **在这个例子中，"stop to do" 表示他中断了正在进行的活动（可能是走路或其他事情），以便回答电话。**
+    
+    2. **"Stop doing"：表示停止已经在进行的动作。这种结构用于描述结束或中断正在进行的动作。**
+    
+       **Example: She stopped playing the piano when the guests arrived.（她在客人到达时停止弹钢琴。）**
+    
+       **在这个例子中，"stop doing" 表示她结束了正在进行的动作（弹钢琴），因为客人到了。**
+    
+    **通常情况下，"stop doing" 是更常用和自然的表达方式，用于表示结束或中断一个已经进行的动作。"Stop to do" 用于表示中断当前的动作以便去做另一件事。根据语境和意图选择适当的用法。**
 
 
 
@@ -12820,6 +13056,8 @@
       **His words affected her deeply.（他的话对她产生了深远的影响。）**
 
    2. **effect（名词）：表示行动、决策或事件所产生的结果、影响或后果。**
+
+      **effective ：adj. 产生预期结果的，有效的；实际的，事实上的；（法律、规则等）生效的，起作用的；给人深刻印象的**
 
       **The new policy had a positive effect on the company's profitability.（新政策对公司的盈利能力产生了积极的影响。）**
 
@@ -14087,8 +14325,6 @@
 
    这不是你**应该知道**的，所以请不要问我。
 
-   should suppose of
-
    <font color=red><strong>are supposed to know</strong></font>
 
    <strong>解析：</strong>
@@ -14103,19 +14339,19 @@
         - **I suppose he'll be here soon.（我猜他很快就会到这里。）**
         - **Suppose we go to the movies tonight.（假设我们今晚去看电影吧。）**
         - **She supposed that he would agree with the plan.（她认为他会同意这个计划。）**
-
+   
      2. **"Suppose"作为连词，引导一个假设或条件：**
         - **Suppose it rains tomorrow, what will we do?（假设明天下雨，我们该怎么办？）**
         - **Suppose you win the lottery, what would you do with the money?（假设你中了彩票，你会怎么处理这笔钱？）**
-
+   
      3. **"Suppose"作为表示推论或推理的词：**
         - **If he didn't call, I suppose something must have come up.（如果他没打电话，我猜肯定出了什么事。）**
         - **The car won't start. I suppose the battery is dead.（车发动不了。我猜测是电池没电了。）**
-
+   
      4. **"Suppose"作为礼貌性的表达，用于引入一个请求、建议或询问：**
         - **Suppose we have dinner together sometime.（要不我们找个时间一起吃饭吧。）**
         - **Suppose I borrow your pen for a moment.（可以借用你的笔一下吗？）**
-
+   
    - **supposed ：*adj.*假定的，据说的；应当的；预期的；被允许的；坚信的；*v.*预期，推断；假定；认为（suppose 的过去式和过去分词形式）**
 
      **"Supposed"是"suppose"的过去分词形式，根据语境的不同，可以有以下几种常见的用法：**
@@ -14124,15 +14360,15 @@
         - **I am supposed to be at work by 9 AM.（我应该在上午9点前到达工作岗位。）**
         - **This document is supposed to be confidential.（这份文件应该保密。）**
         - **She was supposed to call me yesterday, but she didn't.（她应该昨天给我打电话，但她没有。）**
-
+   
      2. **"Supposed" 作为形容词，表示所谓的或被认为的：**
         - **The supposed thief was caught by the police.（所谓的小偷被警察抓住了。）**
         - **He claimed to have seen a supposed UFO in the sky.（他声称在天空中看到了一架所谓的不明飞行物。）**
-
+   
      3. **"Supposed" 作为副词，表示根据一般看法或预期：**
         - **He is supposed to be a talented musician.（他被认为是一位有才华的音乐家。）**
         - **The repairs were supposed to be completed by yesterday.（维修工作应该在昨天完成。）**
-
+   
 8. <u><font color=red><strong>         His winning         </strong></font></u>two gold medals at the Asian Games held in Guangzhou made his family very proud. (win)
 
    在广州举办的亚运会上**他获得了**两枚金牌,这让他的家人非常自豪。
