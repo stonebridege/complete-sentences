@@ -10834,6 +10834,37 @@
 
    <font color=red><strong>be reported to do“据报道......”,为固定用法contribute to发生在主句谓语动词之前,故用不定式的完成式。</strong></font>
 
+   
+
+   **passenger ：n. 乘客，旅客；（团体中）不干活的人，闲散人员；adj. 乘客的，旅客的**
+
+   **crash ：v. 撞车，坠毁；猛撞，发出巨响；破产，倒闭，暴跌；n. 撞车事故，失事；巨响，碰撞声；（计算机）瘫痪，死机；**
+
+   
+
+   **"contribute to" 是一个常见的短语，表示对某事物或某目标产生影响、做出贡献或参与其中。它可以用于描述一个人或事物对某种结果、进展、发展或状况的积极影响。**
+
+   1. **Regular exercise contributes to good health.（经常锻炼有助于保持健康。）**
+   2. **Education plays a vital role in contributing to economic growth.（教育在促进经济增长方面发挥着重要作用。）**
+   3. **His innovative ideas greatly contributed to the success of the project.（他的创新思想极大地促成了项目的成功。）**
+
+   **注意，"contribute to" 还可以用于描述贡献某种资金、资源或材料等方面，例如 "contribute to a charity"（捐款给慈善机构），"contribute to scientific research"（为科学研究做出贡献）等。**
+
+   
+
+   **在英语中，表示"导致"的常见词组有以下几种：**
+
+   1. **Lead to - 导致**
+   2. **Result in - 导致，造成**
+   3. **Cause - 引起，导致**
+   4. **Bring about - 引起，导致**
+   5. **Contribute to - 促成，导致**
+   6. **Give rise to - 引起，导致**
+   7. **Trigger - 触发，引发**
+   8. **Provoke - 引起，激起**
+   9. **Generate - 产生，导致**
+   10. **Induce - 引起，导致**
+
 2. Mary made a wise decision on her marriage, for she<u><font color=red><strong>         had taken        </strong></font></u>everything into consideration.(take)
 
    玛丽在结婚时做出了英明的决定，因为她把一一切都**考虑**进去了。
@@ -10845,6 +10876,8 @@
    <font color=red><strong>take everything into consideration是发生在过去动作made之前的动作，故用过去完成时。</strong></font>
 
    **consideration : n. 考虑，斟酌；考虑因素；体贴，关心；报酬，酬金；（合同协议中的）对价，约因；**
+
+   **wine : *n.*葡萄酒，果蔬酒；深紫红色**
 
    **表示"聪明的，机智的，明智的"形容词有：**
 
@@ -10869,6 +10902,19 @@
       **The brilliant scientist made groundbreaking discoveries in the field of physics.（这位杰出的科学家在物理学领域做出了开创性的发现。）**
 
       
+
+   **"Take...into consideration" 是一个常用的短语，表示考虑或思考某事物或某个因素，以便做出决定或形成观点。它表示我们将某个因素或情况纳入我们的考虑范围，以便做出全面和综合的决策。**
+
+   **这个短语通常用于表达在做出决策、评估选项或形成观点时考虑某些因素的重要性。它强调在考虑事物时要充分思考并权衡各种因素，而不只是凭直觉或片面的观点。**
+
+   **下面是一些例句来说明 "take...into consideration" 的用法：**
+
+   1. **When planning the event, we need to take the attendees' preferences into consideration.（在计划活动时，我们需要考虑到参与者的喜好。）**
+   2. **The committee will take your feedback into consideration before making a final decision.（委员会在做出最终决定之前会考虑你的反馈意见。）**
+   3. **In this research, we took various factors into consideration to ensure accurate results.（在这项研究中，我们考虑了各种因素以确保准确的结果。）**
+   4. **Before buying a house, you should take your budget and future plans into consideration.（在购买房屋之前，你应该考虑到你的预算和未来计划。）**
+
+   **总之，"take...into consideration" 表示考虑某事物或某因素，以便做出全面和综合的决策、评估或形成观点。这个短语强调全面思考并权衡各种因素的重要性。**
 
 3. While ninety nine percent of the panda's diet<u><font color=red><strong>        is bamboo          </strong></font></u>,it also eats corn, apples and sweet potatoes. (be)
 
@@ -10910,9 +10956,36 @@
 
    <font color=red><strong>由句意可知，此处表示最高级意义,在否定句中常用比较级表示最高级意义。</strong></font>
 
+   **received ：adj. <正式> 广为接受的，公认的；v. 拿到，接到；接受（治疗）；**
+
+   
+
    **receive ：v. 得到，收到；对……作出反应；接待接收，容纳，承接**
 
-   **received ：adj. <正式> 广为接受的，公认的；v. 拿到，接到；接受（治疗）；**
+   **accept ：*v.*接受，收受；同意，赞成；相信，认为……正确；**
+
+   **"Receive" 和 "accept" 是两个表示接受的动词，它们有一些区别。**
+
+   1. **意义：**
+      - **"Receive" 指的是收到、接收或获得某物或某人给予的东西，强调被动接受。**
+      - **"Accept" 指的是同意、接纳或承认某事物或某人，强调主动接受。**
+
+   2. **动作主体：**
+      - **"Receive" 的动作主体通常是接收方，即被动地接受或获得某物。**
+      - **"Accept" 的动作主体通常是接受方，即主动地决定接受某事物或某人。**
+
+   3. **用途：**
+      - **"Receive" 可用于描述接收或获得各种物品、信息、礼物、待遇等。**
+      - **"Accept" 更常用于描述接受邀请、建议、条件、责任、批评等。**
+
+   **下面是一些例句来展示这两个词的用法和区别：**
+
+   - **She received a package in the mail yesterday.（她昨天收到一份包裹。）**
+   - **He accepted the job offer without hesitation.（他毫不犹豫地接受了这份工作的邀请。）**
+   - **The company received a lot of positive feedback from customers.（公司收到了许多客户的积极反馈。）**
+   - **The team captain accepted the trophy on behalf of the team.（队长代表队伍接受了奖杯。）**
+
+   **总之，"receive" 强调被动接受或获得，而 "accept" 强调主动接受或同意。根据上下文和所要表达的含义，选择适当的动词可以更准确地传达你的意思。**
 
 5. Vancouver,  British Columbia Province, is a beautiful city,<u><font color=red><strong>       to which           </strong></font></u>I paid a two-day visit during the Spring Festival. (which)
 
@@ -10922,7 +10995,9 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>非限制性定语从句的先行词是Xiamen,并在从句中作paid a two day visit的宾语，由pay a visit to可知此处用to which引导。</strong></font>
+   <font color=red><strong>非限制性定语从句的先行词是Vancouver,并在从句中作paid a two day visit的宾语，由pay a visit to可知此处用to which引导。</strong></font>
+
+   **pay a visit to sb/sp ：拜访：去某个地方看望或探访某人。**
 
    **"a two-day"，其中使用连字符将 "two" 和 "day" 连接起来形成一个形容词短语，用来描述某个持续两天的事物。**
 
@@ -10936,6 +11011,29 @@
 
    <font color=red><strong>pick out“辨认出”。</strong></font>
 
+   "**Pick" 是一个多功能的动词，有许多常见的词组和短语与其搭配使用。以下是一些常见的词组和短语，以及它们的意思：**
+
+   1. **Pick out - 挑选出，选出**
+      - **I went to the store to pick out a new pair of shoes.（我去商店挑选了一双新鞋。）**
+      
+   2. **Pick up - 拾起，捡起；接人；学会**
+      - **She picked up the book that had fallen on the floor.（她捡起了掉在地板上的书。）**
+      - **Can you pick me up at the airport tomorrow?（你明天能到机场接我吗？）**
+      - **He quickly picked up Spanish during his trip to Spain.（他在西班牙旅行期间迅速学会了西班牙语。）**
+      
+   3. **Pick off - 逐个击败，选中（目标）**
+      - **The sniper picked off the enemy soldiers one by one.（狙击手逐个击败敌军士兵。）**
+      - **She picked off the apples from the tree.（她从树上摘下了苹果。）**
+      
+   4. **Pick on - 挑剔，找茬**
+      - **Stop picking on your younger brother and be nice to him.（别再找茬儿你弟弟了，对他友好一点。）**
+      
+   5. **Pick apart - 仔细分析，彻底检查**
+      - **The detective picked apart the crime scene for clues.（侦探仔细检查犯罪现场以找出线索。）**
+      
+   6. **Pick and choose - 挑三拣四，挑肥拣瘦**
+      - **She has the luxury of picking and choosing from many job offers.（她有幸可以从许多工作机会中挑选。）**
+
 7. If you<u><font color=red><strong>       must talk          </strong></font></u>about it with me, please wait till I finish my work at hand. (talk)
 
    如果你**非要**跟我**谈论**这个的话，请等我忙完手中的工作之后吧。
@@ -10946,7 +11044,7 @@
 
    <font color=red><strong>由句意可知,表示“非要，偏要”,用 must。</strong></font>
 
-8. Each of us<u><font color=red><strong>    in turn        </strong></font></u>had to describe how alcohol had effected our lives. (turn)
+8. Each of us<u><font color=red><strong>    in turn        </strong></font></u>had to describe how alcohol had affected our lives. (turn)
 
    我们每个人都得**依次**说一说喝酒如何影响了我们的生活。
 
@@ -10955,6 +11053,10 @@
    <strong>解析：</strong>
 
    <font color=red><strong>in turn“依次”。</strong></font>
+
+   **in return ：作为回报：表示作为对某人的帮助或好意的回报。**
+
+   **describe ：*/*dɪˈskraɪb*/* v. 描述，形容；做……运动，形成……形状**
 
 9. I have been working with Lily for years, and never before<u><font color=red><strong>     have I found     </strong></font></u>her so serious! (find)
 
@@ -10966,7 +11068,9 @@
 
    <font color=red><strong>表示否定意义的副词放在首时，句子要用部分倒装;此处表示到现在为止的动作,故用现在完成时。</strong></font>
 
-10. 一Alice,<u><font color=red><strong>          how was it      </strong></font></u>that they found the lost dictionary?
+   **never before ：前所未有：表示某事在过去从未发生过，强调其独特性和重要性。**
+
+10. 一Alice,<u><font color=red><strong>      how was it         </strong></font></u>that they found the lost dictionary?
 
     一The head teacher had made every effort to help him. (be)
 
@@ -10980,7 +11084,24 @@
     
     <font color=red><strong>本句是强调句式的特殊疑问句式“特殊疑问词+is/was+it+that+其他成分”,强调方式状语，故用how引导。</strong></font>
     
-    make every effort to do ：竭尽全力：尽最大努力去做某事，全力以赴。
+    **make every effort to do ：竭尽全力：尽最大努力去做某事，全力以赴。**
+    
+    **"Make an effort" 和 "take effort" 都是表示付出努力的短语，但它们在用法上有所不同。**
+    
+    1. **Make an effort: 这个短语指的是有意识地付出努力去做某事，表示主动行动或主观意愿。它强调个人的决心和行动。**
+    
+       - **I need to make an effort to improve my time management skills.**
+         **（我需要努力提高我的时间管理能力。）**
+       - **He made an effort to learn a new language before his trip.**
+         **（他在旅行前努力学习一门新语言。）**
+    
+    2. **Take effort: 这个短语指的是某事需要付出努力，表示客观上需要花费时间、精力和工作。它强调某事本身的难度或耗费的资源。**
+       - **The project took a lot of effort to complete on time.**
+         **（这个项目需要付出很多努力才能按时完成。）**
+       - **Learning to play a musical instrument takes a lot of effort and practice.**
+         **（学习演奏乐器需要很多的努力和练习。）**
+    
+    **总结起来，"make an effort" 强调个人的主动行动和意愿去付出努力，而 "take effort" 强调某事本身需要付出努力。具体使用哪个短语取决于语境和表达的意思。**
 
 
 
@@ -11000,7 +11121,13 @@
 
    <font color=red><strong>Jeff与realize是逻辑上的主动关系，故用动词-ing 形式作状语,表示主动、进行意义，其否定形式是在其前加not.</strong></font>
 
+   **previous：*adj.*以前的，先前的；（时间或顺序上）稍前的；**
+
+   **obvious ：*adj.*明显的，显然的；明确表示的，毫不掩饰的；**
+
    **go on with ：继续；进行；暂时使用**
+
+   **go on doing sth ：继续做某事：表示持续进行某个动作或活动，不停止或中断。**
 
 2. This morning I picked up a wallet in surprise<u><font color=red><strong>          on my way to school          </strong></font></u>.( way)
 
@@ -11011,6 +11138,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>on one's way to...“在某人去·.....的路上”。</strong></font>
+
+   **in surprise ：惊讶地：表示某人因为突然发生的事情或意外的消息而感到惊讶。**
 
 3. It is not like her to be so impolite; she<u><font color=red><strong>        might/may not have heard       </strong></font></u>you when you greeted her. (hear)
 
@@ -11024,6 +11153,16 @@
 
    **greet ：v. 欢迎，迎接；对……作出反应；映入眼帘，扑鼻而来；**
 
+   **impolite ：*adj.*不礼貌的，粗鲁的**
+
+   **polite ：*adj.*有礼貌的，客气的；礼节性的，客套的；上流的，有教养的**
+
+   **politics ：*n.*政治，政治活动（事务）；政治事业；政治学；**
+
+   **policy ：*n.*政策，方针；(处事) 原则，策略；保险单**
+
+   **politician ：*n.*从政者，政治家；政客，善于玩弄权术者**
+
 4. Mark drives his car too fast and, what’s more, very carelessly,<u><font color=red><strong>     which worries his mother       </strong></font></u>.(worry)
 
    马克开车很快而且更糟糕的是很大意，这**让他母亲很担心。**
@@ -11033,6 +11172,12 @@
    <strong>解析：</strong>
 
    <font color=red><strong>非限制性定语从的先行词是前面的整个句子,引导词在从句中作主语，故用which;worry sb.“使某人担心”,句中时态为一般现在时,故此处也用一般现在时。</strong></font>
+
+   **carelessly ：*adv.*粗心地；不注意地；无忧无虑地**
+
+   **careless : *adj.*粗心大意的，疏忽的；自然的，随便的；淡漠的，不关心的**
+
+   **careful ：*adj.*仔细的，小心的；谨慎的，周密的**
 
    **"worry about"、"worry someone"和"make someone worried"在意义上有一些区别，下面是它们的解释和示例：**
 
@@ -11079,7 +11224,37 @@
 
    <font color=red><strong>由句意可知，此处表示比较意义，且表示“比··.···还要重”,修饰weight 用much,其比较级是more,故用even more than。</strong></font>
 
-7. Although lie detector tests <u><font color=red><strong>       are not allowed       </strong></font></u>as evidence in the courts, it is nevertheless a useful  investigative tool. (allow)
+   **as...as..." 是一个常用的英语结构，用于进行比较。它的基本形式是 "as + 形容词/副词 + as + 名词/代词"，表示两个事物在某种程度上是相等或相似的。**
+
+   **carry ： v. 携带；传递；运载；怀孕**
+
+   **表示"比赛，对决，竞争"的常见名词和动词如下：**
+
+   **名词：**
+   1. **Competition - 竞争，比赛**
+   2. **Contest - 竞赛，比赛**
+   3. **Match - 比赛，对决**
+   4. **Game - 比赛，游戏**
+   5. **Tournament - 锦标赛，比赛**
+   6. **Battle - 战斗，较量**
+   7. **Race - 竞赛，比赛**
+   8. **Showdown - 对决，决战**
+   9. **Rivalry - 竞争，对抗**
+   10. **Championship - 锦标赛，冠军赛**
+
+   **动词：**
+   1. **Compete - 竞争，比赛**
+   2. **Challenge - 挑战，对抗**
+   3. **Confront - 对抗，面对**
+   4. **Battle - 战斗，争斗**
+   5. **Race - 竞赛，比赛**
+   6. **Face off - 对决，交锋**
+   7. **Contest - 竞赛，比赛**
+   8. **Match - 比赛，对决**
+   9. **Engage - 参与，对抗**
+   10. **Struggle - 斗争，奋斗**
+
+7. Although lie detector tests <u><font color=red><strong>       are not allowed       </strong></font></u>as evidence in the courts, it is nevertheless a useful investigative tool. (allow)
 
    尽管测谎仪测试**不被允许**作为证据出现在法庭上,但是它无疑是一个调查的有用的工具。
 
@@ -11088,6 +11263,10 @@
    <strong>解析：</strong>
 
    <font color=red><strong>lie detector tests与allow之间是被动关系且句意表示否定,故用其被动语态的否定形式。</strong></font>
+
+   **court ：n. 法院，法庭；球场；王宫，宫廷；朝臣；全体审判人员；庭院**
+
+   **detector ： *v.*查明，察觉；测出，检测，识别**
 
    **investigative ：adj. 研究的；调查的；好调查的**
 
@@ -11115,29 +11294,28 @@
 
    **以下是一些常见的情况，其中特定的词或短语放在句首时，可能需要进行部分倒装或全部倒装：**
 
-   1. **副词或短语放在句首：**
+   1. **副词或短语放在句首：（部分倒装）**
       - **Never have I seen such a beautiful sunset.（我从未见过如此美丽的日落。）**
       - **In no way can I accept this offer.（我无论如何都不能接受这个提议。）**
       - **Not only is he intelligent, but he is also kind-hearted.（他不仅聪明，而且心地善良。）**
 
-   2. **表示否定的副词或短语放在句首：**
+   2. **表示否定的副词或短语放在句首：（部分倒装）**
       - **Not until the exam was over did he realize his mistake.（直到考试结束，他才意识到自己的错误。）**
       - **Under no circumstances should you give up.（无论如何都不应该放弃。）**
 
-   3. **介词短语放在句首：**
-      - **In the middle of the night, there was a loud noise.（在半夜里，传来一阵巨响。）**
+   3. **介词短语放在句首：（完全倒装）**
       - **On top of the hill stands a beautiful old castle.（山顶上耸立着一座美丽的古堡。）**
-
-   4. **表示条件的状语从句放在句首：**
+      
+   4. **表示条件的状语从句放在句首：（部分倒装）**
       - **Should you need any assistance, feel free to ask.（如果你需要任何帮助，随时都可以问我。）**
       - **Had I known the truth, I would have acted differently.（如果我当时知道真相，我会采取不同的行动。）**
-
-   5. **含有否定词的副词短语放在句首：**
+   
+   5. **含有否定词的副词短语放在句首：（部分倒装）**
       - **Seldom have I seen such a talented musician.（我很少见到如此有才华的音乐家。）**
       - **Rarely does he complain about anything.（他很少抱怨任何事情。）**
-
+   
    **需要注意的是，倒装结构的使用是为了强调或突出某一部分信息，并非在所有情况下都需要进行倒装。具体是否使用倒装要根据句子的语境和需要来决定。**
-
+   
 10. A great deal of rice <u><font color=red><strong>      was taken       </strong></font></u>from the country to the city by railway yesterday. (take)
 
     昨天很多大米通过铁路从乡下**被运到**了这个城市。
@@ -11238,7 +11416,23 @@
 
    <font color=red><strong>逻辑主语one与need是逻辑上的被动关系且表示一般的事实，故用动词-ing 形式的被动式作主语。</strong></font>
 
-2. The authenticity of dialogue and setting often makes low budget films seem<u><font color=red><strong>       more real          </strong></font></u>than the  somewhat artificial version of reality in Hollywood movies. (real)
+   **"a sort of" 和 "sorts of" 都可以用来表示某种程度上或某种类别的事物，但它们在用法和含义上略有区别。**
+
+   1. **"A sort of"：**
+      - **"A sort of" 表示一种模糊或不确定的类别或性质。它用于单数形式，后面接单数名词。这个词组常用于表达说话者对某事描述或分类的不确定性。**
+      - **例句：**
+        - **It's a sort of book that combines fantasy and adventure.（这是一种结合了幻想和冒险的书。）**
+        - **He's a sort of musician, although he also dabbles in painting.（他是一种音乐家，尽管他也涉猎绘画。）**
+
+   2. **"Sorts of"：**
+      - **"Sorts of" 表示多种或各种各样的事物，强调多样性或种类的丰富性。它用于复数形式，后面接复数名词。**
+      - **例句：**
+        - **There are all sorts of fruits at the market.（市场上有各种各样的水果。）**
+        - **She has all sorts of hobbies, such as painting, dancing, and playing the piano.（她有各种各样的爱好，比如绘画、跳舞和弹钢琴。）**
+
+   **总之，"a sort of" 强调不确定或模糊的类别或性质，而 "sorts of" 强调多样性或种类的丰富性。具体使用时，要根据语境和所要表达的意思来选择合适的词组。**
+
+2. The authenticity of dialogue and setting often makes low budget films seem<u><font color=red><strong>       more real          </strong></font></u>than the somewhat artificial version of reality in Hollywood movies. (real)
 
    低成本电影中对话和场景的真实性使得他们看起来比好莱坞电影中人工版本的现实**更真实**。
 
@@ -11248,21 +11442,37 @@
 
    <font color=red><strong>由句意及than可知，此处表示比较意义,表示“低成本电影”比“好莱坞电影”更真实，用more real than。</strong></font>
 
-   **"Seem" 是一个动词，用来表示某事物或情况似乎是某种方式，或给人某种印象。它常用于以下情况：**
+   1. **budget n. 预算；政府预算案；v. 制定预算，制定开支计划；计划，安排；adj. 廉价的，经济型的**
 
-   1. **表示观察者的主观看法：使用 "seem" 来表达某事物给人的印象、感觉或判断。**
-      - **It seems that he is happy. (他似乎很开心。)**
-      - **The weather seems nice today. (今天的天气看起来不错。)**
+   2. **somewhat ：adv. 稍微，有点**
 
-   2. **表示不确定或推测：使用 "seem" 表示一种推测，表示某种可能性或猜测。**
-      - **She seems to be upset about something. (她似乎对某事感到不安。)**
-      - **It seems like he knows the answer. (他好像知道答案。)**
+   3. **artificial ：adj. 人造的，人工的；人为的；不真挚的，矫揉造作的**
 
-   3. **表示对外在情况的判断：使用 "seem" 来描述外在的迹象或情况，表达某种看法或判断。**
-      - **The situation seems to be getting worse. (情况似乎越来越糟。)**
-      - **It seems that they are lost. (他们好像迷路了。)**
+   4. **reality ：n. 真实，现实；实际经历，见到的事物；真实感，逼真性；存在；（哲学）实在，实在性；adj. 真人秀节目的**
 
-   **需要注意的是，"seem" 强调的是主观看法或印象，因此使用它时要注意语境和表达的主观性质。另外，"seem" 通常后面会跟一个从句或形容词短语来进一步描述或说明。**
+   5. **"Seem" 是一个常用的动词，用来表示某事物或情况给人一种印象或感觉。它常用于描述主观感受、观察或推测。以下是一些关于 "seem" 的常见用法和搭配：**
+
+      1. **描述主观感受或印象：**
+         - **She seems happy today.（她今天看起来很开心。）**
+         - **It seems like a good idea.（看起来是个好主意。）**
+         - **He seems tired after a long day at work.（他一整天工作后似乎很累。）**
+
+      2. **表达观察或推测：**
+         - **It seems that they have arrived.（看起来他们已经到了。）**
+         - **The situation seems to be improving.（情况似乎在改善。）**
+         - **From his behavior, it seems he doesn't like the movie.（从他的行为来看，他似乎不喜欢这部电影。）**
+
+      3. **"Seem to" + 动词原形，表示可能性或推测：**
+         - **She seems to know the answer.（她似乎知道答案。）**
+         - **The plan seems to be working.（计划似乎在起作用。）**
+         - **It seems to rain later today.（今天似乎会下雨。）**
+
+      4. **"Seem" 与形容词或名词连用，表示某种属性或特征：**
+         - **The painting seems beautiful.（这幅画看起来很美。）**
+         - **The book seems interesting.（这本书似乎很有趣。）**
+         - **The weather seems fine today.（天气今天似乎很好。）**
+
+      **需要注意的是，"seem" 表示主观感受和推测，它并不一定反映真实的情况。使用时要考虑上下文和个人观点，适当表达观察或推测的不确定性。**
 
 3. It is hard to say what kind of person he is. Sometimes he is very friendly but at other times he<u><font color=red><strong>       can be very cold     </strong></font></u>. (cold)
 
@@ -11274,6 +11484,30 @@
 
    <font color=red><strong>can表推测用于肯定时表示偶然的情况或一时的可能性，意为“有时会”。</strong></font>
 
+   **at other times 在其他时候：指除了特定时刻之外的其他时间。**
+
+   1. **"Kind of"：**
+      - **I'm kind of tired after the long day.（经过一整天的工作，我有点累。）**
+      - **It's kind of funny how things turned out.（事情的发展有点有趣。）**
+
+   2. **"Sort of"：**
+      - **I'm sort of interested in the new movie.（对这部新电影我有点感兴趣。）**
+      - **He's sort of shy when he meets new people.（他在遇到新人时有点害羞。）**
+
+   3. **"Type of"：**
+      - **He is a type of person who enjoys outdoor activities.（他是那种喜欢户外活动的人。）**
+      - **This is a different type of problem that requires a unique solution.（这是一种需要独特解决方案的不同类型问题。）**
+
+   4. **"Variety of"：**
+      - **They offer a variety of options for breakfast.（他们提供各种各样的早餐选择。）**
+      - **There is a variety of reasons why people choose to study abroad.（人们选择出国留学有各种各样的原因。）**
+
+   5. **"Like"：**
+      - **It's like a kind of magic.（就像是一种魔法。）**
+      - **The weather is like summer today.（今天的天气像夏天一样。）**
+
+   **这些词组在一定程度上表示某种类别、程度或类似性质，但具体使用要根据语境和表达的意思来确定。**
+
 4. Whether ways will be found to stop pollution or not is just <u><font color=red><strong>      what worries the public          </strong></font></u>now. (worry)
 
    能否找到防止污染的方法就是现在**公众所担心的。**
@@ -11284,21 +11518,29 @@
 
    <font color=red><strong>表语从句的引导词在句中作主语故用what。worry sb.“使某人担心”根据句中时态，此处用一般现在时。</strong></font>
 
-   **"whether...or not"是一个常用的表达方式，用于表达两个选项或情况之间的选择或判断。它的用法如下：**
+   **"Worry someone" 和 "Make someone worried" 都可以用来表达让某人担心或使某人感到担忧的意思**
 
-   1. **在句子中引导一个选择性陈述：**
+   **"Whether...or not" 通常出现在主语从句或宾语从句中，用于引导一个选择性的条件句。下面是一些例句来说明它们的使用情况：**
+
+   1. **在主语从句中：**
+      - **Whether he will come to the party is still uncertain.（他是否会来参加派对还不确定。）**
+      - **Whether the project will be successful remains to be seen.（这个项目是否会成功还有待观察。）**
+
+   2. **在宾语从句中：**
+      - **I haven't decided whether I should take the job or not.（我还没有决定是否接受这个工作。）**
+      - **She asked him whether he had finished his homework or not.（她问他是否完成了作业。）**
+   3. **在句子中引导一个选择性陈述：**
       - **I haven't decided whether I will go to the party or not.（我还没决定是否参加派对。）**
       - **She asked me whether I liked the movie or not.（她问我是否喜欢这部电影。）**
-
-   2. **在句子中引导一个疑问句：**
+   4. **在句子中引导一个疑问句：**
       - **Whether or not he will come to the meeting is still uncertain.（他是否会来参加会议还不确定。）**
       - **Do you know whether or not the store is open today?（你知道今天商店是否开门吗？）**
 
-   3. **在句子中引导一个条件句：**
+   5. **在句子中引导一个条件句：**
       - **Whether you like it or not, you have to do your homework.（无论你喜不喜欢，你都得完成作业。）**
       - **Whether we win or not depends on our teamwork.（我们是否能赢取决于我们的团队合作。）**
 
-   **总之，"whether...or not"用于表达两种可能性、选择或疑问，并在句子中提供更多的语境和信息。**
+   **"Whether...or not" 引导一个选择性的条件句，表示在给定的条件下是否发生某事或采取某个行动。它可以用于多种语境中，包括陈述句、疑问句和引导宾语从句等。在句子中的具体位置可能会因句子结构和语法需要而有所变化。**
 
 5. The boy was too young to write, but he sent his father a letter and told him what had happed<u><font color=red><strong>       by drawing pictures        </strong></font></u>.(by)
 
@@ -11324,6 +11566,30 @@
 
    **European ：*adj.*欧洲的，欧洲人的；（与）欧盟（有关）的 *n.*欧洲人；欧盟成员国国民；欧盟的拥护者**
 
+   **动词 "settle" 在英语中有多种用法和词组。以下是其中一些常见的用法和相关词组及其意思：**
+
+   1. **Settle (v.) - 安定，解决**
+      - **They finally settled on a location for the new office.（他们最终确定了新办公室的位置。）**
+      - **The dispute was settled through mediation.（通过调解解决了争端。）**
+
+   2. **Settle down - 安定下来，定居**
+      - **After years of traveling, she decided to settle down in a small town.（多年的旅行后，她决定在一个小镇安顿下来。）**
+      - **The children need some time to settle down after a long day of activities.（孩子们在一整天的活动后需要一些时间安定下来。）**
+
+   3. **Settle in - 安顿下来，适应新环境**
+      - **It took her a few weeks to settle in her new apartment.（她花了几个星期才在新公寓安顿下来。）**
+      - **The new employee is still settling in and getting to know the team.（新员工还在适应和了解团队。）**
+
+   4. **Settle for - 勉强接受，满足于**
+      - **They couldn't find their preferred hotel, so they had to settle for a cheaper option.（他们找不到理想的酒店，只好选择一个更便宜的选项。）**
+      - **He wanted the promotion, but he settled for a raise in his current position.（他希望得到晋升，但只好在现有职位上获得加薪。）**
+
+   5. **Settle up - 结账，付清账款**
+      - **We need to settle up the bill before we leave the restaurant.（我们需要在离开餐厅之前结账。）**
+      - **After the project is completed, we'll settle up with the contractors.（项目完成后，我们将和承包商结算。）**
+
+   
+
 7. Unfortunately, the package I was expecting <u><font color=red><strong>     was delivered      </strong></font></u>to a wrong address. (deliver)
 
    不幸的是,我期待的包裹**被寄到**了一个错的地址。
@@ -11342,7 +11608,9 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>表示否定意义的介词短语置于句首时，句子用部分倒装;且表示从过去看来将要发生的动作,故用过去将来时。</strong></font>
+   <font color=red><strong>表示否定意义的介词短语置于句首时，句子用部分倒装;且表示从过去看来将要发生的动作,故用would。</strong></font>
+
+   **At no time: 任何时候都不**
 
 9. Why he entered the room and how he managed to get out of it without being seen by people<u><font color=red><strong>      remain      </strong></font></u>a mystery to us all. (remain)
 
@@ -11353,6 +11621,12 @@
    <strong>解析：</strong>
 
    <font color=red><strong>and连接的两个名词性从句作主语，表示两件事情谓语动词用复数形式，remain没有进行时和被动式。</strong></font>
+
+   **manage to do ：设法做到：成功地完成某事，尽管有困难或不可能的情况。**
+
+   **remain ：*v.*逗留，留下；剩余，遗留；保持不变，一直是；仍需去做（或处理）；*n.*剩余（物），遗迹；遗体，残骸**
+
+   **mystery ：n.难以理解（或解释）的事物，奥秘；神秘的人（或事物）；不可思议；adj.神秘的，身份不明的**
 
 10. If you know<u><font color=red><strong>     who it is       </strong></font></u>that wrote Gone with the Wind, raise your hand. (be)
 
@@ -14221,6 +14495,8 @@
 
    <font color=red><strong>表示否定意义的词置于句首,句子用部分倒装,由句意可知用现在完成时;catch sb.doing sth.“发现某人做某事”,此处是其被动语态。</strong></font>
 
+   **not once 从未：表示某事从未发生过，用于强调某事在过去的一段时间里一次都没有发生。**
+
 2. The X Games<u><font color=red><strong>       are less familiar to us        </strong></font></u>than sports like football and basketball. (familiar)
 
    极限运动**不如**足球和篮球这样的运动那样**为我们所熟悉。**
@@ -14265,7 +14541,7 @@
    
 3. <u><font color=red><strong>      What is known to all         </strong></font></u>is that Africa had contacts with India from the earliest times. (know )
 
-   **众所周知,**非洲从很早的时候起就与印度有联系。
+   **众所周知，**非洲从很早的时候起就与印度有联系。
 
    <font color=red><strong>What is known to all/What we all know/What's well known</strong></font>
 
@@ -14273,23 +14549,50 @@
 
    <font color=red><strong>所填部分为主语,主语从句中引导词在从句中作主语,由句意可知用what。</strong></font>
 
-   **"众所周知"的英文表达有几种，可以根据具体的语境和表达方式选择适合的翻译。以下是常见的几种表达方式：**
+   1. **"Contact" 是一个常用的动词和名词，表示与他人建立或取得联系。下面是 "contact" 的一些常见用法和相关表达：**
 
-   1. **"As is well known":**
-      - **As is well known, the sun rises in the east.（众所周知，太阳从东方升起。）**
-      - **As is well known, exercise is beneficial for our health.（众所周知，锻炼对我们的健康有益。）**
+      1. **作为动词使用：**
+         - **"Contact" 用作动词时，表示与某人或某物取得联系或交流。**
+         - **例句：**
+           - **I will contact you tomorrow to discuss the details.（我明天会联系你，讨论细节。）**
+           - **Please contact customer support if you have any questions.（如有任何问题，请联系客户支持。）**
+           - **She contacted her old friend after many years.（经过多年后，她与老朋友取得联系。）**
 
-   2. **"It is widely known":**
-      - **It is widely known that smoking is harmful to health.（众所周知，吸烟对健康有害。）**
-      - **It is widely known that the Earth revolves around the sun.（众所周知，地球绕着太阳旋转。）**
+      2. **作为名词使用：**
+         - **"Contact" 作为名词时，表示沟通或交流的行为、方式或状态。**
+         - **例句：**
+           - **Stay in contact with me while you're traveling.（在你旅行期间与我保持联系。）**
+           - **I lost contact with him after he moved to a different city.（他搬到另一个城市后，我失去了联系。）**
+           - **The phone call was my first contact with the company.（这个电话是我与这家公司的第一次联系。）**
 
-   3. **"It is common knowledge":**
-      - **It is common knowledge that water boils at 100 degrees Celsius.（众所周知，水在100摄氏度沸腾。）**
-      - **It is common knowledge that the Internet has revolutionized communication.（众所周知，互联网已经改变了通信方式。）**
+      3. **"Get in contact with"：与某人取得联系。**
+         - **I will try to get in contact with the project manager.（我会尝试与项目经理取得联系。）**
 
-   4. **"Everyone knows":**
-      - **Everyone knows that dogs are loyal companions.（人人皆知，狗是忠诚的伴侣。）**
-      - **Everyone knows that the sky is blue during the day.（人人皆知，白天天空是蓝色的。）**
+      4. **"Keep in contact"：保持联系。**
+         - **Let's keep in contact and update each other on our progress.（让我们保持联系，并相互更新进展情况。）**
+
+      5. **"Emergency contact"：紧急联系人。**
+         - **Please provide an emergency contact in case of any unforeseen circumstances.（请提供一个紧急联系人，以防万一。）**
+         
+           
+
+   2. **"众所周知"的英文表达有几种，可以根据具体的语境和表达方式选择适合的翻译。以下是常见的几种表达方式：**
+
+      1. **"As is well known":**
+         - **As is well known, the sun rises in the east.（众所周知，太阳从东方升起。）**
+         - **As is well known, exercise is beneficial for our health.（众所周知，锻炼对我们的健康有益。）**
+
+      2. **"It is widely known":**
+         - **It is widely known that smoking is harmful to health.（众所周知，吸烟对健康有害。）**
+         - **It is widely known that the Earth revolves around the sun.（众所周知，地球绕着太阳旋转。）**
+
+      3. **"It is common knowledge":**
+         - **It is common knowledge that water boils at 100 degrees Celsius.（众所周知，水在100摄氏度沸腾。）**
+         - **It is common knowledge that the Internet has revolutionized communication.（众所周知，互联网已经改变了通信方式。）**
+
+      4. **"Everyone knows":**
+         - **Everyone knows that dogs are loyal companions.（人人皆知，狗是忠诚的伴侣。）**
+         - **Everyone knows that the sky is blue during the day.（人人皆知，白天天空是蓝色的。）**
 
 4. It was only after serious consideration<u><font color=red><strong>     that he decided         </strong></font></u>to help the secretary of the human resources manager. (decide)
 
@@ -14321,7 +14624,7 @@
 
    <font color=red><strong>由句中的tomorrow和then可知have a meeting表示的动作发生在明天下午4点，故用将来进行时。</strong></font>
 
-7. This is not what you<u><font color=red><strong>      are supposed to know        </strong></font></u>,so please don' t ask me. (suppose)
+7. This is not what you<u><font color=red><strong>      are supposed to know        </strong></font></u>,so please don't ask me. (suppose)
 
    这不是你**应该知道**的，所以请不要问我。
 
@@ -14377,7 +14680,9 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>空格处在句中作主语，可用动词-ing形式,而动词-ing形式的动作发出者不是谓语动词的主语,因此需要在动词-ing形式前加上形容词性物主代词充当其逻辑主语,构成动词-ing 形式的独立主格结构;也可看成是主语从句,引导词 that 在从句中不作任何成分,且没有实际意义。</strong></font>
+   <font color=red><strong>空格处在句中作主语，可用动词-ing形式，而动词-ing形式的动作发出者不是谓语动词的主语，因此需要在动词-ing形式前加上形容词性物主代词充当其逻辑主语，构成动词-ing 形式的独立主格结构;</strong></font>
+
+   <font color=red><strong>也可看成是主语从句,引导词 that 在从句中不作任何成分,且没有实际意义。</strong></font>
 
 9. I totally understand why you were so angry at his remarks. I <u><font color=red><strong>      would have felt          </strong></font></u>the same way in your place. (feel)
 
@@ -14388,6 +14693,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>表示与过去事实相反的情况，主句中的谓语动词用would have done的形式。</strong></font>
+
+   **the same way：同样的方式：以相同或类似的方法或手段。**
 
 10. He <u><font color=red><strong>          must have been lost         </strong></font></u>in the forest, because he hasn't returned yet. ( lost)
 
@@ -14418,9 +14725,9 @@
    **生某人的气：**
 
    1. **be angry with sb**
-   2. **be mad at**
-   3. **get mad at sb**
-   4. **get angry with**
+   2. **get angry with sb**
+   3. **be mad at sb**
+   4. **get mad at sb**
 
 2. I'll go back to the place <u><font color=red><strong>     in which I was brought up       </strong></font></u>and live there forever. ( bring)
 
@@ -14441,6 +14748,19 @@
    <strong>解析：</strong>
 
    <font color=red><strong>children和see之间是逻辑上的主动关系，因此用动词-ing 形式作状语;此处是“see+名词+过去分词”的结构。</strong></font>
+
+   **cover :*v.*覆盖，遮盖；包括，涉及；报道；**
+
+   1. **cover up 掩盖，盖住**
+   2. **be covered with 被覆盖：指物体的表面被其他物质覆盖，如灰尘、雪、油漆等。**
+
+   **recover ：v. 恢复（健康，精神，体力）；康复，复原（be recovered）；**
+
+   ​	**recover from : 恢复；恢复知觉**
+
+   **thick ：adj. 厚的，粗的；有……厚的；（衣服）厚重的，暖和的 ；（字体）粗体的；茂密的，繁茂的；**
+
+   
 
    **"see + 名词 + 过去分词" 的结构可以用来描述某人亲眼目睹或经历的特定情况或事件。这种结构通常表示对过去的观察或经历。以下是一些例子：**
 
@@ -14480,7 +14800,20 @@
 
    <font color=red><strong>该句是省略if的虚拟条件句,表示与过去事实相反的情况，故此处主句中的谓语动词用would have done的形式;injure和people之间为逻辑上的动宾关系,故用被动语态。</strong></font>
 
-5. <u><font color=red><strong>       Whatever happens        </strong></font></u>,we have to get there  before sunrise. (whatever)
+   **"many/much + 比较级 + 名词" 是一种表达方式，用来描述比较级所指的数量或程度更深或更多。**
+
+   **这种结构的意思是在比较级的基础上进一步强调数量或程度的增加。它暗示比较级已经相当大或相当多，但在此基础上还有更大或更多的数量或程度。**
+
+   **例如：**
+   1. **This new smartphone is many times more powerful than the previous model.（这款新手机比上一款强大了许多倍。）**
+      **这句话表达了新手机相对于上一款手机的巨大提升，暗示着巨大的数量差距。**
+      
+   2. **The new building is much larger than the old one.（新建筑比旧建筑大得多。）**
+      **这句话表示新建筑相对于旧建筑的显著增大，强调了大的程度差异。**
+
+   **这种结构的用法可以用于形容词或副词的比较级，并与名词一起使用。它可以用来强调数量、程度、大小或重要性的差异。具体使用哪种形式取决于句子的语境和需要强调的程度或数量。**
+
+5. <u><font color=red><strong>       Whatever happens        </strong></font></u>,we have to get there before sunrise. (whatever)
 
    **不管发生什么**，我们必须在日出之前到达那里。
 
@@ -14490,7 +14823,7 @@
 
    <font color=red><strong>whatever引导让步状语从句,相当于no matter what</strong></font>
 
-   在**英语中，当引用一个未知的名词时，通常使用单数形式。这是因为未知的名词被视为一个抽象概念，而不是具体的可数名词。例如，在短语"Whatever happens"中，"happens" 是单数形式，因为它指代的是发生的事件或情况，而不是特定的、可数的名词。类似地，其他类似结构中的名词也会使用单数形式。例如：**
+   **在英语中，当引用一个未知的名词时，通常使用单数形式。这是因为未知的名词被视为一个抽象概念，而不是具体的可数名词。例如，在短语"Whatever happens"中，"happens" 是单数形式，因为它指代的是发生的事件或情况，而不是特定的、可数的名词。类似地，其他类似结构中的名词也会使用单数形式。例如：**
 
    - **No matter what occurs...**
    - **Whichever path you choose...**
@@ -14508,9 +14841,9 @@
 
    <font color=red><strong>此处为强调句的特殊疑问句式“疑问词+is/was it+that/who...?”</strong></font>
 
-7. Not only<u><font color=red><strong>        should we study hard        </strong></font></u>,we should also put what  have learn to good use. (study)
+7. Not only<u><font color=red><strong>        should we study hard        </strong></font></u>,we should also put what we have learned to good use. (study)
 
-   **我们**不仅**应该好好学习**,还应该学以致用。
+   **我们**不仅**应该好好学习**，还应该学以致用。
 
    <font color=red><strong>should we study hard</strong></font>
 
@@ -14528,25 +14861,25 @@
 
    <font color=red><strong>make sb.do sth.“让某人做某事”aware of...“意识到·.....”</strong></font>
 
+   **aware ：adj. 知道的，明白的；察觉到的，意识到的；有……意识的，有……知识的**
+
    **"Are aware of" 是一个常用的表达，意思是"意识到"、"知道"或"了解"。它用来描述某人对某个事实、情况或信息有认知和了解。以下是一些类似的表达方式：**
-
+   
    1. **Be conscious of: 对...有意识、意识到**
-      - **He should be conscious of the risks involved in the project.**
+   - **He should be conscious of the risks involved in the project.**
       - **We need to be conscious of our impact on the environment.**
-
+   
    2. **Be cognizant of: 意识到、知道**
-      - **I am cognizant of the fact that it will take time to achieve our goals.**
+   - **I am cognizant of the fact that it will take time to achieve our goals.**
       - **The team needs to be cognizant of the potential challenges ahead.**
-
+   
    3. **Be informed of: 被告知、得到通知**
-      - **They were informed of the change in schedule.**
+   - **They were informed of the change in schedule.**
       - **She wants to be informed of any updates regarding the situation.**
-
+   
    4. **Be knowledgeable about: 对...有知识、了解**
-      - **He is knowledgeable about various programming languages.**
+   - **He is knowledgeable about various programming languages.**
       - **It's important to be knowledgeable about the topic before making a decision.**
-
-   这些表达方式都可以用来描述人们对某个信息、情况或事实的认知和了解程度。具体使用哪种表达方式取决于上下文和个人偏好。
 
 9. It doesn't make any sense to me <u><font color=red><strong>       whether he will attend         </strong></font></u>the meeting tomorrow. (attend)
 
@@ -14567,6 +14900,8 @@
     <strong>解析：</strong>
     
     <font color=red><strong>if引导的虚拟条件句表示与过去事实相反，主句中的谓语动词用would/could/shouldmight have done的形式，由汉语提示可知，此处情态动词用would;agree to do sth.“同意做某事”。</strong></font>
+    
+    **get engaged to ：与......订婚：与某人达成婚约，表示双方承诺在未来结婚。**
 
 
 
