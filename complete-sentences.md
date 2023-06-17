@@ -7065,9 +7065,9 @@
 
    - **gentle ：adj. 文静的，温柔的；v. 使（或变）温柔**
 
-   - polite：有礼貌的，客气的；礼节性的，客套的；上流的，有教养的；
+   - **polite：有礼貌的，客气的；礼节性的，客套的；上流的，有教养的；**
 
-   - courteous：有礼貌的，谦恭的；
+   - **courteous：有礼貌的，谦恭的；**
 
    - **hearted ：**
 
@@ -10222,7 +10222,7 @@
 
    **worried ：adj.担心的，发愁的；v.担心，发愁；使担忧，使发愁，使焦虑；**
 
-   **without any worry of ：不用担心**
+   **without any worry of sth ：不用担心**
 
 2. Mr White is on time for everything. How <u><font color=red><strong>     can it be       </strong></font></u>that he was late for the opening ceremony?(be)
 
@@ -10258,20 +10258,37 @@
 
    **give into ：屈服：在压力、诱惑或劝说下放弃抵抗，接受对方的意见或要求。**
 
-   **"not once" 是一个表达“从未，一次也没有”的短语，在句子中常用于强调某种行为或事件从未发生过。当 "not once" 用于句首时，常常需要对句子进行倒装。这是为了强调否定的意义。**
+   1. **not once**
 
-   **以下是一些关于 "not once" 的例句：**
+      **"not once" 是一个表达“从未，一次也没有”的短语，在句子中常用于强调某种行为或事件从未发生过。当 "not once" 用于句首时，常常需要对句子进行倒装。这是为了强调否定的意义。**
 
-   1. **I have been to Paris many times, but not once have I visited the Louvre.**
-      **（我去过巴黎很多次，但从未参观过卢浮宫。）**
+      **以下是一些关于 "not once" 的例句：**
 
-   2. **He offered to help, but not once did he follow through with his promise.**
-      **（他提出帮忙，但从未兑现过他的承诺。）**
+      1. **I have been to Paris many times, but not once have I visited the Louvre.**
+         **（我去过巴黎很多次，但从未参观过卢浮宫。）**
 
-   3. **Not once did she complain about the difficult circumstances she was facing.**
-      **（她从未抱怨过她面临的困难环境。）**
+      2. **He offered to help, but not once did he follow through with his promise.**
+         **（他提出帮忙，但从未兑现过他的承诺。）**
 
-   **在这些例句中，"not once" 强调了某个动作或事件的从未发生，突出了这种缺乏或未经历的重要性。它可以用于各种时态和语态，根据句子的上下文来表达否定的含义。**
+      3. **Not once did she complain about the difficult circumstances she was facing.**
+         **（她从未抱怨过她面临的困难环境。）**
+
+      **在这些例句中，"not once" 强调了某个动作或事件的从未发生，突出了这种缺乏或未经历的重要性。它可以用于各种时态和语态，根据句子的上下文来表达否定的含义。**
+
+   2. **Give的短语**
+
+      **"Give"这个动词有许多常见的短语和搭配用法。以下是其中一些常见的：**
+
+      1. **Give up: 放弃某事、停止努力。**
+      2. **Give in: 让步、屈服。**
+      3. **Give back: 归还、退还。**
+      4. **Give away: 赠送、分发、泄露秘密。**
+      5. **Give off: 散发、释放（气味、光线等）。**
+      6. **Give out: 分发、分发完毕、用尽。**
+      7. **Give in to: 屈服于、迎合、顺从。**
+      8. **Give a hand/help: 给予帮助、伸出援手。**
+      9. **Give someone a call: 给某人打电话。**
+      10. **Give someone a break: 给某人一个机会、放某人一马。**
 
 4. More and more rich people have promised  to <u><font color=red><strong>      give away      </strong></font></u>their wealth after death to help the poor and the disabled. (give)
 
@@ -10285,7 +10302,11 @@
 
    **wealth ：n. 财富；富有；大量**
 
+   **health : n. 身体状况；健康；医疗，卫生；（组织或系统的）运行状况，运作状况；发达，兴旺**
+
    **wealthy ：*adj.*富有的，丰富的；*n.*富人（the wealthy）**
+
+   **healthy ：adj. 健康的，健壮的；有益身心的；明智的，合理的；运作良好的，兴旺发达的；大量的，可观的**
 
    **welfare ：*n.*幸福，安康；福利救济，社会福利；（给失业者和穷人的）福利救济金*adj.*福利的；接受社会救济的**
 
@@ -10309,26 +10330,30 @@
 
    2. **political ：adj. 政治（上）的，政府的；政党的，党派的；对政治感兴趣的，参与政治的；反政府的；**
 
-   3. **account ：*n.*账户，户头；客户，理由，解释；重要性；*v.*把……视作，认为；解释，说明（account for）**
+   3. **fully ：adv. 充分地，完全地，彻底地；（强调数量）整整，至少**
+
+   4. **account ：*n.*账户，户头；客户，理由，解释；重要性；*v.*把……视作，认为；解释，说明（account for）**
 
       **"account" 可以组成多个常用的词组和短语，以下是其中一些常见的：**
 
-      1. **Take into account: 考虑到，将...纳入考虑范围**
-      - **We need to take into account the opinions of all team members before making a decision.（在做决定之前，我们需要考虑到所有团队成员的意见。）**
-   
+      1. **Take into account: 考虑到，将...纳入考虑范围（"Take into account"和"take into consideration"在意思上是相似的短语，表示考虑、顾及某事或某人。它们可以互换使用，没有明显的差异。）**
+
+         **We need to take into account the opinions of all team members before making a decision.（在做决定之前，我们需要考虑到所有团队成员的意见。）**
       2. **Give an account of: 说明，叙述**
-      - **She gave a detailed account of her trip to Europe.（她详细叙述了她去欧洲的旅行经历。）**
-   
+
+         **She gave a detailed account of her trip to Europe.（她详细叙述了她去欧洲的旅行经历。）**
       3. **On account of: 因为，由于**
-      - **The concert was canceled on account of bad weather.（由于天气不好，音乐会被取消了。）**
-   
+
+         **The concert was canceled on account of bad weather.（由于天气不好，音乐会被取消了。）**
       4. **Hold someone accountable: 追究某人的责任**
-      - **The company will hold the responsible employees accountable for the project failure.（公司将追究那些对项目失败负有责任的员工的责任。）**
-   
+
+         **The company will hold the responsible employees accountable for the project failure.（公司将追究那些对项目失败负有责任的员工的责任。）**
       5. **Account for: 解释，说明；占比**
-      - **He couldn't account for his sudden absence from work yesterday.（他无法解释昨天突然不上班的原因。）**
-         - **The company's sales account for 20% of the market share.（该公司的销售占据了市场份额的20%。）**
-   
+
+         **He couldn't account for his sudden absence from work yesterday.（他无法解释昨天突然不上班的原因。）**
+
+         **The company's sales account for 20% of the market share.（该公司的销售占据了市场份额的20%。）**
+
       **这些是 "account" 的一些常见词组和用法，它们在不同语境中表达不同的意义，需要根据具体情况来理解和运用。**
 
 6. Last week I took part in the Civil Service Admission Examination, for which I <u><font color=red><strong>   had prepared       </strong></font></u> for nearly three months. (prepare)
@@ -10341,13 +10366,26 @@
 
    <font color=red><strong>由句意可知,prepare表示的动作发生在过去动作took part in之前,是“过去的过去”,用过去完成时。</strong></font>
 
+   **Civil ：adj. （civil）公民的；民间的；文职的；有礼貌的；根据民法的**
+
    **Admission ：n. 承认，供认；允许进入（加入），进入权；录取，录取人数；入场费；**
+
+   **表示"参加"或"参与"的常见短语包括：**
+
+   1. **Take part in: 参与、参加。**
+   2. **Join in: 加入、参与。**
+   3. **Get involved in: 参与、涉足。**
+   4. **Attend: 参加、出席。**
+   5. **Be a part of: 成为其中的一员、参与其中。**
+   6. **Engage in: 参与、从事。**
+   7. **Participate in: 参与、参加。**
+   8. **Be involved in: 参与、涉及。**
+   9. **Be present at: 出席、参加。**
+   10. **Be partaking in: 参与、参加。**
 
 7. We consider it necessary that a plan <u><font color=red><strong>     (should) be made          </strong></font></u>before doing something. (make)
 
    我们认为在事情开始之前**有必要做**一个计划。
-
-   need be made
 
    <font color=red><strong>(should) be made</strong></font>
 
@@ -10369,6 +10407,10 @@
 
    **range ：范围，界限；视觉（或听觉）范围；射程，射击距离；**
 
+   **fairly ：adv. 相当地，颇；公平地，公正地；**
+
+   **wide ：adj. 广泛的；宽的，广阔的；张大的；远离目标的；adv. 广泛地；广阔地；充分地**
+
 9. Not until all the fish died in the river<u><font color=red><strong>     did the villagers realize      </strong></font></u>how serious the pollution was. (realize)
 
    直到河里所有的鱼都死了之后**村民们才意识到**污染有多严重。
@@ -10383,25 +10425,36 @@
 
    1. **"all the fish" 使用了定冠词 "the"，表示特指的一组鱼。它暗示着有一个特定的群体或上下文中已提及的鱼。**
 
-      **例句：I caught all the fish in the lake. （我钓到了湖里的所有鱼。）**
+      **I caught all the fish in the lake. （我钓到了湖里的所有鱼。）**
 
    2. **"all of the fish" 使用了 "of" 来连接 "all" 和 "the fish"，表示所有的鱼。它更强调整体，没有特定的限定或提及。**
 
-      **例句：He ate all of the fish on his plate. （他吃掉了盘子里的所有鱼。）**
+      **He ate all of the fish on his plate. （他吃掉了盘子里的所有鱼。）**
 
    **总的来说，这两种表达方式在大多数情况下可以互换使用，没有实质性的区别。选择使用哪种形式取决于语境和个人偏好。**
 
 10. <u><font color=red><strong>        Was it because      </strong></font></u>he was busy that he refused to help you? (because)
 
-    **是不是因为**忙他才拒绝帮助你的?
-
-    Whether it is because
+    **是不是因为**他很忙才拒绝帮助你的?
 
     <font color=red><strong>Was it because</strong></font>
-    
+
     <strong>解析：</strong>
     
     <font color=red><strong>本为强调句的一般疑问句即“Is/Was+it+被强调部分+that+其他成分”,此处强调原因状语用because;句中时态为一般过去时。</strong></font>
+    
+    **以下是一些表示拒绝做某事或不愿意做某事的其他短语：**
+    
+    1. **Decline to do: 拒绝做某事、婉拒。**
+    2. **Reject doing: 拒绝做某事。**
+    3. **Deny doing: 否认做某事。**
+    4. **Resist doing: 抵制做某事。**
+    5. **Turn down: 拒绝、谢绝。**
+    6. **Say no to: 对某事说不、拒绝。**
+    7. **Dismiss the idea of doing: 对做某事的想法不予考虑、拒绝。**
+    8. **Refrain from doing: 克制不做某事、避免做某事。**
+    9. **Opt out of doing: 选择不参与做某事、退出。**
+    
 
 
 
@@ -10423,17 +10476,21 @@
 
    <font color=red><strong>由句意可知，此处表示对将来情况把握性不大的推测，故用may或might。</strong></font>
 
+   **live on TV ：电视直播**
+
 2. Betty shows great interest in this poem now, but she thought it boring<u><font color=red><strong>     the first time         </strong></font></u>she read it.(time)
 
-   贝蒂现在对这首诗表现出了很大的兴趣,但她**第一次读的时候**认为它无聊。
-
-   when it is first time
+   贝蒂现在对这首诗表现出了很大的兴趣，但她**第一次读的时候**认为它无聊。
 
    <font color=red><strong>the first time</strong></font>
 
    <strong>解析：</strong>
 
    <font color=red><strong>the first time“第一次··....的时候”,引导时间状语从句。</strong></font>
+
+   **在句型“It/That/This is the second/third.. . time that...”中that后的从句用现在完成时**
+
+   **在句型“It/That/This was the second/third.. . time that...”中that后的从句用过去完成时**
 
 3. It was not the cyclist but the driver who<u><font color=red><strong>       was to blame        </strong></font></u>for the traffic accident. (blame)
 
@@ -10447,6 +10504,22 @@
 
    **be to blame for ：对......负有责任：表示某人或某事应该为某种不良后果或问题负责。**
 
+   **"not... but..." 是一个常用的表达方式，用于表示对比、选择或强调两个事物之间的关系。它的结构是 "not" 后面接一个肯定的陈述，然后使用 "but" 连接另一个相对的陈述。**
+
+   **下面是一些例子来说明这种表达方式的用法：**
+
+   1. **对比关系：**
+      - **He is not a doctor, but a lawyer.（他不是医生，而是律师。）**
+      - **She prefers not to eat meat, but vegetables instead.（她不喜欢吃肉，而是选择吃蔬菜。）**
+      
+   2. **选择关系：**
+      - **We should not focus on quantity but quality.（我们不应该关注数量，而是质量。）**
+      - **It's not about the destination but the journey.（重要的不是目的地，而是旅程本身。）**
+      
+   3. **强调关系：**
+      - **It's not what you say but what you do that matters.（重要的不是你说什么，而是你做什么。）**
+      - **Success is not about luck but hard work.（成功与运气无关，而是与努力工作有关。）**
+
 4. We spent many years studying the formation of rocks, experiencing many sufferings. At last, our hard work <u><font color=red><strong>      paid off     </strong></font></u>，and we made it. (pay)
 
    我们花了很多年研究岩石的构造,经历了很多苦难。最后我们的努力终于有了**回报**，我们成功了。
@@ -10457,9 +10530,17 @@
 
    <font color=red><strong>pay off“取得成功,奏效”</strong></font>
 
+   **suffering ：n. （内心或肉体的）痛苦，问题；痛苦的感觉；v. 遭受；经历；（因疾病、痛苦、悲伤等）受痛苦，受损害（suffer 的现在分词形式）**
+
+   **formation ：n. 组成物；构成；形成，产生；编队，队形；（社会、政治等的）形态**
+
+   **at last ：终于，最后：表示经过一段时间或经历一些困难后，最终实现了某个目标或达到了某个状态。**
+
+   **we made it ：我们成功了**
+
 5. If I <u><font color=red><strong>           had known         </strong></font></u>you would drop in, I would have stayed home waiting for you. (know) 
 
-   如果**我知道**你要来,我就会待在家里等你了。
+   如果**我知道**你要来，我就会待在家里等你了。
 
    <font color=red><strong>had known</strong></font>
 
@@ -10467,11 +10548,21 @@
 
    <font color=red><strong>由would have stayed可知,此处表示与过去事实相反的假设,条件从句应用过去完成时。</strong></font>
 
+   **"drop in" 和 "stop at" 在某种程度上可以认为是思想上相近的，因为它们都表示在某个地方停留或访问。然而，它们在具体的用法和含义上有一些区别。**
+
+   - **"drop in" 意味着突然或不经预约地访问某个地方或某人。它通常强调的是短暂的停留或拜访，常常是没有预先计划或通知的。例如：**
+     - **I was in the neighborhood, so I decided to drop in on my friend.（我在附近，所以决定去看望我的朋友。）**
+     - **Feel free to drop in anytime you're in the area.（随时都可以在你来这个地区时过来玩。）**
+
+   - **"stop at" 则表示在旅途中或行进过程中停留在某个地方。它可以指在途中停车休息、参观景点或做其他短暂的停留。它通常与旅行、驾车或航行等有关。例如：**
+     - **We stopped at a gas station to fill up the tank.（我们在一个加油站停下来加满油箱。）**
+     - **On our road trip, we plan to stop at several scenic spots along the way.（在我们的公路旅行中，我们计划在途中停留几个风景点。）**
+
+   **虽然 "drop in" 和 "stop at" 都表示停留或访问某个地方，但 "drop in" 更强调的是突然的、短暂的访问，而 "stop at" 更多涉及旅途中的停留或途中的休息。它们的使用会受到具体语境和动词搭配的影响。**
+
 6. It was <u><font color=red><strong>      such good weather      </strong></font></u>that the tourists wanted to spend more taking pictures outdoors.(weather)
 
    **天气如此好**以至于游客们想多花些时间在户外拍照。
-
-   so good the weather
 
    <font color=red><strong>such fine/good weather</strong></font>
 
@@ -10484,14 +10575,14 @@
    **"Such" 和 "so" 都是常见的副词，但它们在使用上有一些区别。**
 
    1. **"Such" 用于修饰名词，表示程度、性质或类别，常与 "a/an" 和 "that" 连用。**
-      - **Example: She has such a beautiful voice (她有如此美妙的声音)。**
+   - **Example: She has such a beautiful voice (她有如此美妙的声音)。**
       - **Example: I've never seen such an amazing sunset (我从未见过如此美丽的日落)。**
       - **Example: He told me such an interesting story that I couldn't stop listening (他给我讲了一个如此有趣的故事，以至于我无法停止听)。**
    2. **"So" 用于修饰形容词或副词，表示程度、方式或结果。**
       - **Example: She is so talented (她如此有才华)。**
       - **Example: He runs so quickly (他跑得很快)。**
       - **Example: The movie was so funny that we couldn't stop laughing (这部电影太搞笑了，我们笑得停不下来)。**
-
+   
    **需要注意的是，"such" 后面通常跟名词，而 "so" 后面通常跟形容词或副词。此外，"so" 有时可以用来代替 "such a/an" 结构，用于强调程度。**
 
    - **Example: He is so (such a) good singer (他是如此出色的歌手)。**
@@ -10506,7 +10597,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>表示时间的副词置于句首时，子用全部倒装;由 had been looking...可知，此处表示过去发生的动作,故用一般过去时。</strong></font>
+   <font color=red><strong>表示时间的副词置于句首时，句子用全部倒装;由 had been looking...可知，此处表示过去发生的动作,故用一般过去时。</strong></font>
 
 8. The judges highly praised the two movies in Venice Film Festival,<u><font color=red><strong>     whose directors         </strong></font></u>are Chinese. (director)
 
@@ -10524,8 +10615,6 @@
 
    如何广泛利用自然资源仍是报纸上**正**公开**讨论**的问题。
 
-   under the discussion
-
    <font color=red><strong>under discussion</strong></font>
 
    <strong>解析：</strong>
@@ -10534,11 +10623,11 @@
 
    **make wide/full use of  充分利用：最大限度地利用某种资源或机会。**
 
+   **publicly ：adv. 公开地，公然地；由政府；由公众；公众可以获取（或购买）地**
+
 10. It is hoped that this project<u><font color=red><strong>     to be accomplished      </strong></font></u>by the end of 2025 will be a popular tourist attraction of the city.(accomplish)
 
     预计**将于**2025年**完工**的这个项目将会成为这个城市最受欢迎的旅游景点。
-    
-    will have accomplished
     
     <font color=red><strong>to be accomplished</strong></font>
     
@@ -10547,6 +10636,47 @@
     <font color=red><strong>project与accomplish是逻辑上的被动关系，且表示发生在将来的动作,故用不定式的被动式作定语。</strong></font>
     
     **it is hoped that ：人们希望**
+    
+    - **popular和popularity**
+    
+      **"Popular" 和 "popularity" 是两个相关的词，它们都与受欢迎程度和流行度有关。**
+    
+      1. **Popular (形容词):**
+         - **意思：受欢迎的、流行的、广受喜爱的。**
+         - **例句：He is a popular singer with a large fan base.（他是一位受欢迎的歌手，拥有众多的粉丝。）**
+         - **词组：popular opinion（普遍观点）、popular culture（流行文化）**
+    
+      2. **Popularity (名词):**
+         - **意思：受欢迎程度、流行度、广泛认可。**
+         - **例句：The movie gained popularity among audiences worldwide.（这部电影在全球观众中获得了流行度。）**
+         - **词组：gain popularity（获得流行度）、popularity contest（选美比赛）**
+    
+      **总结：**
+      - **"Popular" 描述某物或某人受到广泛喜爱、受欢迎或流行的程度。**
+      - **"Popularity" 是指某物或某人的受欢迎程度、流行度。**
+    
+      **这两个词经常一起使用，用来描述人、事物或观点在大众中的受欢迎程度。"Popular" 是形容词，用来描述受欢迎的事物或人，而 "popularity" 是名词，用来描述受欢迎程度的概念。**
+    
+    - **Accomplish" 和 "accompany**
+    
+      **"Accomplish" 和 "accompany" 是两个不同的动词，它们有不同的意义和用法。**
+    
+      1. **Accomplish:**
+         - **意思：完成、实现、达成某事。**
+         - **例句：She worked hard and accomplished her goal of running a marathon.（她努力工作，实现了跑完马拉松的目标。）**
+         - **词组：accomplish a task（完成任务）、accomplish a goal（实现目标）**
+    
+      2. **Accompany:**
+         - **意思：陪伴、伴随。**
+         - **例句：He invited his friend to accompany him to the concert.（他邀请他的朋友陪同他去听音乐会。）**
+         - **词组：accompany someone/something（陪伴某人/某物）、accompany with something（伴随某事物）**
+    
+      **总结：**
+    
+      - **"Accomplish" 强调完成或实现某项任务、目标或成就。**
+      - **"Accompany" 强调陪伴、伴随某人或某物一起行动或存在。**
+    
+      **请注意，尽管这两个词音近似，但它们的意义和用法有明显的区别。根据具体的语境和想要表达的含义，选择正确的动词是很重要的。**
 
 
 
@@ -10566,6 +10696,8 @@
 
    **be on one's way 在某人的路上：表示某人正在前往某个地方的途中。**
 
+   **peasant : n. 农民，佃农；**
+
 2. Thanks for the immediate rescue, the two cyclists who had fallen into the river<u><font color=red><strong>      were able to      </strong></font></u>climb onto the bank. (able)
 
    多亏了快速的营救活动，两名落水的骑自行车者**才能够成功爬到**河岸上。
@@ -10578,6 +10710,10 @@
 
    **climb onto ：爬上：指通过攀爬的方式，将身体移动到某个物体或表面的上方。**
 
+   **climb ：v. 攀登升高；上升，升值；提高社会地位，晋升；吃力地爬（移动）；n. 攀登，爬升；攀登的地方，攀登物；增值，上升；提高地位，晋升**
+
+   **climate ：n. 气候；气候区；氛围，局势**
+
 3. Would you please <u><font color=red><strong>      remind me of        </strong></font></u>the appointment this Saturday in case I forget it? (remind)
 
    以防我忘了，你能**提醒我**一下这周六的预约吗?
@@ -10587,6 +10723,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>remind sb. of sth.“提醒某人某事”。</strong></font>
+
+   **in case ：以防万一：表示为了预防某种可能发生的情况，通常用于提醒或建议采取预防措施。**
 
 4. In the first year of her father's death, she never sang or danced ,nor<u><font color=red><strong>   did she smile    </strong></font></u>.(smile)
 
@@ -10598,7 +10736,9 @@
 
    <font color=red><strong>nor ：conj. 也不（通常与 neither 连用）； （用于肯定动词前，表示同意刚提及的否定命题）也不。否定词nor置于句首，句子用部分倒装，“nor+助动词+主语”表示前面的否定情况也适用于后者。</strong></font>
 
-5. .Had you joined the chat room ten minutes ago, you <u><font color=red><strong>     would have known         </strong></font></u>what we were talking about then. (know)
+   **death ：n. 死，死亡；破灭，终止；死神**
+
+5. Had you joined the chat room ten minutes ago, you <u><font color=red><strong>     would have known         </strong></font></u>what we were talking about then. (know)
 
    如果你十分钟前进人聊天室的话，你**就会知道**我们当时正在讨论的什么了。
 
@@ -10634,29 +10774,43 @@
    
    1. **Both...and... 例如：She is both intelligent and hardworking.（她既聪明又勤奋。）**
    
-      **Not only...but also... 例如：He is not only a talented musician but also a skilled painter.（他不仅是一位有才华的音乐家，而且还是一位熟练的画家。）**
+      **intelligent ：adj. 聪明的；有智力的；智能的**
    
-      3. **As well as... 例如：He is good at singing as well as dancing.（他不仅擅长唱歌，而且擅长跳舞。）**
-      4. **In addition to... 例如：In addition to being a doctor, she is also a writer.（除了是一名医生，她还是一名作家。）**
-      5. **Along with... 例如：He enjoys playing soccer along with basketball.（他喜欢踢足球和打篮球。）**
+      **diligent ：adj. 勤奋的，勤勉的；细致的，潜心的**
+   
+   2. **Not only...but also... 例如：He is not only a talented musician but also a skilled painter.（他不仅是一位有才华的音乐家，而且还是一位熟练的画家。）**
+   
+   3. **As well as... 例如：He is good at singing as well as dancing.（他不仅擅长唱歌，而且擅长跳舞。）**
+   
+   4. **In addition to... 例如：In addition to being a doctor, she is also a writer.（除了是一名医生，她还是一名作家。）**
+   
+   5. **Along with... 例如：He enjoys playing soccer along with basketball.（他喜欢踢足球和打篮球。）**
    
       **这些表达方式可以用来连接两个相似或相关的概念，并同时描述它们的特征或状态。**
    
 8. ---Are you pleased with what he has done? 
 
-   ---It couldn't be <u><font color=red><strong>     any worse        </strong></font></u>Why didn't he pay more attention to his work? (bad)
+   ---It couldn't be <u><font color=red><strong>     worse        </strong></font></u>Why didn't he pay more attention to his work? (bad)
 
    ---你对他做的满意吗?
 
    ---没有比这**更差**的了。他为什么不更多的关注一下工作?
-
-   worse one
 
    <font color=red><strong>(any) worse</strong></font>
 
    <strong>解析：</strong>
 
    <font color=red><strong>由句意可知此处表示最高级意义“最差的”在否定句中常用比较级表示最高级意义。</strong></font>
+
+   **It couldn't be better. （再好不过了。）**
+
+   **It couldn't be worse.(不能再糟了)**
+
+   **be pleased with：对……感到满意**
+
+   **Be satisfied with：对......感到满意**
+
+   **Be happy with：对......感到满意、满足**
 
 9. Yesterday I took my car to the garage to have them <u><font color=red><strong>        check             </strong></font></u>the air-conditioner.(check)
 
@@ -10668,18 +10822,23 @@
 
    <font color=red><strong>them和check是逻辑上的主动关系，且表示动作的全过程，故用不带to的不定式作宾语补足语。</strong></font>
 
-   **"have sb do" 和 "have sb done" 是英语中表示让某人做某事的两种不同结构。**
-
-   1. **"have sb do": 这种结构表示让某人去做某事，其中的动词不带完成时态或被动语态。主语 "sb" 是动作的执行者。 例句:**
-      - **I had my sister clean the room.（我让妹妹打扫了房间。）**
-      - **He will have his assistant prepare the report.（他将让助理准备报告。）**
-   2. **"have sb done": 这种结构表示让某人被做某事，其中的动词以完成时态或被动语态形式出现。主语 "sb" 是动作的承受者。 例句:**
-      - **I had my hair cut at the salon.（我在沙龙里理发了。）**
-      - **She will have her car repaired by a mechanic.（她将让汽车被修理工修理。）**
-
-   **总结来说，"have sb do" 表示让某人去做某事，"have sb done" 表示让某人被做某事。两者之间的区别在于动词的形式和动作的执行者与承受者的关系。**
-
    **garage ：n. 车库；加油站，汽车修理厂；车库音乐；v. 把……送入车库（或修车厂）**
+
+   **"have sb do" 和 "have sth done" 是两种常见的英语句型，用于表达让别人做某事或安排别人去完成某事的意思。**
+
+   1. **"have sb do"：让某人做某事**
+      **这种结构中，"sb" 是指被安排去做事情的人，后面跟着动词原形。**
+      - **I had my sister pick up the groceries for me.（我让我姐姐去给我取杂货。）**
+      - **They had their employees work overtime to meet the deadline.（他们让员工加班工作以赶上截止日期。）**
+      
+   2. **"have sth done"：安排某事被完成**
+      **这种结构中，"sth" 是指被完成的事情，后面跟着动词的过去分词形式。**
+      - **I had my car repaired at the mechanic.（我让汽车在修理厂修好。）**
+      - **She had her hair cut and styled at the salon.（她在沙龙里剪了头发并造型。）**
+
+   **这两种结构都用于表达让别人去做某事的意思，但在语法结构上略有不同。"have sb do" 更强调主动性，表示让某人(sb)去做事情；而"have sth done" 更强调被动性，表示安排或委托别人去完成某事(sth)。**
+
+   **需要注意的是，"have sb do" 中的动词是原形，而"have sth done" 中的动词是过去分词形式。另外，这两个结构还可以使用否定形式、进行时态、完成时态等来适应不同的语境和时间要求**。
 
 10. She <u><font color=red><strong>          was aware of            </strong></font></u> a tall dark figure watching her yesterday. (aware)
 
@@ -10691,7 +10850,9 @@
     
     <font color=red><strong>be aware of“注意到，觉察到”。</strong></font>
     
-    **nightmare ：*n.*噩梦；可怕的经历，很难对付的人**
+    **figure ：n. 数字，数目，数值；数字符号，位数；身材，体型；（远处的）人影；（重要的）人物；（绘画或模型中）人像；（书中的）图、表；（数学）图形；价格，金额；v. （以重要地位）出现；<美，非正式>认为，估计；理解，弄懂；计算；用图画（或图形等）描绘，想象**
+    
+    **nightmare  */*ˈnaɪtmer*/*：*n.*噩梦；可怕的经历，很难对付的人**
 
 
 
@@ -10709,6 +10870,11 @@
 
    <font color=red><strong>此句为as引导的让步状语从句,从句中的表语需要提到as之前。</strong></font>
 
+   **让步状语Very busy as he is in Senior Three.可以改为：**
+
+   - **As very busy as he is in Senior Three**
+   - **Although he is very busy in Senior Three.**
+
 2. Teaching for the test makes students <u><font color=red><strong>     do         </strong></font></u>worse on it, so we should cancel next week's test. (do)
 
    为了考试而教学会使学生**做得**更差，所以我们应该取消下周的考试。
@@ -10719,7 +10885,32 @@
 
    <font color=red><strong>make sb.do“使某人做某事”,不带to的不定式作宾语补足语。</strong></font>
 
-3. The archaeologists found gold coins and pottery in the lowest level of the site<u><font color=red><strong>  that/which they reached      </strong></font></u>three months ago. (reach)
+   1. **常用见的主动省"to"，被动还原的动词**
+
+      - **一感: feel**
+
+      - **二听: hear, listen to**
+
+      - **三让: have, let , make,**
+
+      - **四看: see,notice (注意),observe(观察),watch**
+
+        
+
+   2. **do bad/good on something**
+
+      **"do bad/good on something" 是一个常用的固定用法，用于描述在某项任务、考试或活动中的表现。**
+
+      **例如：**
+
+      - **"He did really well on the exam."**
+      - **"I always do poorly on math tests."**
+      - **"She did an excellent job on the presentation."**
+      - **"They did badly on the project and received a low grade."**
+
+      **这种用法表示对某项任务或活动的结果或表现的评价，用于描述一个人在该任务或活动中的表现好坏。"Do" 在这里表示执行或完成某项任务，而 "bad" 和 "good" 表示结果的质量或表现的水平。**
+
+3. The archaeologists found gold coins and pottery in the lowest level of the site <u><font color=red><strong>  that/which they reached      </strong></font></u>three months ago. (reach)
 
    考古学家在遗址的最底层发现了金币和陶器，**他们**三个月前才**到达那里**。
 
@@ -10739,6 +10930,12 @@
 
    <font color=red><strong>toll与cancel是逻辑上的被动关系，且表示目前的事实，故用一般现在时的被动语态。</strong></font>
 
+   **increasing  ：adj. 越来越多的，渐增的**
+
+   **toll ：n. （道路、桥梁等的）通行费；<美>长途电话费；（事故、灾难、战争等的）伤亡人数；v. （缓慢地）敲（钟），鸣（钟）；鸣钟告知；收取（桥梁或道路的）通行费**
+
+   **pass through : 穿过，通过：从一个地方或物体的一侧移动到另一侧。**
+
 5. Everybody said it was an ideal marriage; no one had ever seen <u><font color=red><strong>      a happier        </strong></font></u>couple. (happy)
 
    每个人都说这是一个理想的婚姻，没人见过比这**更幸福**的一对夫妇。
@@ -10749,7 +10946,9 @@
 
    <font color=red><strong>由句意可知,此处表示最高级意义,在否定句中常用比较级表示最高级意义,此处表示泛指意义，应用a happier.</strong></font>
 
-6. My most devoted friend,  Professor Chen，<u><font color=red><strong>         would go skiing       </strong></font></u>when he lived in the mountain that was covered with snow.(go)
+   **marriage : n. 结婚，婚姻；婚礼；紧密结合；配对（**
+
+6. My most devoted friend,  Professor Chen，<u><font color=red><strong>      would go skiing       </strong></font></u>when he lived in the mountain that was covered with snow.(go)
 
    我最忠实的朋友陈教授住在被雪覆盖的山上时**总是去滑雪**。
 
@@ -10758,6 +10957,12 @@
    <strong>解析：</strong>
 
    <font color=red><strong>表示过去的习惯,用would;go skiing“滑雪”。</strong></font>
+
+   **devoted ：adj. 挚爱的，忠诚的；热衷的；专用于……的；v. 献身，致力；用于（devote 的过去式和过去分词形式）**
+
+   **Professor ：n. 教授；<美>（大学的）讲师，教员；信仰表示者，宣称信仰者**
+
+   **be covered with ：被覆盖：指物体的表面被其他物质覆盖，如灰尘、雪、油漆等。**
 
 7. How many times have you found yourself arriving at school to start your day, only<u><font color=red><strong>      to discover         </strong></font></u>that you left your homework at home? (discover)
 
@@ -10769,7 +10974,50 @@
 
    <font color=red><strong>由意可知，把作业落在家里”表示意料之外的结果,且发生在主句谓语之后,故用不定式的一般式。</strong></font>
 
-8. Mum disliked it when I behaved badly<u><font color=red><strong>          in front of       </strong></font></u>the guests. (front)
+   1. **find sb doing sth ：发现某人正在做某事：意指在某个时刻突然看到或意识到某人正在进行某种活动。**
+
+   2. **短语 "only to do that" 在句子中用来表示某个行为或结果发生的目的或结果令人感到意外、令人遗憾、或与预期不符。**
+
+      **例如：**
+
+      1. **"He worked hard for months, only to fail the exam."（他为了准备这个考试努力了几个月，结果却考试不及格。）**
+         **这句话表示他花费了很多时间和努力准备考试，但最终考试结果却不如预期，令人感到意外或遗憾。**
+
+      2. **"I waited in line for hours, only to find out that the concert was canceled."（我排队等了几个小时，结果却发现音乐会被取消了。）**
+         **这句话表示我花费了很多时间排队等待音乐会的开始，但最终发现音乐会被取消了，令人感到意外或失望。**
+
+      **短语 "only to do that" 用来强调前面所描述的行为或结果与后面的情况之间的差距或反差。它传达了一种令人意外或遗憾的情感色彩。**
+
+   3. **下面是对 "cover"、"discover"、"recover" 以及类似含义的一些单词的解释：**
+
+      1. **Cover：表示覆盖、遮盖、涉及或探讨某事物。此外，"cover" 还可以表示报导、保险等含义。**
+         - **They used a blanket to cover the furniture.**
+         - **The book covers various topics related to science.**
+         - **The newspaper covered the latest political events.**
+         - **She has insurance to cover any damages to her car.**
+
+      2. **Discover：表示发现、找到或意识到某事物。它强调从未知到已知的过程。**
+         - **He discovered a hidden treasure in the backyard.**
+         - **She discovered a new species of plant in the rainforest.**
+         - **I just discovered that I have a talent for painting.**
+         - **They discovered evidence that supported their theory.**
+
+      3. **Recover：表示恢复、康复、挽回或找回某物。它通常用于描述身体健康、情感状态或丢失的物品的恢复过程。**
+         - **He is recovering from a serious illness.**
+         - **The company is working hard to recover from financial losses.**
+         - **She recovered her lost wallet.**
+         - **It took her a while to recover from the breakup.**
+
+      **其他含有 "cover" 的单词包括：**
+      - **Uncover：揭示、发现、揭开**
+      - **Covering：覆盖物、盖子**
+      - **Coverage：报道、覆盖范围**
+      - **Recoverable：可恢复的、可回收的**
+      - **Coverlet：床罩、被罩**
+
+      **这些词汇在不同的上下文中有着不同的意义和用法，具体用法还需要根据具体的语境进行判断。**
+
+8. Mum disliked it when I behaved badly<u><font color=red><strong>        in front of       </strong></font></u>the guests. (front)
 
    妈妈不喜欢我**在**客人**面前**没有礼貌。
 
@@ -10778,6 +11026,9 @@
    <strong>解析：</strong>
 
    <font color=red><strong>in front of“在......前面”</strong></font>
+
+   1. **guest ：n. 客人；特邀嘉宾，客串演员；顾客，房客；寄居昆虫**
+   2. **guess ：v. 猜测，估计；猜中，猜到；认为，以为；n. 猜测，推测**
 
 9. I tried every means to reach my goal but failed. So desperate<u><font color=red><strong>          did I feel         </strong></font></u>that I almost lost heart.(feel)
 
@@ -10789,7 +11040,13 @@
 
    <font color=red><strong>在so...that...引导的结果状语从句中，so修饰的形容词或副词置于句首时,句子要用部分倒装。</strong></font>
 
-10. Now the 。along with the head teacher<u><font color=red><strong>       are discussing         </strong></font></u>JK Rowling's works that are popular among students. (discuss)
+   **means ：n.方法，手段；财富，金钱；v.表示……的意思，作……的解释；意味着；打算，意欲（mean 的第三人称单数形式）**
+
+   **desperate ：adj. 不顾一切的，拼命的；极需要的，渴望的；极严重的，极危险的；绝望的，无望的；绝望的，无望的**
+
+   **lost heart ：丧失信心，失去信心；丧失勇气**
+
+10. Now the experts along with the head teacher<u><font color=red><strong>       are discussing         </strong></font></u>JK Rowling's works that are popular among students. (discuss)
 
     现在专家正和班主任讨论备受学生**欢迎**的JK●罗琳的作品。
     
@@ -10799,24 +11056,54 @@
     
     <font color=red><strong>当主语后有along with...短语修饰时,谓语动词不受该短语的影响，仍然与主语保持一致,故用复数形式,由句意及时间状语可知用现在进行时。</strong></font>
     
-    **表示"讨论"或"商讨"的常见动词词组有：**
+    1. **along with**
     
-    1. **Discuss (讨论)**
-       - **Let's discuss the plan before making a decision. （在做决定之前，让我们讨论一下计划。）**
-    2. **Talk about (谈论)**
-       - **We need to talk about the issue at tomorrow's meeting. （我们需要在明天的会议上谈论这个问题。）**
-    3. **Go over (复习，讨论)**
-       - **Let's go over the details of the project in our next meeting. （让我们在下一次会议上复习一下项目的细节。）**
-    4. **Confer (商讨，磋商)**
-       - **The team needs to confer with the client about the contract terms. （团队需要与客户商讨合同条款。）**
-    5. **Exchange views (交换意见)**
-       - **The panelists will exchange views on the topic during the conference. （与会嘉宾将在会议期间交换对该主题的意见。）**
-    6. **Brainstorm (集思广益)**
-       - **Let's brainstorm ideas for the marketing campaign. （让我们集思广益，为市场营销活动提出点子。）**
-    7. **Negotiate (谈判，协商)**
-       - **The two parties are negotiating the terms of the agreement. （双方正在就协议的条款进行谈判。）**
+       **"along with" 是一个常用的短语，表示两个或多个人或物一起、一同出现、存在或行动。它可以用于连接两个并列的元素，表达它们之间的紧密关系。**
     
-    **这些词组都可以用于表示讨论或商讨某个话题、计划、问题或合作事项。具体使用哪个词组取决于语境和需要表达的细微差别。**
+       **以下是一些关于 "along with" 的例句和用法解释：**
+    
+       1. **She went to the party along with her friends.（她和她的朋友一起去了派对。）**
+          **这个例句中，"along with" 连接了 "she" 和 "her friends"，表示她和她的朋友一同去参加派对。**
+          
+       2. **He brought his camera along with his backpack.（他带着相机和背包。）**
+          **这个例句中，"along with" 连接了 "his camera" 和 "his backpack"，表示他带着相机和背包。**
+          
+       3. **The teacher, along with his students, went on a field trip.（老师和学生们一起进行了一次实地考察。）**
+          **这个例句中，"along with" 连接了 "the teacher" 和 "his students"，表示老师和学生们一同进行了实地考察。**
+    
+       **"along with" 的作用是将两个或多个事物联系起来，强调它们的共同性或密切关系。它可以用于连接人、物品、概念等，并且通常放在句子中较靠后的位置。需要注意的是，"along with" 不同于 "along"，后者表示在某个方向或路径上的移动。**
+    
+    2. **表示"讨论"或"商讨"的常见动词词组有：**
+    
+       1. **Discuss (讨论)**
+    
+          **Let's discuss the plan before making a decision. （在做决定之前，让我们讨论一下计划。）**
+    
+       2. **Talk about (谈论)**
+    
+          **We need to talk about the issue at tomorrow's meeting. （我们需要在明天的会议上谈论这个问题。）**
+    
+       3. **Go over (复习，讨论)**
+    
+          **Let's go over the details of the project in our next meeting. （让我们在下一次会议上复习一下项目的细节。）**
+    
+       4. **Confer (商讨，磋商)**
+    
+          **The team needs to confer with the client about the contract terms. （团队需要与客户商讨合同条款。）**
+    
+       5. **Exchange views (交换意见)**
+    
+          **The panelists will exchange views on the topic during the conference. （与会嘉宾将在会议期间交换对该主题的意见。）**
+    
+       6. **Brainstorm (集思广益)**
+    
+          **Let's brainstorm ideas for the marketing campaign. （让我们集思广益，为市场营销活动提出点子。）**
+    
+       7. **Negotiate (谈判，协商)**
+    
+          **The two parties are negotiating the terms of the agreement. （双方正在就协议的条款进行谈判。）**
+    
+       **这些词组都可以用于表示讨论或商讨某个话题、计划、问题或合作事项。具体使用哪个词组取决于语境和需要表达的细微差别。**
 
 
 
@@ -10874,6 +11161,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>take everything into consideration是发生在过去动作made之前的动作，故用过去完成时。</strong></font>
+
+   **"Take into account"和"take into consideration"在意思上是相似的短语，表示考虑、顾及某事或某人。它们可以互换使用，没有明显的差异。**
 
    **consideration : n. 考虑，斟酌；考虑因素；体贴，关心；报酬，酬金；（合同协议中的）对价，约因；**
 
@@ -12967,16 +13256,16 @@
 
    5. **in excitement ：兴奋地：表示在兴奋的情绪下进行某种行为或活动。**
 
-   6. **"Can't help but do something" 和 "Can't but do something" 都表示无法避免或禁不住做某事的意思，但它们在用法和语气上有一些细微的区别。**
+   6. **"Can't help but do sth" 和 "Can't but do sth" 都表示无法避免或禁不住做某事的意思，但它们在用法和语气上有一些细微的区别。**
 
-      - **"Can't help but do something": 这个短语强调主体对行为的无法抗拒或无法控制的感觉，表示感受到强烈的内在冲动或欲望去做某事，几乎没有其他选择。**
+      - **"Can't help but do sth": 这个短语强调主体对行为的无法抗拒或无法控制的感觉，表示感受到强烈的内在冲动或欲望去做某事，几乎没有其他选择。**
 
         **例句：**
 
         1. **I can't help but laugh when I see that video.（看到那个视频我忍不住笑了。）**
         2. **She couldn't help but cry when she heard the sad news.（听到那个悲伤的消息她禁不住哭了。）**
 
-      - **"Can't but do something": 这个短语也表示无法避免或禁不住做某事，但它更强调主体在特定情况下不得不做某事，表示没有其他选择或只有一个可能的行动。**
+      - **"Can't but do sth": 这个短语也表示无法避免或禁不住做某事，但它更强调主体在特定情况下不得不做某事，表示没有其他选择或只有一个可能的行动。**
 
         **例句：**
 
@@ -12985,7 +13274,7 @@
 
       **总体来说，**
       
-      **"can't help but do something" 表达的是一种内在的冲动或欲望，强调无法抗拒；**
+      **"can't help but do sth" 表达的是一种内在的冲动或欲望，强调无法抗拒；**
       
       **"can't but do something" 则更强调由于外在条件或无其他选择，不得不采取某种行动。**
 
@@ -13247,7 +13536,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>表达“这是某人第几次做某事”常用this is/wasthe first/second/last...time that +主语+完成时态结构。</strong></font>
+   <font color=red><strong>表达“这是某人第几次做某事”常用this is/was the first/second/last...time that +主语+完成时态结构。</strong></font>
 
 2. Don't worry. I promise I<u><font color=red><strong>    will be waiting for you          </strong></font></u>right here the moment you get off the plane. (wait)
 
@@ -13493,13 +13782,13 @@
 
    **"Compare to" 和 "compare with" 都是表示比较的用法，但它们在用法上有一些区别。**
 
-   1. **"Compare to":**
+   1. **"Compare to":与......相比：表示将一个事物与另一个事物进行比较，以突出它们之间的差异或相似之处。**
       - **用于将一个事物与另一个事物进行比较，强调相似性或类比。**
       - **它用于将一个事物与另一个事物进行联系或类比，常用于描述抽象或感性的特征。**
       - **例句：She compared his singing to the sound of a nightingale.**
         **（她把他的唱歌声比作夜莺的声音。）**
 
-   2. **"Compare with":**
+   2. **"Compare with":与......相比：表示将一个事物与另一个事物进行对比，以突出它们之间的差异或相似之处。**
       - **用于将两个事物进行详细比较，强调相似点和差异点。**
       - **它用于比较两个或多个事物的相似之处和不同之处，常用于描述具体的特征或属性。**
       - **例句：You can compare the prices of different products with each other.**
@@ -14497,6 +14786,10 @@
 
    **not once 从未：表示某事从未发生过，用于强调某事在过去的一段时间里一次都没有发生。**
 
+   **intelligent ：adj. 聪明的；有智力的；智能的**
+
+   **diligent ：adj. 勤奋的，勤勉的；细致的，潜心的**
+
 2. The X Games<u><font color=red><strong>       are less familiar to us        </strong></font></u>than sports like football and basketball. (familiar)
 
    极限运动**不如**足球和篮球这样的运动那样**为我们所熟悉。**
@@ -14921,7 +15214,7 @@
 
 2. Bob is said <u><font color=red><strong>       to have already left           </strong></font></u>the stage as he has become a teacher. (leave)
 
-   据说因为鲍勃已成为一名教师,**他早就已经离开了**舞台。
+   据说因为鲍勃已成为一名教师，他早就已经离开了**舞台**。
 
    <font color=red><strong>to have already left</strong></font>
 
@@ -14965,6 +15258,14 @@
 
    <font color=red><strong>此处强调式的一般疑问结构“Is/Was it+被强调部分+that/who...?”;make sense of意为“弄懂·..··.的意思”。</strong></font>
 
+   **"Make sense of"、"understand"和"comprehend"都表示理解某个事物或概念。它们在意思上是相近的，都指的是理解、领会或明白某个信息、观点或概念。然而，它们在使用上有一些细微的差异。**
+
+   - **"Understand"是最常用的词，可以指对某个事物有一定的认识或理解。它可以表示理解某个概念、问题、指令或语言等。**
+
+   - **"Comprehend"强调更深入、更全面地理解某个事物，包括理解其内在的意义、逻辑或复杂性。它常用于更抽象或复杂的情境中。**
+
+   - **"Make sense of"则更加侧重于理解某个事物的意义、逻辑或关系，尤其是当事物本身似乎不那么清晰或容易理解时。这个短语强调将信息、情况或概念整理成有意义或可理解的形式。**
+
 5. You should<u><font color=red><strong>           make full use         </strong></font></u>of your time. (use)
 
    你应该**充分利用**你的时间。
@@ -15005,7 +15306,9 @@
 
    <font color=red><strong>otherwise暗示虚拟条件，与过去事实相反，故句中的谓语动词用would have done的形式。</strong></font>
 
-7. When asked <u><font color=red><strong>      how the fire broke out        </strong></font></u>Tom said he was not present when the fire strted. (break)
+   **conference ：n. （大型、正式的）会议，研讨会；（小型正式的）商讨，讨论；体育协会（或联合会）**
+
+7. When asked <u><font color=red><strong>      how the fire broke out        </strong></font></u>Tom said he was not present when the fire started. (break)
 
    当被问及**火是怎么烧起来**时，汤姆说起火时他不在场。
 
@@ -15017,13 +15320,19 @@
 
 8. <u><font color=red><strong>        It remains to be seen          </strong></font></u>whether the house price, which has been rising in the last several years, will go down as expected. ! (remain)
 
-   在过去几年中一直上涨的房价能否如预期般下降,我们**拭目以待。**
+   在过去几年中一直上涨的房价能否如预期般下降，我们**拭目以待。**
 
    <font color=red><strong>It remains to be seen</strong></font>
 
    <strong>解析：</strong>
 
    <font color=red><strong>it为形式主语,真正的主语是后面whether引导的从句;此处remain接不定式的被动语态作表语，表示将来的动作。</strong></font>
+
+   **remain to do：尚待完成：表示某事尚未完成，仍需要继续努力。**
+
+   **expected ：adj. 预料的，预期的**
+
+   **go down ：下降：指物体、价格；失败：指在竞争或战斗中被击败或失去优势。**
 
 9. At no time <u><font color=red><strong>       should you inform her of        </strong></font></u>this secret. (inform)
 
@@ -15035,9 +15344,9 @@
 
    <font color=red><strong>表示否定意义的介词短语at no time位于句首,句子用部分倒装。</strong></font>
 
-10. <u><font color=red><strong>         Not having any experience         </strong></font></u>,the new collage graduates are so early taken in by some cheats in society. (have)
+10. <u><font color=red><strong>         Not having any experience         </strong></font></u>,the new college graduates are so easily taken in by some cheats in society. (have)
 
-    **因为缺乏经验,**刚毕业的大学生很容易被社会上的骗子欺骗。
+    **因为缺乏经验，**刚毕业的大学生很容易被社会上的骗子欺骗。
     
     <font color=red><strong>Not having any experience/Having little/no experience</strong></font>
     
