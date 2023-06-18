@@ -706,6 +706,7 @@
    - **The final examination will cover all the topics we studied this semester.**
 
    **"Exam" 则是 "examination" 的缩写形式，它更为口语化，常用于非正式的场合或口语交流中。"Exam" 通常用于指代具体的考试活动，如一次小测验、一套试题或一场简短的测试。例如：**
+
    - **I have a math exam tomorrow morning.**
    - **Did you study for the chemistry exam?**
 
@@ -2170,6 +2171,14 @@
 
    <font color=red><strong>主语后带有as well as...短语时,句子的谓语动词仍与主语保持一致,根据句意及结构可知此处用过去进行时</strong></font>
 
+   **"Staff"和"stuff"是两个不同的词，有着不同的意义和用法。**
+
+   1. **"Staff"是一个名词，指的是一组人员或员工，通常用于指代某个组织、机构、公司或团队的全体成员。它可以指管理层、工作人员、教职员工等。例如："The company has a dedicated staff of professionals"（该公司拥有一支专业的员工队伍）。**
+
+   2. **"Stuff"也是一个名词，用来表示物品、东西或材料。它可以用于指代不具体或不明确的事物。例如："I need to organize my stuff"（我需要整理我的东西）或 "Can you hand me that stuff over there?"（你能把那边的东西递给我吗？）。**
+
+   **需要注意的是，尽管在发音上它们有相似之处，但它们在意义和用法上是不同的。"Staff"指的是人员，而"stuff"指的是物品或事物。**
+
 4. So sudden <u><font color=red><strong>        was the attack           </strong></font></u> that the enemy had no time to escape.(attack)
 
    这次**袭击**如此突然以至于敌人没有时间逃跑。
@@ -2456,6 +2465,28 @@
    <font color=red><strong>表语从句中的引导词在从句中作宾语,根据句意用what,动词为take时常用it作形式主语；</strong></font>
 
    <font color=red><strong>Being a good listener"是作为主语</strong></font>
+
+   **kinds of，kind of，a kind of，all kinds of的区别**
+
+   **这些短语都涉及到描述不同种类或类型的事物，但它们之间有一些区别：**
+
+   1. **"Kinds of"：各种：表示多种不同类型的事物；（这个短语用于表示多种不同的种类或类型。它通常用来指代多个事物或概念的分类。）**
+
+      **"There are many kinds of flowers in the garden.（花园里有很多种花。）"**
+
+   2. **"Kind of"：有点儿，稍微：表示程度较低或不确定的情况，用于形容事物的性质、程度或特点；（这个短语在口语中常用来表示程度或模糊性。它可以用来表达某种程度上的描述或暗示。）**
+
+      **"I'm kind of tired"（我有点累）或"It's kind of strange"（有点奇怪）。**
+
+   3. **"A kind of"：一种：用于表示某种类型或类别的事物；（这个短语用于表示某个特定的种类或类型。它指的是某个事物或概念属于某种特定的类别。）**
+
+      **"A panda is a kind of bear.（熊猫是熊的一种）"**
+
+   4. **"All kinds of"：各种各样的：用来表示许多不同类型或种类的事物；（这个短语表示多种各样的事物或类型，强调的是包括各种各样的范围或多样性。）**
+
+      **"The store sells all kinds of books.(这家商店出售各种各样的书)"**
+
+   **总结一下，"kinds of"用于多种不同的种类或类型，"kind of"用于程度或模糊性的描述，"a kind of"用于特定的种类或类型，而"all kinds of"表示多种各样的事物。**
 
 4. You can't imagine what difficulty we had  <u><font color=red><strong>         (in) walking home            </strong></font></u>  in the snowstorm.(walk)
 
@@ -9280,14 +9311,40 @@
    
    <font color=red><strong>由句意及时间状语 since...可知compete是从过去开始一直持续进行到现在而且还有可能继续下去的动作,故用现在完成进行时。</strong></font>
    
-   **"enough to" 是英语中的一个固定搭配，表示足够的程度或数量。它常用于表示某事物在某种程度上已经足够或满足了某种条件。**
+   1. **compete ：v. 竞争，对抗；争夺；参加比赛**
    
-   1. **The box is heavy enough to require two people to carry it.（这个箱子够重，需要两个人来搬运。）**
-   2. **She is old enough to drive a car.（她已经足够大了，可以开车了。）**
-   3. **The book was interesting enough to keep me engaged until the end.（这本书足够有趣，足以让我一直沉浸其中，直到结尾。）**
-   4. **We arrived early enough to get good seats for the concert.（我们到达得足够早，能够找到好的座位观看音乐会。）**
+      **compete against ：与......竞争：在某种活动或比赛中与其他人或团队进行竞争，以争取胜利或优势。**
    
-   **"enough to" 用于表达某事物在某种程度上已经足够或满足了特定的目的或条件。**
+      **compete with ：与……竞争**
+   
+      **compete globally ：全球竞争，国际竞争**
+   
+      
+   
+   2. **"enough to" 是英语中的一个固定搭配，表示足够的程度或数量。它常用于表示某事物在某种程度上已经足够或满足了某种条件。**
+   
+      1. **The box is heavy enough to require two people to carry it.（这个箱子够重，需要两个人来搬运。）**
+      2. **She is old enough to drive a car.（她已经足够大了，可以开车了。）**
+      3. **The book was interesting enough to keep me engaged until the end.（这本书足够有趣，足以让我一直沉浸其中，直到结尾。）**
+      4. **We arrived early enough to get good seats for the concert.（我们到达得足够早，能够找到好的座位观看音乐会。）**
+   
+      **"enough to" 用于表达某事物在某种程度上已经足够或满足了特定的目的或条件。**
+   
+      
+   
+   3. **enough修饰名词和形容词**
+   
+      - **当"enough"修饰名词时，通常放在名词之前。例如："enough food"（足够的食物）、"enough time"（足够的时间）。**
+   
+        **当"enough"修饰名词时，它表示数量或程度的充足，表示所需要或所期望的数量已经满足。它用于说明某物的数量或程度是否足够满足特定需求或条件。例如："There is enough food for everyone"（有足够的食物供每个人）。**
+   
+      - **当"enough"修饰形容词时，通常放在形容词后面。例如："strong enough"（足够强壮）、"smart enough"（足够聪明）。**
+   
+        **当"enough"修饰形容词时，它表示满足特定程度的条件或要求，表示某种属性或状态的程度已经达到或超过了所需的程度。它用于描述某事物具有足够的质量、程度或能力以满足特定要求。例如："He is strong enough to lift heavy weights"（他足够强壮，能够举起重物）。**
+   
+        **My English is not good enough**
+   
+   
    
 2. According to some local old men, the Earth Buildings of Yongding <u><font color=red><strong>  dated from   </strong></font></u> the 1800s. (date)
 
@@ -9320,6 +9377,12 @@
    **解析:**
 
    <font color=red><strong>分析句子结构可知，句子缺少主语，且表示被动意义,故用动词-ing 形式的被动式。</strong></font>
+
+   **examine ：*v.*检查，调查；考核，测验；（医生）诊察；（尤指在法庭上）审问，查问**
+
+   **exam ：*n.*考试；试卷（"Exam" 则是 "examination" 的缩写形式）**
+
+   **examination ：n. 考试；审查，调查；医学检查；**
 
 5. All the students are seated in the classroom, most of whom<u><font color=red><strong>      are good at       </strong></font></u>English, listening attentively. (good)
 
@@ -9387,6 +9450,14 @@
 
    **icy ：*adj.*冰冷的；结冰的；不友好的，冷漠的**
 
+   **journey ：n.旅行，旅程；历程，过程；v.旅行**
+
+   **journalist ：n. 新闻工作者，新闻记者；报人，报纸撰稿人**
+
+   **jungle ：*n.*（热带）丛林；弱肉强食的地方；杂草丛生的地方；**
+
+   **jealous ：*adj.*妒忌的，好嫉妒的；珍惜的；猜疑的，留意提防的；**
+
 8. There are many factors that<u><font color=red><strong>       account for        </strong></font></u>the popularity of the 5G cellphone. Higher speed of surfing the Internet is one. (account)
 
    有很多因素能**解释**5G手机流行**的原因**。上网速度快就是其中之一。
@@ -9449,13 +9520,24 @@
 
    <font color=red><strong>make sb. do sth.“使某人做某事”;stick to“坚持”</strong></font>
 
+   **a strong sense of responsibility ：责任心强**
+
    1. **the piles of ：一堆……**
 
-   2. **a strong sense of responsibility ：责任心强**
+   2. **a sense of ……**
 
-      **She feels a strong sense of responsibility towards her employees.** 
+      **"a sense of"是一个常见的短语，用于描述某种感觉、观念或认知。它用于表示对某种特定的感觉、情感、意识或理解的描述。**
 
-      **她对雇员有很强的责任感。**
+      **例如：**
+
+      - **"She has a sense of humor."（她有幽默感。）**
+      - **"The painting evokes a sense of tranquility."（这幅画唤起了宁静的感觉。）**
+      - **"He has a strong sense of responsibility."（他有很强的责任感。）**
+      - **She feels a strong sense of responsibility towards her employees.（她对雇员有很强的责任感。）** 
+
+      **"a sense of"常常与形容词、名词或抽象概念连用，用于描述某人对某种情感、特质、观念或状态的感知或意识。它可以指感官上的感觉，也可以指更加抽象的感知、认知或情感上的体验。**
+
+      
 
 2. ----What's your impression of the Great Wall?
 
@@ -9463,7 +9545,7 @@
 
    你对长城的印象是什么?
 
-   太棒了!**一见到它**就永远也忘不掉了。
+   太棒了！**一见到它**就永远也忘不掉了。
 
    <font color=red><strong>seen/it is seen</strong></font>
 
@@ -9511,13 +9593,7 @@
 
    <font color=red><strong>between... and...“在......和·..·..·之间”。</strong></font>
 
-   **fade：**
-
-   ***v.*逐渐消失；（使）褪色，（使）变暗；枯萎，凋谢；变得虚弱；退步；（车辆的刹车因摩擦发热而）暂时失灵；（使）（电影或电视画面）淡入（或淡出）另一画面；变得默默无闻，变得无关紧要；（高尔夫球）偏离直线；<美，非正式>接受（掷骰子者）的打赌**
-
-   ***n.*淡入，淡出；褪色，变暗；（高尔夫球运动员故意击出的）向右偏离球**
-
-   ***adj.*平淡的，乏味的**
+   **fade：*v.*逐渐消失；（使）褪色，（使）变暗；枯萎，凋谢；变得虚弱；退步；*n.*淡入，淡出；褪色，变暗；*adj.*平淡的，乏味的**
 
    **fade away ：逐渐消失**
 
@@ -9531,7 +9607,9 @@
 
    <font color=red><strong>由句意可知，此处表示对将来情况的猜测,must后跟动词原形;wear是不及物动词，comfortably表示主语 it的性质,故用主动形式表示被动意义。</strong></font>
 
-8. Off<u><font color=red><strong>       went Lucy            </strong></font></u>without so much as a“goodbye”. (go)
+   **comfortably ：adv. 舒服地；安乐地；充裕地**
+
+8. Off<u><font color=red><strong>       went Lucy            </strong></font></u>without so much as a “goodbye”. (go)
 
    **露西离开了**,连一句“再见”也没说。
 
@@ -9541,9 +9619,9 @@
 
    <font color=red><strong>副词off置于首时，子用全部倒装,由语境可知,此处表示过去发生的动作,故用一般过去时。</strong></font>
 
-   **so much as ：甚至于；连……都不**
+   **so much as ：哪怕，即使：表示某种程度的强调，用于表示某事物的最小程度或最小限度。**
 
-   **as soon as ：as soon as**
+   **as soon as ：一......就......：表示在某个动作或事件发生后立即发生另一个动作或事件。**
 
 9. 一I'm sorry, I shouldn't have been so rude to you.
 
@@ -9605,32 +9683,24 @@
 
    <font color=red><strong>beyond repair“无法修理,无法补救”。</strong></font>
 
-   1. **damage**
+   1. **damage：*n.*（有形的）损坏，损失；损害，伤害；损害赔偿金；费用，代价；*v.*损坏，损害；对……造成坏影响**
 
-      ***n.*（有形的）损坏，损失；损害，伤害；损害赔偿金；费用，代价**
+   2. **breakdown ：*n.*（汽车或机器的）故障，损坏；（关系的）破裂，（系统的）瘫痪；精神崩溃**
 
-      ***v.*损坏，损害；对……造成坏影响**
+   3. **destroy：*v.*破坏，毁灭；杀死，人道毁灭（受伤、生病或危险的动物）；彻底打败，击溃；毁掉……的生活，使垮掉**
 
-   2. **breakdown**
-      ***n.*（汽车或机器的）故障，损坏；（关系的）破裂，（系统的）瘫痪；精神崩溃，**
-
-   3. **destroy**
-
-      ***v.*破坏，毁灭；杀死，人道毁灭（受伤、生病或危险的动物）；彻底打败，击溃；毁掉……的生活，使垮掉**
-
-   4. **out of order**
-
+   4. **out of order：失灵的，不正常运行的；不按顺序的：违反规定的**
+   
       **The toilets are all out of order.** 
-
+   
       **这些抽水马桶都坏了。**
-
-   5. **failure**
-      ***n.*失败；失败的人（或企业、事物）；未做到；缺乏，不足；故障，衰退；公司倒闭；**
-
+   
+   5. **failure*n.*失败；失败的人（或企业、事物）；未做到；缺乏，不足；故障，衰退；公司倒闭；**
+   
       **The plan was doomed to failure.** 
-
+   
       **这个计划注定要失败。**
-
+   
 3. His failure in the exam suggested that he<u><font color=red><strong>     couldn't have followed         </strong></font></u>the teacher's suggestions. (follow)
 
    他在考试中的失败说明了他当时**肯定没有遵守**老师的建议。
@@ -9667,6 +9737,18 @@
 
    **be exposed to ：曝光；曝露**
 
+   **"Expose" 是一个动词，有几种不同的含义和用法：**
+
+   1. **暴露："Expose" 可以表示暴露或使某物暴露于某种环境、物质或情况之下。这可以是指暴露于阳光、风雨、寒冷等自然条件，也可以是指暴露于某种物质、风险、危险或威胁之下。例如："She exposed her skin to the sun"（她让皮肤暴露在阳光下）或 "The scandal exposed his corrupt practices"（丑闻揭露了他的腐败行为）。**
+
+      **要使用 "expose" 来表达晒太阳的意思，可以说："I exposed myself to the sun"（我暴露自己在阳光下）或者更常见的表达方式是："I sunbathed"（我晒太阳）。这里的 "expose" 表示将自己暴露在阳光下，晒太阳的意思。**
+
+   2. **揭露："Expose" 还可以表示揭露或公开某种秘密、真相、错误或不良行为。这可以是指披露事实、爆料、揭发不当行为等。例如："The journalist exposed the corruption in the government"（记者揭露了政府的腐败行为）。**
+
+   3. **使接触："Expose" 还可以表示使某物接触到某种经验、观点、文化或环境中。这可以是指使人接触新的事物、概念或体验。例如："Travel exposes you to different cultures"（旅行使你接触到不同的文化）。**
+
+   **总之，"expose" 可以指暴露、揭露或使某物接触到某种情况、经验或环境中。具体使用哪种含义取决于语境和所要表达的意思。**
+
 6. Rarely<u><font color=red><strong>        as it rains         </strong></font></u>there, the southwest desert contains a remarkable variety of plants.(rain)
 
    **尽管**那里很少**下雨**，但是西南沙漠地区含有各种各样不同寻常的植物。
@@ -9676,6 +9758,16 @@
    **解析:**
 
    <font color=red><strong>逗号后没有连接词,故判断此处为从句;“很少下雨”和“含有各种各样不同寻常的植物”是逻辑上的让步关系，as引导让步状语从句时，常将从句中的表语、状语及谓语中的实义动词置于句首。</strong></font>
+
+   **"varieties of" 和 "a variety of" 都是用来描述多种不同的事物或选择的短语，但在使用方式和含义上有一些区别。**
+
+   1. **"varieties of":**
+   **"varieties of" 表示存在多种不同的类型或种类。它通常与复数名词连用，用来描述一种物品、植物、动物等的多种不同变体或类型。例如："There are various varieties of apples available in the market"（市场上有各种不同种类的苹果可供选择）。**
+
+   2. **"a variety of":**
+   **"a variety of" 表示存在多种不同的事物或选择。它通常与单数名词连用，用来描述一系列的不同事物、观点或选项。例如："The store offers a variety of products"（商店提供多种产品）。**
+
+   **总体而言，"varieties of" 更侧重于描述一种事物的多种类型或变体，而 "a variety of" 更强调涉及多个不同事物或选项的多样性。选择使用哪个短语取决于所要表达的具体含义和语境。**
 
 7. At the concert the singers will<u><font color=red><strong>       call on       </strong></font></u>everyone to protect the environment. (call)
 
@@ -9688,6 +9780,30 @@
    <font color=red><strong>call on“号召”。</strong></font>
 
    **call on sb to do ：号召某人做某事**
+
+   **以下是一些常见的以 "call" 为动词的短语：**
+
+   1. **"Call off": 取消、中止某事。**
+
+      **"They had to call off the meeting due to bad weather"（由于恶劣天气，他们不得不取消会议）。**
+
+   2. **"Call up": 打电话给某人。**
+
+      **"I will call you up later to discuss the details"（稍后我会给你打电话讨论细节）。**
+
+   3. **"Call out": 大声喊叫或呼喊。也可以指呼叫某人出来或要求某人出来。**
+
+      **"The teacher called out the student's name"（老师大声喊出学生的名字）。**
+
+   4. **"Call in": 召集、请来或请求某人到场。也可以指向某个专业人士或专家寻求帮助或意见。**
+
+      **"They decided to call in a plumber to fix the leaking pipe"（他们决定请水管工来修理漏水的管道）。**
+
+   5. **"Call for": 要求、需要或呼吁某事。**
+
+      **"The situation calls for immediate action"（情况需要立即采取行动）。**
+
+   
 
 8. --Peter, mother says we can have a dog!
 
@@ -9757,9 +9873,27 @@
 
    <font color=red><strong>表示“建议”的suggestion后的同位语从句中用虚拟语气,从句谓语动词用“should+动词原形”should 可以省略;test与put off 之间是被动关系,故用被动语态。</strong></font>
 
+   **英语中表示“推迟，延后”有以下几种表达方式：**
+
+   1. **Postpone：表示将某事推迟到一个后期的时间。**
+      
+      **They decided to postpone the meeting until next week.（他们决定把会议推迟到下周。）**
+      
+   2. **Delay：表示将某事推迟一段时间。**
+      
+      **The flight was delayed by two hours due to bad weather.（因为天气不好，航班延迟了两个小时。）**
+      
+   3. **Put off：表示将某事推迟或延后。**
+      
+      **We had to put off the party because of unexpected circumstances.（因为意外情况，我们不得不推迟派对。）**
+      
+   4. **Reschedule：表示重新安排或调整原定的时间表。**
+      
+      **They had to reschedule the conference due to scheduling conflicts.（由于日程冲突，他们不得不重新安排会议时间。）**
+
 3. Look at your school report! You<u><font color=red><strong>      should have spent       </strong></font></u>more time in studying instead of playing computer games. (spend)
 
-   看看你的成绩单!你**本应该**多花点时间学习而不是玩电脑游戏的。
+   看看你的成绩单！你**本应该**多花点时间学习而不是玩电脑游戏的。
 
    <font color=red><strong>should have spent</strong></font>
 
@@ -9792,6 +9926,7 @@
    <font color=red><strong>本为强调句结构“It is/was+被强调部分+that+其他成分”中的 that,强调的是时间状语从句。</strong></font>
 
    - **work on ：影响，对……起作用；继续工作；从事于……；设法说服**
+   - **efficient ：adj. 生效的，效率高的；（人）有能力的，能胜任的**
    - **efficiently ：adv. 高效地**
 
 5. 一Tony is such a selfish person.
@@ -9807,6 +9942,38 @@
    **解析**
 
    <font color=red><strong>表示否定意义的词置于句首时,句子用部分倒装,且此处表示将来的情况,故用将来时。</strong></font>
+
+   **selfish ：*/*ˈselfɪʃ*/* adj. 自私的，利己的**
+
+   **deal with ：处理，应对：应对或解决某个问题、困难或情况。**
+
+   **以下是一些以 "never" 开头的常见词组：**
+
+   1. **Never again：再也不，再也不会发生**
+      
+      **I will never again trust him after what he did.（在他所做的事情之后，我再也不会相信他了。）**
+      
+   2. **Never before：从未，以前从未**
+      
+      **I have never before seen such a beautiful sunset.（我从未见过如此美丽的日落。）**
+      
+   3. **Never once：从未一次，一次也没有**
+      
+      **He never once thanked me for my help.（他一次也没有感谢过我帮助他。）**
+      
+   4. **Never give up：永不放弃**
+      
+      **You should never give up on your dreams.（你不应该放弃你的梦想。）**
+      
+   5. **Never mind：不要紧，没关系**
+      
+      **Oh, never mind, I found it myself.（哦，没关系，我自己找到了。）**
+      
+   6. **Never again will I...：我再也不会...**
+      
+      **Never again will I trust him with my secrets.（我再也不会把我的秘密信任给他。）**
+
+   **这些是一些常见的以 "never" 开头的词组，它们表达了不同的含义和语境。根据具体情况，选择合适的词组可以更准确地表达你的意思。**
 
 6. .Between the two books<u><font color=red><strong>       is the photo album       </strong></font></u>you are looking for. (be)
 
@@ -9850,6 +10017,34 @@
 
    <font color=red><strong>由句意可知,prepare for the public speech 是go to the library的目的，用不定式作目的状语。</strong></font>
 
+   **在英语句子中，表示"最近"或"不久前"的状语可以使用以下表达方式：**
+
+   1. **Lately: 最近，近来**
+      
+      **I haven't seen her lately.（我最近没有见到她。）**
+      
+   2. **Recently: 最近，近期**
+      
+      **Have you seen any good movies recently?（你最近看过什么好电影吗？）**
+      
+   3. **In recent times: 最近，近来**
+      
+      **In recent times, there have been many advancements in technology.（近来，科技取得了许多进展。）**
+      
+   4. **Not long ago: 不久前，最近**
+      
+      **I met him not long ago at a party.（我最近在一个派对上见到了他。）**
+      
+   5. **Just recently: 刚刚，最近**
+      
+      **I heard the news just recently.（我最近才听到这个消息。）**
+      
+   6. **Over the past few weeks/months: 在过去几周/几个月里**
+      
+      **Over the past few weeks, I've been working on a new project.（在过去几周里，我一直在做一个新项目。）**
+
+   **这些表达方式可以用来表示"最近"或"不久前"的时间段，在不同的语境中选择合适的表达方式可以更准确地传达你的意思。**
+
 9. 一Do you like the wine in our restaurant, sir?
 
    一Yes,<u><font color=red><strong>       beyond any description        </strong></font></u>. I will come again with my best friend. (beyond）
@@ -9881,6 +10076,8 @@
     - **get stuck ：*v.*受骗；被卡在……；被堵……**
     
       **get stuck in a traffic jam**
+    
+    - **get trapped ：陷入困境：指一个人或物体无法从某种困难或危险的情况中逃脱。**
     
     - **traffic jam ：交通阻塞，塞车**
     
@@ -9964,6 +10161,21 @@
 
    **这个短语强调了无法避免或改变现实情况的决定。它常用于表达接受现实、适应不可抗力或不得已的态度。**
 
+   **以下是一些常见的以"put"开头的动词词组：**
+
+   1. **Put on: 穿上、戴上。**
+   2. **Put off: 推迟、延迟。**
+   3. **Put up: 抬起、举起、搭建。**
+   4. **Put down: 放下、写下、镇压。**
+   5. **Put together: 组装、拼凑、整理。**
+   6. **Put aside: 放到一边、搁置、储蓄。**
+   7. **Put out: 熄灭、扑灭、发布。**
+   8. **Put away: 收起、收拾好、储存。**
+   9. **Put in: 放入、投入、提出。**
+   10. **Put up with: 忍受、容忍。**
+
+   **这些动词词组以"put"开头，后面跟着不同的介词或副词，形成具有特定意义的短语。它们在语义上各有不同，具体使用哪个取决于语境和所要表达的含义。**
+
 4. Sometimes we <u><font color=red><strong>        needn't be busy (in)              </strong></font></u>shopping in a supermarket, for it's more convenient to purchase online nowadays. (busy)
 
    有时我们**不必忙**于去超市购物,因为现在在网上购物更方便。
@@ -10010,7 +10222,7 @@
 
    **解析**
 
-   <font color=red><strong>a large quantity of 修饰的名词作主语时，谓语5动词用单数,根据时间状语及句意可知用现在完成时。</strong></font>
+   <font color=red><strong>a large quantity of 修饰的名词作主语时，谓语动词用单数,根据时间状语及句意可知用现在完成时。</strong></font>
 
    **As a result of ：*adv.*因此，由于；作为……的结果**
 
@@ -10069,6 +10281,10 @@
     **解析**
 
     <font color=red><strong>in advance“预先,提前”。</strong></font>
+    
+    **advance ：*v.*（使）前进，（使）向前移动；发展，进步；预付；提前，提早；*n.*前进；进步，进展；改善；预付款；*adj.*预先的，事先的；先行的，先遣的**
+    
+    **advanced *adj.*先进的；高级的，高等的；晚期的，状况不佳的；**
 
 
 
@@ -10106,7 +10322,40 @@
 
    <font color=red><strong>take up“对某事产生兴趣,开始做某事”。</strong></font>
 
-   **by and by ：不久以后**
+   1. **by and by ：不久以后**
+
+   2. **"Bit by bit"和"little by little"**
+
+      **"Bit by bit"和"little by little"是两个常见的短语，表示逐渐、渐进地进行某事或发展某事的过程。**
+
+      **"Bit by bit"强调事物的分割或划分为较小的部分，并逐步处理或完成它们。这个短语强调了逐步、分阶段地完成某事。例如："I'm cleaning my room bit by bit."**
+
+      **"Little by little"则表示逐渐、渐进地进行某事或发展某事的过程，强调的是每一步的小幅度变化或进展。它强调渐进的、逐渐的过程。例如："Little by little, I'm improving my cooking skills."**
+
+      **两个短语在含义上非常相似，都表示逐渐地进行某事，只是表达的形式稍有不同。具体使用哪个取决于个人偏好和具体语境。**
+
+   3. **以"take"开头动词词组**
+
+      1. **Take off: 脱掉、起飞。**
+      2. **Take on: 承担、接受。**
+      3. **Take over: 接管、接手。**
+      4. **Take up: 开始从事、占据（时间、空间）。**
+      5. **Take out: 取出、带出、外出用餐。**
+      6. **Take in: 接受、理解、收留。**
+      7. **Take down: 记下、拆卸、击败。**
+      8. **Take care of: 照顾、照料。**
+      9. **Take for granted: 认为理所当然。**
+      10. **Take a toll on: 对...产生不良影响。**
+      11. **Take a break: 休息一下。**
+      12. **Take a chance: 冒险、碰运气。**
+      13. **Take a walk: 散步。**
+      14. **Take a look: 看一看、瞧一瞧。**
+      15. **Take a seat: 坐下。**
+      16. **Take a shower: 洗个淋浴。**
+      17. **Take a nap: 小睡一会儿。**
+      18. **Take a trip: 去旅行。**
+      19. **Take notes: 做笔记。**
+      20. **Take action: 采取行动。**
 
 4. Don't be nervous when <u><font color=red><strong>      (you are) asked to      </strong></font></u>speak next time. (ask)
 
@@ -10166,6 +10415,14 @@
 
    <font color=red><strong>本为强调句的特殊疑问句式“特殊疑问词+is/was+it+that+其他成分”,be seated“就座”。</strong></font>
 
+   **"Beside"和"next to"是表示位置或相对关系的介词短语，它们有一些区别。**
+
+   **"Beside"意味着在某物或某人的旁边，强调的是位置上的接近和邻近。它可以指物理上的接触或在紧邻的位置上。**
+
+   **"Next to"也表示在某物或某人的旁边，但它强调的是更密切的接近和直接的邻近关系。它可以指处于紧邻的位置上，更加紧凑和相邻的状态。**
+
+   **因此，可以说"next to"在位置上的接近程度比"beside"更加密切和直接。在某些情况下，两者可以互换使用，但在其他情况下，选择使用哪个取决于强调的程度和具体的语境。**
+
 8. He got to the station early, <u><font color=red><strong>    for fear of       </strong></font></u>missing her.(fear)
 
    他早早到了车站，**生怕**接不到她。
@@ -10187,6 +10444,10 @@
    <font color=red><strong>非限制性定语从句的先行词是material,引导词在从句中作主语，表示“其中大部分”，用most of which引导;prove“证明”，主动形式表示被动意义。</strong></font>
 
    **identify ：*v.*认出，识别；查明，确认；发现；证明（身份），表明；认同，理解；**
+
+   **material ：n. 衣料，布料；材料，原料；素材；节目，剧目；adj. 物质的，非精神上的；重要的，需予以考虑的；和推理内容有关的**
+
+   **reliable ：adj. 可靠的，可信赖的；真实可信的，确凿的；**
 
 10. About 40 percent of the population of the country <u><font color=red><strong>    live on farms       </strong></font></u>.(live)
 
@@ -13276,7 +13537,7 @@
       
       **"can't help but do sth" 表达的是一种内在的冲动或欲望，强调无法抗拒；**
       
-      **"can't but do something" 则更强调由于外在条件或无其他选择，不得不采取某种行动。**
+      **"can't but do sth" 则更强调由于外在条件或无其他选择，不得不采取某种行动。**
 
 4. The secretary said that she was quite busy and couldn't <u><font color=red><strong>    arrange for him to meet        </strong></font></u>the boss of their company.(arrange)
 
@@ -13351,13 +13612,9 @@
       **以下是一些例句来说明这个用法：**
 
       1. **It is not until the sun goes down that I feel relaxed.（直到太阳下山我才感到放松。）**
-      
-   2. **It is not until you lose something that you realize its value.（只有当你失去某样东西时才会意识到它的价值。）**
-      
-      3. **It is not until she turned 30 that she decided to start her own business.（直到她三十岁时她才决定开始自己的事业。）**
-      
+      1. **It is not until you lose something that you realize its value.（只有当你失去某样东西时才会意识到它的价值。）**
+      1. **It is not until she turned 30 that she decided to start her own business.（直到她三十岁时她才决定开始自己的事业。）**
       4. **It is not until I finished reading the book that I understood its true meaning.（直到我读完这本书才明白它的真正含义。）**
-      
    
    **这个句型强调了某个事件或行为发生的时间延迟，以及这个时间点之前的状态或感受。它可以帮助表达出某个行动或认识的延迟性。**
    
@@ -13621,6 +13878,8 @@
    2. **effect（名词）：表示行动、决策或事件所产生的结果、影响或后果。**
 
       **effective ：adj. 产生预期结果的，有效的；实际的，事实上的；（法律、规则等）生效的，起作用的；给人深刻印象的**
+
+      **have an effect on ：对…有影响；对……起作用，产生效果**
 
       **The new policy had a positive effect on the company's profitability.（新政策对公司的盈利能力产生了积极的影响。）**
 
@@ -14831,6 +15090,18 @@
          - **The two siblings are similar in appearance but have different personalities.**
          
            **这两个兄弟姐妹外貌相似，但性格不同。**
+   
+   3. **be the same as**
+   
+      **"Be the same as"是一个常见的短语，表示两个或多个事物在某些方面具有相同的性质、特征或属性。它用于比较两个事物之间的相似性或等同性。**
+   
+      **例如：**
+      - **"Her dress is the same as mine."**
+      **（她的裙子和我的一样。）**
+      - **"The taste of this cake is not the same as the one I had before."**
+      **（这个蛋糕的味道和我之前吃的那个不一样。）**
+   
+      **"Be the same as"强调两个事物在某个特定方面没有差异，它们相等或相似。这个短语用于比较物体、概念、观点或其他事物之间的相似性。它可以用于比较物体的外观、特征、属性、状态等。**
    
 3. <u><font color=red><strong>      What is known to all         </strong></font></u>is that Africa had contacts with India from the earliest times. (know )
 
