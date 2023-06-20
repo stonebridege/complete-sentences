@@ -2,7 +2,7 @@
 
 ## lesson 01
 
-1. All the neighbors admire this family , <u><font color=red><strong>       where/in which parents treat       </strong></font></u> their children as friends .（treat）
+1. All the neighbors admire this family , <u><font color=red><strong>       where/in which parents treat       </strong></font></u> their children as friends .（treat）
 
    所有的邻居都羡慕这个家庭,**在这个家庭里父母** 像对待朋友一样**对待**孩子
 
@@ -16,23 +16,17 @@
 
       **admire for ：因......而钦佩：表示因为某种特质、品质或成就而对某人表示敬意和钦佩。**
 
-      **I admire for her ambition to become a first-rate scientist.** 
-
-      **我钦佩她想成为超一流科学家的雄心。**
+      **I admire for her ambition to become a first-rate scientist.(我钦佩她想成为超一流科学家的雄心。)** 
 
    2. **admirable ：*adj.*令人钦佩的，极其出色的**
 
-      **Loyalty was her most admirable quality.** 
-
-      **忠诚是她最令人钦佩的品质。**
+      **Loyalty was her most admirable quality.（忠诚是她最令人钦佩的品质。）** 
 
    3. **treat ：*v.*对待，看待；治疗，医治；请客，招待；*n.*（不同一般的）乐事，享受；款待，招待；请客，做东；**
 
       **my treat ：我请客：表示某人愿意支付他人的费用；(It's my treat) 我请客我来买单今天我买单）**
 
-      **None of us knew how to treat her.** 
-
-      **我们中没有任何人知道该如何对待她。**
+      **None of us knew how to treat her.(我们中没有任何人知道该如何对待她。)** 
 
    4. **treatment ：*n.*对待，待遇；处理，讨论；治疗，医治；**
 
@@ -42,7 +36,7 @@
 
       **3.wastewater treatment 污水处理**
 
-2. Several new subway lines are reported <u><font color=red><strong>     to be built      </strong></font></u>  in Wuhan , which will make it more convenient for people to go outing .
+2. Several new subway lines are reported <u><font color=red><strong>       to be built       </strong></font></u>  in Wuhan , which will make it more convenient for people to go outing .
 
    据报道武汉**将建**几条地铁新线路,这让人们的出行更方便。(build)
 
@@ -87,7 +81,7 @@
 
       **这种结构强调某事对某人来说的方便程度或适宜性。需要注意的是，该句型中的 "to do something" 部分是对应的动作或行为。具体使用时，可以根据具体情境选择适合的用法。**
 
-3. President Trump issued the call " Make America Great Again " on Sunday , <u><font color=red><strong>        when he was talking with       </strong></font></u>  outstanding workers ahead of International Workers ' Day .(talk)
+3. President Trump issued the call " Make America Great Again " on Sunday , <u><font color=red><strong>        when he was talking with       </strong></font></u>  outstanding workers ahead of International Workers ' Day .(talk)
 
    “让美国再次伟大”是由川普总统星期日与优秀的工人在国际劳动节前**交谈时**发出的呼吁。
 
@@ -101,7 +95,7 @@
    2. **outstanding ：*adj.*杰出的，优秀的；显著的，突出的；未解决的，未完成的；**
    3. **ahead of ：1.在......之前：表示在时间或顺序上早于某人或某事。；2.领先：在比赛或竞争中处于优势地位。**
 
-4. Had it not been for the hazy weather , You <u><font color=red><strong>       would have seen the beautiful bridge        </strong></font></u>  in the distance yesterday . (see)
+4. Had it not been for the hazy weather , You <u><font color=red><strong>       would have seen the beautiful bridge       </strong></font></u>  in the distance yesterday . (see)
 
    要不是因为雾霾天气,你昨天就**会看见**远处**那座美丽的桥**。
 
@@ -145,7 +139,7 @@
 
       **这个短语用于描述远处的景象或位置，强调观察者与所描述事物之间的距离。**
 
-5. The reason why he is absent from the meeting is，I think <u><font color=red><strong>       that he might not  have been informed       </strong></font></u>  of it.(inform)
+5. The reason why he is absent from the meeting is，I think <u><font color=red><strong>       that he might not  have been informed       </strong></font></u>  of it.(inform)
 
    我认为他缺席会议的原因是**他可能没被通知**此事。
 
@@ -193,7 +187,7 @@
 
    **"Inform" 这个词可以用于各种场合和语境，表示传达信息、告知事实或使某人了解某事。具体使用时，要根据上下文和语境选择适合的用法。**
 
-6. He didn't <u><font color=red><strong>        make it clear       </strong></font></u> when and where the meeting would be held. (make)
+6. He didn't <u><font color=red><strong>       make it clear       </strong></font></u> when and where the meeting would be held. (make)
 
    他没有把何时何地召开会议**搞清楚**。
 
@@ -219,7 +213,7 @@
 
    **"Make clear" 这个短语强调了使某事清晰明了、明确表达或阐明的行为。具体使用时，可以根据具体语境和句子结构进行灵活运用。**
 
-7. Chinese style of crossing road should be banned , Not only <u><font color=red><strong>          does it influence         </strong></font></u> China's image of the world , but it also puts people's life in danger .(influence)
+7. Chinese style of crossing road should be banned , Not only <u><font color=red><strong>        does it influence       </strong></font></u> China's image of the world , but it also puts people's life in danger .(influence)
 
    中国式过马路应该被禁止,因为**它**不但**影响**中国在世界的形象而且它让人们的生命处于危险之中。
 
@@ -257,7 +251,7 @@
 
    **这些表达方式可以描述某事对其他事物的影响或影响程度。具体使用哪种表达方式取决于上下文和所要表达的意思。**
 
-8. Since the earthquake broke out , each doctor and each nurse <u><font color=red><strong>       has been engaged in       </strong></font></u> saving the injured round the clock .（engage)
+8. Since the earthquake broke out , each doctor and each nurse <u><font color=red><strong>       has been engaged in       </strong></font></u> saving the injured round the clock .（engage)
 
    自地震爆发以来,每一个医生和护士都一直在夜以继日地**忙于**抢救伤员。
 
@@ -293,7 +287,7 @@
 
    **It is open round the clock. 它24小时营业。**
 
-9. <u><font color=red><strong>        Being/Feeling ashamed of          </strong></font></u> her behavior at the party,she burst into tears while making apologies to her friends.(ashamed)
+9. <u><font color=red><strong>       Being/Feeling ashamed of       </strong></font></u> her behavior at the party,she burst into tears while making apologies to her friends.(ashamed)
 
    她为她在聚会上的行为**感到羞愧**，当她向朋友们道歉时,眼泪不停地从脸上流下来。
 
@@ -323,7 +317,7 @@
 
    **"Apology" 这个词强调了一种正式或诚挚的道歉表达，用于承认错误、向他人表达歉意或修复破裂的关系。具体使用时，要根据具体情况选择适当的用法。**
 
-10. Where Are We Going , Dad ? presents a new generation of men who , In a break from Chinese tradition , now realize it's <u><font color=red><strong>      as important to accompany       </strong></font></u> their children as it's to build a career .（accompany)
+10. Where Are We Going , Dad ? presents a new generation of men who , In a break from Chinese tradition , now realize it's <u><font color=red><strong>       as important to accompany       </strong></font></u> their children as it's to build a career .（accompany)
 
     《爸爸去哪儿》展现了打破中国传统的新时代男人意识到**陪伴**子女同建立事业**一样重要**。
 
@@ -360,28 +354,36 @@
    **以下是一些与动词 "look" 相关的常见短语：**
 
    1. **Look up: 查阅，搜索**
-      - **I need to look up the definition of this word.**
-
+      
+      **I need to look up the definition of this word.**
+      
    2. **Look forward to: 期待**
-      - **I'm looking forward to the weekend.**
-
+      
+      **I'm looking forward to the weekend.**
+      
    3. **Look after: 照顾，照料**
-      - **Can you look after my cat while I'm away?**
-
+      
+      **Can you look after my cat while I'm away?**
+      
    4. **Look out: 注意，小心（watch out：当心，小心：用于提醒他人注意危险或潜在问题。）**
-      - **Look out! There's a car coming.**
-
+      
+      **Look out! There's a car coming.**
+      
    5. **Look for: 寻找**
-      - **I'm looking for my keys. Have you seen them?**
-
+      
+      **I'm looking for my keys. Have you seen them?**
+      
    6. **Look into: 调查，研究**
-      - **The committee will look into the matter and report back.**
-
+      
+      **The committee will look into the matter and report back.**
+      
    7. **Look down on: 看不起，蔑视**
-      - **She looks down on people who don't have a college degree.**
-
+      
+      **She looks down on people who don't have a college degree.**
+      
    8. **Look up to: 尊敬，仰慕**
-      - **I've always looked up to my older brother.**
+      
+      **I've always looked up to my older brother.**
 
 2. Tom got another C in the final exam . If only he <u><font color=red><strong>    had not wasted time （in)  playing     </strong></font></u> computer games !
 
@@ -6253,7 +6255,7 @@
 
    **需要注意的是，由于现在分词的主动形式具有形容词的性质，因此它可以在句子中作为定语或者表语。在这个例句中，非限制性定语从句中的“offering”修饰“lands”，相当于“which/that are offering”，表示“正在提供”不同的体验。**
 
-   make是一个非常常见的动词，有很多用法和短语。下面列举一些常见的用法和例子：
+   **make是一个非常常见的动词，有很多用法和短语。下面列举一些常见的用法和例子：**
 
    1. **make friends with sb：和某人交朋友。例如：She quickly made friends with her new classmates.**
    2. **make a decision：做决定。例如：It's time for us to make a decision on this matter.**
@@ -6266,7 +6268,7 @@
    9. **make sense：有意义、合理。例如：What she said didn't make any sense to me.**
    10. **make sure：确保。例如：Can you make sure that the door is locked before we leave?**
 
-   这些都是make的常见用法和短语，当然还有很多其他的用法和短语。
+   **这些都是make的常见用法和短语，当然还有很多其他的用法和短语。**
 
    1. **make up：组成；化妆；弥补**
       1. **The committee is made up of ten members.（委员会由十名成员组成。）**
@@ -6405,9 +6407,7 @@
       **n.常客，正式成员，固定成员，正式职工;**
       **adv.按时地，定期地;经常;完全;非常**
     
-    - **regularly**
-    
-      **adv.有规律地;经常;间隙均匀地;均匀地;匀称地**
+    - **regularly adv.有规律地;经常;间隙均匀地;均匀地;匀称地**
 
 
 
@@ -6483,14 +6483,37 @@
 
    <font color=red><strong>set up“建立”,与our school之间为动宾关系,故用被动语态,且由时间状语in 1945可知用一般过去时。</strong></font>
 
-   1. **Set up: 建立、设立 例如: We need to set up a meeting to discuss the new project. (我们需要设立一次会议来讨论新项目。)**
-   2. **Set off: 出发、启程 例如: We set off early in the morning to avoid traffic. (我们一早出发以避开交通拥堵。)**
-   3. **Settle down: 安定下来、定居 例如: After years of traveling, she finally settled down in a small town. (多年的旅行之后，她最终在一个小镇安定下来。)**
-   4. **Set aside: 留出、拨出 例如: He always sets aside time for exercise every day. (他每天都会留出时间进行锻炼。)**
-   5. **Set out: 开始、出发、列举 例如: She set out to write a novel last year. (去年她开始写小说。) / The report sets out the details of the investigation. (这份报告列举了调查的详细内容。)**
-   6. **Set back: 推迟、延误 例如: The bad weather has set back our construction schedule. (恶劣的天气延误了我们的建设进度。)**
-   7. **Set in: 开始、到来 例如: The cold weather has set in early this year. (今年寒冷天气来得早。)**
-   8. **Settle up: 结清、付清账款 例如: I need to settle up with the landlord before moving out. (我需要在搬出前结清与房东的账款。)**
+   1. **Set up: 建立、设立 **
+
+      **We need to set up a meeting to discuss the new project. (我们需要设立一次会议来讨论新项目。)**
+
+   2. **Set off: 出发、启程 **
+
+      **We set off early in the morning to avoid traffic. (我们一早出发以避开交通拥堵。)**
+
+   3. **Settle down: 安定下来、定居 **
+
+      **After years of traveling, she finally settled down in a small town. (多年的旅行之后，她最终在一个小镇安定下来。)**
+
+   4. **Set aside: 留出、拨出 **
+
+      **He always sets aside time for exercise every day. (他每天都会留出时间进行锻炼。)**
+
+   5. **Set out: 开始、出发、列举 **
+
+      **She set out to write a novel last year. (去年她开始写小说。) / The report sets out the details of the investigation. (这份报告列举了调查的详细内容。)**
+
+   6. **Set back: 推迟、延误 **
+
+      **The bad weather has set back our construction schedule. (恶劣的天气延误了我们的建设进度。)**
+
+   7. **Set in: 开始、到来 **
+
+      **The cold weather has set in early this year. (今年寒冷天气来得早。)**
+
+   8. **Settle up: 结清、付清账款 **
+
+      **I need to settle up with the landlord before moving out. (我需要在搬出前结清与房东的账款。)**
 
 4. The more careful you are in the exam,<u><font color=red><strong>       the fewer mistakes        </strong></font></u>you will make. (mistake)
 
@@ -6518,15 +6541,15 @@
 
    - **different ：adj.不同的;有区别的;有差异的;分别的;**
 
-     It's different now than it was a year ago.
+     **It's different now than it was a year ago.**
 
    - **differently ：adv.不同地；相异地**
 
-     Every individual learns differently...（每个人的学习方式都不一样。）
+     **Every individual learns differently...（每个人的学习方式都不一样。）**
 
    - **difference ：n.差别;差异;不同(之处);**
 
-     What's the difference between high school and college?（高中和大学之间有什么不同？）
+     **What's the difference between high school and college?（高中和大学之间有什么不同？）**
 
 6. Danny left word with my secretary<u><font color=red><strong>     that he would leave       </strong></font></u>in the afternoon. (leave)
 
@@ -6642,7 +6665,7 @@
 
    - **might as well  只好(做);(做…)也无妨;(几乎)和…一样**
 
-     If no one else wants it, we might as well give it to him. （如果没人要这个，我们不妨给他吧。）
+     **If no one else wants it, we might as well give it to him. （如果没人要这个，我们不妨给他吧。）**
 
    -  **come over  过来;抓住;发生;**
 
@@ -6748,9 +6771,7 @@
 
    <font color=red><strong>表示“年龄相同”应用be of an age或be of the same age.</strong></font>
 
-   **She learned to swim at the age of five.**
-
-   **她在五岁时学会了游泳**
+   **She learned to swim at the age of five.(她在五岁时学会了游泳)**
 
 2. We regret<u><font color=red><strong>     to inform you       </strong></font></u>that we have no positions available for someone of your excellent qualifications. (inform)
 
@@ -6762,17 +6783,15 @@
 
    <font color=red><strong>regret后跟不定式表示对将要做的事情感到遗憾。</strong></font>
 
-   - **position**
+   - **position ：n.位置;地方;恰当位置;正确位置;vt.安装;安置;使处于**
 
-     **n.位置;地方;恰当位置;正确位置;vt.安装;安置;使处于**
+   - **positive : *adj.*乐观的，有信心的；积极的**
 
-   - **excellent** 
+   - **negative : *adj.*否定的，拒绝的；有害的，不良的；**
 
-     **adj.杰出的;极好的;非凡的;**
+   - **excellent ：adj.杰出的;极好的;非凡的;**
 
-   - **qualification**
-
-     **n.(通过经验或具备技能而取得的)资格;资历;学历;限定条件;获得资格**
+   - **qualification ：n.(通过经验或具备技能而取得的)资格;资历;学历;限定条件;获得资格**
 
 3. I'm afraid you cannot listen to the weather report now. The radio I<u><font color=red><strong>       had repaired         </strong></font></u>yesterday is broken again today. (repair)
 
@@ -6962,13 +6981,9 @@
 
      **随著时间的流逝，我的记忆力似乎越来越差。**
 
-   - **idiom**
+   - **idiom ：n. 习语，成语；方言，土话；（个人、艺术形式等的）风格，特色**
 
-     **n. 习语，成语；方言，土话；（个人、艺术形式等的）风格，特色**
-
-   - **idiot**
-
-     **n. 白痴，笨蛋；<古>弱智者，低能儿**
+   - **idiot ：n. 白痴，笨蛋；<古>弱智者，低能儿**
 
 5. Whenever he was asked why he was late for class, he would answer carelessly, always<u><font color=red><strong>    saying the same excuse         </strong></font></u>.(say)
 
@@ -6994,17 +7009,9 @@
 
       **What do you propose doing next?**
 
-   2. **purpose**
+   2. **purpose ：*n.*目的，意图；目标，计划；（达到生活中目标的）决心；*v.*有意，打算**
 
-      ***n.*目的，意图；目标，计划；（达到生活中目标的）决心**
-
-      ***v.*有意，打算**
-
-   3. **construct**
-
-      ***v.*建造，修建；组成，创立，构思；绘制，作图**
-
-      ***n.*构想，观念；**
+   3. **construct ：*v.*建造，修建；组成，创立，构思；绘制，作图；*n.*构想，观念；**
 
 7. When the poor man came to life, he found himself<u><font color=red><strong>     tied to a tree        </strong></font></u>.(tie)
 
@@ -7046,13 +7053,9 @@
     
     <font color=red><strong>warn 后跟不定式作宾语补足语;look out for“当心,小心”</strong></font>
     
-    1. **warn sb not to do**
+    1. **warn sb not to do ：警告不要做**
     
-       **警告不要做**
-    
-    2. **warn sb to do**
-    
-       **提醒某人去做某事**
+    2. **warn sb to do ：提醒某人去做某事**
 
 
 
@@ -7377,33 +7380,23 @@
 
    <font color=red><strong>此处主语从句由连词 that引导,that 在句中不作句子成分，主句的时态是一般过去式，从句用现在完成时的被动。</strong></font>
 
-   1. **be admitted to** 
+   1. **be admitted to：加入；获准做某事**
 
-      **加入；获准做某事**
+      **be admitted to university（被大学录取）**
 
-      **be admitted to university**
+   2. **join in、make in：加入；获准做某事**
 
-      **被大学录取**
-
-      **join in、make in**
-
-      **加入；获准做某事**
-
-   2. **admit to**
-
-      **承认；许可进入**
+   3. **admit to ：承认；许可进入**
 
       **accept、agree、recognize、acknowledge、grant**
 
-   3. **admit to doing**
+   4. **admit to doing：承认做了某事，承认做过详细翻译**
 
-      **承认做了某事承认做过详细翻译**
-
-   4. **go wild with joy ：欣喜若狂**
+   5. **go wild with joy ：欣喜若狂**
 
 3. <u><font color=red><strong>       Seen from a distance           </strong></font></u>,the island looked like a cloud, (see)
 
-   **从远处看**,小岛就像一朵云。
+   **从远处看**，小岛就像一朵云。
 
    <font color=red><strong>Seen from a distance</strong></font>
 
@@ -7630,9 +7623,7 @@
 
    2. **notify to ：向……报告**
 
-      **Well, I will notify to the foreman.** 
-
-      **好的，我会通知指导员的。**
+      **Well, I will notify to the foreman. (好的，我会通知指导员的。)**
 
    3. **fine**
 
@@ -7641,13 +7632,13 @@
       **adv.很好；精致地，精美地；细小地**
 
       **v.罚款，处以罚金；使变纯**
+   
       
-      
-
+   
    **"Shall" 是一个情态动词，用于表达将来时态、建议、命令、义务等含义。下面是 "shall" 的一些常见用法：**
 
    1. **将来时态：在正式的英语中，"shall" 可以用于表示将来时态，特别是在第一人称（我/我们）中。例如：**
-      - **I shall arrive tomorrow.（我明天将到达。）**
+   - **I shall arrive tomorrow.（我明天将到达。）**
       - **We shall discuss this matter further.（我们将进一步讨论这个问题。）**
    2. **建议："shall" 可以用于表示提出建议或提议。通常用于第一人称（我/我们）。例如：**
       - **Shall we go to the movies tonight?（今晚我们去看电影好吗？）**
@@ -7655,7 +7646,7 @@
    3. **命令和规定：在正式文件、法律文件或合同中，"shall" 可以用于表示命令、规定或义务。例如：**
       - **All employees shall wear a uniform.（所有员工都应该穿制服。）**
       - **The tenant shall pay the rent on the first day of each month.（租户应在每月的第一天支付租金。）**
-
+   
    **需要注意的是，随着时间的推移，"shall" 在口语中的使用逐渐减少，大部分情况下被 "will" 所取代。因此，在口语中，往往使用 "will" 来表示将来时态和提出建议。**
 
 3. I will go to Beijing on business tomorrow. Do you have anything <u><font color=red><strong>      to be taken          </strong></font></u> to your son in Beijing University? (take)
@@ -7684,37 +7675,28 @@
       - ***n.*相反的事实（或事情、情况）；对立命题，反对命题**
       - ***adv.*相反地**
 
-   2. **contrary to**
+   2. **contrary to与……相反，违反**
 
-      **与……相反，违反**
-
-   3. **popular**
-
-      ***adj.*受大众喜爱的，受欢迎的；（想法、情绪或态度）普遍的；通俗的，**
+   3. **popular*adj.*受大众喜爱的，受欢迎的；（想法、情绪或态度）普遍的；通俗的，**
 
       **be popular with ：为……所喜欢；受……欢迎**
 
-   4. **popularity**
+   4. **popularity*n.*流行，普及，受欢迎**
 
-      ***n.*流行，普及，受欢迎**
-      **Today's lecture is about the popularity of English.** 
-
-      **今天的讲座是关于英语的普及**
+      **Today's lecture is about the popularity of English.（今天的讲座是关于英语的普及）** 
 
    5. **majority of**
 
-      **The majority of the time, I brown-bagged my lunch.** 
-
-      **大多数时间，我都是自带午餐。**
-
+      **The majority of the time, I brown-bagged my lunch.（大多数时间，我都是自带午餐。）**
+   
    6. **necessarily**
-
+   
       **adv. 必定，必然；必要地**
-
+   
    7. **belief**
-
+   
       **n. 相信，信心；看法，信念，观点；信仰，信条**
-
+   
 5. -----Excuse me, sir, could you show me the ballpoint pen on the shelf?
 
    ----Well,<u><font color=red><strong>      writing smoothly      </strong></font></u>，it is very popular with the students. (smoothly)
@@ -7798,27 +7780,19 @@
 
    1. **publish ：出版，发行（书、杂志等）；（作家、 音乐家等）发表（自己的作品）**
 
-      **They publish reference books.** 
-
-      **他们出版参考书。**
+      **They publish reference books.（他们出版参考书。）** 
 
    2. **appear ：*v.*出现，呈现；首次使用，起源；出庭；**
 
-      **She will appear in court tomorrow.** 
-
-      **她明天出庭。**
+      **She will appear in court tomorrow.（她明天出庭。）** 
 
    3. **come out ：“出版，发行”无被动语态**
 
-      **When does her new book come out?** 
-
-      **她的新书什么时候出版？**
+      **When does her new book come out?（她的新书什么时候出版？）** 
 
    4. **come off the press**
 
-      **It will come off the press in the first half of next year.** 
-
-      **它明年上半年可以出版。**
+      **It will come off the press in the first half of next year.（它明年上半年可以出版。）** 
 
 9. The farm as well as its neighboring hills<u><font color=red><strong>     has taken      </strong></font></u>on a new look recently. (take)
 
@@ -7896,7 +7870,7 @@
    7. **In no way, shape, or form: 绝对不，无论如何都不**
    8. **In no event: 在任何情况下都不**
 
-   这些短语通常用于强调否定或排除可能性，表示某种情况绝对不会发生或不被接受。它们可以用于否定陈述、警告、拒绝或强调对某个行为或事件的限制。
+   **这些短语通常用于强调否定或排除可能性，表示某种情况绝对不会发生或不被接受。它们可以用于否定陈述、警告、拒绝或强调对某个行为或事件的限制。**
 
 3. It was so foggy that the driver could hardly <u><font color=red><strong>     make out       </strong></font></u> the way ahead. (make)
 
@@ -7969,7 +7943,7 @@
 
    <font color=red><strong>此处表示对将来情况把握性不大的推测,用 might 或 may。</strong></font>
 
-   表达 "出席、出现、参加" 的常见短语和词组包括：
+   **表达 "出席、出现、参加" 的常见短语和词组包括：**
 
    1. **Attend：出席**
    2. **Be present：出席、在场**
@@ -8366,23 +8340,32 @@
    **fellow ：n. 小伙子，家伙；同伴，同事，同学；研究员；男朋友；adj. 同类的，同伴的**
 
    1. **All of: 所有的**
-      - **All of the students passed the exam. (所有的学生都通过了考试。)**
+      
+      **All of the students passed the exam. (所有的学生都通过了考试。)**
    2. **None of: 没有任何**
-      - **None of the books on the shelf are mine. (书架上没有任何一本是我的。)**
+      
+      **None of the books on the shelf are mine. (书架上没有任何一本是我的。)**
    3. **Any of: 任何一个**
-      - **You can choose any of the available options. (你可以选择任何一个可用的选项。)**
+      
+      **You can choose any of the available options. (你可以选择任何一个可用的选项。)**
    4. **Both of: 两者都**
-      - **Both of my parents attended the meeting. (我的父母双方都参加了会议。)**
+      
+      **Both of my parents attended the meeting. (我的父母双方都参加了会议。)**
    5. **Either of: 两者中的任何一个**
-      - **You can take either of the two routes to reach the destination. (你可以选择两条路线中的任何一条来到达目的地。)**
+      
+      **You can take either of the two routes to reach the destination. (你可以选择两条路线中的任何一条来到达目的地。)**
    6. **Neither of: 两者都不**
-      - **Neither of the options is suitable for me. (这两个选项都不适合我。)**
+      
+      **Neither of the options is suitable for me. (这两个选项都不适合我。)**
    7. **One of: 其中之一**
-      - **She is one of my closest friends. (她是我最亲密的朋友之一。)**
+      
+      **She is one of my closest friends. (她是我最亲密的朋友之一。)**
    8. **Most of: 大部分**
-      - **Most of the guests arrived late to the party. (大部分客人都迟到了。)**
+      
+      **Most of the guests arrived late to the party. (大部分客人都迟到了。)**
    9. **Some of: 一些**
-      - **Some of the students participated in the school event. (一些学生参加了学校活动。)**
+      
+      **Some of the students participated in the school event. (一些学生参加了学校活动。)**
 
 7. It is required that under no circumstances<u><font color=red><strong>         should we betray        </strong></font></u>our country even if there are temptations like money or beauty. (betray)
 
@@ -8451,6 +8434,8 @@
 
    <font color=red><strong>oxygen与produce是被动关系，且表示客观事实,故用一般现在时的被动语态。</strong></font>
 
+   **be important to ：对......很重要：表示某事物对某人或某事具有重要意义或价值。**
+
 2. Parents are beyond question <u><font color=red><strong>      the most influential          </strong></font></u>people to their children. (influential)
 
    父母毫无疑问是对孩子**影响最大**的人。
@@ -8469,16 +8454,27 @@
 
    2. **影响的表达方式：**
 
-      1. **Have an impact on：**
-         - **The new regulations will have a significant impact on the economy. （新的规定将对经济产生重大影响。）**
-      2. **Affect：**
-         - **The changes in weather patterns are affecting agricultural production. （天气模式的变化正在影响农业生产。）**
-      3. **Influence：**
-         - **Her words of encouragement influenced me to pursue my dreams. （她的鼓励之词影响了我追求梦想。）**
+      1. **Have an impact on：对......产生影响：表示某事物对另一事物产生重要或显著的影响。**
+      
+         **The new regulations will have a significant impact on the economy. （新的规定将对经济产生重大影响。）**
+      
+      2. **Affect：v. 影响；（疾病）侵袭，感染；（在感情上）深深打动，**
+      
+         **The changes in weather patterns are affecting agricultural production. （天气模式的变化正在影响农业生产。）**
+      
+      3. **Influence：v. 影响，对……起作用**
+      
+         **Her words of encouragement influenced me to pursue my dreams. （她的鼓励之词影响了我追求梦想。）**
+      
+      4. **be influential in ：在......方面有影响力：在某个领域或方面具有很大的影响力，能够影响他人的观点或行为。**
+      
+         **You are the leader and only you can be influential in the decision. （你是领导，只有你才能对这决定有影响。）**
+      
+         
 
 3. <u><font color=red><strong>       Having volunteered         </strong></font></u>to paint the house, John found it embarrassed to have to stop halfway.(volunteer)
 
-   约翰**已自告奋勇**粉刷房子,他发现半途而废会很窘迫。
+   约翰**已自告奋勇**粉刷房子，他发现半途而废会很窘迫。
 
    <font color=red><strong>Having volunteered</strong></font>
 
@@ -8486,21 +8482,17 @@
 
    <font color=red><strong>John与volunteer是逻辑上的主动关系,且volunteer表示的动作发生在主谓语动词found表示的动作之前,故用动词-ing形式的的完成式。</strong></font>
 
-   1. **volunteer**
+   1. **volunteer ：n.志愿者，义务工作者；自告奋勇者；v.自愿做，义务做，无偿做；志愿服役；adj.志愿（者）的**
 
-      1. **n.志愿者，义务工作者；自告奋勇者**
+      **volunteer to do sth ：自愿做某事**
 
-      2. **v.自愿做，义务做，无偿做；志愿服役**
-
-         **volunteer to do sth ：自愿做某事**
-
-         **I volunteered to help clean up the park after the event. （我自愿帮助清理活动结束后的公园。）**
-
-      3. **adj.志愿（者）的**
+      **I volunteered to help clean up the park after the event. （我自愿帮助清理活动结束后的公园。）**
 
    2. **voluntary**
 
       ***adj.*自愿的，自发的，主动的；（机构或组织）志愿的，义务性的；**
+   
+   3. **halfway ：adj. 在中间的，在中途的；不完全的，不彻底的**
 
 4. A website claims<u><font color=red><strong>      to have uncovered      </strong></font></u>the top secret recipe of the big food company. （uncover)
 
@@ -8514,7 +8506,7 @@
 
    **claim ：v. 声称，断言；索取，索要（钱）；要求（拥有）n. 声称，断言；索要，索赔；权利，所有权；要求得到的土地使用权；专利新特征申明**
 
-   - **[claim for sth](javascript:;) 要求；因某事索赔**
+   - **claim for sth 要求；因某事索赔**
    - **claim to do 声称要做;声称做某事**
 
 5. Going out to the bar and drinking<u><font color=red><strong>        is a way to        </strong></font></u>relax, but not good for your health at all.(way)
@@ -8529,9 +8521,7 @@
 
    **a way to do sth :做·....·的一个方法**
 
-   **Learning a foreign language is a way to expand your horizons and connect with people from different cultures.**
-
-   **学习一门外语是拓展视野和与不同文化的人建立联系的一种方式。**
+   **Learning a foreign language is a way to expand your horizons and connect with people from different cultures.(学习一门外语是拓展视野和与不同文化的人建立联系的一种方式。)**
 
 6. Don't <u><font color=red><strong>      blame John for          </strong></font></u>breaking the vase; he is a child after all.(blame)
 
@@ -8545,11 +8535,14 @@
 
    1. **blame**
       1. **Blame + for + 名词/动名词：表示因某事责备某人。**
-         - **They blamed him for causing the accident. 他们责怪他引发了事故。**
+         
+         **They blamed him for causing the accident. （他们责怪他引发了事故。）**
       2. **Blame + on + 名词/代词：表示将责任推卸给某人或某事。**
-         - **Don't blame your failures on others. 不要将你的失败归咎于他人。**
+         
+         **Don't blame your failures on others. （不要将你的失败归咎于他人。）**
       3. **Take/accept the blame：表示承担责任或接受责备。**
-         - **She was willing to take the blame for the mistake. 她愿意为错误承担责任。**
+         
+         **She was willing to take the blame for the mistake.（她愿意为错误承担责任。）**
    2. **after all :毕竟；终究**
 
 7. By the time you<u><font color=red><strong>       arrive in London         </strong></font></u>.we will have stayed in Europe for two weeks. (arrive)
@@ -8582,9 +8575,9 @@
 
    4. **Major**
 
-      - adj.主要的；严重的；大的，年长的；主修的；
-      - n.主修科目，专业；陆军少校，（美国）空军少校；
-      - v.（在美国大学）主修，专攻
+      - **adj.主要的；严重的；大的，年长的；主修的；**
+      - **n.主修科目，专业；陆军少校，（美国）空军少校；**
+      - **v.（在美国大学）主修，专攻**
 
       **I major in English：我主修英语**
 
@@ -8628,7 +8621,7 @@
 
 ## lesson 56
 
-1. I'm so glad to see you back, Lucy. How long<u><font color=red><strong>     did you stay        </strong></font></u>at your grandma's? (stay)
+1. I'm so glad to see you back, Lucy. How long<u><font color=red><strong>     did you stay        </strong></font></u>at your grandma's house? (stay)
 
    露西,很高兴看见你回来。**你**在你祖母家**住了多久?**
 
@@ -8682,7 +8675,7 @@
 
    **be polluted with sth ：被某事污染**
 
-6. <u><font color=red><strong>         The moment          </strong></font></u>he saw Jack' s funny performances, he burst into laughter. (moment)
+6. <u><font color=red><strong>         The moment          </strong></font></u>he saw Jack's funny performances, he burst into laughter. (moment)
 
    他**一看见**杰克滑稽的表演，就禁不住大笑起来。
 
@@ -8735,6 +8728,10 @@
    
    **contribution ：n. 贡献；出资**
    
+   **contribute : v. 捐赠，捐助；（为……）做贡献；促成，是……的原因之一；撰稿，投稿；发表意见，提议**
+   
+   **contribute to :有助于，促成**
+   
    **英语中表示"为纪念……"的一些常见表达方式及相应的例句：**
    
    1. **In memory of:** 
@@ -8780,8 +8777,10 @@
    <font color=red><strong>stands the library</strong></font>
 
    <strong>解析：</strong>
-   
+
    <font color=red><strong>表示地点的介词短语置于句首时，句子用全部倒装。</strong></font>
+
+   **By the side of…… ：在......旁边：表示在某个物体、地点或人的旁边。**
 
 9. It was at nine o'clock<u><font color=red><strong>     that we reached      </strong></font></u>the camp. (reach)
 
@@ -8821,7 +8820,13 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>would可表示过去的习惯。句中的状语是省略be动词，即谓语动词和非谓语动词的转化。原句为：He was curious about the world around him</strong></font>
+   <font color=red><strong>would可表示过去的习惯。</strong></font>
+
+   **在这个句子中，原因状语从句 "Curious about the world around him" 被省略了主语和谓语部分（he was），只保留了形容词短语的形式。这种省略在英语中是常见的，尤其是当主句和从句的主语是相同的人或物时，为了避免重复而省略从句中的主语和谓语。**
+
+   **在这个句子中，我们可以理解为 "Because he was curious about the world around him, my son would ask me endless questions when he was young." 这里的 "he" 指的是主句中的 "my son"，而 "was" 是谓语动词。省略主语和谓语部分使句子更简洁，同时保持了句子的完整意义。**
+
+   
 
    1. **be curious about ：对……感到好奇**
 
@@ -8856,6 +8861,22 @@
    **aspect ：n. 方面，特色；朝向，方位；外表，外观；（动词的）体 v. （行星与另一天体）形成角度关系**
 
    **accurately ：adv. 精确地，准确地**
+
+   **"be to" 是一个多功能的短语，在不同的上下文中可以表达不同的含义。下面是几种常见的用法：**
+
+   1. **表示计划或安排：用于表示按计划或安排将要发生的事情。**
+      - **"We are to meet at 9 AM tomorrow."（我们明天早上9点要见面。）**
+      - **"The concert is to take place next week."（音乐会将在下周举行。）**
+
+   2. **表示义务或命令：用于表示某人被期望或命令去做某事。**
+      - **"You are to complete the assignment by Friday."（你应该在星期五之前完成作业。）**
+      - **"He is not to leave the premises without permission."（未经允许，他不能离开场地。）**
+
+   3. **表示预测或推测：用于表示根据某种迹象或情况可以预测或推测将会发生的事情。**
+      - **"It looks like it is to rain later today."（看起来今天晚些时候会下雨。）**
+      - **"The team is to win the championship this year."（预计该队将在今年赢得冠军。）**
+
+   **需要注意的是，"be to" 的用法取决于句子的上下文和语境，因此在具体应用时需要结合具体情况进行理解和使用。**
 
 4. Considering his health, I advise him<u><font color=red><strong>            to set aside        </strong></font></u>an hour or two to walk out each day. (set)
 
@@ -8977,15 +8998,32 @@
 
    **monitor ：n. 显示器，监控器；监视仪，监护仪；监督员，监察员；v. 监视；监听（外国广播或电话）；监控（无线电或电视传输信号）**
 
-   **"Only when" 是一个常见的引导条件状语从句的结构，用来表示只有在特定条件下才会发生某个动作或事件。它强调了条件的限制和必要性。它的主句一般是倒装**
+   1. **"Only when" 是一个常见的引导条件状语从句的结构，用来表示只有在特定条件下才会发生某个动作或事件。它强调了条件的限制和必要性。它的主句一般是倒装**
 
-   1. **Only when it stopped raining did they go out for a walk.** 
+      1. **Only when it stopped raining did they go out for a walk.** 
 
-      **只有在雨停了之后，他们才出去散步。**
+         **只有在雨停了之后，他们才出去散步。**
 
-   2. **Only when she finishes her homework can she watch TV.** 
+      2. **Only when she finishes her homework can she watch TV.** 
 
-      **只有在完成作业之后，她才能看电视。**
+         **只有在完成作业之后，她才能看电视。**
+
+   2. **"get something done"、"get someone done"、"have something done" 和 "have someone done"的解释**
+
+      1. **"get something done":这个短语表示安排或完成某项任务，强调主动参与和亲自完成。**
+         
+         - **"I need to get my car serviced."（我需要给我的车做保养。）**
+         - **"She got her hair cut at the salon."（她在美发沙龙理了发。）**
+      3. **"have something done":这个短语表示委托或要求别人完成某事，强调外部参与和委托他人的行动。**
+         
+         - **"I'm going to have my house painted next month."（下个月我打算请人来粉刷我的房子。）**
+         - **"She had her car repaired by a professional mechanic."（她请专业的汽车技师修理了她的车。）**
+      4. **"have someone done":这个短语表示让某人被他人完成某事。**
+         
+         - **"He had his kids taken care of by his parents while he was away."（他在离开期间让父母照顾了他的孩子。）**
+
+
+
 
 10. Nobody but doctors, nurses or those invited by Mr Hu<u><font color=red><strong>       is allowed         </strong></font></u>to enter the patient's room.(allow)
 
@@ -8996,6 +9034,12 @@
     <strong>解析：</strong>
     
     <font color=red><strong>当主语后有but...短语时,谓语动词不受该短语的影响，仍然与主语保持一致;主语是不定代词nobody,谓语动词用单数，且nobody与allow是逻辑上的被动关系,故用被动语态。</strong></font>
+    
+    **patient : adj. 能忍耐的，有耐心的；n. 病人，患者；（语言学）受动者，承受者**
+    
+    **patience ：*n.*耐心；耐性；忍耐力；考验某人的耐心；**
+    
+    **be allowed to ：被允许：表示某人有权或被允许做某事。**
 
 
 
@@ -9009,7 +9053,7 @@
 
    一一  你对这个房子满意吗?
 
-   —— 一点也不满意,我们找不到**比这更差**的了。
+   —— 一点也不满意，我们找不到**比这更差**的了。
 
    <font color=red><strong>a worse one/house</strong></font>
    
@@ -9032,33 +9076,45 @@
 
    1. **announcement ：n. 公告；（报纸上的）布告；宣布**
    2. **broadcast ：**
+      
       1. **v. 散布，传播（信息等）；播撒（种子等）；广播，播送**
       2. **n. 电视节目，广播节目；广播，播出**
       3. **adj. 广播（或电视）节目的**
       4. **adv. 四散地，撒播地**
+      
+      **现在分词：broadcasting 过去式：broadcast或broadcasted  过去分词：broadcast或broadcasted**
 
 3. It's too bad that I've left my notebook computer in the dormitory. If only I<u><font color=red><strong>     hadn't taken       </strong></font></u> it back last night! (take)
 
    太糟糕了，我把笔记本落在宿舍了。要是我昨晚**没有带**回去就好了!
 
    <font color=red><strong>hadn't taken</strong></font>
+
    **解析:**
+
    <font color=red><strong>if only引导的句子表示与过去事实相反的假设，从句谓语动词用过去完成时。</strong></font>
 
    **dormitory ：n. 集体宿舍；<美>（学院或大学的）学生宿舍楼；<英>（为在附近城市里工作的人提供的）住宅城，郊外居住区**
 
-4. So popular<u><font color=red><strong>         has iPhone 5s become       </strong></font></u>that the young generation are dying for one. (become)
+4. So popular<u><font color=red><strong>         has iPhone 14 become       </strong></font></u>that the young generation are dying for one. (become)
 
-   **iPhone 5s已经变得**如此受欢迎以至于年轻人都非常想要一部。
+   **iPhone 14已经变得**如此受欢迎以至于年轻人都非常想要一部。
 
-   <font color=red><strong>has iPhone 5s become</strong></font>
+   <font color=red><strong>has iPhone 14 become</strong></font>
 
    **解析:**
 
    <font color=red><strong>so...that...句式中,so修饰的形容词或副词前置时需用部分倒装;且此处表示到现在完成的动作,故用现在完成时。</strong></font>
 
    1. **generation ：n. 一代（人）；一代人的时间；（产品发展的）代；产生**
-   2. **be dying for ：渴望，巴不得立即；表“非常”**
+
+   2. **"Be dying for" 是一个常用的表达方式，表示非常渴望或迫切想要某事。它常用于表达对某种体验、行动或物品的强烈欲望。**
+
+      - **"I'm dying for a cup of coffee."（我非常渴望喝一杯咖啡。）**
+      - **"She is dying for a vacation."（她非常渴望度假。）**
+      - **"He is dying for a chance to prove himself."（他迫切希望有机会证明自己。）**
+
+      **这个表达方式强调了强烈的欲望和渴望，暗示对某件事情的极度渴望或迫切需要。它可以用来描述对食物、休息、机会、体验或其他具体或抽象事物的渴望。**
 
 5. No such documents<u><font color=red><strong>          shall be taken out of     </strong></font></u>the office without the manager's written signature. (take)
 
@@ -9070,7 +9126,14 @@
 
    <font color=red><strong>由意可知，此处表示规定中的义务且主语为第三人称,故用 shall;take out of“带出......”</strong></font>
 
-   **No such ：没有这样的**
+   **"No such + noun" 是一个常见的表达方式，用于表示某个特定的事物或概念不存在。**
+
+   **例如：**
+   - **"There's no such thing as a free lunch."（没有免费的午餐。）**
+   - **"There's no such person as a perfect candidate."（没有完美的候选人。）**
+   - **"There's no such place as paradise."（没有天堂这样的地方。）**
+
+   **这个表达方式通过使用 "no such" 来否定存在特定的事物或概念。它可以用来强调某个事物在某个特定情况或范围内的缺乏或不存在。通常用于描述常识、普遍观点或对一些理想化或不实际的事物进行否定。**
 
 6. Large quantities of water<u><font color=red><strong>     are being poured     </strong></font></u>into the machine to cool it down. (pour)
 
@@ -9114,6 +9177,8 @@
 
    <font color=red><strong>本句为强调句“It was...that...”,强调时间状语 only recently;begin to do sth.“开始做某事”；当 only引导的是条件状语从句时，主句需要倒装。但是当only引导的是强调句时，主句不需要倒装。</strong></font>
 
+   **begin began begun**
+
 10. Miss Li often helps the students<u><font color=red><strong>     who she thinks          </strong></font></u>are not quick at their studies. (think)
 
     李老师经常帮助**那些她认为**学习速度慢的学生。
@@ -9123,6 +9188,8 @@
     **解析:**
     
     <font color=red><strong>定语从句的先行词是students,引导词在从句中作主语,故用who引导;此处的she thinks为插人语,定语从句中含有插入语,且先行词指人时,引导词只用who不用that。</strong></font>
+    
+    **be quick at ：擅长：指在某个领域或任务中表现出快速、高效的能力。**
 
 
 
@@ -9138,7 +9205,9 @@
 
    **解析:**
 
-   <font color=red><strong>contribute“促成，造成”</strong></font>
+   <font color=red><strong>contribute“促成，造成”；contribute to ：有助于，促成：表示某个行为、事件或因素对某个结果的产生起到了积极或消极的作用。</strong></font>
+
+   **greatly ：adv. 非常地，极大地**
 
    - **good-----better-----best**
    - **well------better-----best**
@@ -9155,24 +9224,28 @@
 
    <font color=red><strong>由traffic regulations可知，此处表示规定中的义务，故用shall;且those who are accused of drunk driving与fine之间是被动关系，故用其被动语态。</strong></font>
 
-   1. **regulation**
+   **newly ：adv. 最近；重新；以新的方式**
 
-      ***n.*规章制度，规则；（运用规则条例的）管理，控制**
+   **at least ：至少：表示数量或程度的最低限度，用于强调某事物不会比这个限度更少或更低。**
 
-      ***adj.*（使用或穿戴）符合规定的，正规的；<非正式> 公式化的，用俗套话堆砌而成的**
+   1. **regulation ：*n.*规章制度，规则；（运用规则条例的）管理，控制；*adj.*（使用或穿戴）符合规定的，正规的；**
 
    2. **According to**
 
       **"According to" 用于引述或引用某人或某种信息来源的观点、意见、数据等。它通常用于介绍引用的来源或提供参考依据**
 
       1. **引述观点或意见：根据某人的观点或意见**
-         - **According to experts, regular exercise is beneficial for overall health. （根据专家的观点，定期锻炼对整体健康有益。）**
+         
+         **According to experts, regular exercise is beneficial for overall health. （根据专家的观点，定期锻炼对整体健康有益。）**
       2. **引用数据或统计信息：根据某种数据或统计来源**
-         - **According to the survey, 80% of respondents prefer online shopping. （根据调查显示，80%的受访者更喜欢网上购物。）**
+         
+         **According to the survey, 80% of respondents prefer online shopping. （根据调查显示，80%的受访者更喜欢网上购物。）**
       3. **引述文献或引用书籍、报告等来源**
-         - **According to the book "The Great Gatsby," the story is set in the 1920s. （根据《了不起的盖茨比》这本书，故事发生在20世纪20年代。）**
+         
+         **According to the book "The Great Gatsby," the story is set in the 1920s. （根据《了不起的盖茨比》这本书，故事发生在20世纪20年代。）**
       4. **引用口头传统或共识**
-         - **According to tradition, it is customary to exchange gifts during the holiday season. （根据传统，节日期间交换礼物是习俗。）**
+         
+         **According to tradition, it is customary to exchange gifts during the holiday season. （根据传统，节日期间交换礼物是习俗。）**
 
       **需要注意的是，"According to" 引用的是别人的观点或来源的内容，而非自己的观点。因此，在使用时要确保引用的来源可靠并进行适当的引述标注**
 
@@ -9181,12 +9254,15 @@
       **"Be accused of" 用于描述某人被指控或被控告涉及某种行为、罪行或错误。它表示某人被认为犯有某种错误或违法行为，通常与法律、道德或社会规范相关。**
 
       1. **被指控犯罪：某人被指责或控告犯有某种犯罪行为。**
-         - **He was accused of stealing the company's confidential information. （他被指控盗窃公司的机密信息。）**
+         
+         **He was accused of stealing the company's confidential information. （他被指控盗窃公司的机密信息。）**
       2. **被指责错误或不当行为：某人被指责或控告涉及某种错误、过失或不当行为。**
-         - **The politician was accused of corruption and misusing public funds. （这位政治家被指控贪污和滥用公款。）**
+         
+         **The politician was accused of corruption and misusing public funds. （这位政治家被指控贪污和滥用公款。）**
       3. **被指控违反规定或违法行为：某人被指责或控告违反法律、规定或法规。**
-         - **They were accused of violating environmental regulations. （他们被指控违反环境法规。）**
-
+         
+         **They were accused of violating environmental regulations. （他们被指控违反环境法规。）**
+      
       **需要注意的是，"be accused of" 表示指控或控告的行为，不一定意味着某人已经被证明有罪。在法律程序中，被控告的人有权进行申辩和辩护，以维护自己的权益。**
 
 3. What a shame! Had I followed my parents' advice, I<u><font color=red><strong>       wouldn't be suffering     </strong></font></u>so much now. (suffer)
@@ -9199,9 +9275,35 @@
 
    <font color=red><strong>had I followed,..是 if I had followed的省略,表示与过去事实相反的假设,主句谓语动词应用would do的形式,由题意可知此处表示现在进行意义。</strong></font>
 
+   **"suffer" 和 "suffer from" 都是与遭受某种状况或情况相关的表达方式，但它们的用法和含义有所不同。**
+
+   1. **"Suffer" 是一个动词，表示遭受痛苦、困扰、损失或不幸的经历。它可以用来描述身体上或心理上的痛苦、困难、伤害或苦难。**
+      
+      **例如："She suffers from chronic back pain"（她遭受慢性背痛的折磨）或 "The country has suffered from a severe economic crisis"（该国遭受了严重的经济危机）。**
+
+   2. **"Suffer from" 是一个固定的搭配，表示患有某种疾病、病症、症状或不良情况。**
+      
+      **例如："He suffers from insomnia"（他患有失眠症）或 "Many people suffer from allergies during the spring season"（在春季，许多人患有过敏症）。**
+
+   **总结来说，"suffer" 是一个广义的动词，用于描述各种痛苦、困扰或不幸的经历，而 "suffer from" 则是一个特定的短语，用于表示患有特定的疾病、病症或不良情况。**
+
+   
+
+   **"Advice" 和 "advise" 是两个词，它们的含义和用法有所不同。**
+
+   1. **"Advice" 是一个名词，表示建议、意见或指导。它用于指涉给予他人建议或指导的行为或内容。**
+      
+      **"I need some advice on how to improve my English"（我需要一些关于如何提高英语的建议）或 "She gave me valuable advice for my job interview"（她给了我在求职面试中宝贵的建议）。**
+      
+   2. **"Advise" 是一个动词，表示给予建议、忠告或指导。它用于描述向他人提供建议或发表意见的行为。**
+      
+      **"I advise you to study hard for the exam"（我建议你为考试努力学习）或 "He advised her against making hasty decisions"（他劝告她不要草率决定）。**
+
+   **总结来说，"advice" 是名词，表示建议或指导的内容；而 "advise" 是动词，表示给予建议或指导。"Advice" 是关于建议的事物，而 "advise" 则是提供建议的行为。**
+
 4. Today's homework was<u><font color=red><strong>        easy to do           </strong></font></u>，so I finished it quickly and went out to play. (do)
 
-   今天的作业很**容易做**,所以我很快就完成了并出去玩了。
+   今天的作业很**容易做**，所以我很快就完成了并出去玩了。
 
    <font color=red><strong>easy to do</strong></font>
 
@@ -9209,8 +9311,13 @@
 
    <font color=red><strong>“形容词+不定式”是常见用法,形容词表示不定式的性质、特征,用不定式的主动形式表示被动意义。</strong></font>
 
-   1. **"……was easy to do,……" 表达了完成作业后的行动。它强调了完成作业的速度和随后外出游玩的事实。**
-   2. **"……was easy to have done,……" 强调的是作业的完成状态。使用"to have done"表示作业已经完成，强调的是完成的结果。**
+   1. **…was easy to do…" 表达了完成作业后的行动。它强调了完成作业的速度和随后外出游玩的事实。**
+
+      **"The assignment was easy to do, so I finished it quickly." （这个作业很容易完成，所以我很快就完成了。）**
+
+   2. **"…was easy to have done…" 强调的是作业的完成状态。使用"to have done"表示作业已经完成，强调的是完成的结果。**
+
+      **"The project was easy to have done, but we decided to focus on other priorities." （这个项目很容易完成，但我们决定把重点放在其他优先事项上。）**
 
    **根据具体情境和个人偏好，可以选择更符合表达意图的句子。如果你想强调完成作业后的行动，第一句更合适。如果你更关注作业的完成状态，第二句更合适。**
 
@@ -9223,6 +9330,24 @@
    **解析:**
    
    <font color=red><strong>由句意可知，健忘的”是表示一时的情况,故用can“有时会”。</strong></font>
+   
+   **forgetful ：adj. 健忘的，记性差的；疏忽的，不经心的**
+   
+   **以下是一些常见的以 "remind" 为动词的词组：**
+   
+   1. **"Remind sb of sth": 表示使某人想起或联想到某事物或某人。这个短语常用于比较、类比或相似之间的提醒。**
+      
+      **例如："His voice reminds me of my father"（他的声音让我想起了我的父亲）或 "The movie reminds me of a similar plot in a book"（这部电影让我想起书中的一个类似情节）。**
+   
+   2. **"Remind sb about sth":表示提醒某人关于某事物，使其记起或注意到。**
+      
+      **例如："I need to remind her about the meeting tomorrow"（我需要提醒她明天的会议）或 "Please remind me about the important deadline"（请提醒我重要的截止日期）。**
+   
+   3. **"Remind sb to do sth":表示提醒某人去做某事或遵守某个约定。**
+      
+      **例如："She reminded me to buy milk on the way home"（她提醒我回家路上买牛奶）或 "Don't forget, I will remind you to turn off the lights before leaving"（别忘了，我会提醒你离开前关灯）。**
+   
+   **这些词组都使用了 "remind" 这个动词，但其后面的介词和宾语的不同使得它们的意义和用法有所区别。具体使用哪个词组取决于所要表达的含义和语境。**
    
 6. Alice Lillian Euis, born on September 11, 1907 in Boston, was<u><font color=red><strong>         the third oldest          </strong></font></u>of nine children. (old)
 
@@ -9275,6 +9400,22 @@
 
    <font color=red><strong>either...or...连接的并列成分作主语时，谓语动词与最靠近的主语保持一致，由other things可知用复数形式，且other things与recycle 之间是被动关系，故用被动语态;句中陈述的是客观事实,故用一般现在时。</strong></font>
 
+   **"either... or..." 和 "neither... nor..." 都是用于表示两个选择或情况之间的否定或选择关系，但它们的用法和意义有所不同。**
+
+   1. **"either... or...":表示在两个选项中选择一个，表示两个事物之间的选择关系。**
+      
+      **"You can either go to the party or stay at home."（你可以选择去参加派对或者待在家里。）**
+
+      **"You can either have tea or coffee."（你可以选择喝茶或咖啡。）**
+      
+   2. **"neither... nor...":表示两个事物都不是或两个情况都不成立，表示否定关系。**
+      
+      **"Neither John nor Mary can come to the meeting."（既不是约翰也不是玛丽能来参加会议。）**
+      
+      **"I have neither the time nor the interest to watch that movie."（我既没有时间也没有兴趣去看那部电影。）**
+
+   **总结来说，"either... or..." 表示在两个选项中做出选择，而 "neither... nor..." 表示两个事物都不是或两个情况都不成立。"either... or..." 表示选择关系，"neither... nor..." 表示否定关系。**
+
 9. When I got home last night, I was frightened to find that in front of my door<u><font color=red><strong>        sat a big dog         </strong></font></u>.(sit)
 
    昨晚我到家的时候，我惊恐地发现我家门前**坐着一条大狗**。
@@ -9285,6 +9426,8 @@
 
    <font color=red><strong>表示地点意义的介词短语位于句首时，句子用全部倒装。</strong></font>
 
+   **frightened adj. 受惊的，害怕的；v. 使惊吓，使惊恐（frighten 的过去分词形式）**
+
 10. It is said that he's looking for a new job<u><font color=red><strong>      where he can get         </strong></font></u>more money to support his family. (get)
 
     据说他正在找一份**他能从中挣**更多钱来供养家人的新工作。
@@ -9294,6 +9437,26 @@
     **解析:**
     
     <font color=red><strong>定语从的先行词是 job且从句意义上缺少地点状语，故用 where 引导，相当于from which.</strong></font>
+    
+    **"support" 是一个多义词，具有多种含义和用法。以下是其中一些常见的含义和用法：**
+    
+    1. **"支持"的意义：**
+       
+       **"Support" 可以表示给予鼓励、帮助、赞成或支持某人或某事。例如："I fully support her decision"（我完全支持她的决定）或 "The team is counting on your support"（团队指望你的支持）。**
+       
+    2. **"支撑"的意义：**
+       
+       **"Support" 还可以表示提供物理或结构上的支撑或稳定。例如："The columns support the weight of the building"（这些柱子支撑着建筑物的重量）或 "She used a cane to support herself while walking"（她使用拐杖在行走时支撑自己）。**
+       
+    3. **"供养"的意义：**
+       
+       **"Support" 还可以表示提供经济上的供养或赡养。例如："He supports his family by working two jobs"（他通过做两份工作供养家庭）或 "The charity supports underprivileged children"（慈善机构资助弱势儿童）。**
+       
+    4. **"证实"的意义：**
+       
+       **"Support" 也可以表示提供证据、数据或信息来证实或支持某个观点、主张或论据。例如："Her research supports the theory of climate change"（她的研究支持气候变化理论）或 "The report is supported by reliable sources"（该报告得到可靠来源的支持）。**
+    
+    **这些是 "support" 的一些常见含义和用法，具体使用哪个含义取决于上下文和所要表达的意思。**
 
 
 
