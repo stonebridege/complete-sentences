@@ -2487,6 +2487,8 @@
    4. **"All kinds of"：各种各样的：用来表示许多不同类型或种类的事物；（这个短语表示多种各样的事物或类型，强调的是包括各种各样的范围或多样性。）**
 
       **"The store sells all kinds of books.(这家商店出售各种各样的书)"**
+      
+   5. **such kind of : 这种类型的：表示某一类别或种类的事物。**
 
    **总结一下，"kinds of"用于多种不同的种类或类型，"kind of"用于程度或模糊性的描述，"a kind of"用于特定的种类或类型，而"all kinds of"表示多种各样的事物。**
 
@@ -7103,11 +7105,7 @@
 
    - **courteous：有礼貌的，谦恭的；**
 
-   - **hearted ：**
-
-     **adj. 呈……心情的；有……之心的；放在心上的**
-
-     **v. 铭记；用心材支撑；结心（heart 的过去分词）**
+   - **hearted ：adj. 呈……心情的；有……之心的；放在心上的 ；v. 铭记；用心材支撑；结心（heart 的过去分词）**
 
 4. I happened<u><font color=red><strong>        to have talked with         </strong></font></u>the man interviewing me before I came here. (talk)
 
@@ -7139,6 +7137,10 @@
 
    <font color=red><strong>so...that...结构中的so修饰的副词置于句首时主句应用部分倒装。</strong></font>
 
+   **catch up with : 追赶上：指在某种程度上达到或与某人或某事保持同步。**
+
+   **out of breath : n. 呼吸，气息；一次吸入的空气；（风或气流的）一丝，丝毫；微量，迹象；一瞬间**
+
 7. I suggested that he<u><font color=red><strong>      (should) adapt to             </strong></font></u>the new condition as soon as possible, or it would be difficult for him to carry on.(adapt)
 
    我建议他尽快**适应**新环境，否则他将很难继续下去。
@@ -7151,6 +7153,58 @@
 
    **as soon as possible ：尽快 /尽可能快 /越快越好 /尽可能**
 
+   1. **adapt和adopt**
+
+      **"Adopt" 和 "adapt" 是两个不同的动词，它们有不同的意思和用法。**
+
+      1. **Adopt: 基本意思是 "采用"、"收养" 或 "接受"。它可以用于表示采用一种方法、观点、政策或采取行动。同时，它也可以指领养或收养孩子、宠物等。**
+         
+         **The company decided to adopt a new marketing strategy.（公司决定采用一种新的营销策略。）**
+         
+         **They adopted a rescue dog from the animal shelter.（他们从动物收容所领养了一只救助犬。）**
+
+      2. **Adapt: 基本意思是 "适应" 或 "改编"。它指的是根据新的环境、情况或需求进行调整或修改，以适应变化。**
+         
+         **Plants have adapted to survive in extreme climates.（植物已经适应了在极端气候中生存。）**
+         
+         **The book was adapted into a successful movie.（这本书被改编成了一部成功的电影。）**
+
+      **总结："Adopt" 强调接受、采用或收养某种事物，而 "adapt" 强调适应和调整以适应新的环境或情况。它们在含义和用法上有一些不同，需要根据具体语境选择正确的动词。**
+
+   2. **常见的与 "carry" 相关的词组**
+
+      1. **Carry out: 履行、执行（任务、计划等）**
+
+         **We need to carry out the instructions given by the manager.（我们需要执行经理给出的指示。）**
+
+      2. **Carry on: 继续进行**
+
+         **Despite the difficulties, we decided to carry on with the project.（尽管面临困难，我们决定继续进行这个项目。）**
+
+      3. **Carry off: 成功完成、夺得（比赛、奖项等）**
+
+         **The team worked hard and managed to carry off the championship trophy.（这个团队努力工作，最终夺得了冠军奖杯。）**
+
+      4. **Carry through: 使顺利完成、使成功**
+
+         **With determination and support, we were able to carry through the difficult times.（凭借决心和支持，我们成功度过了困难时期。）**
+
+      5. **Carry forward: 推进、发展**
+
+         **The new policies aim to carry forward the company's growth and innovation.（新政策旨在推动公司的增长和创新。）**
+
+      6. **Carry weight: 有影响力、重要性**
+
+         **His opinion carries a lot of weight in the industry.（他的意见在这个行业有很大的影响力。）**
+
+      7. **Carry the day: 胜出、取得胜利**
+
+         **Despite the odds, their team carried the day in the final match.（尽管面临困难，他们的团队在最后的比赛中取得了胜利。）**
+
+      **这些词组展示了 "carry" 在不同上下文中的用法，涵盖了执行、继续、完成、成功、推进等不同的含义和搭配。**
+
+   
+
 8. <u><font color=red><strong>        why that photo became        </strong></font></u>his greatest glory was a very interesting story. (become)
 
    **为什么那张照片成了**他最大的荣耀是一个非常有趣的故事。
@@ -7160,6 +7214,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>why 引导主语从句,并在从句中作原因状语。</strong></font>
+
+   **glory : n. 光荣，荣誉；（对上帝的）赞颂；壮丽，辉煌；值得称赞的事，引以为豪的成就；**
 
 9. They keep<u><font color=red><strong>        asking me to join       </strong></font></u>their social club but I prefer to go my own way. (ask)
 
@@ -7172,6 +7228,58 @@
    <font color=red><strong>keep后跟动词-ing形式作宾语;ask后跟不定式作宾语补足语。</strong></font>
 
    <font color=red><strong>"keep doing"：表示持续进行某种行为，指继续做之前已经在进行的动作。这个结构中，动词以现在分词形式（-ing 形式）出现。</strong></font>
+
+   **"Keep doing something" 表示持续、继续做某事，强调动作的延续性和连续性。它可以用来描述一个人或一个团体在某个时间段内一直进行某项活动或保持某种状态。**
+
+   **例如：**
+
+   1. **She kept practicing the piano every day to improve her skills.（她每天坚持练习钢琴，以提高她的技巧。）**
+      
+   2. **The children kept playing in the park until it started to rain.（孩子们一直在公园里玩耍，直到开始下雨。）**
+      
+   3. **He keeps interrupting me while I'm trying to explain.（他一直在我解释的时候打断我。）**
+      
+   4. **They keep arguing about the same topic without reaching a resolution.（他们一直在争论同一个话题，却没有达成解决方案。）**
+
+   **注意，"keep doing something" 表示持续性的动作，而不是一次性的行为。它强调在一段时间内保持某种行为、状态或习惯，并不断进行下去。**
+
+   
+
+   **以下是一些常见的与 "keep" 相关的词组：**
+
+   1. **Keep up: 维持、保持**
+      
+      **It's important to keep up with the latest trends in the industry.（保持跟上行业的最新趋势很重要。）**
+      
+   2. **Keep on: 继续、持续**
+      
+      **Don't give up, keep on trying!（不要放弃，继续努力！）**
+      
+   3. **Keep in mind: 记住、牢记**
+      
+      **Keep in mind that hard work pays off in the long run.（记住，长远来看努力是会有回报的。）**
+      
+   4. **Keep to: 遵守、坚持**
+      
+       **He always keeps to his schedule without fail.（他总是坚持按时完成日程安排。）**
+      
+   5. **Keep off: 避开、远离**
+      
+      **Please keep off the grass.（请勿践踏草地。）**
+      
+   6. **Keep out: 不准进入、阻止进入**
+      
+      **Keep out of this room; it's off-limits.（不准进入这个房间，它是禁区。）**
+      
+   7. **Keep track of: 跟踪、掌握**
+      
+      **Make sure to keep track of your expenses.（务必掌握好你的开支情况。）**
+      
+   8. **Keep in touch: 保持联系**
+      
+      **Even though we live far apart, we still keep in touch.（尽管我们住得很远，但我们仍保持联系。）**
+
+   **这些词组展示了 "keep" 在不同上下文中的用法，涵盖了维持、持续、遵守、避开、跟踪等不同的含义和搭配。记住这些常用词组有助于丰富你的词汇和准确地表达自己的意思。**
 
 10. The two things in<u><font color=red><strong>       which they take pride         </strong></font></u>are Jim's watch and Lucy's hair.(pride)
 
@@ -7201,7 +7309,11 @@
 
    <font color=red><strong>far from“远离”;介词from后应跟动词-ing形式。</strong></font>
 
-   **"Far from" 是一个常用的短语，表示距离或程度上的远离，也可用来表示与预期或期望相反。以下是它的几种常见用法：**
+   **dissolve : *v.*解散，解除；消失；（以化学手段）除去，分散；（使）溶解**
+
+   **solve : v. 解决，处理；解释，解答**
+
+   **"Far from" 是一个常用的副词(adv)短语，表示距离或程度上的远离，也可用来表示与预期或期望相反。以下是它的几种常见用法：**
 
    1. **表示距离：指两个地点或物体之间的远离。**
       - **The hotel is far from the airport.（酒店离机场很远。）**
@@ -7236,6 +7348,8 @@
 
    <font color=red><strong>only强调状语置于句首时句子用部分倒装,根据句意,助动词用can。</strong></font>
 
+   **save : *v.*救助，搭救；避免，减少；积攒，储蓄；节省（钱、时间或其他资源）；保存，保留；收集；（为某人）保留；（计算机）保存（数据）；**
+
 3. Water, which seems so simple and common, is<u><font color=red><strong>          what makes life possible        </strong></font></u>.(what)
 
    水看似如此简单、普通，却是**使生命成为可能的东西。**
@@ -7246,6 +7360,16 @@
 
    <font color=red><strong>what 引导表语从句,并在从句中作主语;make后可跟形容词作宾语补足语。</strong></font>
 
+   **common :adj. 共同的，共享的；常见的，普遍的，一般的；普通的，平凡的；出于礼貌的，起码的；庸俗的**
+
+   **possible : adj. 可能的，可能做到的；可能发生的，可能存在的；合乎事实的，合理的；尽可能……的；**
+
+   **possibly : adv. 可能，或许；（用于强调惊讶或震惊）怎么，究竟；怎么可能，绝不可能（用于否定句，表强调）；**
+
+   **life : n. 表示生命、生活或存在的状态。它可以指人类、动物或植物的存在，以及与生存和经验有关的各种方面。**
+
+   **live : v.它表示居住、生活或存在；adj. "live"表示直播的、实时的。**
+
 4. If<u><font color=red><strong>          I were you          </strong></font></u>,I would never say such kind of words to my younger brother or sister. (be)
 
    如果**我是你**，我永远不会对我的弟弟或妹妹说这样的话。
@@ -7255,6 +7379,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>if引导的非真实条件句中,表示与现在事实相反的虚拟语气时,作从句谓语的be动词应用 were.</strong></font>
+
+   **such kind of : 这种类型的：表示某一类别或种类的事物。**
 
 5. The development of technology has<u><font color=red><strong>       made it possible      </strong></font></u>for us to get in touch with each other more easily. (make)
 
@@ -7300,11 +7426,7 @@
 
    **"providing that"和"provided that"都可以用来引导条件状语从句。它们的意思相同，表示在满足某个条件的情况下才会发生或成立。这两个短语可以互换使用，用法上没有明显的区别。**
 
-   **以下是一个例子：**
-
-   - **You can borrow my car provided that you return it by tomorrow morning.**
-
-     **只要你明天早上之前归还，你可以借我的车。**
+   **示例：You can borrow my car provided that you return it by tomorrow morning.（只要你明天早上之前归还，你可以借我的车。）**
 
    **在这个句子中，"provided that"引导了一个条件状语从句，表明借车的条件是在明天早上之前归还车辆。**
 
@@ -7327,6 +7449,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>what引导宾语从句,并在从句中作表语。</strong></font>
+
+   **different from : 不同于：表示某物与另一物在某方面存在差异或不一致。**
 
    **probably ：adv. 大概，或许**
 
@@ -7404,27 +7528,35 @@
 
    <font color=red><strong>the island 与 see 之间是被动关系,故用动词-ed 形式作条件状语。</strong></font>
 
-   1. **distance ：**
-
-      **n.远处；疏远，隔阂；（人或物之间的）差别，差距；进展；距离**
-
-      ***v.*疏远，远离**
-
-      **adj.远距离的**
+   1. **distance ：n.远处；疏远，隔阂；（人或物之间的）差别，差距；进展；距离；*v.*疏远，远离；adj.远距离的**
 
       **distance education ：远程教育**
 
-   2. **distinct from种类不同与种类种类差别**
+   2. **distinct from ：种类不同与种类种类差别**
+
+      **She has a unique style of painting that is distinct from other artists in the gallery.（她有一种独特的绘画风格，与画廊里的其他艺术家不同。）**
 
    3. **in the distance**
 
-      **A plane was droning in the distance.**
-
-      **飞机在远处嗡嗡地响。**
+      **A plane was droning in the distance.(飞机在远处嗡嗡地响。)**
 
    4. **from a distance**
 
       **从远处；隔开一段距离**
+
+   5. **"Far away" 和 "distance" 都与距离有关，但在用法和含义上有所不同。**
+
+      1. **"Far away"：表示一个物体或地点与另一个物体或地点之间的距离很远。它通常用于形容距离遥远的地方或物体，强调两者之间的差距。**
+         
+         **The mountain peak was far away, and it took us several hours to reach it.（山峰很远，我们花了几个小时才到达。）**
+         
+         **The view is good. You can see far away.(这里视野很好，你可以看很远)**
+         
+      2. **"Distance"：表示两个物体或地点之间的测量距离，通常指直线距离或实际的数值距离。**
+         
+         **The distance between their houses is about five kilometers.（他们两个房子之间的距离大约是五公里。）**
+
+      **总结一下，"far away" 更强调距离的遥远，是对两个物体或地点之间距离的形容；而 "distance" 则是对距离的具体测量或数值描述。它们都与距离有关，但用法和侧重点略有不同。**
 
 4. Some of the people<u><font color=red><strong>   invited to the party     </strong></font></u>can't come tonight.(invite)
 
@@ -7434,9 +7566,9 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>这里的定语或定语从句都修饰前面的 people一词。</strong></font>
+   <font color=red><strong>这里的定语或定语从句都修饰前面的people一词。</strong></font>
 
-5. <u><font color=red><strong>     However far it is         </strong></font></u>,I intend to drive there today. (far)
+5. <u><font color=red><strong>     However far it is         </strong></font></u>, I intend to drive there today. (far)
 
    **不管有多远**，我今天打算开车去那里。
 
@@ -7470,7 +7602,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>It occurred to sb,that..表示"某人突然想起某事"</strong></font>
+   <font color=red><strong>It occurred to sb that..表示"某人突然想起某事"</strong></font>
 
 7. I received a message<u><font color=red><strong>     that he may/might arrive         </strong></font></u>late. (arrive)
 
@@ -7537,6 +7669,10 @@
    <strong>解析：</strong>
 
    <font color=red><strong>由题意可知,blow 是从过去一直持续进行到现在而且还有可能继续下去的动作，故用现在完成进行时。</strong></font>
+
+   **race ：n. 赛跑，速度竞赛；竞争，角逐；**
+
+   **rice ：n. 稻；米饭**
 
    1. **Put on: 穿上，戴上**
 
@@ -7613,11 +7749,7 @@
 
    <font color=red><strong>shall 用于第三人称作主语的陈述句中,表示要求、规定、法律等中的义务。</strong></font>
 
-   1. **notice** 
-
-      **n.注意，察觉；通告，布告；公告牌，警示牌；**
-
-      **v.意识，注意；留意；正式通知**
+   1. **notice n.注意，察觉；通告，布告；公告牌，警示牌；v.意识，注意；留意；正式通知**
 
       **without notice 不预先通知地；没有事先通知**
 
@@ -7625,30 +7757,31 @@
 
       **Well, I will notify to the foreman. (好的，我会通知指导员的。)**
 
-   3. **fine**
+   3. **fine adj.令人满意的，可以接受的；adv.很好；精致地，精美地；细小地；v.罚款，处以罚金；使变纯**
 
-      **adj.令人满意的，可以接受的；**
-
-      **adv.很好；精致地，精美地；细小地**
-
-      **v.罚款，处以罚金；使变纯**
-   
       
-   
+
    **"Shall" 是一个情态动词，用于表达将来时态、建议、命令、义务等含义。下面是 "shall" 的一些常见用法：**
 
-   1. **将来时态：在正式的英语中，"shall" 可以用于表示将来时态，特别是在第一人称（我/我们）中。例如：**
-   - **I shall arrive tomorrow.（我明天将到达。）**
-      - **We shall discuss this matter further.（我们将进一步讨论这个问题。）**
-   2. **建议："shall" 可以用于表示提出建议或提议。通常用于第一人称（我/我们）。例如：**
-      - **Shall we go to the movies tonight?（今晚我们去看电影好吗？）**
-      - **Shall I help you with your homework?（我帮你做作业吧？）**
+   1. **将来时态：在正式的英语中，"shall" 可以用于表示将来时态，特别是在第一人称（我/我们）中。**
+
+      **I shall arrive tomorrow.（我明天将到达。）**
+
+      **We shall discuss this matter further.（我们将进一步讨论这个问题。）**
+   
+   2. **建议："shall" 可以用于表示提出建议或提议。通常用于第一人称（我/我们）。**
+      
+      **Shall we go to the movies tonight?（今晚我们去看电影好吗？）**
+      
+      **Shall I help you with your homework?（我帮你做作业吧？）**
    3. **命令和规定：在正式文件、法律文件或合同中，"shall" 可以用于表示命令、规定或义务。例如：**
-      - **All employees shall wear a uniform.（所有员工都应该穿制服。）**
-      - **The tenant shall pay the rent on the first day of each month.（租户应在每月的第一天支付租金。）**
+      
+      **All employees shall wear a uniform.（所有员工都应该穿制服。）**
+      
+      **The tenant shall pay the rent on the first day of each month.（租户应在每月的第一天支付租金。）**
    
    **需要注意的是，随着时间的推移，"shall" 在口语中的使用逐渐减少，大部分情况下被 "will" 所取代。因此，在口语中，往往使用 "will" 来表示将来时态和提出建议。**
-
+   
 3. I will go to Beijing on business tomorrow. Do you have anything <u><font color=red><strong>      to be taken          </strong></font></u> to your son in Beijing University? (take)
 
    我明天将去北京出差。你有什么东西**要带给**在北京大学的儿子吗?
@@ -7669,28 +7802,24 @@
 
    <font color=red><strong>do good to“对......有益处”。</strong></font>
 
-   1. **Contrary** 
-
-      - ***adj.*相反的，相对的；乖戾的，好与人作对的；逆向的，逆行的**
-      - ***n.*相反的事实（或事情、情况）；对立命题，反对命题**
-      - ***adv.*相反地**
+   1. **Contrary ：adj.*相反的，相对的；乖戾的，好与人作对的；逆向的，逆行的；*n.*相反的事实（或事情、情况）；对立命题，反对命题；adv.*相反地**
 
    2. **contrary to与……相反，违反**
-
-   3. **popular*adj.*受大众喜爱的，受欢迎的；（想法、情绪或态度）普遍的；通俗的，**
+   
+   3. **popular：*adj.*受大众喜爱的，受欢迎的；（想法、情绪或态度）普遍的；通俗的，**
 
       **be popular with ：为……所喜欢；受……欢迎**
 
-   4. **popularity*n.*流行，普及，受欢迎**
+   4. **popularity：*n.*流行，普及，受欢迎**
 
       **Today's lecture is about the popularity of English.（今天的讲座是关于英语的普及）** 
 
    5. **majority of**
 
       **The majority of the time, I brown-bagged my lunch.（大多数时间，我都是自带午餐。）**
-   
+
    6. **necessarily**
-   
+
       **adv. 必定，必然；必要地**
    
    7. **belief**
@@ -7725,36 +7854,21 @@
 
       - **They decided to separate and live in different cities.**
       - **The curtains separate the living room from the dining area.**
-
-   2. **Split: 分开，分离**
-
-      - **The group split into two smaller teams.**
+2. **Split: 分开，分离**
+   
+   - **The group split into two smaller teams.**
       - **After the argument, they decided to split up and go their separate ways.**
-
    3. **Break up: 分手，分开**
 
       - **They recently broke up after being in a relationship for three years.**
-      - **The band decided to break up and pursue individual careers.**
-
-   4. **Part: 分道扬镳，分手**
-
+   - **The band decided to break up and pursue individual careers.**
+   4. **Part : n.部分；某物的部分（局部）；v.（使）分开，（使）分离；分别；分手；放弃，移交；给（头发）分缝；adv.既有……又有……（part sth., part sth.）；不完全地，部分地；adj.部分的，不完全的**
       - **After traveling together for a while, they decided to part ways.**
-      - **We parted at the airport**
-
+   - **We parted at the airport**
    5. **Divorce: 离婚**
 
       - **They went through a difficult divorce and are now legally separated.**
       - **After years of unhappiness, they finally decided to divorce.**
-
-   6. **part :** 
-
-      **n.部分；某物的部分（局部）**
-
-      **v.（使）分开，（使）分离；分别；分手；放弃，移交；给（头发）分缝**
-
-      **adv.既有……又有……（part sth., part sth.）；不完全地，部分地**
-
-      **adj.部分的，不完全的**
 
 7. She doesn't look like<u><font color=red><strong>       what she was      </strong></font></u>a few years ago. As we can see, she can hardly be recognized. (be)
 
@@ -7804,16 +7918,23 @@
 
    <font color=red><strong>当主语带有 as well as...短语时,谓语动词不受其影响仍然和主语保持一致，故此处用单数;由 recently 可知,take 是到现在为止的动作，故用现在完成时。</strong></font>
 
-   **neighboring ：**
-
-   - **adj. 邻近的；附近的（等于 neighbouring）**
-   - **v. 与……为邻；位于附近（neighbor 的 ing 形式）**
+   **neighboring ：adj. 邻近的；附近的（等于 neighbouring）v. 与……为邻；位于附近（neighbor 的 ing 形式）**
 
    **take on ：承担；呈现；具有；流行；接纳；雇用；穿上**
 
-   **I can't take on any extra work.** 
+   **I can't take on any extra work.(我不能承担任何额外工作。)** 
 
-   **我不能承担任何额外工作。**
+   **"as well as" 和 "as well" 都是用于表示附加、补充信息或同样的意思。**
+
+   1. **"as well as"：表示除了某个事物之外，还有其他附加的事物或人。它用于连接两个或多个并列的成分，指出除了前面提到的事物或人之外，还有其他的事物或人。它的意思类似于 "in addition to" 或 "besides"。**
+      
+      **Example: She enjoys playing basketball as well as soccer.（除了足球之外，她还喜欢打篮球。）**
+      
+   2. **"as well"：表示除了某个动作或状态之外，还有其他附加的动作或状态。它通常放在句末，用于表示额外的信息或强调某个事实。它的意思类似于 "also" 或 "too"。**
+      
+      **Example: He is a talented musician. He sings and plays the guitar as well.（他是一位有才华的音乐家。他除了唱歌还会弹吉他。）**
+
+   **总结一下，"as well as" 用于连接并列的事物或人，表示除了前面提到的之外还有其他的；而 "as well" 则用于句末，表示除了某个动作或状态之外还有其他附加的动作或状态。它们都用于表示额外的信息或同样的意思。**
 
 10. <u><font color=red><strong>       In terms of      </strong></font></u>property, we are among the richest people in this city.  (terms)
 
@@ -7880,7 +8001,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>make out“辨认出,看出”。</strong></font>
+   <font color=red><strong>make out“辨认出，看出；理解”。</strong></font>
 
    **foggy ：*adj.*有雾的，雾气茫茫的；迷糊的，朦胧的；模糊的，糊涂的**
 
@@ -7910,10 +8031,7 @@
 
    **"must" 可以使用否定形式。否定形式为 "must not" 或缩写形式 "mustn't"。它表示禁止、不允许或强烈不建议做某事。"mustn't" 是 "must not" 的缩写形式，用于口语和非正式场合。在正式写作或正式场合中，更常用完整形式 "must not"。**
 
-   **announced ：**
-
-   - **adj. 宣布的**
-   - **v. 宣布，宣告；通知；声称，宣称；宣布（某人）到达；（在广播或电视中）播音，广播（announce 的过去式和过去分词）**
+   **announced ：adj. 宣布的；v. 宣布，宣告；通知；声称，宣称；宣布（某人）到达；（在广播或电视中）播音，广播（announce 的过去式和过去分词）**
 
 6. ---When can I use your computer?
 
@@ -7970,6 +8088,8 @@
 
    <font color=red><strong>定语从的先行词是表示时间的名词stage,引导词在从句中作时间状语,故用 when;want to do sth.“想做某事”</strong></font>
 
+   **go beyond : 超越：指在某种程度、范围或限制之外，做得更多、更好。**
+
    **beyond ：prep. 在（或向）……较远的一边；晚于，迟于；adv. 在另一边，在（或向）更远处；（延续）到……之后**
 
 9. If you have to catch the first bus every day, choose this hotel.<u><font color=red><strong>        It is very convenient        </strong></font></u>for the station ------- it's only two minutes' walk.(convenient)
@@ -7980,7 +8100,9 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>It is convenient for. ...“.....·近便的；It is convenient for me to have a supermarket right next to my house.（我家旁边有一家超市对我来说很方便。）”.</strong></font>
+   <font color=red><strong>It is convenient for. ...“.....·近便的；</strong></font>
+
+   <font color=red><strong>It is convenient for me to have a supermarket right next to my house.（我家旁边有一家超市对我来说很方便。）”.</strong></font>
 
    **convenience ：*n.*方便，便利；便利的事物，便利设施；公共厕所**
 
@@ -8020,6 +8142,8 @@
 
    1. **remain ：v. 逗留，留下；剩余，遗留；保持不变，一直是；仍需去做（或处理）n. 剩余（物），遗迹；遗体，残骸**
 
+      **remain to do ：尚待完成：表示某事尚未完成，仍需要继续努力。**
+
    2. **remind ：v. 提醒，使想起；（因相像）使联想起（remind sb. of）**
 
    3. **in practice ：在实践中；实际上，事实上**
@@ -8044,15 +8168,20 @@
    5. **表达方式来表示提出想法、建议或观点的词组。**
 
       1. **Propose: 提议，建议**
-         - **She proposed a new marketing strategy for the company. （她为公司提出了一项新的营销策略。）**
+         
+         **She proposed a new marketing strategy for the company. （她为公司提出了一项新的营销策略。）**
       2. **Suggest: 建议，暗示**
-         - **He suggested having a team meeting to discuss the issue. （他建议开一个团队会议来讨论这个问题。）**
+         
+         **He suggested having a team meeting to discuss the issue. （他建议开一个团队会议来讨论这个问题。）**
       3. **Present: 提出，呈现**
-         - **The research team presented their findings at the conference. （研究团队在会议上呈现了他们的研究结果。）**
+         
+         **The research team presented their findings at the conference. （研究团队在会议上呈现了他们的研究结果。）**
       4. **Advance: 提出，提倡**
-         - **He advanced a theory that challenged the current understanding of the phenomenon. （他提出了一个挑战当前对该现象的理解的理论。）**
+         
+         **He advanced a theory that challenged the current understanding of the phenomenon. （他提出了一个挑战当前对该现象的理解的理论。）**
       5. **Offer: 提出，提供**
-         - **She offered a solution to the problem that nobody had considered before. （她提出了一个以前没有人考虑过的问题解决方案。）**
+         
+         **She offered a solution to the problem that nobody had considered before. （她提出了一个以前没有人考虑过的问题解决方案。）**
 
    
 
@@ -8066,17 +8195,34 @@
 
    <font color=red><strong>only修饰的时间状语置于首时句子要用部分倒装;此处表示过去发生的动作,应用一般过去时；only then ：直到那时……（后面的句子要倒装）</strong></font>
 
-   **"suffer from" 和 "suffer in" 是两个不同的短语，用来描述经历疼痛、困难或负面情况。**
+   1. **"Only then"是一个短语，用于强调在某个特定条件或情况下才会发生某事。它表示在之前的时间点或情况下不会发生，只有在特定条件满足或特定情况下才会发生。下面是一些示例用法：**
 
-   1. **"suffer from"：这个短语用来表示某人正在经历特定的疾病、状况或问题。通常与与健康相关的问题一起使用。**
+      1. **We can start the project only then when we receive the necessary funding. - 只有在我们获得必要的资金后，我们才能开始这个项目。**
+      2. **She will understand the consequences only then when she experiences them herself. - 她只有在亲身经历后才会明白后果。**
+      3. **Only then did I realize the true extent of the problem. - 只有在那时我才意识到问题的真正程度。**
+      4. **He promised to help, but only then if we agreed to his conditions. - 他答应帮助，但前提是我们同意他的条件。**
 
-      **He suffers from migraines.（他患有偏头痛。）**
+      **这些例句展示了 "only then" 的用法，表示在特定条件满足或特定情况下才会发生某事。它可以用于强调发生事件的时间点、前提或限制条件。**
 
-   2. **"suffer in"：这个短语用来描述在特定情况或环境中处于困扰或困难中的状态。它暗示在该情境下经历困难或不适。**
+   2. **"suffer from" 和 "suffer in" 是两个不同的短语，用来描述经历疼痛、困难或负面情况。**
 
-      **The workers suffered in harsh working conditions. （工人们在恶劣的工作条件下受苦。）**
+      1. **"suffer from"：这个短语通常与名词、疾病或状况一起使用，表示某人正在经历或受到其负面影响。**
 
-   **总结起来，"suffer from" 用来指示经历特定的疾病或情况，而"suffer in" 用来描述在特定情况下忍受困难或困苦。**
+         **He suffers from migraines.（他患有偏头痛。）**
+
+      2. **"suffer in"：通常用于表达在特定环境或条件下遭受痛苦、困境或苦难。这个短语表示在某种环境或情况中经历困难、痛苦或不幸。**
+
+         **The workers suffered in harsh working conditions. （工人们在恶劣的工作条件下受苦。）**
+
+      3. **"Suffer" ：是一个动词，表示经历痛苦、苦难、损失或困难。"Suffer" 可以与名词、形容词或副词连用，表示承受某种痛苦或困难。**
+
+         **She suffers from chronic pain.（她患有慢性疼痛。）**
+
+      **"suffer from" 用于描述某人患有疾病或受到不利情况的影响；**
+
+      **"suffer in" 较少使用，表示在特定环境或条件下遭受痛苦。 **
+
+      **"suffer" 则表示经历痛苦、苦难或困难。**
 
 3. They are determined to rebuild<u><font color=red><strong>     what was destroyed       </strong></font></u>in the earthquake. (destroy)
 
@@ -8092,9 +8238,11 @@
 
    1. **"be determined to do" 是一个形容词短语，用来描述一个人已经下定决心要做某事。其中的 "be" 是系动词，用来连接 "determined"（表示决心）和 "to do"（表示要做的事情）。**
 
-      **例如：他决心要学好英语。- He is determined to learn English.**
+      **例如：He is determined to learn English.（他决心要学好英语。）**
 
-   2. **"Determine to do" 是一个动词短语，其中的 "determine" 是一个动词，意思是 "决定" 或 "确定"，后面跟着 "to do" 表示要做的事情。这个短语表示做出决定或下定决心要做某事。例如：他决定要去旅行。- He determined to go on a trip.**
+   2. **"Determine to do" 是一个动词短语，其中的 "determine" 是一个动词，意思是 "决定" 或 "确定"，后面跟着 "to do" 表示要做的事情。这个短语表示做出决定或下定决心要做某事。**
+
+      **例如：He determined to go on a trip.（他决定要去旅行。）**
 
    **总结：**
 
@@ -8114,18 +8262,36 @@
    **"measure" 是一个多义词，具有多种用法。以下是几个常见的用法：**
 
    1. **作为名词：**
-      - **"measure" 可表示 "措施"、"方法"、"步骤"，用于描述为达到某个目的所采取的行动或方式。例如：We need to take measures to protect the environment.（我们需要采取措施来保护环境。）**
-      - **"measure" 还可以指 "尺寸" 或 "度量单位"，用于测量长度、面积、体积等。例如：The length of the room is 10 meters as per the measuring tape.（根据测量带，房间的长度是10米。）**
+      - **"measure" 可表示 "措施"、"方法"、"步骤"，用于描述为达到某个目的所采取的行动或方式。**
+      
+        **We need to take measures to protect the environment.（我们需要采取措施来保护环境。）**
+      
+      - **"measure" 还可以指 "尺寸" 或 "度量单位"，用于测量长度、面积、体积等。**
+      
+        **The length of the room is 10 meters as per the measuring tape.（根据测量带，房间的长度是10米。）**
+      
    2. **作为动词：**
-      - **"measure" 作为动词可以表示 "测量"、"衡量"、"评估"。例如：They measured the distance between the two points.（他们测量了两点之间的距离。）**
-      - **"measure" 还可以表示 "采取措施"、"评估风险"。例如：We must measure the potential risks before making a decision.（在做出决定之前，我们必须评估潜在的风险。）**
+      
+      - **"measure" 作为动词可以表示 "测量"、"衡量"、"评估"。**
+      
+        **They measured the distance between the two points.（他们测量了两点之间的距离。）**
+      
+      - **"measure" 还可以表示 "采取措施"、"评估风险"。**
+      
+        **We must measure the potential risks before making a decision.（在做出决定之前，我们必须评估潜在的风险。）**
+      
    3. **其他常见表达：**
-      - **"take measures" 指采取行动或措施以解决问题或应对情况。例如：The government has taken measures to improve public safety.（政府已经采取了措施来提高公共安全。）**
-      - **"beyond measure" 表示超过计量范围，意为 "无法估量" 或 "极其大量"。例如：Her love for him was beyond measure.（她对他的爱是无法估量的。）**
+      - **"take measures" 指采取行动或措施以解决问题或应对情况。**
+      
+        **The government has taken measures to improve public safety.（政府已经采取了措施来提高公共安全。）**
+      
+      - **"beyond measure" 表示超过计量范围，意为 "无法估量" 或 "极其大量"。**
+      
+        **Her love for him was beyond measure.（她对他的爱是无法估量的。）**
 
 5. You<u><font color=red><strong>       could have caught         </strong></font></u>the last bus, but you were clearly in no hurry. (catch)
 
-   你**本来能够赶上**最后一班公共汽车的,但是你明显一点儿也不着急。
+   你**本来能够赶上**最后一班公共汽车的，但是你明显一点儿也不着急。
 
    <font color=red><strong>could have caught</strong></font>
 
@@ -8133,20 +8299,12 @@
 
    <font color=red><strong>表示过去本能够做某事但实际上没做用 could have done.</strong></font>
 
-   **clearly ：adv. 清楚地，清晰地；毫无疑问，显然；明智地，清醒地**
-
-   **clear ：*adj.*易懂的，明白的；完全了解的，清楚的；（物质）透明的，清澈的**
-
-   **in no hurry：不着急；不匆忙**
-
-   **Take it easy**
-   **从容；不急；松懈；**
-
-   **Take your time**
-   **别着急；从容做；**
-
-   **no hurry**
-   **不忙；不必着急；**
+   1. **clearly ：adv. 清楚地，清晰地；毫无疑问，显然；明智地，清醒地**
+   2. **clear ：*adj.*易懂的，明白的；完全了解的，清楚的；（物质）透明的，清澈的**
+   3. **in no hurry：不着急；不匆忙**
+   4. **Take it easy ：从容；不急；松懈；**
+   5. **Take your time ：别着急；从容做；** 
+   6. **no hurry ：不忙；不必着急；**
 
 6. I keep on walking after supper because I can't think of<u><font color=red><strong>       a better way      </strong></font></u>to keep fit. (good)
 
@@ -8158,9 +8316,13 @@
 
    <font color=red><strong>形容词的比较级用于否定中表示最高级意义。</strong></font>
 
-   **keep on doing ：继续做某事；继续做**
+   **keep on doing ：坚持做：表示继续做某事**
 
    **think of ：记起，想起；考虑；想像；关心**
+
+   **fit ：v. 适合，合身；适应，合得来；可容纳，装进；试穿（衣服）；和……相称，符合；adj. 健康的，健壮的；合适的，适当的；合格的；n. 适合，合身；匹配，相配；**
+
+   **keep fit ：保持健康：通过锻炼和合理饮食等方式，使身体保持良好的健康状况。**
 
 7. Mary can't invite you to her new house until she<u><font color=red><strong>       has moved         </strong></font></u>in.(move)
 
@@ -8194,6 +8356,8 @@
 
    **preference ：n. 偏爱，偏好；更喜欢的人（或物）；优待，优先（权）；<法律>（尤指债务偿付）优先偿还权**
 
+   **rank ：n. 军衔；地位，等级；（尤指较高的）地位；行列；排，列；v. 把……分等级，属于某等级；**
+
 9. My toothache<u><font color=red><strong>         is killing me      </strong></font></u>.I thought it was going away, but it is getting worse now.(kill)
 
    我的牙齿**疼得我要命**。我以为它已经好了,但没想到现在越来越糟糕了。
@@ -8203,6 +8367,10 @@
    <strong>解析：</strong>
 
    <font color=red><strong>kill是现在正在进行的动作，故用现在进行时。</strong></font>
+
+   **go away ：走开：表示让某人离开或不要靠近的用语。**
+
+   **go worse ：变得更糟：指情况、状态或事物的质量变得更差。**
 
 10. Keep in mind that you should do the same things<u><font color=red><strong>    as are listed        </strong></font></u>in the instructions. (list)
 
@@ -8249,11 +8417,20 @@
    <font color=red><strong>此处表示目的，且表示将要发生的动作，故用不定式的一般式作目的状语。</strong></font>
 
    1. **Rain：指雨水，表示降水的现象。例如："It's raining outside."（外面正在下雨。）**
+
    2. **Rainy：形容词，意为多雨的，表示天气有雨的。例如："It's a rainy day."（这是一个多雨的日子。）**
+
    3. **Snow：指雪，表示降雪的现象。例如："It's snowing heavily."（正在下大雪。）**
-   4. **Snowy：形容词，意为有雪的，表示地面被雪覆盖的情况。例如："We went for a walk in the snowy forest."（我们在雪覆盖的森林里散步。）**
+
+   4. **Snowy：形容词，意为有雪的，表示地面被雪覆盖的情况。**
+
+      **"We went for a walk in the snowy forest."（我们在雪覆盖的森林里散步。）**
+
    5. **Cloud：指云，表示天空中的气象现象。例如："The sky is full of clouds."（天空布满了云。）**
-   6. **Cloudy：形容词，意为多云的，表示天气多云的状态。例如："It's a cloudy day, but it's not raining."（这是一个多云的日子，但没有下雨。）**
+
+   6. **Cloudy：形容词，意为多云的，表示天气多云的状态。**
+
+      **"It's a cloudy day, but it's not raining."（这是一个多云的日子，但没有下雨。）**
 
    **这些词汇描述了不同的天气和天气现象。"Rain"和"snow"是名词，表示具体的降水或降雪现象，而"rainy"和"snowy"是形容词，用于描述天气的状态。"Cloud"指的是天空中的云，而"cloudy"表示天气多云的状态。**
 
@@ -8269,13 +8446,11 @@
 
    1. **at the sight of ：一看见……就**
 
-      **His heart lifted at the sight of her.** 
-
-      **他一看见她心里就高兴起来了。**
+      **His heart lifted at the sight of her.(他一看见她心里就高兴起来了。)** 
 
    2. **hold onto ：紧紧抓住，抓住不放；保持住**
 
-      **I'll hold onto your mail for you until you get back**
+      **I'll hold onto your mail for you until you get back.(我帮你保管你的邮件，直到你回来)**
 
 3. The shop owner promised me that he<u><font color=red><strong>        would inform      </strong></font></u>me as soon as the product became available.(inform)
 
@@ -8291,6 +8466,36 @@
 
    **I'll call you as soon as I know. 我一知道就给你打电话。**
 
+   **下面是一些以 "inform" 为动词的常见词组和用法：**
+
+   1. **Inform someone: 向某人通知或告知信息**
+      - **I need to inform my boss about the meeting.**
+      - **The teacher informed the students about the change in schedule.**
+
+   2. **Inform someone of/about something: 告知某人关于某事**
+      - **Please inform me of any updates on the project.**
+      - **They informed the guests about the event's cancellation.**
+
+   3. **Keep someone informed: 让某人保持了解、持续通知某人**
+      - **Please keep me informed of any changes in the plan.**
+      - **It's important to keep your team informed about project updates.**
+
+   4. **Informal/formal: 非正式/正式**
+      - **We had an informal discussion about the topic.**
+      - **The meeting requires a formal dress code.**
+
+   5. **Well-informed: 消息灵通的，了解充分的**
+      - **She is a well-informed person who keeps up with current events.**
+      - **He gave a well-informed presentation on the subject.**
+
+   6. **Misinform: 误导，提供错误信息**
+      - **Don't misinform others with false data.**
+      - **The article was meant to misinform the public about the issue.**
+
+   7. **Self-informed: 自我了解，自我启发**
+      - **He is a self-informed individual who seeks knowledge independently.**
+      - **The book provides tools for self-informed decision-making.**
+
 4. It was this wonderful place<u><font color=red><strong>     where I spent       </strong></font></u>my childhood that I got to know my lifelong friend Lucy. (spend)
 
    正是在**我度过**童年的美丽**的地方**我认识了一生的朋友露西。
@@ -8301,9 +8506,11 @@
 
    <font color=red><strong>定语从句的先行词是表示地点的名词 place,引导词在从句中作地点状语,故用where,相当于in which.</strong></font>
 
+   **get to know ：了解；认识**
+
 5. The mountain scenery<u><font color=red><strong>        is typical of          </strong></font></u>Scotland, which is bound to attract tourists from other parts of the world. (typical)
 
-   这是**典型**的苏格兰山区景色,注定要吸引来自世界各地的游客。
+   这是**典型**的苏格兰山区景色，注定要吸引来自世界各地的游客。
 
    <font color=red><strong>is typical of</strong></font>
 
@@ -8315,17 +8522,36 @@
 
    - **is typical of ：是…的特点；典型的**
 
-     **This meal is typical of local cookery.** 
-
-     **这是有当地风味的饭菜。**
+     **This meal is typical of local cookery.（这是有当地风味的饭菜。）** 
 
    - **be bound to ：必然；一定要**
 
-     **This package needs to be bound to a collection ID.** 
-
-     **这个包需要绑定到一个集合id。**
+     **This package needs to be bound to a collection ID.(这个包需要绑定到一个集合id。)** 
 
    - **Other parts of ：用来指代除了提到的部分之外的其他部分或方面。**
+
+   - **英语中表示风景和景色的名词有很多。以下是一些常见的词汇：**
+
+     1. **View: 视野，景色**
+     2. **Scenery: 风景，景色**
+     3. **Landscape: 风景，景色**
+     4. **Sight: 景色，景观**
+     5. **Panorama: 全景，全景画**
+     6. **Vista: 远景，景色**
+     7. **Outlook: 视野，景色**
+     8. **Horizon: 地平线，视野**
+     9. **Natural beauty: 自然美景**
+     10. **Countryside: 乡村风景**
+     11. **Coastline: 海岸线**
+     12. **Mountain range: 山脉**
+     13. **Waterfall: 瀑布**
+     14. **Beach: 海滩**
+     15. **Forest: 森林**
+     16. **Meadow: 草地，牧场**
+     17. **Valley: 山谷**
+     18. **Canyon: 峡谷**
+     19. **Lake: 湖泊**
+     20. **River: 河流**
 
 6. With odd behavior and strange ideas, Henry can't <u><font color=red><strong>       be made out        </strong></font></u>by most of his fellow workers.(make)
 
@@ -8367,7 +8593,7 @@
       
       **Some of the students participated in the school event. (一些学生参加了学校活动。)**
 
-7. It is required that under no circumstances<u><font color=red><strong>         should we betray        </strong></font></u>our country even if there are temptations like money or beauty. (betray)
+7. It is required that under no circumstances <u><font color=red><strong>         should we betray        </strong></font></u>our country even if there are temptations like money or beauty. (betray)
 
    要求在任何情况下**我们**也不**应该背叛**我们的国家，即使有金钱或美色的诱惑。
 
@@ -8392,6 +8618,12 @@
 
    <font color=red><strong>从句的主要原因是介词短语"around which"位于句首，这导致了部分倒装。原本的词序应该是"some bookstores are around which"。</strong></font>
 
+   **modern ：adj. 近代的，现代的；当代风格的，现代派的；n. 现代人；现代派艺术家；**
+
+   **mode ：*n.*方式，做法；（机器、设备的）运行方式，状态；**
+
+   **model ： *n.*模型；模式；（机器等的）型号；模范，典型；**
+
 9. We are all surprised to see him drive a Benz. Who knows<u><font color=red><strong>      how he got         </strong></font></u>so much money to afford it? (get)
 
    我们都惊讶的发现他开着奔驰车，谁知道**他如何得到**这么多钱买的车。
@@ -8403,6 +8635,10 @@
    <font color=red><strong>knows 后的宾语从句中缺少方式状语,故引导词用how,宾语从句中用陈述语序。</strong></font>
 
    **be surprised to do sth：对做某事感到惊奇吃惊地做某事惊讶地做某事**
+
+   **afford ：v. 买得起；有（时间）做某事；**
+
+   **affect ：v. 影响；（疾病）侵袭，感染；**
 
 10. On the playground, each competitor<u><font color=red><strong>      shall wear        </strong></font></u>a number to be recognized. (wear)
 
@@ -8492,7 +8728,7 @@
 
       ***adj.*自愿的，自发的，主动的；（机构或组织）志愿的，义务性的；**
    
-   3. **halfway ：adj. 在中间的，在中途的；不完全的，不彻底的**
+   3. **halfway ：adv. 在中间，在中途；还可以，过得去；adj. 在中间的，在中途的；不完全的，不彻底的**
 
 4. A website claims<u><font color=red><strong>      to have uncovered      </strong></font></u>the top secret recipe of the big food company. （uncover)
 
@@ -8504,14 +8740,15 @@
 
    <font color=red><strong>claim“声称”,后面跟不定式作宾语uncover表示的动作发生在主谓语动词 claims 表示的动作之前,故用不定式的完成式。</strong></font>
 
-   **claim ：v. 声称，断言；索取，索要（钱）；要求（拥有）n. 声称，断言；索要，索赔；权利，所有权；要求得到的土地使用权；专利新特征申明**
-
-   - **claim for sth 要求；因某事索赔**
-   - **claim to do 声称要做;声称做某事**
+   1. **claim ：v. 声称，断言；索取，索要（钱）；要求（拥有）n. 声称，断言；索要，索赔；权利，所有权；要求得到的土地使用权；专利新特征申明**
+      - **claim for sth 要求；因某事索赔**
+      - **claim to do 声称要做;声称做某事**
+   2. **secret ：adj. 秘密的，保密的；暗自的；（某人的行为）诡秘的，神秘的；n. 秘密，内情；**
+   3. **recipe */*ˈresəpi*/*：n. 烹饪法，食谱；诀窍，秘诀；**
 
 5. Going out to the bar and drinking<u><font color=red><strong>        is a way to        </strong></font></u>relax, but not good for your health at all.(way)
 
-   去酒吧喝酒是放松的**一种方式**,但是对你的健康一点也不好。
+   去酒吧喝酒是放松的**一种方式**，但是对你的健康一点也不好。
 
    <font color=red><strong>is a way to</strong></font>
 
@@ -8533,16 +8770,42 @@
 
    <font color=red><strong>blame sb.for “为·....·责怪某人”</strong></font>
 
-   1. **blame**
-      1. **Blame + for + 名词/动名词：表示因某事责备某人。**
-         
-         **They blamed him for causing the accident. （他们责怪他引发了事故。）**
-      2. **Blame + on + 名词/代词：表示将责任推卸给某人或某事。**
-         
-         **Don't blame your failures on others. （不要将你的失败归咎于他人。）**
-      3. **Take/accept the blame：表示承担责任或接受责备。**
-         
+   1. **blame ：表示责备、归咎或指责某人或某事**
+      
+      1. **"Blame sb/sth "：指责某人或某事物。**
+      
+         **"Don't blame me for the mistake; it was a team effort.（不要因为这个错误责怪我，这是一个团队的努力。）"**
+      
+         **"She blamed the bad weather for the delay in her flight.（她把航班延误归咎于恶劣的天气。）"**
+      
+      2. **"Blame sb for sth"：因某事责备某人。**
+      
+         **"They blamed him for the accident even though it wasn't his fault.尽管事故不是他的错，他们还是责怪他。）"**
+      
+         **"I can't blame her for being upset; you broke your promise.（我不能怪她生气，毕竟你食言了。）"**
+      
+      3. **"Blame sth on sb"：将责任归咎于某人。**
+      
+         **"He tried to blame his failures on his colleagues.（他试图把失败归咎于他的同事。）"**
+      
+         **"The manager blamed the low sales on the marketing team's poor strategies.（经理将低销量归咎于营销团队的糟糕策略。）"**
+      
+      4. **"Blame oneself"：责备自己。**
+      
+         **"She blamed herself for not studying harder for the exam.（她因为没有更努力地学习考试而责备自己。）"**
+      
+         **"He blamed himself for the team's loss in the championship game.（他因为球队在冠军赛中的失利而责怪自己。）"**
+      
+      5. **"Be to blame for"：为...负责。**
+      
+         **"He is to blame for the company's financial losses.由于他糟糕的管理，他应该对公司的财务损失负责。）"**
+      
+         **"The driver was to blame for the accident due to reckless driving.（由于鲁莽驾驶，这位司机应该对事故负责。）"**
+      
+      6. **Take/accept the blame：表示承担责任或接受责备。**
+      
          **She was willing to take the blame for the mistake.（她愿意为错误承担责任。）**
+      
    2. **after all :毕竟；终究**
 
 7. By the time you<u><font color=red><strong>       arrive in London         </strong></font></u>.we will have stayed in Europe for two weeks. (arrive)
@@ -8597,7 +8860,7 @@
 
    <font color=red><strong>此为强调式“It is/was+被强调部分+that/who...”被强调的部分是 not until the baby girl was sound asleep.</strong></font>
 
-   **sound sleep ：舒适的睡眠；酣睡**
+   **sound asleep：熟睡：指人在睡觉时处于非常深沉、安静的状态，不容易被外界因素打扰。**
 
    **personal ：*adj.*个人的，私人的；私密的**
 
@@ -12199,23 +12462,23 @@
 
    **at other times 在其他时候：指除了特定时刻之外的其他时间。**
 
-   1. **"Kind of"：**
+   1. **"Kind of"：有点儿，稍微：表示程度较低或不确定的情况，用于形容事物的性质、程度或特点。**
       - **I'm kind of tired after the long day.（经过一整天的工作，我有点累。）**
       - **It's kind of funny how things turned out.（事情的发展有点有趣。）**
 
-   2. **"Sort of"：**
+   2. **"Sort of"：有点儿，稍微：表示某种程度上的同意或肯定，但不是完全的。**
       - **I'm sort of interested in the new movie.（对这部新电影我有点感兴趣。）**
       - **He's sort of shy when he meets new people.（他在遇到新人时有点害羞。）**
 
-   3. **"Type of"：**
+   3. **"Type of"：类型**
       - **He is a type of person who enjoys outdoor activities.（他是那种喜欢户外活动的人。）**
       - **This is a different type of problem that requires a unique solution.（这是一种需要独特解决方案的不同类型问题。）**
 
-   4. **"Variety of"：**
+   4. **"Variety of"：各种各样的：用于表示多种不同类型的事物。**
       - **They offer a variety of options for breakfast.（他们提供各种各样的早餐选择。）**
       - **There is a variety of reasons why people choose to study abroad.（人们选择出国留学有各种各样的原因。）**
 
-   5. **"Like"：**
+   5. **"Like"：prep. 像，如同；符合……的方式；**
       - **It's like a kind of magic.（就像是一种魔法。）**
       - **The weather is like summer today.（今天的天气像夏天一样。）**
 
