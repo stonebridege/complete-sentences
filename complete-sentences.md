@@ -5971,7 +5971,21 @@
 
    <font color=red><strong>but for表示的条件与过去事实相反,根据句意主句谓语动词用couldn't have done的形式。</strong></font>
 
-2. With<u><font color=red><strong>   many problems arising    </strong></font></u>， he didn't know what to do next. (arise)
+   **"but for"是一个常用的短语，用于表达虚拟语气，表示假设某个条件不成立或某个情况不存在时，结果会发生变化。它可以用来表示对比、推测或假设的情况。**
+
+   **以下是几个使用"but for"的例子：**
+
+   1. **But for the rain, we would have gone for a picnic.**
+     **如果不是下雨，我们本来会去野餐的。**
+
+   2. **But for her quick thinking, the accident could have been much worse.**
+     **如果不是她反应迅速，这起事故本可以更糟糕。**
+
+   **在这些例子中，"but for"引导了一个虚拟的条件从句，描述了与实际情况相反的假设或推测。它表达了因果关系，指示如果条件不成立，结果会发生变化。**
+
+   **需要注意的是，"but for"后面的从句常常使用过去式，以表示与当前情况相反的假设。这种用法可以帮助表达对过去事件的假设或推测。**
+
+2. With<u><font color=red><strong>   many problems arising    </strong></font></u>，he didn't know what to do next. (arise)
 
    随着**很多问题的出现**，他不知道下一步该做什么了。
 
@@ -5997,7 +6011,7 @@
 
    2. **raise & rise & arise** 
 
-      - **raise ：go up**
+      - **raise ：go up（v. 提升，举起；（使）直立，站立；建造，树立（纪念碑等）；）**
 
         **第三人称单数： raises； 现在分词： raising；  过去式： raised；  过去分词： raised**
 
@@ -6015,6 +6029,30 @@
 
         <font color=red><strong>A storm arose during the night.</strong></font>
 
+   3. **独立主格结构和with的复合结构是两种语法结构的区别：**
+
+      - **独立主格结构：独立主格结构是由一个名词或代词加上一个动词或形容词构成的结构，用于表达一个附加的状况、条件或原因，与主句的动作或状态并列存在。它常用逗号与主句隔开，表达出一种补充或附加的含义。**
+
+        **例句：**
+
+        - **John being absent, we had to reschedule the meeting.（约翰缺席了，我们不得不重新安排会议。）**
+        - **The weather being nice, we decided to go for a picnic.（天气很好，我们决定去野餐。）**
+
+        **在这些例子中，"John being absent"和"The weather being nice"是独立主格结构，它们提供了一个附加的条件或原因，与主句的动作或状态并列存在。**
+
+      - **with复合结构：**
+
+        **with复合结构是由介词with引导的一个名词短语或动名词短语，用来提供额外的信息或修饰主句中的某个成分。它通常与主句的主语或宾语相关联，用于描述具体的情况或条件。**
+
+        **例句：**
+
+        - **He entered the room with a smile on his face.（他面带微笑地走进了房间。）**
+        - **She went to the party with her friends.（她和朋友们一起去参加了派对。）**
+
+        **在这些例子中，"with a smile on his face"和"with her friends"是with复合结构，它们提供了与主句主语或宾语相关的额外信息。**
+
+      **总结：独立主格结构和with复合结构都用于提供额外的信息或修饰主句中的某个成分，但独立主格结构更强调并列的关系，通常使用动词或形容词构成；而with复合结构则更侧重于描述具体的情况或条件，使用介词with引导名词短语或动名词短语。**
+
 3. <u><font color=red><strong>       It won't be long           </strong></font></u>before we take the college entrance examination, (long)
 
    **要不了多久**我们就要参加高考了。
@@ -6029,7 +6067,7 @@
 
       <font color=red>**“It will be + 一段时间 + before...”这个句式用来表达某个事情要经过一段时间才会发生或实现，通常表示等待、耐心等待或延迟。这个句式中的“before”表示在某个时间之前，而“it”则用来代替具体的主语，通常指前文提到的某个事情或情况。**</font>
 
-      - **It will be months before we finish the construction of the new building.（新建筑物的建设需要数月时间。）**
+      **It will be months before we finish the construction of the new building.（新建筑物的建设需要数月时间。）**
 
       <font color=red>**需要注意的是，这个句式通常用于表达一种乐观的期望，而不是对事情的消极态度。**</font>
 
@@ -6038,15 +6076,11 @@
       <font color=red>**"It won't be + 一段时间 + before"是一个否定句式，表示某事不会在一段时间内发生或完成。**</font>
 
       - **It won't be long before we finish this project.（我们很快就会完成这个项目。）**
-      - **It won't be until next week before we can start the training.（我们要等到下周才能开始培训。）**
+      - **It won't be until next week before we can start the training.（我们要到下周才能开始训练）**
 
       <font color=red>**这个句式常用于表示等待或延迟的情况，通常和一个时间短语一起使用，用来说明要等多久才能实现某个目标或完成某个任务。在句子中，时间短语通常放在句首或句尾。需要注意的是，这个句式中的时间短语可以是任意一种时间单位，如“a week”，“a month”，“a year”等。**</font>
 
-   3. **entrance** 
-
-      **n.入口(处);进入;大门(口);通道;出场;**
-
-      **vt.使狂喜;使入迷**
+   3. **entrance ：n.入口(处);进入;大门(口);通道;出场; vt.使狂喜;使入迷**
 
 4. He<u><font color=red><strong>        pretended to be reading      </strong></font></u>aloud in the study when he heard his father open the door. (pretend)
 
@@ -6092,9 +6126,11 @@
 
    <font color=red><strong>so修饰的状语置于句首时,句子用部分倒装,根据句意用现在完成时,be occupied with“被……占用”</strong></font>
 
-   1. **social adj.社会的;社会上的;社会地位的；n.联谊会;联欢会**
-   2. **society n.社会(共同遵守一定的习俗、法律等的特定群体);学会;协会;社团;**
-   3. **socially adv.社会上;交际上;和睦地**
+   1. **occupy ：v. 使用（房屋、建筑），居住；占据（空间，时间）；使忙于（做某事）；**
+   2. **occupied ：adj. 忙于……的，从事……的；（床、椅子、房间等）已被占用的；**
+   3. **social adj.社会的;社会上的;社会地位的；n.联谊会;联欢会**
+   4. **society n.社会(共同遵守一定的习俗、法律等的特定群体);学会;协会;社团;**
+   5. **socially adv.社会上;交际上;和睦地**
 
 7. When we went shopping last week, Mary spent<u><font color=red><strong>     half as much money        </strong></font></u>as I did. (much)
 
@@ -6104,7 +6140,23 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>表示“……的一半”,用“half+as. . . as. ..”.</strong></font>
+   <font color=red><strong>表示“...的一半”,用“half+as...as...”</strong></font>
+
+   **"as much/many + noun + as..." 是一个常用的比较结构，用于表示两个事物在数量或程度上的相等关系。它的基本结构是"as much/many + noun + as + 另一个事物"，其中 "as much" 用于不可数名词，"as many" 用于可数名词。**
+
+   **以下是一些示例：**
+
+   1. **不可数名词比较：**
+   - **I have as much money as you.（我和你一样多的钱。）**
+   - **She has as much experience as her colleague.（她和她的同事一样多的经验。）**
+
+   2. **可数名词比较：**
+   - **He has as many books as his friend.（他和他的朋友一样多的书。）**
+   - **They have as many children as the other family.（他们和另一家庭一样多的孩子。）**
+
+   **这个结构可以用于肯定句、否定句和疑问句中，根据具体语境和需要进行灵活运用。它强调两者在数量或程度上的相等性。需要注意的是，使用这个结构时，要确保被比较的两个事物属于同一类别或可比较的范围。**
+
+   **请注意，在比较数量时，还可以使用其他形式的比较结构，例如"more/less + noun + than..." 或者 "not as much/many + noun + as..."，具体使用取决于所要表达的意思和语境。**
 
 8. Now that Lucy is out of work, she<u><font color=red><strong>    has been considering going back        </strong></font></u>to school, but she hasn't decided yet. (consider)
 
@@ -6138,8 +6190,8 @@
 
    <font color=red><strong>先行词被the only修饰时,引导词只能用that,此处that在从句中作宾语,可省略。</strong></font>
 
-   - **incident日常小事;有预谋的政治事件**
-   - **accident无法预料的事故或灾难**
+   - **incident ：日常小事;有预谋的政治事件**
+   - **accident ：无法预料的事故或灾难**
 
 10. Harry went to the bank because he<u><font color=red><strong>      was short of money      </strong></font></u>.(short)
 
@@ -6212,12 +6264,29 @@
 
    **"Agree" 是一个常用的动词，表示同意或赞同某种想法、观点、建议等。以下是一些常见的和 "agree" 相关的短语：**
 
-   1. **agree with：与某人或某事物的观点、意见相同，或是同意某种做法。 例句：I agree with your opinion on this matter.（我同意你对这件事的看法。）**
-   2. **agree to：同意或接受某种提议或建议。 例句：I have agreed to the terms of the contract.（我已经同意了合同的条款。）**
-   3. **agree on/upon：就某个问题或某种事情达成共识或协议。 例句：The two parties finally agreed upon the terms of the settlement.（两方最终就和解条款达成了一致。）**
-   4. **agree in principle：在原则上同意某种想法或提议，但细节还需要讨论和商定。 例句：We agree in principle to your proposal, but we need to work out the details.（我们在原则上同意你的建议，但需要讨论细节。）**
-   5. **agree to disagree：同意不同意见，认为进一步争辩没有意义。 例句：We agreed to disagree on this matter and moved on to other topics.（我们同意各自的不同意见，转而讨论其他话题。）**
-   6. **agree with someone/something on something：在某个问题或某种事情上与某人或某事物达成共识。 例句：I finally agreed with my boss on the new project plan.（我终于和老板在新项目计划上达成了共识。）**
+   1. **agree with：与某人或某事物的观点、意见相同，或是同意某种做法。**
+
+      **例句：I agree with your opinion on this matter.（我同意你对这件事的看法。）**
+
+   2. **agree to：同意或接受某种提议或建议。 **
+
+      **例句：I have agreed to the terms of the contract.（我已经同意了合同的条款。）**
+
+   3. **agree on/upon：就某个问题或某种事情达成共识或协议。 **
+
+      **例句：The two parties finally agreed upon the terms of the settlement.（两方最终就和解条款达成了一致。）**
+
+   4. **agree in principle：在原则上同意某种想法或提议，但细节还需要讨论和商定。**
+
+      **例句：We agree in principle to your proposal, but we need to work out the details.（我们在原则上同意你的建议，但需要讨论细节。）**
+
+   5. **agree to disagree：同意不同意见，认为进一步争辩没有意义。 **
+
+      **例句：We agreed to disagree on this matter and moved on to other topics.（我们同意各自的不同意见，转而讨论其他话题。）**
+
+   6. **agree with someone/something on something：在某个问题或某种事情上与某人或某事物达成共识。**
+
+      **例句：I finally agreed with my boss on the new project plan.（我终于和老板在新项目计划上达成了共识。）**
 
    **需要注意的是， "agree" 后面可以跟不同的介词和副词，具体用法取决于句子的语境和所表达的意思。**
 
@@ -6341,15 +6410,13 @@
 
    - **places of interest ：名胜古迹**
 
-   - **interest** 
-
-     **n.兴趣;关注;引人关注的性质;吸引力;趣味;业余爱好;利益;利息;好处;（企业或公司的）股份;利害关系;同行**
-     **vt.使感兴趣;使关注**
-
+   - **interest ：n.兴趣;关注;引人关注的性质;吸引力;趣味;业余爱好;利益;利息;好处;（企业或公司的）股份;利害关系;同行**
+  **vt.使感兴趣;使关注**
+     
    - **介词+关系代词通常用来引导定语从句，这种结构通常出现在主句的名词或代词后面，用来修饰或说明这个名词或代词。**
 
      1. **in which: 在其中**
-        **例句：This is the museum in which the ancient artifacts are displayed.(这是展示古代文物的博物馆。)**
+     **例句：This is the museum in which the ancient artifacts are displayed.(这是展示古代文物的博物馆。)**
      2. **of which: 其中的**
         **例句：The house, of which the roof was damaged, needed repairs.(这所屋顶受损的房子需要修理。)**
      3. **for which: 为了哪个**
@@ -6364,7 +6431,7 @@
         **例句：The party will be held at the restaurant at which we had dinner last time.(聚会将在我们上次吃晚饭的餐厅举行。)**
      8. **to which: 到哪个**
         **例句：This is the address to which the letter should be sent.(这是信件应该寄到的地址。)**
-
+   
    - **在正式的英语书面语中，应该用“for whom”引导定语从句，而不是“for who”。因为“whom”是关系代词，代表宾格，而在定语从句中，关系代词所在的位置相当于一个宾语，应该使用宾格形式。虽然在口语或非正式场合中，人们有时可能会使用“for who”，但这在正式的英语书面语中是不被认可的。**
 
      **举个例子：**
@@ -6403,6 +6470,10 @@
     
     <font color=red><strong>as well as连接两个名词时,谓语动词的形式由主语决定,故此处用复数形式; be available for“供……使用,为……所用”。</strong></font>
     
+    - **court**
+    
+      **n. 法院，法庭；球场；王宫，宫廷；朝臣；全体审判人员；庭院，院子；**
+      
     - **regular :**
     
       **adj.定时的，定期的;固定的;正常的;均匀的;有规律的，**
