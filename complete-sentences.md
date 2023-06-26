@@ -6463,7 +6463,11 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>demand“要求”,之后的表语从句中用虚拟语气,即从句的谓语动词用“should+动词原形”,should可省略;send.. . to sb.“把……传送给某人”,此处send与the information 之间为动宾关系,故用被动语态；"referred to in my report"是过去分词作定语，用于修饰 "the information"，表达被动的意思，即“在我报告中提到的信息”。</strong></font>
+   <font color=red><strong>demand“要求”,之后的表语从句中用虚拟语气,即从句的谓语动词用“should+动词原形”,should可省略;send.. . to sb.“把……传送给某人”,此处send与the information 之间为动宾关系,故用被动语态；</strong></font>
+
+   <font color=red><strong>非谓语短语 "referred to in my report" 是对 "information" 进行修饰，作为定语来描述它。要将其改写为定语从句，可以使用关系代词 "that" 或 "which" 引导，并将短语中的介词短语 "in my report" 移至从句中。改写后的句子如下："My demand is that the information that/which is referred to in my report should be sent to Mr Brown without any delay."</strong></font>
+
+   **refer to ：指的是，提及：在谈论、写作或其他形式的交流中提到某个主题、人物或事物。**
 
    1. **command：命令，要求，控制**
    2. **mandate：授权，命令，要求**
@@ -6473,7 +6477,7 @@
    6. **solicit：请求，恳求**
    7. **entreat：请求，乞求**
 
-   这些单词都有表示“要求，请求，控制”等意义，但在不同的语境中可能会有细微的区别。
+   **这些单词都有表示“要求，请求，控制”等意义，但在不同的语境中可能会有细微的区别。**
 
 3. Our school, which<u><font color=red><strong>    was set up         </strong></font></u>in 1945，lies in the south of Changchun City. (set)
 
@@ -6485,37 +6489,60 @@
 
    <font color=red><strong>set up“建立”,与our school之间为动宾关系,故用被动语态,且由时间状语in 1945可知用一般过去时。</strong></font>
 
-   1. **Set up: 建立、设立 **
+   1. **"South" 和 "Southern" 是表示方位或地理位置的词汇，它们有以下区别：**
 
-      **We need to set up a meeting to discuss the new project. (我们需要设立一次会议来讨论新项目。)**
+      1. **South: "South" 是一个名词，表示地球或某个地区的南部。它指的是相对于北方的方向。例如，"I'm traveling to the south for my vacation"（我要去南方度假）。**
+      2. **Southern: "Southern" 是形容词形式，表示与南方有关的或位于南方的。它用来描述地理位置、区域、特征、人群等。例如，"I love the warm climate in the southern region"（我喜欢南方地区的温暖气候）。**
 
-   2. **Set off: 出发、启程 **
+      **场景表达**
 
-      **We set off early in the morning to avoid traffic. (我们一早出发以避开交通拥堵。)**
+      - **表示南部或南方的城市**
+        1. **"Southern city" - 南方城市**
+        2. **A city in southern China 中国南方的城市**
+        3. **"City in the south" - 南方的城市**
+        4. **"City located in the south" - 位于南方的城市**
+        5. **"City in the southern part/region" - 南部地区的城市**
+      - **表示城市的南部**
+        1. **"Southern part/region of the city" - 城市的南部**
+        2. **south China-中国南部；中国南方；华南**
+        3. **"South side of the city" - 城市的南侧**
+        4. **"City located in the southern part/region" - 位于城市南部的地方**
 
-   3. **Settle down: 安定下来、定居 **
+      **总结起来，"South" 表示方位或地理概念中的南方，而 "Southern" 是形容词，用于描述与南方有关的事物。**
 
-      **After years of traveling, she finally settled down in a small town. (多年的旅行之后，她最终在一个小镇安定下来。)**
+   2. **set的短语:** 
 
-   4. **Set aside: 留出、拨出 **
+      1. **Set up: 建立、设立 **
 
-      **He always sets aside time for exercise every day. (他每天都会留出时间进行锻炼。)**
+         **We need to set up a meeting to discuss the new project. (我们需要设立一次会议来讨论新项目。)**
 
-   5. **Set out: 开始、出发、列举 **
+      2. **Set off: 出发、启程 **
 
-      **She set out to write a novel last year. (去年她开始写小说。) / The report sets out the details of the investigation. (这份报告列举了调查的详细内容。)**
+         **We set off early in the morning to avoid traffic. (我们一早出发以避开交通拥堵。)**
 
-   6. **Set back: 推迟、延误 **
+      3. **Settle down: 安定下来、定居 **
 
-      **The bad weather has set back our construction schedule. (恶劣的天气延误了我们的建设进度。)**
+         **After years of traveling, she finally settled down in a small town. (多年的旅行之后，她最终在一个小镇安定下来。)**
 
-   7. **Set in: 开始、到来 **
+      4. **Set aside: 留出、拨出 **
 
-      **The cold weather has set in early this year. (今年寒冷天气来得早。)**
+         **He always sets aside time for exercise every day. (他每天都会留出时间进行锻炼。)**
 
-   8. **Settle up: 结清、付清账款 **
+      5. **Set out: 开始、出发、列举 **
 
-      **I need to settle up with the landlord before moving out. (我需要在搬出前结清与房东的账款。)**
+         **She set out to write a novel last year. (去年她开始写小说。) / The report sets out the details of the investigation. (这份报告列举了调查的详细内容。)**
+
+      6. **Set back: 推迟、延误 **
+
+         **The bad weather has set back our construction schedule. (恶劣的天气延误了我们的建设进度。)**
+
+      7. **Set in: 开始、到来 **
+
+         **The cold weather has set in early this year. (今年寒冷天气来得早。)**
+
+      8. **Settle up: 结清、付清账款 **
+
+         **I need to settle up with the landlord before moving out. (我需要在搬出前结清与房东的账款。)**
 
 4. The more careful you are in the exam,<u><font color=red><strong>       the fewer mistakes        </strong></font></u>you will make. (mistake)
 
@@ -6653,6 +6680,58 @@
 
    **totally : adv.完全地;完全;全部地;整个地**
 
+   **naive ：adj. 天真的，幼稚的；（艺术风格）朴素的，原始的；缺乏阅历的，轻信他人的**
+
+   **fool ：n. 傻瓜，笨蛋；**
+
+   **native language ：母语：一个人从小学习并习惯使用的语言，通常是与家庭和社区有关的语言。**
+
+   **下面是对每个短语的解释以及附带中文意思的例句：**
+
+   1. **Take away from: 从某事物中减损或减弱**
+      
+      **His disruptive behavior took away from the overall enjoyment of the party.（他的不礼貌行为减损了整个派对的乐趣。）**
+
+   2. **Take upon: 承担、自愿负责**
+      
+      **She decided to take the project upon herself and lead the team.（她决定自愿负责该项目，并领导团队。）**
+
+   3. **Take off: 起飞；脱下；快速成功**
+      
+      **The plane is scheduled to take off in 30 minutes.（飞机计划在30分钟后起飞。）**
+      
+      **It's hot outside. I need to take off my jacket.（外面很热，我得脱掉外套。）**
+      
+      **His music career really took off after his hit single was released.（他的音乐事业在发布热门单曲后迅速成功起飞。）**
+
+   4. **Take in: 接受、理解；欺骗；收留**
+      
+      **It took me a while to take in the magnitude of the situation.（我花了一些时间才理解了这种情况的重要性。）**
+      
+      **Don't let them take you in with their false promises.（不要让他们用虚假承诺欺骗你。）**
+      
+      **The kind family took in the homeless puppy and gave it a loving home.（这个善良的家庭收养了无家可归的小狗，并给予它温暖的家庭。）**
+
+   5. **Take up: 开始从事；占据时间/空间**
+      
+      **She decided to take up painting as a hobby.（她决定开始从事绘画作为一项爱好。）**
+      
+      **The large table takes up too much space in the room.（大桌子占据了房间太多的空间。）**
+
+   6. **Take on: 承担、接受；雇佣**
+      
+      **He's willing to take on the responsibility of managing the project.（他愿意承担管理项目的责任。）**
+      
+      **The company decided to take on new employees for the busy season.（公司决定在繁忙季节雇佣新员工。）**
+
+   7. **Take to: 喜欢；开始习惯**
+      
+      **He took to his new job immediately and enjoys it.（他立刻喜欢上了他的新工作，并且很享受。）**
+      
+      **She took to the city life after living in the countryside for years.（在乡村生活多年后，她开始习惯城市生活。）**
+
+   8. **Take up with: 与某人交往；涉及、**
+
 4. Not<u><font color=red><strong>      knowing her address           </strong></font></u>，I might as well telephone her to come over. (know)
 
    我不**知道她的地址**，我还不如打电话让她过来。
@@ -6665,18 +6744,87 @@
 
    <font color=red><strong>I 与not know之间为逻辑上的主动关系,故用动词-ing形式作状语,表示原因。</strong></font>
 
-   - **might as well  只好(做);(做…)也无妨;(几乎)和…一样**
+   - **come over  过来;抓住;发生;**
 
-     **If no one else wants it, we might as well give it to him. （如果没人要这个，我们不妨给他吧。）**
+     **以下是一些常见的与动词 "come" 相关的固定搭配词组：**
 
-   -  **come over  过来;抓住;发生;**
+     1. **Come across: 偶然遇到；显得**
+        - **I came across an interesting book while cleaning the attic.（在清理阁楼时，我偶然发现了一本有趣的书。）**
+        - **She comes across as confident and knowledgeable in her presentations.（她在演讲中显得自信而有见识。）**
+
+     2. **Come along: 前来；进展；成长**
+        - **Why don't you come along to the party with us?（你为什么不和我们一起去参加派对呢？）**
+        - **The project is coming along nicely. We're making good progress.（这个项目进展顺利，我们正在取得良好的进展。）**
+        - **He has really come along since he started taking music lessons.（自从他开始学音乐课程后，他的进步真的很大。）**
+
+     3. **Come back: 回来；恢复；回忆**
+        - **When will you come back from your vacation?（你什么时候从度假回来？）**
+        - **She is slowly coming back from her illness and getting better.（她正在慢慢康复，病情好转。）**
+        - **The old photographs make me come back to my childhood memories.（这些旧照片让我回忆起我的童年记忆。）**
+
+     4. **Come in: 进来；获得接纳；发生**
+
+        - **Please come in and have a seat.（请进来，坐下吧。）**
+        - **His hard work and dedication helped him come in as the top candidate for the job.（他的努力和奉献使他成为该职位的最佳候选人。）**
+        - **The news came in that the event had been canceled due to bad weather.（消息传来，由于天气不好，该活动已取消。）**
+
+     5. **Come up with: 提出；想出**
+
+        - **We need to come up with a solution to this problem.（我们需要提出一个解决这个问题的方案。）**
+        - **She always comes up with creative ideas for our marketing campaigns.（她总是为我们的营销活动想出有创意的主意。）**
+
+        **补充："Put up with" 意味着容忍、忍受或忍耐某事物，**
+
+     6. **Come to: 苏醒；总计；达成**
+        - **After the accident, he fainted but quickly came to.（事故发生后，他昏倒了，但很快苏醒过来。）**
+        - **The total cost of the project came to $10,000.（该项目的总费用为1万美元。）**
+        - **After much negotiation, they finally came to an agreement.（经过多次协商，他们最终达成了协议。）**
+
+     7. **Come over: 过来、顺便拜访**
+
+        - **Please come over to my house for dinner tonight.（今晚请过来我家吃饭。）**
+        - **I'll come over and help you with your homework later.（我会过来帮你做作业的。）**
+
+     8. **Come up: 发生、出现、提出**
+
+        - **A great opportunity has come up for me to study abroad.（我有一个出国留学的绝佳机会。）**
+        - **He came up with a brilliant idea to solve the problem.（他提出了一个解决问题的绝妙想法。）**
+
+   - **"Might as well"：这个短语表示 "不妨、倒不如" 的意思，用于表达建议、提议或认为某种行为是合理或有益的。**
+
+     - **Since it's raining outside, we might as well stay at home and watch a movie. （既然外面下雨了，我们倒不如待在家里看电影。）**
+     - **If no one else wants it, we might as well give it to him. （如果没人要这个，我们不妨给他吧。）**
 
    - **"As well"是一个常用的短语，在英语中有多种用法：**
 
-     1. **"As well" 可以表示“也、同样”。例如：“She speaks Spanish as well as French.”（她不仅会说法语，也会说西班牙语。）**
+     1. **"As well" 可以表示“也、同样”。例如：“She speaks French fluently, and she plays the piano well as well.”（她不仅法语说得很流利，钢琴她也弹得很好。）**
      2. **"As well" 也可以表示“也要、也可以”。例如：“I'll have a coffee as well.”（我也要一杯咖啡。）**
      3. **"As well" 还可以表示“此外、另外、还有”。例如：“We need eggs, milk, and bread. Oh, and butter as well.”（我们需要鸡蛋、牛奶和面包。哦，还有黄油。）**
      4. **"As well" 还可以表示“同样地、也一样”。例如：“He's always working hard and expects others to do the same as well.”（他总是很努力工作，也期待别人也一样。）**
+     
+   - **"As well as" 是一个常用的短语，表示除了某人或某物之外还有其他人或其他事物。它用于添加附加项、提及其他相关事物或表示并列关系。**
+
+     **以下是一些关于 "as well as" 的用法和例句：**
+
+     1. **表示并列关系：**
+        - **She is talented in both singing and dancing, as well as acting.**
+          **（她不仅唱歌跳舞有天赋，演戏也很出色。）**
+        - **The company offers various benefits to its employees, such as health insurance, retirement plans, as well as paid time off.**
+          **（公司为员工提供各种福利，例如医疗保险、退休计划，以及带薪休假。）**
+
+     2. **添加附加项：**
+        - **He ordered a pizza with extra cheese, as well as a side of garlic bread.**
+          **（他点了一份加了额外奶酪的披萨，还有一份蒜蓉面包。）**
+        - **The conference attendees received a conference bag, which included a notepad, pen, as well as informational brochures.**
+          **（会议参与者收到了一只包含记事本、笔，以及信息手册的会议袋。）**
+
+     3. **提及其他相关事物：**
+        - **The book covers a wide range of topics, including history, science, as well as art and culture.**
+          **（这本书涵盖了广泛的主题，包括历史、科学，以及艺术和文化。）**
+        - **The team members come from different backgrounds, such as engineering, finance, as well as marketing.**
+          **（团队成员来自不同的背景，例如工程、财务，以及市场营销。）**
+
+     **总之，"as well as" 用于添加附加项、提及其他相关事物或表示并列关系。它在句子中起连接作用，使句子更具丰富性和完整性。**
 
 5. They sometimes<u><font color=red><strong>      found it is difficult/hard to concentrate        </strong></font></u>when reading, but fortunately, their teacher helped them out at last. (concentrate)
 
@@ -6689,6 +6837,12 @@
    <font color=red><strong>it在句中作形式宾语，真正的宾语是后面的不定式短语。</strong></font>
 
    **help sb out ：帮助某人;帮助某人解决难题，帮助某人摆脱困境，帮助某人完成工作**
+
+   **concentrate : v. 集中注意力，聚精会神；使集中，聚集；浓缩**
+
+   **at last ：终于，最后：表示经过一段时间或经历一些困难后，最终实现了某个目标或达到了某个状态。**
+
+   **at least ：至少：表示数量或程度的最低限度，用于强调某事物不会比这个限度更少或更低。**
 
 6. It was still uncertain<u><font color=red><strong>        whether he would go along           </strong></font></u>with us to visit our teacher. (go)
 
@@ -6705,6 +6859,10 @@
    - <strong>I will go along with your plan.（我会支持你的计划。）</strong>
    - <strong>She decided to go along with her friends to the party.（她决定和她的朋友一起去参加聚会。）</strong>
 
+   **uncertain ：adj. 犹豫的，无把握的；无法确知的，不确定的；多变的，难预料的；信心不足的；**
+
+   **certain ：adj. 必然的，必定的；确定的，无疑的；某个，特定的；**
+
 7. It is the protection of trees<u><font color=red><strong>      that matters         </strong></font></u>,rather than how many trees are planted. (matter)
 
    **重要的**是保护树木而非种了多少树木。
@@ -6714,6 +6872,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>该句中用到了强调句式“It+be+被强调部分+that...”,被强调部分为“the protection of trees”,其中 that不能省略。</strong></font>
+
+   rather than : 而不，而不是：表示在两个选择中，不应该做出某个选择。
 
 8. Their performance includes rhythm and rhyming words as well as tongue twister, which<u><font color=red><strong>    makes the audience applaud       </strong></font></u>.(make)
 
@@ -6734,6 +6894,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>whatever引导宾语从句,开在从句中作宾语。</strong></font>
+
+   **Stick : v. 粘，贴；铭记在心，经久不忘；刺，扎，戳；（随便）摆放，放置；伸出，突出；n. 枯枝，枝条；条状物，棍状物；（用于某特定用途的）棍，条，签；球棍，球棒；指挥棒；**
 
    **"Stick to"是一个短语动词，意为“坚持；遵守；忠于”。例如：**
 
@@ -6756,6 +6918,22 @@
     <strong>解析：</strong>
     
     <font color=red><strong>no sooner.. . than.. .“—……就…·引导时间状语从句。</strong></font>
+    
+    **英语中有一些常用的表示"一...就..."的短语，其中包括 "No sooner...than..."。以下是几个常见的表示这种意思的短语及其用法：**
+    
+    1. **No sooner...than... ：这个短语用于表示某个动作或事件刚刚发生，另一个动作或事件立即紧随其后。**
+       
+       **No sooner did I finish my work than the phone rang.（我刚完成工作，电话就响了。）**
+       
+    2. **Hardly...when... ：这个短语用于表示某个动作或事件几乎没有发生，另一个动作或事件立即发生。**
+       
+       **Hardly had I left the house when it started to rain.（我刚离开房子，天就开始下雨了。）**
+       
+    3. **Scarcely...when... ：这个短语与 "hardly...when..." 的用法类似，表示某个动作或事件几乎没有发生，另一个动作或事件立即发生。**
+       
+       **Scarcely had she closed her eyes when the alarm clock went off.（她刚闭上眼睛，闹钟就响了。）**
+    
+    **这些短语常用于表示两个动作或事件之间的紧密关系，强调它们之间的迅速或几乎同时发生。使用这些短语可以使句子更具表达力和流畅性。**
 
 
 
@@ -6795,6 +6973,10 @@
 
    - **qualification ：n.(通过经验或具备技能而取得的)资格;资历;学历;限定条件;获得资格**
 
+   **regret doing ：后悔做：表示对过去某个行为或决定感到遗憾或懊悔。**
+
+   **I regret doing that. (我后悔做了那件事。)**
+
 3. I'm afraid you cannot listen to the weather report now. The radio I<u><font color=red><strong>       had repaired         </strong></font></u>yesterday is broken again today. (repair)
 
    恐怕你现在不能听天气预报。昨天我**让人修**的收音机今天又坏了。
@@ -6813,13 +6995,13 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>由语境及关键词or可知,此处是对过去情沉的否定虚拟,此时主句谓语动词用couldn't/wouldn't have done的形式。</strong></font>
+   <font color=red><strong>由语境及关键词or可知,此处是对过去情况的否定虚拟,此时主句谓语动词用couldn't/wouldn't have done的形式。</strong></font>
 
-   be worth to：值得做
+   **be worth to：值得做**
 
 5. <u><font color=red><strong>   It is a matter of time         </strong></font></u>before they will discover that John has left. (matter)
 
-   他们会发现约翰已经离开了,**这只是个时间问题**。
+   他们会发现约翰已经离开了，**这只是个时间问题**。
 
    <font color=red><strong>It is a matter of time</strong></font>
 
@@ -6845,7 +7027,7 @@
 
 7. He lost his job and meanwhile, the house was too expensive, so he couldn't afford<u><font color=red><strong>       to buy it         </strong></font></u>.(buy)
 
-   他失业了，同时房子也太贵了,因此他**买不起**。
+   他失业了，同时房子也太贵了，因此他**买不起**。
 
    <font color=red><strong>to buy it</strong></font>
 
@@ -6862,7 +7044,7 @@
 
 8. Sometimes cells either divide too fast or at the wrong time,<u><font color=red><strong>        which makes it difficult        </strong></font></u>for the body to function properly. (make)
 
-   有时细胞要么分裂得太快要么分裂得不是时候,**这使**身体难以准确地运行。
+   有时细胞要么分裂得太快要么分裂得不是时候，**这使**身体难以准确地运行。
 
    <font color=red><strong>which makes it difficult</strong></font>
 
@@ -6872,12 +7054,14 @@
 
    1. **properly：*adv.*正确地，适当地；得体地，恰当地；实际上，严格地说；彻底地**
 
-   2. **function ：**
+   2. **divide ：v. （使）分开，分散；分担；使分离；分隔；使产生分歧；除，除以；n. 差异，分歧；**
+
+   3. **function ：**
 
       - **n. 功能，职责；宴会，典礼；函数，应变量；由其他事情造成的结果；子例行程序，子例程；官能团，功能团**
       - **v. 工作，运转；行使职责，发挥功能**
 
-   3. **"Either", "neither", 和 "nor" 都是用于表示否定选择或否定关系的词语，它们在句子中起到连接的作用。**
+   4. **"Either", "neither", 和 "nor" 都是用于表示否定选择或否定关系的词语，它们在句子中起到连接的作用。**
 
       1. **"Either" （或者）用于表示在两个选择之间的肯定关系。它通常与 "or" 连用，用于在肯定的选择之间做出选择。**
 
@@ -6922,6 +7106,15 @@
     
     <font color=red><strong>表示“大概”应用情态动词may或might;此处表示对过去情况的推测,其后接have done的形式。</strong></font>
     
+    **crowd ：n. 人群；一伙人；百姓，凡夫俗子；（尤指体育运动赛事的）观众，听众；v. 聚集，群集；靠近，盯着**
+    
+    **crowded ：adj. 拥挤的，塞满的**
+    
+    **flood ：v. （使）淹没；泛滥；大量涌来，大量涌去；（感觉或回忆）；n. 洪水，水灾；大批，大量**
+    
+    **flood out ：淹没：指大量的水涌入某个地区，导致该地区被水淹没。**
+    
+    **flood out of ：涌出**
 
 
 
@@ -6965,6 +7158,7 @@
    <font color=red><strong>what 引导宾语从句,并在从句中作宾语,相当于 all that,其中 that 可省略。</strong></font>
 
    - **have a responsibility towards ：对…有责任**
+   - **responsible ：*adj.*（对某人、某事）负责的；（对事故、错误、罪行等）负有责任的，应承担责任的；（工作或职位）重要的，责任重大的；可靠的，负责任的；**
    - **be responsible for :对……负责；是……的原因**
 
 4. As time went by, the new idiom <u><font color=red><strong>     came into being      </strong></font></u>and was widely used later. (come)
@@ -7007,9 +7201,9 @@
 
    <font color=red><strong>此为 how 引导的特殊疑问句；respond后跟宾语时，宾语前应加介词 to。</strong></font>
 
-   1. **propose ：提议做某事**
+   1. **propose doing ：建议/提议做某事：表示提出一个建议或计划，希望别人采纳或同意。**
 
-      **What do you propose doing next?**
+      **What do you propose doing next?(接下来你打算做什么?)**
 
    2. **purpose ：*n.*目的，意图；目标，计划；（达到生活中目标的）决心；*v.*有意，打算**
 
