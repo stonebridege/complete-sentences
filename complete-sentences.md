@@ -5838,11 +5838,63 @@
 
    <font color=red><strong>at no time置于句首时句子用部分倒装,句中可用一般过去时也可用过去完成时;exam,examination要用复数形式。</strong></font>
 
-   - **argue ：v.争论;争吵;争辩;论证;说理;证明;表明**
+   - **means : n. 方法，手段；财富，金钱；v. 表示……的意思**
+
+   - **pursue ： v. 追求，致力于，执行；继续探讨（或追究、从事）；追逐，跟踪，追赶；沿着……前行；**
+
+   - **purpose ：*n.*目的，意图；目标，计划；（达到生活中目标的）决心，毅力；（情势等的）需要，用意（purposes）；*v.*有意，打算**
+
    - **stimulating ：adj.趣味盎然的;激励人的;振奋人心的; v.促进;激发;激励;刺激;使兴奋**
+
    - **stimulate ：vt.促进;激发;激励;刺激;使兴奋;促进(身体某部分)的功能**
+
    - **pupils ：学生;(尤指)小学生**
+
    - **pursue ：v.追求;致力于;执行;**
+
+   - **argue ：v.争论;争吵;争辩;论证;说理;证明;表明**
+
+     **在英语中，表示 "证明...看法，表明...态度" 的方式有几种，具体取决于句子的语境和意图。以下是几种常见的表达方式：**
+
+     1. **Demonstrate: 表示通过事实、证据或行动来证明某种观点或态度。**
+        - **The research data demonstrates the effectiveness of the new treatment.（研究数据证明了新治疗的有效性。）**
+        - **Her actions demonstrated her commitment to social justice.（她的行动表明了她对社会正义的承诺。）**
+
+     2. **Show/Indicate/Reveal:  表示通过展示、指示或揭示某种证据或迹象来支持特定的观点或态度。**
+        - **The survey results show a high level of satisfaction among customers.（调查结果显示顾客的满意度很高。）**
+        - **His words indicated a lack of confidence in the proposal.（他的言辞显示出对提议缺乏信心。）**
+        - **The report reveals a growing trend of online shopping.（报告揭示了网购的增长趋势。）**
+
+     3. **Prove/Establish: 表示通过充分的证据或论证来证明某种观点或立场。**
+        - **The experiment proved that the hypothesis was correct.（实验证明了假设是正确的。）**
+        - **The lawyer tried to establish the defendant's innocence.（律师试图证明被告的无辜。）**
+
+     4. **Support/Substantiate: 表示提供证据、事实或逻辑支持来证实某种观点或主张。**
+        - **The research findings support the theory of climate change.（研究结果支持气候变化理论。）**
+        - **Can you substantiate your claims with concrete evidence?（你能用具体证据证实你的说法吗？）**
+     5. **argue ：它更多地强调通过论述、争论或提供论据来支持或反驳某种观点。**
+
+   - **regard : v. 认为，把……看作；<正式>（尤指以某种方式）注视，凝视；**
+
+     **在英语中，表示 "认为，把...看作" 的方式有几种，包括以下几种常见的表达方式：**
+
+     1. **Consider:后接名词或名词性短语，表示将某物视为特定的事物或状态。**
+        - **I consider him a close friend.（我认为他是个亲密的朋友。）**
+        - **They consider this project a success.（他们认为这个项目是成功的。）**
+
+     2. **Regard/View: 后接名词或名词性短语，表示把某物视为特定的事物或状态。**
+        - **I regard him as a reliable colleague.（我把他看作一个可靠的同事。）**
+        - **She views art as a form of self-expression.（她把艺术视为一种自我表达的形式。）**
+
+     3. **See: "see" 后接名词或名词性短语，表示以某种方式理解或认知某事物。**
+        - **I see this as an opportunity rather than a setback.（我把这个视为机会而不是挫折。）**
+        - **They see him as a potential candidate for the position.（他们认为他是这个职位的潜在候选人。）**
+
+     4. **Consider/Think of: "consider" 或 "think of" 后接名词或名词性短语，表示考虑或将某事物视为某种形式。**
+        - **We should consider the environment in our decision-making.（我们在决策时应考虑环境因素。）**
+        - **She thinks of him as a mentor and role model.（她把他看作导师和榜样。）**
+
+     **这些表达方式可以根据具体语境和意图进行选择和灵活运用，它们都可以用于表达个人的看法、观点或观察。**
 
 2. Far from<u><font color=red><strong>      being a modest person       </strong></font></u>，she would make use of every possible chance to show off what she had achieved. (modest)
 
@@ -5854,6 +5906,19 @@
 
    <font color=red><strong>根据提示及 far from的用法,此处用动词-ing形式作介词的宾语。</strong></font>
 
+   1. **modest ：adj. 不太多的，适中的；谦虚的，谦逊的；保守的，端庄的；不错的；**
+
+   1. **make use of : 利用：有效地使用某物或某种资源。**
+
+   1. **make good use of : 充分利用：有效地使用某物或某种资源，以达到预期的目的或效果。**
+
+   1. **show off ：炫耀：为了引起他人的注意或赞美而展示自己的才能、成就或拥有的东西。**
+
+      1. **show up: 出现，露面 (She didn't show up for the meeting.)**
+      2. **show around: 带领参观(She showed her friends around her hometown.)**
+      3. **show interest: 表示兴趣(He showed a lot of interest in the project.)**
+      4. **show appreciation: 表示感激(She showed her appreciation by sending a thank-you note.)**
+      
    1. **Far from" 是一个英语短语，表示某事与某种期望或预期的情况完全相反，常用于修饰形容词或副词。**
 
       1. **Far from being happy, he was miserable.（他并不快乐，相反很痛苦。）**
@@ -5872,14 +5937,22 @@
 
    <font color=red><strong>句中时态为一般过去时,表示“不会,不可能”用 wouldn't 或couldn't; be foolish to do sth.“做某事愚蠢”。</strong></font>
 
-   **英语中有so...as...句型，用于比较两个事物的相似程度。这个句型通常用于肯定句，表达“像……一样”的意思。其结构为：so + 形容词/副词原级 + as + 名词短语/从句。**
-
-   - **She is so beautiful as to be mistaken for a movie star.（她非常漂亮，以至于被误认为是电影明星。）**
-   - **He runs so fast as to break the world record.（他跑得如此快，以至于打破了世界纪录。）**
+   1. **"so...as to..." : 表示"如此……以至于……"的含义。它强调某种结果或后果是由前面所描述的原因或条件所引起的。这个结构常用于描述因果关系或结果关系，特别是在强调结果的程度或意外性方面。**
+      - **She is so beautiful as to be mistaken for a movie star.（她非常漂亮，以至于被误认为是电影明星。）**
+      - **He runs so fast as to break the world record.（他跑得如此快，以至于打破了世界纪录。）**
+   2. **"so as to do" ：表示目的或目标。它表达了某个行为、动作或决定是为了达到特定的目的或目标。**
+      - **She woke up early so as to catch the first bus.（她早起是为了赶上第一班公交车。）**
+      - **He studied hard so as to pass the exam.（他努力学习是为了通过考试。）**
+   3. **"so...that..." ：表示结果或影响。它表达了某个情况或条件如此强烈或明显，以至于产生了特定的结果。**
+      - **The rain was so heavy that we couldn't go outside.（雨下得太大，以至于我们无法出去。）**
+      - **He was so tired that he fell asleep immediately.（他太累了，以至于立刻睡着了。）**
+   4. **"so that" ：表示目的或结果，表达"如此……以至于……"的含义。它连接两个子句，前半句描述一个行动或情况，后半句说明这个行动或情况的目的或结果。**
+      - **I woke up early so that I could catch the first train.（我早起是为了能赶上第一班火车。）**
+      - **She studied hard so that she could pass the exam.（她努力学习是为了能通过考试。）**
 
 4. No matter what he says now I do believe that he as well as I<u><font color=red><strong>      is responsible for       </strong></font></u>it. (responsible)
 
-   不管他现在说什么,我坚持认为他和我一样对这件事是**有责任的**。
+   不管他现在说什么，我坚持认为他和我一样对这件事是**有责任的**。
 
    <font color=red><strong>is responsible for</strong></font>
 
@@ -5897,9 +5970,20 @@
 
    <font color=red><strong>in a word“总而言之”。</strong></font>
 
+   **"like to do sth"和"like doing sth"都表示喜欢做某事，但它们在语法和用法上略有不同。**
+
+   - **"like to do sth"中的不定式"to do"表示动作的目的或意图，强调倾向或意愿。它通常用于描述个人的偏好、选择或习惯。**
+     1. **I like to read books in my free time.（我喜欢在空闲时间阅读书籍。）**
+     2. **He likes to play soccer on weekends.（他喜欢在周末踢足球。）**
+   - **"like doing sth"中的动名词"doing"表示持续的动作或习惯性的行为。它强调对某个活动的享受或乐趣。**
+     1. **I like reading books.（我喜欢阅读书籍。）**
+     2. **She likes swimming in the ocean.（她喜欢在海里游泳。）**
+
+   **需要注意的是，"like to do sth"更注重动作本身，而"like doing sth"更注重对动作的感受或享受。然而，在很多情况下，这两种形式可以互换使用，并没有明显的区别。选择使用哪种形式更多取决于个人偏好和上下文。**
+
 6. The city has become<u><font color=red><strong>    more and more beautiful       </strong></font></u>thanks to the environment improvement program. (beautiful)
 
-   多亏了这一改善环境的工程,这个城市变得**越来越美丽**了。
+   多亏了这一改善环境的工程，这个城市变得**越来越美丽**了。
 
    <font color=red><strong>more and more beautiful</strong></font>
 
@@ -5909,6 +5993,23 @@
 
    **improvement ：n.改善;改进;改进处;改善的事物**
 
+   **program ：n. （计算机）程序（=programme）；计划，规划；（音乐会、戏剧等演出的）节目单，（体育运动、比赛等的）项目介绍；（电视或广播）节目；<美>课程，大纲**
+
+   **thanks to ：由于，归功于：表示某事的发生或成功是由于某人或某事的帮助。**
+
+   **英语中表示"由于"或"归功于"的常用短语包括：**
+
+   1. **Due to：由于**
+   2. **Owing to：由于**
+   3. **Thanks to：多亏了，幸亏**
+   4. **As a result of：由于，作为...的结果**
+   5. **Because of：因为**
+   6. **On account of：由于，因为**
+   8. **On the grounds that：基于...的理由**
+   9. **Through：通过，由于**
+
+   **这些短语可以根据具体的语境和语气进行选择，用来表达因果关系或归因原因。**
+
 7. <u><font color=red><strong>        The instant I went upstairs      </strong></font></u>into the master bedroom I told Hilary we had to buy the house., (instant)
 
    **我一上楼走进**主卧室,我就告诉希拉里说,"这房子我们买定了"
@@ -5917,7 +6018,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>the instant“一……一就……引导时间状语从句。</strong></font>
+   <font color=red><strong>the instant“一……就……引导时间状语从句。</strong></font>
 
    **master n.(男)主人，雇主;主宰;有控制力的人;**
 
@@ -5930,6 +6031,10 @@
    <strong>解析：</strong>
 
    <font color=red><strong>keep sth doing“使某物做某事”,动词-ing形式作宾语补足语。</strong></font>
+
+   **widely ：adv. 普遍地，广泛地，范围广地；大不相同**
+
+   **wide ：adj. 广泛的；宽的，广阔的；张大的；远离目标的；adv. 广泛地；广阔地；充分地**
 
    **smoothly ：adv.平稳地;顺利地;连续而流畅地;平静地;自信地;平整地**
 
@@ -5954,6 +6059,16 @@
     <strong>解析：</strong>
     
     <font color=red><strong>表语从句的引导词在从句中作时间状语,故用when.</strong></font>
+    
+    **英语中表示"玩的开心"的常用短语包括：**
+    
+    1. **Have a great/good time：玩得开心，度过愉快的时光**
+    2. **Enjoy oneself：玩得愉快，过得开心**
+    3. **Have a good laugh：笑得开心，开怀大笑**
+    4. **Have a memorable experience：留下难忘的经历**
+    5. **have great fun ：非常开心：指在某个活动或场合中度过愉快的时光，享受到很多乐趣。**
+    
+    **这些短语可以用来形容玩耍、享受活动、度过愉快的时光等情况，表达玩得开心的心情和体验。**
 
 
 
@@ -5976,10 +6091,10 @@
    **以下是几个使用"but for"的例子：**
 
    1. **But for the rain, we would have gone for a picnic.**
-     **如果不是下雨，我们本来会去野餐的。**
+       **如果不是下雨，我们本来会去野餐的。**
 
    2. **But for her quick thinking, the accident could have been much worse.**
-     **如果不是她反应迅速，这起事故本可以更糟糕。**
+       **如果不是她反应迅速，这起事故本可以更糟糕。**
 
    **在这些例子中，"but for"引导了一个虚拟的条件从句，描述了与实际情况相反的假设或推测。它表达了因果关系，指示如果条件不成立，结果会发生变化。**
 
@@ -6411,7 +6526,7 @@
    - **places of interest ：名胜古迹**
 
    - **interest ：n.兴趣;关注;引人关注的性质;吸引力;趣味;业余爱好;利益;利息;好处;（企业或公司的）股份;利害关系;同行**
-  **vt.使感兴趣;使关注**
+    **vt.使感兴趣;使关注**
      
    - **介词+关系代词通常用来引导定语从句，这种结构通常出现在主句的名词或代词后面，用来修饰或说明这个名词或代词。**
 
