@@ -5545,15 +5545,25 @@
 
    <font color=red><strong>in return“作为报答”。</strong></font>
 
+   **take in : 吸收：接收并理解信息或知识；欣赏：观看或参观某事物以获得愉悦或满足；收留：为某人提供临时住所；**
+
+   **breathe out : 呼气：指将体内的废气通过呼吸道排出体外的过程。**
+
+   **breathe */*briːð*/*：v. 呼吸；呼出，吐出；**
+
+   **breath /*breθ*/：n. 呼吸，气息；一次吸入的空气；**
+
 2. Peter's jacket looked just the same as Jack's, but it cost <u><font color=red><strong>   double as much as     </strong></font></u> his. (much)
 
-   彼得的夹克看上去和杰克的一模一样,但价格却是他的**两倍多**。
+   彼得的夹克看上去和杰克的一模一样，但价格却是他的**两倍多**。
 
    <font color=red><strong>twice/double as much as</strong></font>
 
    <strong>解析：</strong>
 
    <font color=red><strong>倍数修饰原级比较结构时,其结构为“倍数+as+形容词/副词的原级+as"。</strong></font>
+
+   **look the same ：看起来一样：指两个或多个事物在外观、特征或属性上具有相似性，使人难以区分。**
 
 3. Einstein liked Bose's paper so much that he <u><font color=red><strong>    set aside      </strong></font></u>his own work and translated it into German. (set)
 
@@ -5565,6 +5575,8 @@
 
    <font color=red><strong>set aside“把……放到一边”。</strong></font>
 
+    **translate into English：翻译成英文，翻译成英语**
+
 4. Don't tell him the good news until<u><font color=red><strong>     the match finishes     </strong></font></u>.Otherwise he will be too excited to concentrate on the match. (finish)
 
    等到**比赛结束**后再告诉他这个好消息。否则他会太激动而不能集中精力比赛的。
@@ -5574,6 +5586,28 @@
    <strong>解析：</strong>
 
    <font color=red><strong>根据句意“比赛结束”是将来要发生的事情,until引导的时间状语从句中常用一般现在时表示将来意义。</strong></font>
+
+   **concentrate ：v. 集中注意力，聚精会神；使集中，聚集；浓缩**
+
+   **"concentrate" 是一个多义词，具有多种用法。下面是几个常见的用法：**
+
+   1. **集中注意力：指将全部或主要注意力聚焦在某个事物或任务上。concentrate on doing（专注于做某事：把注意力、精力集中在某个任务或活动上，全身心投入。）**
+      - **I need to concentrate on studying for my exam.（我需要集中注意力复习考试。）**
+      - **It's hard to concentrate when there is so much noise.（当有这么多噪音时很难集中注意力。）**
+      
+   2. **浓缩，凝聚：指将液体或气体减少量，使其变得更浓或更密集。**
+      - **The juice needs to be concentrated before it is bottled.（果汁在装瓶之前需要浓缩。）**
+      - **The chemist concentrated the solution by evaporating the solvent.（化学家通过蒸发溶剂将溶液浓缩。）**
+      
+   3. **聚集，集中：指使人或事物集中在一起或在某个区域内。**
+      - **The protesters concentrated in front of the government building.（抗议者聚集在政府大楼前。）**
+      - **The company decided to concentrate its operations in one location.（公司决定将业务集中在一个地点。）**
+      
+   4. **强调，着重：指将重点放在某个方面或某个问题上。**
+      - **The professor concentrated on the main points of the lecture.（教授着重讲解了讲座的主要观点。）**
+      - **The campaign concentrated its efforts on reaching young voters.（这个活动集中精力争取年轻选民的支持。）**
+
+   **这些是 "concentrate" 的一些常见用法，具体的用法会根据上下文而有所变化。**
 
 5. In our city there are several big public parks <u><font color=red><strong>     where many people go     </strong></font></u>to enjoy the beautiful scene. (go)
 
@@ -5585,6 +5619,36 @@
 
    <font color=red><strong>定语从句的先行词是表示地点的parks,引导词在从句中作地点状语,故用where,根据go to...的搭配还可用to which代替。</strong></font>
 
+   **英语中表示风景和景色的名词有许多。以下是一些常见的词汇：**
+
+   1. **View - 视野，景色**
+   2. **Landscape - 风景，景色**
+   3. **Scenery - 风景，景色**
+   4. **Panorama - 全景，全景画面**
+   5. **Vista - 风景，远景**
+   6. **Sight - 景色，景观**
+   7. **Outlook - 视野，景色**
+   8. **Beauty - 美景，美丽的风景**
+   9. **Nature - 自然景色**
+   10. **Wilderness - 荒野，野外景色**
+
+   **这些词汇可以用来描述不同类型的风景和景色，具体的选择取决于上下文和所要表达的意义。**
+
+   **在英语中，用来描述风景和景色的名词有很多。以下是一些常见的词汇，以及它们通常用来描述的景色类型：**
+
+   1. **Cityscape - 城市景色**
+   2. **Seascape - 海景**
+   3. **Landscape - 乡村风景**
+   4. **Countryside - 农村景色**
+   5. **Mountain scenery - 山景**
+   6. **Coastal scenery - 海岸风景**
+   7. **Forest scenery - 森林景色**
+   8. **Desert landscape - 沙漠景观**
+   9. **Waterfall - 瀑布**
+   10. **Beach view - 海滩景色**
+
+   **这些词汇可用于描述各种类型的景色，从城市的高楼大厦到自然环境的山脉、河流和森林等。具体使用哪个词汇取决于你要描述的景色类型。**
+
 6. The fact that smoking is harmful to health is <u><font color=red><strong>     admitted by most smokers       </strong></font></u>.( admit)
 
    吸烟有害健康的事实是**大多数吸烟者承认的**。
@@ -5595,6 +5659,8 @@
 
    <font color=red><strong>is后可以看成是 what引导的表语从句,也可以看成是被动结构。</strong></font>
 
+   **be harmful to ：对……有害**
+
 7. To their surprise, they found that the lecture given by the famous professor <u><font color=red><strong>    was easy to understand     </strong></font></u>(understand)
 
    让他们吃凉的是，他们发现这位著名教授的讲座**容易理解**。
@@ -5604,6 +5670,12 @@
    <strong>解析：</strong>
 
    <font color=red><strong>句中时态为一般过去时;be easy to do sth.“做某事容易”。</strong></font>
+
+   **lecture ：n. 讲座，讲课，演讲；训斥，告诫;v. （尤指在大学里）开讲座，讲课；训斥，告诫**
+
+   **speech ：n. 演说，发言，谈话；说话的能力；说话方式；口语，言语；**
+
+   **To their surprise，：使他们吃惊的是 /令他们惊讶 /使……惊奇的是 /使他们惊奇的是**
 
 8. If I <u><font color=red><strong>    had said sorry         </strong></font></u> to him yesterday, he wouldn't be angry now. (say)
 
@@ -5623,7 +5695,9 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>否定词never 置于句首时,句子用部分倒装,且根据句意用现在完成时。</strong></font>
+   <font color=red><strong>否定词never置于句首时,句子用部分倒装,且根据句意用现在完成时。</strong></font>
+
+   **Never before ：前所未有：表示某事在过去从未发生过，强调其独特性和重要性。后面句子用部分倒装**
 
 10. <u><font color=red><strong>     What is reported        </strong></font></u>in the newspaper is that seventeen climbers have been killed in the avalanche.(report)
 
@@ -5634,6 +5708,8 @@
     <strong>解析：</strong>
 
     <font color=red><strong>主语从句中的引导词在从句中作主语,表示具体意义,用 what.</strong></font>
+    
+    **avalanche ：n. 雪崩，山崩；突然出现的大量事物；大量崩塌物；**
 
 
 
@@ -5649,7 +5725,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>however引导让步状语从句时,其后跟形容词或副词,此处表示“努力”用 hard。</strong></font>
+   <font color=red><strong>however引导让步状语从句时,其后跟形容词或副词,此处表示“努力”用 hard。疑问词-ever相当于“no matter十疑问词”，形式上的倒装，表语提前。</strong></font>
 
    - **hard ：adj.坚固的;坚硬的;结实的;adv.努力地;费力地;艰难地;**
 
@@ -5669,11 +5745,10 @@
 
    - **end up with：〈非正〉以…结束**
 
-     **The weakest students can end up with a negative score.** 
-
-     **最差的学生可能会以负分收场。**
+     **The weakest students can end up with a negative score.(最差的学生可能会以负分收场。)** 
 
 2. A meteor exploded over this area. So far about 1, 200 people are reported <u><font color=red><strong>       to have been injured       </strong></font></u>.(injure)
+
    一颗陨石在这个地区上空爆炸。到目前为止，据报已有大约1,200人**受伤**。
 
    <font color=red><strong>to have been injured</strong></font>
@@ -5681,10 +5756,24 @@
    <strong>解析：</strong>
 
    <font color=red><strong>be reported to do sth.“据报道…”，此处不定式表示的动作发生在be reported之后,且由时间状语可知用现在完成时。</strong></font>
-   
+
+   **meteor ：n. 流星；大气现象**
+
    **So far：目前为止，迄今为止;（只能到）如此程度，这个地步**
-   
+
+   **explode : v. （使）爆炸，（使）爆破；急剧扩大，激增；（情感）迸发，爆发；**
+
+   **explore ：v. 探讨，探究；考察，探索；（用手或身体其他部位）探查，仔细检查**
+
+   **bomb ：n. 炸弹，爆炸装置；失败的东西；长传，长传球；大笔钱；**
+
+   **blow up ：1.爆炸：指物体因内部压力突然增大而破裂，通常伴随着大量能量的释放。**
+   **2.气球充气：给气球注入气体，使其膨胀。**
+   **3.放大：将照片、图像等放大到更大的尺寸。**
+   **4.突然发怒：因某事突然变得非常生气。**
+
 3. Mary<u><font color=red><strong>    couldn't have referred to       </strong></font></u>the dictionary,  because she didn't give me an accurate explanation of the word.(refer)
+
    玛丽**一定没查过**词典，因为她没给我这个词的准确解释。
 
    <font color=red><strong>can't/couldn't have referred to</strong></font>
@@ -5692,13 +5781,33 @@
    <strong>解析：</strong>
 
    <font color=red><strong>表示对过去情况的否定推测用can't/couldn't have done的形式，没有must not have done的形式。</strong></font>
-   
+
    1. **refer to ：v.查阅;提到**
    2. **accurate ：adj.精确的;正确无误的;准确的**
    3. **exact ：adj.准确的;精确的;严谨的;严格的;**
-   4. **explanation ：n.解释;说明;阐述;解释性说法;说明性文字**
-   
+   4. **exactly ：adv. 精确地，确切地；（用于强调）恰好，完全；**
+   5. **precise ：adj. 精确的，准确的；恰好的，确切的；（人）严格的，一丝不苟的**
+   6. **precious ：adj. 宝贵的，珍贵的；珍视的，重要的；珍稀的，珍奇的；**
+   7. **explanation ：n.解释;说明;阐述;解释性说法;说明性文字**
+   8. **explain ：v. 解释，说明；说明（……的）原因，解释（……的）理由**
+   9. **"accurate," "exact," 和 "precise" 都表示精确、准确的意思，但在用法和含义上有一些细微的区别。**
+
+      1. **Accurate: "Accurate" 表示信息、数据或描述与事实相符，没有错误或偏差。它强调的是准确性和正确性。例如：**
+         - **The measurements she provided were accurate.(她提供的测量是准确的。)**
+         - **The book provides accurate information about the historical event.(这本书提供了有关这一历史事件的准确信息。)**
+
+      2. **Exact: "Exact" 侧重于完全一致或无误差。它强调精确匹配或符合预期的程度。例如：**
+         - **The exact time of the meeting is 3:00 PM.(会议的确切时间是下午三点)**
+         - **Please give me the exact measurements for the dress.(Please give me the exact measurements for the dress)**
+
+      3. **Precise: "Precise" 强调精确度和明确度，它指的是非常清晰、明确、精细的程度。它强调对细节的关注和准确的表达。例如：**
+         - **She gave a precise description of the suspect.(她对嫌疑犯作了准确的描述)**
+         - **The instructions were precise and easy to follow.(指示很精确，很容易执行)**
+
+      **总结来说，"accurate" 侧重于正确与事实相符，"exact" 侧重于完全一致或无误差，"precise" 侧重于明确、精细和清晰的程度。这些词在不同的语境中可以有一些重叠，但细微的区别可以帮助你选择适当的词来准确表达你的意思。**
+
 4. It was completely wrong that not until the accident happened<u><font color=red><strong>    did people focus on     </strong></font></u>the problem. (focus)
+
    直到事故发生之后**人们才关注**这个问题这是完全错误的。
 
    <font color=red><strong>did people focus on</strong></font>
@@ -5706,19 +5815,33 @@
    <strong>解析：</strong>
 
    <font color=red><strong>not until置于句首时句子用部分倒装，句中时态为一般过去时; focus on“关注”。</strong></font>
-   
-   **"Not until" 和 "not...until" 的区别在于语法结构和语义上的差异。**
-   
-   - **"Not until" 是一个连词短语，用来表示某个动作直到某个时间才发生。其基本结构为 "not until + 时间状语从句"，表示 "直到……才" 的意思。**
-   
-     **例如：Not until she finished her homework did she go to bed.（直到她完成作业才去睡觉。）**
-   
-   - **"Not...until" 是一个复合连词，也用来表示某个动作直到某个时间才发生。其基本结构为 "not + 动词/情态动词 + until + 时间状语"，表示 "直到……才" 的意思。**
-   
-     **例如：I won't leave until he comes back.（他回来之前我不会离开。）**
-   
-   **总体来说，"not until" 的语义更为强烈，强调了某个动作在之前一直未发生，而 "not...until" 则相对中性一些，只是简单地表达了时间关系**
-   
+
+   1. **focus on**
+
+      **"focus on" 是一个常用的短语，表示集中注意力、专注于某事或某个方面。它表示将注意力、精力或兴趣集中在特定的目标、主题或活动上。**
+
+      **以下是一些关于 "focus on" 的例句：**
+
+      1. **Our company is focusing on expanding into new international markets.（我们公司正在专注于拓展新的国际市场。）**
+      2. **The teacher asked the students to focus on their assignments and complete them before the deadline.（老师要求学生们专注于他们的作业，并在截止日期之前完成。）**
+      3. **The conference will focus on the latest advancements in technology.（这次会议将关注最新的技术进展。）**
+
+      **通过使用 "focus on"，你可以清楚地表达你的注意力或努力的方向，并突出所关注的重点。**
+
+   2. **"Not until" 和 "not...until"** 
+
+      **"Not until" 和 "not...until" 的区别在于语法结构和语义上的差异。**
+
+      - **"Not until" 是一个连词短语，用来表示某个动作直到某个时间才发生。其基本结构为 "not until + 时间状语从句"，表示 "直到……才" 的意思。**
+
+        **例如：Not until she finished her homework did she go to bed.（直到她完成作业才去睡觉。）**
+
+      - **"Not...until" 是一个复合连词，也用来表示某个动作直到某个时间才发生。其基本结构为 "not + 动词/情态动词 + until + 时间状语"，表示 "直到……才" 的意思。**
+
+        **例如：I won't leave until he comes back.（他回来之前我不会离开。）**
+
+      **总体来说，"not until" 的语义更为强烈，强调了某个动作在之前一直未发生，而 "not...until" 则相对中性一些，只是简单地表达了时间关系**
+
 5. <u><font color=red><strong>      It remains to be seen       </strong></font></u>whether a favorite play among Chinese viewers,Legend of Zhen Huan, will be accepted by foreign audience. (remain)
 
      备受中国观众喜爱的电视剧《甄嬡传》能否被外国观众接受还**有待观察**。
@@ -5729,19 +5852,49 @@
 
      <font color=red><strong>remains to be done“有待被做”,此句中主语后置,用it作形式主语。</strong></font>
 
-     **"It remains to be done"是一个常用的句型，意思是"还有待完成"或"尚未完成"，通常用于强调某件事情还没有做完或还有需要做的事情。**
+     1. **It remains to be done**
 
-     1. **We have finished writing the report, but the editing and proofreading remain to be done.**
+        **"It remains to be done"是一个常用的句型，意思是"还有待完成"或"尚未完成"，通常用于强调某件事情还没有做完或还有需要做的事情。**
 
-        **我们已经完成了报告的写作，但编辑和校对还有待完成。**
+        1. **We have finished writing the report, but the editing and proofreading remain to be done.**
 
-     2. **The project is not yet complete; there are several tasks that remain to be done.**
+           **我们已经完成了报告的写作，但编辑和校对还有待完成。**
 
-        **项目还没有完成，还有几项任务有待完成。**
+        2. **The project is not yet complete; there are several tasks that remain to be done.**
 
-     3. **The research has been successful, but further investigation remains to be done.**
+           **项目还没有完成，还有几项任务有待完成。**
 
-        **研究已经取得了成功，但还有进一步的调查工作需要完成。**
+        3. **The research has been successful, but further investigation remains to be done.**
+
+           **研究已经取得了成功，但还有进一步的调查工作需要完成。**
+
+     2. **foreign ：adj. 外国的，来自国外的；外交的，涉外的；陌生的，不熟悉的；**
+
+     3. **foreigner : n. 外国人；外来人，外地人；**
+
+     4. **audience : n. 观众，听众；读者；觐见，拜见；拥护者**
+
+     5. **"receive" 和 "accept" 两个表示接收的动词的区别**
+
+        - **"receive" 表示接收或获得某物，强调的是物品的交付或给予。它可以指接收来自他人、机构或情况的东西，包括礼物、消息、奖励、指示等。"receive" 更加客观，表示接收的事实或动作。**
+
+          1. **I received a gift from my friend on my birthday.（我在生日那天收到了朋友送的礼物。）**
+
+          2. **The company received a large order from a new client.（公司接到了一个来自新客户的大订单。）**
+
+          3. **The students received their test scores yesterday.（学生们昨天收到了他们的考试成绩。）**
+
+        - **"accept" 则强调对所接收事物的接受和认可，表示愿意接受或同意某物。它涉及主观意愿和态度，通常指接受某种邀请、提议、建议、条件、责任或观点。**
+
+          **例如：**
+
+          1. **She accepted the job offer and will start working next week.（她接受了工作邀请，下周开始工作。）**
+
+          2. **The committee accepted his proposal and approved the project.（委员会接受了他的提议，并批准了这个项目。）**
+
+          3. **We accept the terms and conditions of the contract.（我们接受合同的条款和条件。）**
+
+          **总之，"receive" 侧重于物品的交付或给予，而 "accept" 侧重于对所接收事物的接受和认可。它们在用法和语境中有所差异，根据具体情况选择适当的动词来表达接收的含义。**
 
 6. Had it not been for the worsening air quality, the flight<u><font color=red><strong>      wouldn't have been delayed     </strong></font></u>by the heavy fog for such a long time. (delay)
 
@@ -5755,6 +5908,10 @@
 
    **worsening ：v.(使)变得更坏，变得更糟，恶化 ;n.恶化；变坏;adj.日益恶化的**
 
+   **quality ：n. 质量，品质；优质，上乘；素质，品德；特征，特质；（语音）音质，音色；**
+
+   **quantity ：n. 量，数目；大量，大批；**
+
 7. It was only after serious consideration<u><font color=red><strong>       that he decided      </strong></font></u>to sponsor the poor child to finish his compulsory education. (decide)
 
    就是在慎重考虑后，**他才决定**资助这个贫困孩子完成义务教育的。
@@ -5766,6 +5923,12 @@
    <font color=red><strong>此句为强调句式It was...that...句式,句中时态为一般过去时。</strong></font>
 
    **compulsory ：adj.(因法律或规则而)必须做的，强制的，强迫的;义务的**
+
+   **serious ：adj. 严重的，危急的；认真的，严肃的；重要的，须重视的；**
+
+   **sponsor ：n. 赞助者，赞助商；法案的倡议者；担保人，保证人；（宗教事宜中的）引领人；v. 赞助； 为慈善活动捐资，为义赛捐款；倡议；主办，促成；纵容；为……担保**
+
+   **only after：仅在......之后：表示某个动作或事件只有在另一个动作或事件发生之后才会发生；以后才……，表示某个形容词只能紧跟在名词之后**
 
 8. He used only half of the money,<u><font color=red><strong>     the rest of which was saved     </strong></font></u>for other purposes. (save)
 
@@ -5787,40 +5950,68 @@
 
    <font color=red><strong>take over“接管”,时间状语by the time her father retires表示将来意义,故此处用将来完成时。</strong></font>
 
+   **come over ：过来：指某人到另一个地方去，通常是为了拜访或参加活动。**
+
 10. <u><font color=red><strong>      Having been warned of      </strong></font></u>the possible snowstorm at hand, they determined to stay at home for the holiday.(warn)
 
-     **得到告诫**可能有暴风雪即将到来,他们决定假期待在家里。
+    **得到告诫**可能有暴风雪即将到来,他们决定假期待在家里。
 
-     <font color=red><strong>Having been warned of/Warned of/After they were/have been warned of</strong></font>
+    <font color=red><strong>Having been warned of/Warned of/After they were/have been warned of</strong></font>
 
     <strong>解析：</strong>
-    
+
     <font color=red><strong>逻辑主语they与 warn之间是被动关系,故用动词-ed形式作状语,根据句意可用现在完成时也可用一般过去时;还可以将此处看成是 after连接的句子,句中可用一般过去时也可用现在完成时。</strong></font>
+
+     1. **"Be warned of"是一个表示警告或提醒的短语，意思是"注意，警惕"，常用于提醒某人注意某种情况或可能出现的问题。**
+        - **Be warned of the strong currents in the river before you go swimming. （在你去游泳前要注意这条河流的强水流。）**
+        - **I was warned of the potential dangers of the new medication by my doctor.（我的医生提醒我这种新药可能存在的潜在风险。）**
     
-    1. **"Be warned of"是一个表示警告或提醒的短语，意思是"注意，警惕"，常用于提醒某人注意某种情况或可能出现的问题。**
-       - **Be warned of the strong currents in the river before you go swimming. （在你去游泳前要注意这条河流的强水流。）**
-       - **I was warned of the potential dangers of the new medication by my doctor.（我的医生提醒我这种新药可能存在的潜在风险。）**
-    2. **at hand 手头;在手边，在附近，即将来临**
-    3. **possible ：adj.可能的;可能;能做到(或取得);**
-    4. **以下是表示计划、安排、打算的一些常见动词和词组：**
-       1. **plan：计划，常用于表示长期、具体、有条理的计划，例如：**
-          - **We are planning to expand our business into Asia next year.**
-          - **I have planned my schedule for the whole week.**
-       2. **arrange：安排，强调根据具体情况做出的安排和调整，例如：**
-          - **I need to arrange a meeting with my supervisor next week.**
-          - **We have arranged to meet at the airport at 8 am.**
-       3. **schedule：安排时间表，指按照时间顺序列出一系列活动的安排，例如：**
-          - **The conference schedule has been finalized and sent to all attendees.**
-          - **I need to schedule a doctor's appointment for next week.**
-       4. **intend：打算，指有意愿去做某事，例如：**
-          - **I intend to take a break from work and travel next month.**
-          - **She intends to study abroad after she finishes her degree.**
-       5. **aim：计划，指为达到某一目的而制定的计划，例如：**
-          - **The company aims to increase its sales by 20% next year.**
-          - **My aim is to finish the project by the end of this month.**
-       6. **propose：提议，指向别人提出计划或建议，例如：**
-          - **He proposed a new marketing strategy to the team.**
-          - **She proposed that we have a team-building activity next month.**
+     2. **at hand 手头;在手边，在附近，即将来临**
+    
+     3. **possible ：adj.可能的;可能;能做到(或取得);**
+    
+        **"possibly" 和 "probably" 都是副词，但在用法和意义上有所不同。**
+    
+        **"possibly" 表示可能性，指某事有可能发生或存在，但并不确定或肯定。它强调的是一种潜在的可能性或推测。**
+    
+        **例如：**
+        1. **She will possibly arrive late to the meeting.（她可能会迟到参加会议。）**
+    
+        2. **It's possibly going to rain later today.（今天晚些时候可能会下雨。）**
+    
+        3. **I'll do it as quickly as possible.（我会尽可能快地完成它。）**
+    
+        **"probably" 表示很可能，指某事有很大的可能性发生或存在，表示对某事的合理推测或预测。它比 "possibly" 更加强调某事发生的可能性较高或更有把握。**
+    
+        **例如：**
+        1. **He is probably at home now.（他现在很可能在家。）**
+    
+        2. **It will probably be a busy day tomorrow.（明天可能会是个忙碌的一天。）**
+    
+        3. **She probably knows about the party, but she hasn't confirmed yet.（她很可能知道派对的事情，但她还没有确认。）**
+    
+        **总之，"possibly" 表示可能性，强调潜在的可能性或不确定性；而 "probably" 表示很可能性，强调某事发生的可能性较高或更有把握。根据语境和需要选择适当的副词来表达可能性的程度**。
+    
+     4. **表示计划、安排、打算的一些常见动词和词组：**
+    
+        1. **plan：计划，常用于表示长期、具体、有条理的计划，例如：**
+           - **We are planning to expand our business into Asia next year.**
+           - **I have planned my schedule for the whole week.**
+        2. **arrange：安排，强调根据具体情况做出的安排和调整，例如：**
+           - **I need to arrange a meeting with my supervisor next week.**
+           - **We have arranged to meet at the airport at 8 am.**
+        3. **schedule：安排时间表，指按照时间顺序列出一系列活动的安排，例如：**
+           - **The conference schedule has been finalized and sent to all attendees.**
+           - **I need to schedule a doctor's appointment for next week.**
+        4. **intend：打算，指有意愿去做某事，例如：**
+           - **I intend to take a break from work and travel next month.**
+           - **She intends to study abroad after she finishes her degree.**
+        5. **aim：计划，指为达到某一目的而制定的计划，例如：**
+           - **The company aims to increase its sales by 20% next year.**
+           - **My aim is to finish the project by the end of this month.**
+        6. **propose：提议，指向别人提出计划或建议，例如：**
+           - **He proposed a new marketing strategy to the team.**
+           - **She proposed that we have a team-building activity next month.**
 
 
 
