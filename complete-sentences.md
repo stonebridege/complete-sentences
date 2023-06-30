@@ -5152,7 +5152,7 @@
 
    <font color=red><strong>sweep/sweep up“横扫”；主语后带有together短语时，谓语动词与主语保持一致，此处用单数形式,China与sweep/sweep up之间是被动关系，且发生在过去，故用一般过去时的被动语态。</strong></font>
 
-2. In a P. E. class, he nearly fell to the ground But fortunately, the teacher <u><font color=red><strong>    caught him by the arm     </strong></font></u> .(catch)
+2. In a P.E class, he nearly fell to the ground But fortunately, the teacher <u><font color=red><strong>    caught him by the arm     </strong></font></u> .(catch)
 
    在一节体育课上，他差点跌倒在地上。但幸运的是老师**抓住了他的胳膊**。
 
@@ -5288,6 +5288,50 @@
 
    <font color=red><strong>provide sb with sth.“提供给某人某物”,此处是其被动语态，且由时间状语since the beginning of this term可知用现在完成时。</strong></font>
 
+   **facility */*fəˈsɪləti*/*：n. 设施，设备；卫生间；天赋，才能；（机器等的）特别装置，（服务等的）特色；**
+
+   **"since" 引导的从句并不仅限于用作现在完成进行时的时间状语。尽管在现实情况中它常常用于表示一个动作或状态的起始时间，并且与现在完成进行时搭配使用，但它也可以用于其他时态。例如：**
+
+   - **过去完成时：I had been studying English for three years since I moved to the United States.（自从我搬到美国以来，我已经学习英语三年了。）**
+   - **过去进行时：They were playing in the park since morning.（自从早上以来，他们一直在公园里玩。）**
+   - **将来进行时：She will have been working here for five years since next month.（从下个月开始，她将在这里工作已经五年了。）**
+
+   **因此，"since" 引导的从句可以用于各种时态，不仅限于现在完成进行时。**
+
+   
+
+   **词汇 "term" 可以用于不同的语境和含义。下面是一些常见的用法：**
+
+   1. **学术术语：**
+      - **"What is the definition of this term?"（这个术语的定义是什么？）**
+      - **"I'm studying the key terms for my biology exam."（我正在学习生物考试的重要术语。）**
+
+   2. **学期：**
+      - **"The fall term starts in September."（秋季学期从九月份开始。）**
+      - **"We have a break between terms."（我们在学期之间有个休假期。）**
+
+   3. **表达期限或约定时间：**
+
+      - **"We agreed to meet again in three months' time."（我们同意三个月后再见面。）**
+      - **"The contract has a term of two years."（合同的期限是两年。）**
+
+   4. **表示某事物的限定范围或持续时间：**
+      - **"The long-term effects of the medication are not yet known."（药物的长期影响尚不清楚。）**
+      - **"We need to think about the long-term goals of the company."（我们需要考虑公司的长远目标。）**
+
+   5. **Long/Short/Mid-term: 长期的/短期的/中期的**
+
+      **"We should come up with some short-term goals to achieve first." （我们应该制定一些短期目标先实现。）**
+
+   6. **Term paper: 学期论文**
+
+      **"I'm working on my term paper for history class." （我正在为历史课写学期论文。）**
+
+   7. **"in terms of" 是一个常用的短语，用于表示按照某种标准或方面进行评估、比较或描述。它常用来引出不同方面或因素之间的比较、分类或评估。**
+
+      1. **"In terms of price, this product is more affordable than the others." （从价格的角度来看，这个产品比其他产品更实惠。）**
+      2. **"The company is leading in terms of market share." （就市场份额而言，这家公司处于领先地位。）**
+
 2. Something terrible<u><font color=red><strong>   must have happened       </strong></font></u>if Li Chang was not coming to eat in his restaurant as he always did. (happen)
 
    如果李昌不像往常那样到他饭店里吃饭,那**一定是发生了**什么严重的事情。
@@ -5316,7 +5360,21 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>该句为“the majority of+关系代词”引导的定语从句,引导词在从句中作介词 of的宾语,指代youths,故用whom.</strong></font>
+   <font color=red><strong>该句为“the majority of+关系代词”引导的定语从句,引导词在从句中作介词of的宾语,指代youths，故用whom。</strong></font>
+
+   **youths : *n.*青少年；青年时代**
+
+   **come to attend : 来参加**
+
+   **the majority of : ……的大多数**
+
+   **在大多数情况下，"the majority of"和"most of"可以互换使用，因为它们都表示大部分或大多数的意思。然而，它们在使用上可能略有不同。**
+
+   **"the majority of"更常用于正式或正式口语的场合，尤其在涉及统计数据、调查结果或学术论述时。它更强调统计上的大多数，或者特定群体中占多数的人或事物。**
+
+   **"most of"则更常用于日常口语和非正式场合，表达普通的大多数情况。它在交流中更为常见，更自然。**
+
+   **尽管如此，"the majority of"和"most of"之间的差异并不是非常严格，根据上下文和个人偏好，它们在很多情况下可以互换使用。**
 
 5. It is reported that he was knocked down by the motorcycle running<u><font color=red><strong>     at an astonishing speed       </strong></font></u>.(astonish)
 
@@ -5326,7 +5384,15 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>表示“以……的速度”,用介词at;astonishing“惊人的”。</strong></font>
+   <font color=red><strong>表示“以……的速度”,用介词at;   astonishing“惊人的”。</strong></font>
+
+   **astonishing : */*əˈstɑːnɪʃɪŋ*/***
+
+   **speed */*spiːd*/*：n. （运动）速度；（某事发生或进行的）速度；快，迅速；排挡，变速器；快门速度；**
+
+   **在句子中，非谓语动词作为定语修饰名词"motorcycle"，用来描述或限定该名词。具体分析如下："running"是一个现在分词，作为非谓语动词，表达动作正在进行或状态持续且是主动的动作。它修饰名词"motorcycle"，描述这辆摩托车正在跑或行驶。**
+
+   **整个短语"running at an astonishing speed"修饰名词"motorcycle"，说明摩托车以令人惊讶的速度在跑。这个非谓语动词短语提供了额外的信息，使句子更具描述性和具体性。**
 
 6. He appeared very calm after he knew the result of his illness<u><font color=red><strong>    as if nothing had happened   </strong></font></u>(happen)
 
@@ -5338,6 +5404,60 @@
 
    <font color=red><strong>此处为方式状语从句,as if/though“好像”。</strong></font>
 
+   1. **appear ：*v.*出现，呈现；首次使用，起源；出庭；演出，出场；出版，发表；记载，提及；看来，似乎；表现得……；**
+
+      **动词 "appear" 表示出现、显露或看起来。它可以用来描述事物在视觉上或表面上呈现出某种状态或形式。以下是一些常见的用法和示例：**
+
+      1. **表示外观或显现：**
+         - **The sun appeared from behind the clouds.（太阳从云后面出现了。）**
+         - **She appeared at the party wearing a beautiful dress.（她穿着一条漂亮的裙子出现在派对上。）**
+         
+      2. **表示表演或登场：**
+         - **The band appeared on stage and started playing their hit song.（乐队登上舞台并开始演奏他们的热门歌曲。）**
+         - **The actor will appear in a new movie next month.（这位演员将在下个月出演一部新电影。）**
+         
+      3. **表示看起来或似乎：**
+         - **He appears happy after receiving the good news.（他收到好消息后似乎很开心。）**
+         - **It appears that we have a problem.（看起来我们有一个问题。）**
+         
+      4. **表示在某个场合出现：**
+         - **The suspect appeared in court for the trial.（嫌疑犯出庭接受审判。）**
+         - **The celebrity will be appearing on a talk show tonight.（这位名人今晚将在一档脱口秀节目中亮相。）**
+
+      **需要注意的是，"appear" 还可以用作系动词，表示某人或某物的外貌或状况，例如："She appears tired"（她看起来很累）。**
+
+   2. **"as if" 是一个固定短语，用来表示一种比喻、推测或类似的情况。它常常用来描述某种行为、状况或情感，使其看起来像是实际情况，尽管可能并非如此。以下是一些常见的用法和示例：**
+
+      1. **表示类似于某种行为或状况：**
+         - **He talks as if he knows everything.（他说话的样子好像什么都知道。）**
+         - **She acted as if she didn't care about the outcome.（她的行为好像对结果不在意。）**
+         
+      2. **表示推测或假设：**
+         - **It looks as if it's going to rain.（看起来好像要下雨了。）**
+         - **He acted as if he had seen a ghost.（他的表情好像见了鬼一样。）**
+         
+      3. **表示想象或虚构：**
+         - **She danced as if she were floating on air.（她的舞姿好像在空中漂浮一样。）**
+         - **The painting looks as if it came to life.（这幅画看起来好像活了起来。）**
+
+      **需要注意的是，"as if" 后面通常接一个从句，用来进一步描述或解释比喻或推测的情况。**
+
+   3. **"though" 是一个常见的连词，可以在句子中用作副词或从属连词，用于引导让步状语从句或连接两个对比或相互矛盾的事实。以下是 "though" 的几种常见用法和示例：**
+
+      1. **用作让步连词：**
+         - **She is very busy with her work, though she always finds time for her family.（她工作很忙，尽管她总是能抽出时间陪家人。）**
+         - **Though it was raining, they decided to go for a walk.（尽管下着雨，他们决定去散步。）**
+         
+      2. **用作副词，表示尽管如此，然而：**
+         - **It was a difficult journey; they continued, though.（这是一次艰难的旅行，然而他们继续前进。）**
+         - **He failed the exam, but he is still hopeful, though.（他考试没通过，但他仍然充满希望。）**
+         
+      3. **可用于连接两个对比或相互矛盾的事实：**
+         - **She is young, though wise beyond her years.（她年轻，但却很有智慧。）**
+         - **Though the film received mixed reviews, it still managed to be a box office success.（尽管这部电影收到了褒贬不一的评论，但它仍然在票房上取得了成功。）**
+
+      **总之，"though" 是一个灵活多用的连词，常用于表示让步、转折或对比的情况。在句子中使用 "though" 可以增强句子的表达力和语境的复杂性。**
+
 7. <u><font color=red><strong>       What impresses me most        </strong></font></u>is that whenever he appears in front of others, he wears a sincere smile. (impress)
 
    **我印象最深的**是，每当出现在别人面前时他总是面带真诚的微笑。
@@ -5348,17 +5468,19 @@
 
    <font color=red><strong>所填部分为主语从句,引导词在从句中作主语,根据句意用 what。</strong></font>
 
+   **sincere ：adj. 衷心的，诚挚的；（人）真诚的，诚恳的**
+
    1. **"impress sb" 是一个常用的词组，表示"给某人留下印象"。**
 
       **例如："He impressed the judges with his incredible talent."（他以其惊人的才华给评委留下了深刻印象。）**
 
    2. **be impressed by/with: 对...印象深刻**
 
-      **例句：I was really impressed by her presentation.**
+      **例句：I was really impressed by her presentation.（她的演讲给我留下了深刻的印象。）**
 
    3. **make an impression on: 对...产生印象**
 
-      **例句：The speaker made a strong impression on the audience.**
+      **例句：The speaker made a strong impression on the audience.（演讲者给听众留下了深刻的印象）**
 
 8. The newly-built stadium for the World Cup is <u><font color=red><strong>   double the size of     </strong></font></u>the old one in the center of the city.(size)
 
@@ -5372,13 +5494,17 @@
 
 9. It is widely accepted that one is<u><font color=red><strong>   more likely to succeed     </strong></font></u>at things he has already known well. (likely)
 
-   人们普遍认为:一个人在他已经很熟悉的方面**更有可能成功**。
+   人们普遍认为：一个人在他已经很熟悉的方面**更有可能成功**。
 
    <font color=red><strong>more likely to succeed</strong></font>
 
    <strong>解析：</strong>
 
    <font color=red><strong>be likely to do sth.“有可能做某事”,句意表示“更有可能”,用比较级more.</strong></font>
+
+   **accepted ：adj. 公认的，为公众所接受的；v. 接受；相信，认为……正确；同意（accept 的过去式和过去分词形式）**
+
+   **likely ：adj. 可能发生的；似乎合适的，仿佛恰当的；似乎真实的，可信的；看上去精力充沛（或有能力）的；adv. 大概，很可能**
 
    **"be likely to" 是一个常用的词组，表示某种情况或事件有可能发生或很有可能实现。其中的 "likely" 意为"可能的"，而 "be" 则是其常用的动词形式。例如：**
 
@@ -5388,7 +5514,7 @@
 
    **在句子中，"be likely to" 后面通常接动词原形，表示某个动作可能会发生。**
 
-10. Only when the class was over ;<u><font color=red><strong>     was he able to         </strong></font></u>play football with his friends on the playground.(able)
+10. Only when the class was over <u><font color=red><strong>     was he able to         </strong></font></u>play football with his friends on the playground.(able)
 
     只有下了课**他才能**和朋友们一起在操场上踢足球。
 
@@ -5397,6 +5523,23 @@
     <strong>解析：</strong>
 
     <font color=red><strong>only修饰的状语置于句首时，主句用部分倒装, be able to do sth.“能够做某事”。</strong></font>
+    
+    **"Only when" 是一个短语，常用于表示某个条件或情况只有在特定的条件下才会发生或实现。它强调了特定条件对于某个结果的必要性。以下是 "Only when" 的一些常见用法和示例：**
+    
+    1. **"Only when" 引导时间条件状语从句：**
+       - **Only when the rain stopped did they continue their outdoor activity.（只有在雨停下来之后，他们才继续他们的户外活动。）**
+       - **Only when I finish my homework can I go out to play.（只有当我完成作业后，我才能出去玩。）**
+       
+    2. **"Only when" 引导条件性状语从句：**
+       - **Only when you work hard can you achieve your goals.（只有当你努力工作时，你才能实现你的目标。）**
+       - **Only when you have a valid ticket are you allowed to enter the concert.（只有当你有有效的门票时，才允许你进入音乐会。）**
+       
+    3. **"Only when" 引导让步状语从句：**
+       - **Only when you face your fears can you overcome them.（只有当你面对恐惧时，你才能克服它们。）**
+       - **Only when you let go of the past can you move forward.（只有当你放下过去时，你才能向前迈进。）**
+    
+    **"Only when" 强调了特定条件的重要性和先决条件的存在。它在句子中的位置通常放在句首或句子的前半部分，以突出条件对结果的影响。**
+    
 
 
 
@@ -5414,6 +5557,21 @@
 
    <font color=red><strong>settle down“安静”; be about to do. .. when...“正要做某事时突然……”。</strong></font>
 
+   **temper : n. 坏脾气，暴躁脾气；心情，情绪；怒气，火气；**
+
+   **下面是一些常见的以"settle"开头的词组：**
+
+   1. **Settle down - 安定下来，定居**
+   2. **Settle in - 安顿下来，适应新环境**
+   3. **Settle for - 勉强接受，满足于**
+   4. **Settle on/upon - 决定，选定**
+   5. **Settle up - 结算账务，付清账单**
+   6. **Settle into - 逐渐适应，适应新的状态**
+   7. **Settle a dispute - 解决争议**
+   8. **Settle an agreement - 达成协议**
+   9. **Settle a score - 清算账目，报复**
+   10. **Settle for less - 接受较少的，妥协**
+
 2. Do you know how much time and effort they devoted<u><font color=red><strong>      to completing        </strong></font></u>such a complicated project?（complete）
 
    你知道**完成**这项复杂的工程他们倾注了多少时间和精力吗?
@@ -5426,6 +5584,8 @@
 
    1. **devote sth to doing sth 把……献给做某事**
    2. **devote oneself to doing sth 献身于做某事全身心投入做某事**
+   3. **complicated ：adj. 复杂的，难处理的；v. 使复杂化，使难以理解；引起并发症（complicate 的过去式和过去分词形式）**
+   4. **complex ：*adj.*复杂的，难懂的；组合的，合成的；**
 
 3. A person with a severe mental health problem is<u><font color=red><strong>        four times more likely      </strong></font></u>to have no close friends than the average. (likely)
 
@@ -5436,6 +5596,10 @@
    <strong>解析：</strong>
 
    <font color=red><strong>表示“……是……的几倍”用“倍数＋...+than...”,表示“可能”,用likely .</strong></font>
+
+   **severe ：adj. 十分严重的；严峻的；（惩罚、批评）严厉的，重的；严厉的；不加装饰的，朴素的**
+
+   **mental ：adj. 存在于大脑中的，思考的；精神的，思想的，智力的；**
 
 4. The TV entertainment program, the Voice of China, enjoys great popularity，with a large audience<u><font color=red><strong>      lost in      </strong></font></u>its live show. (lose)
 
@@ -5501,13 +5665,19 @@
 
 8. A forest is usually found<u><font color=red><strong>      where heavy rainfall        </strong></font></u>is frequent. (rainfall)
 
-   森林经常在**大雨**很频繁的**地方**。
+   经常**下大雨的地方**通常有森林。
 
    <font color=red><strong>where heavy rainfall</strong></font>
 
    <strong>解析：</strong>
 
    <font color=red><strong>该句为地点状语从句,引导词在从句中作地点状语,故用where.</strong></font>
+
+   **rainfall ：n. 降雨；降雨量**
+
+   **heavy rainfall ：暴雨：指短时间内降水量非常大的降雨现象。**
+
+   **frequent ：adj. 频繁的，经常性的；v. 常去，常出入于**
 
 9. His parents died when he was a baby. Nobody knows who it was<u><font color=red><strong>     that brought him up         </strong></font></u>.(bring)
 
