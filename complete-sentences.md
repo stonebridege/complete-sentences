@@ -5152,6 +5152,12 @@
 
    <font color=red><strong>sweep/sweep up“横扫”；主语后带有together短语时，谓语动词与主语保持一致，此处用单数形式,China与sweep/sweep up之间是被动关系，且发生在过去，故用一般过去时的被动语态。</strong></font>
 
+   **together with : 连同，一起：表示与其他人或事物一起存在、发生或被考虑。**
+
+   **I want to wash clothes together with you. (我想和你一起洗衣服。)**
+
+   **Asian : n. 亚洲人，亚裔；adj. 亚洲的，亚洲人的**
+
 2. In a P.E class, he nearly fell to the ground But fortunately, the teacher <u><font color=red><strong>    caught him by the arm     </strong></font></u> .(catch)
 
    在一节体育课上，他差点跌倒在地上。但幸运的是老师**抓住了他的胳膊**。
@@ -5174,6 +5180,64 @@
 
    **let out ：出租（房屋、土地等）;放出，释放（水、空气等）;呼（气）;发出（声音）**
 
+   **concerned ：adj. 相关的， 关于（某个主题）的；担心的，焦急的；关注的，感兴趣的；关心的，挂念的；v. 有关，关于；涉及，影响；使忧虑，使担心（concern 的过去式和过去分词形式）**
+
+   1. **concern可以用作名词或动词，具体用法如下：**
+
+      - **名词用法：**
+
+        1. **"concern" 可指关注、关心或忧虑的事物或问题**
+
+           **"I have a concern about his safety"（我对他的安全有所担忧）。**
+
+        2. **它也可以指责任、职责或利益所在**
+
+           **"It's not my concern"（那不是我关心的事）。**
+
+        3. **"concern" 还可以表示公司、组织或机构**
+
+           **"The company has shown great concern for the environment"（该公司对环境表现出了极大关注）。**
+
+      - **动词用法：**
+
+        1. **"concern" 作为动词，意为关注、涉及或使担心**
+
+           **"The safety of the passengers concerns me"（乘客的安全让我担心）。**
+
+        2. **它还可以表示涉及到某人或某物，**
+
+           **"This matter concerns all of us"（这件事关系到我们所有人）。**
+
+   2. **单词 "wonder" 可以作为动词、名词或感叹词使用，具体用法如下：**
+
+      - **动词用法：**
+
+        1. **"wonder" 可用于表达惊讶、好奇或怀疑的情绪**
+
+           **"I wonder what time it is"（我想知道现在几点了）。**
+
+        2. **它也可以表示对某事的思考、猜测或怀疑**
+
+           **"I wonder if he'll come"（我不知道他会不会来）。**
+
+        3. **在过去时态中，"wondered" 表示过去的好奇或怀疑**
+
+           **"I wondered why he was late"（我曾经想知道他为什么迟到）。**
+
+      - **名词用法：**
+
+        1. **"wonder" 作为名词，表示惊奇、奇迹或令人赞叹的事物**
+
+           **"The Grand Canyon is a natural wonder"（大峡谷是一个自然奇迹）。**
+
+        2. **它还可以指某个人或物引起好奇心或赞叹的情感**
+
+           **"She is a little wonder on the piano"（她在钢琴上令人惊叹不已）。**
+
+        3. **感叹词用法："wonder" 作为感叹词，用于表示惊讶、赞叹或迷惑**
+
+           **"Wonderful!"（太棒了！）、"I wonder!"（真是让人惊讶！）。**
+
 4. With <u><font color=red><strong>      many universities to choose       </strong></font></u>，some students feel at loss when filling out college application. ( choose)
 
    在填报大学入学志愿时，由于**有许多大学可供选择**，很多学生感觉不知所措。
@@ -5186,6 +5250,8 @@
 
    **"With many universities to choose"是一个以介词短语"With"开头的独立分词结构，其中，分词短语"to choose"作定语修饰"universities"。整个结构的意思是"有很多大学可以选择"。**
 
+   **feel at loss ： 感到不知所措 / 摸不着头脑 / 感到心慌**
+
 5. When <u><font color=red><strong>   informed of         </strong></font></u>the news that many people were killed for an oil pipeline explosion in Qingdao,all of us felt shocked and deeply saddened. (inform)
 
    当**被告知**在青岛石油管道爆炸事件中有许多人丧生，我们都感到震惊和心痛。
@@ -5194,11 +5260,17 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>(we were) informed or/about主从句主语一致，we与inform之间是被动关系，故用被动语态；当主从句主语一致且含有be动词时，可以省略“主语+be”的形式。</strong></font>
+   <font color=red><strong>(we were) informed of/about主从句主语一致，we与inform之间是被动关系，故用被动语态；当主从句主语一致且含有be动词时，可以省略“主语+be”的形式。</strong></font>
+
+   - **shocked ：adj. 吃惊的，震惊的；愤慨的，十分厌恶的；v. 使震惊，使惊愕；（使）生气，**
+
+   - **explode : v. （使）爆炸，（使）爆破；急剧扩大，激增；（情感）迸发，爆发；**
+
+     **explore ：v. 探讨，探究；考察，探索；（用手或身体其他部位）探查，仔细检查**
 
    - **"Many"指的是“许多”的意思，它后面通常接可数名词的复数形式或不可数名词。例如，“Many people are afraid of spiders”（许多人害怕蜘蛛），“Many watermelons were sold at the market”（市场上卖出了许多西瓜）。**
 
-   - **“Many of”是“许多...中的”的意思，后面要接可数名词的复数形式或不可数名词。例如，“Many of the students in this class are from different countries”（这个班级的许多学生来自不同的国家），“Many of the milk in the fridge has gone bad”（冰箱里的许多牛奶已经变质了）。**
+     **“Many of”是“许多...中的”的意思，后面要接可数名词的复数形式或不可数名词。例如，“Many of the students in this class are from different countries”（这个班级的许多学生来自不同的国家），“Many of the milk in the fridge has gone bad”（冰箱里的许多牛奶已经变质了）。**
 
    - **"All of"和"All"都可以表示全部或整个的意思，但它们的使用上有些不同。**
 
@@ -5222,15 +5294,19 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>a large number of 修饰的名词作主语时谓语动词用复数形式，由时间状语up to the present可知用现在完成时。</strong></font>
+   <font color=red><strong>a large n直到现在：表示从过去某一时刻一直持续到现在的情况。umber of 修饰的名词作主语时谓语动词用复数形式，由时间状语up to the present可知用现在完成时。</strong></font>
 
-   **"a large number of" 是一个表示数量的短语，意思是“大量的”，用于修饰可数或不可数名词的复数形式。与“many”或“much”类似，但“a large number of”更加强调数量的多少。**
+   1. **beautify ：v. 使美丽，美化**
 
-   **例如：**
+   2. **up to the present ：直到现在：表示从过去某一时刻一直持续到现在的情况。**
 
-   - **A large number of people attended the concert.**
-   - **The company has hired a large number of new employees this year.**
-   - **The drought has caused a large number of crops to fail.**
+   3. **"a large number of" 是一个表示数量的短语，意思是“大量的”，用于修饰可数或不可数名词的复数形式。与“many”或“much”类似，但“a large number of”更加强调数量的多少。**
+
+      **例如：**
+
+      - **A large number of people attended the concert.**
+      - **The company has hired a large number of new employees this year.**
+      - **The drought has caused a large number of crops to fail.**
 
 7. Despite his <u><font color=red><strong>      interest in        </strong></font></u> writing，he left Oxford High School without graduating. (interest)
 
@@ -5242,6 +5318,8 @@
 
    <font color=red><strong>interest"兴趣”,与介词in搭配。</strong></font>
 
+   **Despite */*dɪˈspaɪt*/* prep. 尽管，即使；不由自主地，忍不住地**
+
 8. Eating too much<u><font color=red><strong>   is likely to     </strong></font></u>give one's stomach trouble. (likely)
 
    人吃太多**可能会**使得胃出现问题。
@@ -5250,7 +5328,7 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>be likely to“可能”。</strong></font>
+   <font color=red><strong>be likely to/be“可能会做：表示某人或某事很有可能发生或进行某种行为。”。</strong></font>
 
 9. It is so nice to hear from her,<u><font color=red><strong>     believe it or not        </strong></font></u>,we last met more than thirty years ago. (believe)
 
@@ -5262,6 +5340,8 @@
 
    <font color=red><strong>believe it or not“信不信由你”。</strong></font>
 
+   **hear from :收到某人的来信或消息：指收到某人的来信、电话或其他形式的联系。**
+
 10. So<u><font color=red><strong>    was he addicted in     </strong></font></u>playing computer games that he neglected his study and fell behind.(addicted)
 
     **他**如此**沉迷于**玩电脑游戏以至于荒废了学业并且成绩掉队。
@@ -5271,6 +5351,25 @@
     <strong>解析：</strong>
     
     <font color=red><strong>so修饰的形容词置于可首时,句子用部分倒装；be addicted to“沉迷于”,句中时态为一般过去时。</strong></font>
+    
+    **neglect : v. 疏于照顾，未予看管；不予重视，忽视；漏做；n. 忽略，忽视，未被重视**
+    
+    **fall behind ：落后：在进度、成绩或发展方面比其他人或事物慢，无法跟上。**
+    
+    **addiction : n. 瘾；入迷，嗜好**
+    
+    **addict : n. （尤指毒品）上瘾者，瘾君子；<非正式>对……入迷的人；v. 使上瘾，使沉迷**
+    
+    **drug addict ：吸毒者：一个对药物有强烈依赖，无法自控地使用药物的人。**
+    
+    **"Addicted" 是一个形容词，用于描述对某种活动、物质或行为上瘾的状态。它表示对某事物具有强烈的依赖或无法控制的欲望。**
+    
+    **常见的用法包括：**
+    1. **"be addicted to"：表示对某物上瘾或有过度依赖的情况。例如："He is addicted to video games"（他对电子游戏上瘾）。**
+    2. **"Get addicted to"：表示开始对某物上瘾。例如："She got addicted to social media"（她开始对社交媒体上瘾）。**
+    3. **"Addicted behavior"：表示表现出上瘾的行为。例如："His addicted behavior is causing problems in his relationships"（他的上瘾行为导致他的人际关系出现问题）。**
+    
+    **"Addicted" 这个词通常用于描述对某种不良或有害的习惯或行为上瘾，如药物、赌博、游戏、社交媒体等。它强调了对某事物的强烈依赖和难以摆脱的情况。**
 
 
 
