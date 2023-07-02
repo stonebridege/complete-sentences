@@ -4651,7 +4651,25 @@
 
    <font color=red><strong>find后可跟动词-ing形式作宾语补足语，表示 he是正在进行的smoke这一动作的发出者;find与 he之间为逻辑上的动宾关系,故用被动语态。(主将从现)</strong></font>
 
-   **"发现某人在某事"可以翻译为"discover someone in something"，也可以使用"catch someone in something"，其中"catch"的意思是"捕捉"，在此引申为"发现"；"Find someone in something"通常指在某个地方或某种情况下找到某人，而不是发现某人正在做某事。**
+   **发现某人在某事 ：**
+
+   1. **Catch someone doing something: 意为"撞见某人在做某事"，强调突然发现某人正在进行某项活动。（其中"catch"的意思是"捕捉"，在此引申为"发现"）**
+
+      **例如："I caught him stealing money from my wallet."**
+
+   2. **"Find sb. doing sth"：这种表达方式指的是在某个特定的时间或地点，意外地或有意地发现某人正在进行某项活动。**
+
+      **例如："I found him studying in the library."**
+
+   3. **"Discover sb. in sth"：这种表达方式强调通过观察、调查或意外的发现，发现某人身处某种状态、环境或情况中。**
+
+      **例如："I discovered her in the garden, enjoying the beautiful flowers."**
+
+   **在某个地方或某种情况下找到某人，而不是发现某人正在做某事。**
+
+   **"Find someone in something"：这种表达方式可以表示在某种具体的物体、容器或环境中找到某人的存在。**
+
+   **例如："I found him in the box."（我在盒子里找到了他。）**
 
 2. <u><font color=red><strong>      With the help of        </strong></font></u> the telephone, people can keep in touch with anyone at any time and in any place for urgent help. (help)
 
@@ -4662,6 +4680,26 @@
    <strong>解析：</strong>
 
    <font color=red><strong>with the help of“在…·…的帮助下”。"Under" 通常表示在某个权威或控制之下，或者是在某个物体或表面之下。因此，"在......的帮助下" 通常不用 "under"。使用 "with the help of" 或 "with the assistance of" 是更常见和自然的表达方式。</strong></font>
+
+   **在英语中，表示与某人保持联系有多种表达方式，以下是一些常见的：**
+
+   1. **Keep in touch with：这是一种常见且常用的表达方式，意思是与某人保持联系。**
+
+      **"I always keep in touch with my old friends."（我经常与我的老朋友保持联系。）**
+
+   2. **Stay in contact with：这个表达方式也表示与某人保持联系，意思相近于keep in touch with。**
+
+      **"I try to stay in contact with my relatives who live abroad."（我努力与在国外生活的亲戚保持联系。）**
+
+   3. **Stay connected with：这个表达方式强调与某人保持连接或联系，表示持续性的交流。**
+
+      **"I like to stay connected with my colleagues even after changing jobs."（即使换了工作，我仍然喜欢与我的同事保持联系。）**
+
+   4. **Remain in touch with：这个表达方式与keep in touch with的意思相似，表示与某人保持联系。**
+
+      **"He remained in touch with his childhood friends throughout his life."（他一生中与他的童年朋友保持联系。）**
+
+   **urgent ：adj. 紧急的，急迫的；急切的，催促的；**
 
 3. The best of all is <u><font color=red><strong>    that computers can tell      </strong></font></u> me almost everything I want to know. (tell)
 
@@ -4676,9 +4714,11 @@
    - <font color=red><strong>the best of all：最好的</strong></font>
    - <font color=red><strong>the worst of all：最糟糕的</strong></font>
 
+   **almost ：adv. 几乎，差不多**
+
 4. The best part <u><font color=red><strong>   given to   </strong></font></u> Peter，John was so disappointed that he felt unwilling to continue his taking part in the play. (give)
 
-   最好的角色**给了**彼得,约翰如此失望以至于他不愿继续参加这个演出了。
+   最好的角色**给了**彼得，约翰如此失望以至于他不愿继续参加这个演出了。
 
    <font color=red><strong>given to</strong></font>
 
@@ -4686,9 +4726,17 @@
 
    <font color=red><strong>前后两分句的主语不一致,且没有连接词连接,故用独立主格结构,同时give与 the best part 之间为逻辑上的动宾关系,故用动词-ed形式;give sth. to sb.“给某人某物”。</strong></font>
 
-   **"Continue doing sth" 的意思是继续做某事，其中的"continue"表示持续，延续某种状态或动作，"doing sth"表示正在进行某项活动或任务。**
+   **part ：n. 部分；某物的部分（局部）；部，篇，集；部位；零件；成员，参与人员；（角色的）台词和动作，角色；**
 
-   **"take part in"的意思是“参加，参与”。常用于表示某人参与某项活动或事件，如“take part in a meeting”（参加会议）、“take part in a competition”（参加比赛）等。**
+   1. **unwilling to do ：不愿意做：表示对某事或某行为缺乏积极性或兴趣，不愿意去做。**
+
+   2. **continue doing sth**
+
+      **"Continue doing sth" 的意思是继续做某事，其中的"continue"表示持续，延续某种状态或动作，"doing sth"表示正在进行某项活动或任务。**
+
+   3. **take part in**
+
+      **"take part in"的意思是“参加，参与”。常用于表示某人参与某项活动或事件，如“take part in a meeting”（参加会议）、“take part in a competition”（参加比赛）等。**
 
 5. Ever since the sheep Dolly was cloned in 1997，his phone <u><font color=red><strong>        has been ringing         </strong></font></u> with people calling in hopes of making the copies of their pets." (ring)
 
@@ -4700,7 +4748,19 @@
 
    <font color=red><strong>由时间状语ever since可知,应用现在完成时,且这一动作目前还在进行,故用现在完成进行时。</strong></font>
 
-   **"in hopes of"是一个固定短语，意思是"希望达成某事"或"期望实现某事"，通常用于表达期望或愿望，常用于正式的或文学性的语言。例如："I am studying hard in hopes of getting a scholarship."（我正在努力学习，希望能获得奖学金。）**
+   1. **"in hopes of"是一个固定短语，意思是"希望达成某事"或"期望实现某事"，通常用于表达期望或愿望，常用于正式的或文学性的语言。**
+
+      **"I am studying hard in hopes of getting a scholarship."（我正在努力学习，希望能获得奖学金。）**
+
+   2. **"Ever since"是一个常用的短语，用来表示某个事件或时间点之后一直持续到现在的时间段。它常用于强调某个起始点或事件，并强调该事件对后续的影响或持续性。**
+
+      **例如：**
+
+      1. **"Ever since I started learning guitar, I have been practicing every day."（自从我开始学吉他以来，我每天都在练习。）这句话表示学吉他的起始点是某个过去的时间点，然后强调从那时起到现在一直持续进行的练习。**
+
+      2. **"Ever since they got married, they have been traveling around the world."（自从他们结婚以来，他们一直在世界各地旅行。）这句话表达了结婚作为起始点，然后强调他们一直持续旅行的行为。**
+
+      **"Ever since"可以用于过去事件、经历、转折点等各种场景，表达从某个特定时间点或事件之后一直延续到现在的情况。它强调了持续性和连续性，使句子更具时态和时间关系的连贯性。**
 
 6. There was a lot of fun at yesterday's party. You <u><font color=red><strong>     should have came       </strong></font></u> ,but why didn't you? (come)
 
@@ -4724,17 +4784,19 @@
 
    1. **try one's best to**
 
-      **"try one's best to" 是一个表达竭尽全力去做某事的短语。通常用于描述一个人非常努力地尝试达成某个目标或完成某项任务，表达一种努力争取成功的决心和行动。例如：I will try my best to finish the project before the deadline.（我将尽力在截止日期前完成这个项目。）**
+      **"try one's best to" 是一个表达竭尽全力去做某事的短语。通常用于描述一个人非常努力地尝试达成某个目标或完成某项任务，表达一种努力争取成功的决心和行动。**
+
+      **I will try my best to finish the project before the deadline.（我将尽力在截止日期前完成这个项目。）**
 
    2. **had better do**
 
       **"had better do"是一种建议或警告，意思是"最好做某事"或"最好不要做某事，否则会有不好的后果"。它常常用来向别人提出一些建议或者警告，表示某种行为或决定是最好的选择，或者是为了避免某种不良后果而需要遵循的建议。**
 
-      **例如：You had better study hard for the exam if you want to pass it.（如果你想通过考试，最好努力学习。）**
+      **You had better study hard for the exam if you want to pass it.（如果你想通过考试，最好努力学习。）**
 
 8. In my opinion, the best way to show love is <u><font color=red><strong>      to get ready to help         </strong></font></u> people who are in trouble, no matter whether they are family members or strangers. (ready)
 
-   在我看来,表达爱的最好方式就是**准备好帮助**处于困境中的人们，无论他们是你的家人还是陌生人。
+   在我看来，表达爱的最好方式就是**准备好帮助**处于困境中的人们，无论他们是你的家人还是陌生人。
 
    <font color=red><strong>to get/be ready to help</strong></font>
 
@@ -4752,7 +4814,17 @@
 
    <font color=red><strong>which/that引导定语从句,并在从句中作主语,不能省略。</strong></font>
 
-10. Now the number of the students and teachers in this primary school <u><font color=red><strong>       adds up to      </strong></font></u> over 2 000. (add)
+   **keen on ：热衷于：对某事物或活动非常感兴趣，热衷参与。**
+
+   **小学 ：primary school**
+
+   **中学 ：middle school**
+
+   **初中 ：junior high school**
+
+   **高中 ：senior high school**
+
+10. Now the number of the students and teachers in this primary school <u><font color=red><strong>       adds up to      </strong></font></u> over 2,000. (add)
 
     现在这所小学的师生人数**总共**两千多。
 
@@ -4778,6 +4850,10 @@
 
    <font color=red><strong>doing后是宾语从句, to bid for...表示目的。</strong></font>
 
+   **memorize ：*v.*记住，熟记**
+
+   **bid ：v. 出价；投标，竞标；努力争取；（纸牌戏中的）叫牌；命令，吩咐；打招呼，示意；邀请；n. 出价，喊价；投标；努力，尝试；（纸牌戏中的）叫牌**
+
 2. <u><font color=red><strong>         Dating from       </strong></font></u> the Spring and Autumn and the Warring States, the Great Wall is still perfectly preserved. (date)
 
    **追溯到**春秋战国时代，长城至今仍保存完好。
@@ -4800,7 +4876,9 @@
 
    <font color=red><strong>此句为“介词+关系代词”引导的非限制性定语从句,其先行词是Lady Gaga,故用alongside whom.</strong></font>
 
-   <font color=red><strong>这句话中的非限制性定语从句是“the famous super star, alongside whom were several bodyguards”。这个定语从句修饰先行词“Lady Gaga”，用逗号和主句隔开，不是必需的信息，但可以提供额外的描述。其中，关系代词“whom”在定语从句中作为介词“alongside”的宾语，并且指代先行词“Lady Gaga”。</strong></font>
+   <strong>这句话中的非限制性定语从句是“the famous super star, alongside whom were several bodyguards”。这个定语从句修饰先行词“Lady Gaga”，用逗号和主句隔开，不是必需的信息，但可以提供额外的描述。其中，关系代词“whom”在定语从句中作为介词“alongside”的宾语，并且指代先行词“Lady Gaga”。</strong>
+
+   **alongside ：prep. 在……旁边；与……一起，与……并肩（工作）；与……相比；与……同等重要的；同时，共存**
 
 4. <u><font color=red><strong>    Being fed up with     </strong></font></u> sitting in the classroom all day may account for these students dropping out. (fed)
 
@@ -4811,6 +4889,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>be fed up with“厌倦”,students 与 fed之间是主动关系,故用动词-ing形式。“Being fed up with sitting in the classroom all day”是原因状语，解释了为什么这些学生辍学，因此是原因状语；"dropping out"在这个句子中是动词现在分词作结果状语。它说明了“这些学生退学的原因”是因为他们对整天坐在教室里感到厌烦。</strong></font>
+
+   **be fed up with sth/doing ：对某事/做某事感到厌烦**
 
    **account for ：导致，解释（某种事实或情况）;解释，说明（某事）;**
 
@@ -4828,8 +4908,23 @@
 
    **“pay off”是一个常用的短语，通常用来指付清债务或取得成功等意义。**
 
-   - **还清债务：这是“pay off”最常见的用法，表示完成还款。例如：“I finally paid off my student loans after ten years of payments.”（我终于在十年的还款后还清了我的学生贷款。）**
-   - **取得成功：这个意思可以指通过付出努力得到回报，也可以指完成一个计划或目标。例如：“All his hard work paid off when he got the promotion.”（当他得到晋升时，他的所有辛勤工作都得到了回报。）**
+   - **还清债务：这是“pay off”最常见的用法，表示完成还款。**
+
+     **“I finally paid off my student loans after ten years of payments.”（我终于在十年的还款后还清了我的学生贷款。）**
+
+   - **取得成功：这个意思可以指通过付出努力得到回报，也可以指完成一个计划或目标。**
+
+     **“All his hard work paid off when he got the promotion.”（当他得到晋升时，他的所有辛勤工作都得到了回报。）**
+
+   **sudden ：adj. 突然的，意外的；n. 突然发生的事**
+
+   **suddenly ：adv. 突然地，出乎意料地**
+
+   **depart ：v. 启程，出发；背离，违背；离职**
+
+   **apart ：adv. （空间或时间）相隔，相距；拆开，成碎片；解体，崩溃；分开，分离；与众不同地，独特地；除了……外；远远地；adj. 意见不一致的，有分歧的；分开的；与众不同的**
+
+   **departure ：n. 背离；离开，启程**
 
 6. Believe it or not, Mr Smith is said <u><font color=red><strong>      to have applied for        </strong></font></u>the position three times up till now. (apply)
 
@@ -4841,6 +4936,8 @@
 
    <font color=red><strong>be said to do sth.“据说做某事”, apply表示的动作发生在过去动作be said之前,故用不定式的完成式;apply for“申请……”。</strong></font>
 
+   **up till now ：直到现在：表示从过去某一时刻一直持续到现在的情况。**
+
 7. The chief engineer including his colleagues <u><font color=red><strong>    has been betraying    </strong></font></u> state secrets to America over these  years.(betray)
 
    这些年来，这位总工程师与他的同事们**一直**在向美国**泄露**国家机密。
@@ -4850,6 +4947,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>主语后带有including短语时,谓语动词仍与主语保持一致,此处用单数形式,根据句意“泄露国家机密”是一直在进行的事情,故用现在完成进行时。</strong></font>
+
+   **betray ：v. 背叛，出卖；食言，辜负；违背（信仰、原则等）；泄露（机密，信息）；流露，显露出（情感或特性）；暴露（不易发觉的东西）**
 
    **chief ：n.(公司或机构的)最高领导人;首领; adj.主要的;最重要的;首要的;**
 
@@ -4865,7 +4964,9 @@
 
    <font color=red><strong>此句为强调句的特殊疑问句式,且宾语从句中用陈述语序。</strong></font>
 
-   headmaster ：n.(尤指私立学校的)校长
+   **headmaster ：n.(尤指私立学校的)校长**
+
+   **be absent from ：缺席：指未出席某个活动、事件或场合。**
 
 9. There <u><font color=red><strong>    being no modern equipment    </strong></font></u> then, they had to build their defense works by hand. (equipment) 
 
@@ -4955,6 +5056,10 @@
 
    <font color=red><strong>主语后带有as well as短语时,谓语动词仍由主语决定,故此处谓语动词用复数形式, ten students 与hurt之间是被动关系,故用被动语态。</strong></font>
 
+   **truck */*trʌk*/*：n. 卡车，载重汽车；<英>（铁路）运货车皮，敞篷货运火车；**
+
+   **trunk */*trʌŋk*/*：n. 树干；（人或动物的）躯干；象鼻；<美>（汽车后部的）行李箱，后备箱；**
+
 6. Perhaps the most important thing if we want to make a difference is <u><font color=red><strong>     to find what we like      </strong></font></u>to do. (find)
 
    如果我们想有所作为，也许最重要的就是**找到我们喜欢**做的事。
@@ -4963,7 +5068,9 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>定式作表语表示主语的性质或职责等,what引导宾语从句,并在从句中作宾语；最后的“to do”是作目的状语，表明“找到我们喜欢做的事情”是为了实现“想要有所改变”的目的。</strong></font>
+   <font color=red><strong>不定式作表语表示主语的性质或职责等,what引导宾语从句,并在从句中作宾语；最后的“to do”是作目的状语，表明“找到我们喜欢做的事情”是为了实现“想要有所改变”的目的。</strong></font>
+
+   **make a difference ：有所作为/有影响 /扭转乾坤 /有关系 /创造不同**
 
 7. 一It's said that he was injured.
 
@@ -4979,6 +5086,14 @@
 
    <font color=red><strong>but后是与过去事实相反的假设,故句子谓语动词用 would/could have done的形式。</strong></font>
 
+   **care : n. 照料，护理；小心，谨慎；忧虑，烦恼；收养，监护**
+
+   **careful ：adj. 仔细的，小心的；谨慎的，周密的**
+
+   **careless ：*adj.*粗心大意的，疏忽的；自然的，随便的；淡漠的，不关心的**
+
+   **carefully ：*adv.*小心地，仔细地**
+
 8. Festivals and celebrations of all kinds <u><font color=red><strong>     have been held      </strong></font></u> everywhere since ancient times. (hold)
 
    自古以来,世界各地就**举行**各种各样的节日和庆典。
@@ -4988,6 +5103,12 @@
    <strong>解析：</strong>
 
    <font color=red><strong>and 连接并列成分作主语,不表示同一概念,故谓语动词用复数形式,主语与hold之间是被动关系,故用被动语态,且根据时间状语since ancient times可知用现在完成时.</strong></font>
+
+   **…… of all kinds ：各种各样的……：表示涵盖多种类型或种类的事物。**
+
+   **ancient ：adj. 古代的，远古的；古老的，年代久远的；老的，老掉牙的**
+
+   **ancient times ：古代：指很久以前的时代，通常是指人类历史的早期阶段。**
 
 9. The new bridge is <u><font color=red><strong>     three times the width of    </strong></font></u> that one built last year.(width)
 
@@ -5008,6 +5129,18 @@
     <strong>解析：</strong>
     
     <font color=red><strong>be familiar to“为……所熟悉”。</strong></font>
+    
+    **"be familiar to" 和 "be similar to" 是两个常用的短语，它们具有不同的意义和用法。**
+    
+    1. **"be familiar to": 这个短语用来描述某人或某物为他人所熟悉或熟知。它强调的是别人对某人或某物的熟悉程度。例如：**
+       - **"This book is familiar to many readers."（这本书对许多读者来说很熟悉。）**
+       - **"The melody is familiar to me."（这个旋律对我来说很熟悉。）**
+    
+    2. **"be similar to": 这个短语用来表示两个或多个事物之间的相似性。它强调的是事物之间的共同特点或相似之处。例如：**
+       - **"Her dress is similar to mine."（她的裙子和我的相似。）**
+       - **"The two paintings are similar to each other."（这两幅画相互之间很相似。）**
+    
+    **总之，"be familiar to" 强调别人对某人或某物的熟悉，而 "be similar to" 强调事物之间的相似性。**
     
     
 
@@ -5057,6 +5190,24 @@
 
    **“have nothing to do with”是一个常用的短语，表示某事物或某人与另一件事物或另一个人没有关系或没有联系。例如：I have nothing to do with the company's decision.（我和公司的决定没有关系。）**
 
+   **"have no relationship with" 和 "have nothing to do with" 在某种程度上可以表示相似的意思，即两者之间缺乏关系或联系。它们都用来描述两个事物之间的分离或无关性质。**
+
+   - **"Have no relationship with" 侧重于强调缺乏直接的联系、关联或互动。它可以用于描述人与人之间、事物之间或组织之间的关系。**
+
+     **例如：**
+
+     1. **I have no relationship with my neighbors.（我和我的邻居没有关系。）**
+     2. **This issue has no relationship with the previous discussion.（这个问题和之前的讨论没有关系。）**
+
+   - **"Have nothing to do with" 则强调事物之间的无关性或不相干性。它通常用于强调两个事物之间的分离或无关性质。**
+
+     **例如：**
+
+     1. **His decision has nothing to do with me.（他的决定和我无关。）**
+     2. **This incident has nothing to do with our project.（这个事件和我们的项目无关。）**
+
+   **虽然它们可以表达相似的概念，但在具体的语境中，选择使用哪个表达取决于所要强调的方面以及句子的结构和语气。**
+
 5. QQ has over 500 million members, which is almost<u><font color=red><strong>        twice the population of     </strong></font></u>the United States. ( population)
 
    QQ有着五亿的会员,这几乎是美国**人口的两倍**。
@@ -5077,6 +5228,48 @@
 
    <font color=red><strong>should have done“本应该做某事,实际上没做”。</strong></font>
 
+   **以下是一些由动词 "turn" 组成的常见词组：**
+
+   1. **Turn on: 打开（电灯、电视等）**
+      
+      **Please turn on the lights in the room.**
+      
+   2. **Turn off: 关闭**
+      
+      **Don't forget to turn off the TV before you leave.**
+      
+   3. **Turn up: 调高（音量、温度等）；出现，露面：指某人在某个地方或场合出现；**
+      
+      **It's too cold in here. Can you turn up the heating?**
+      
+   4. **Turn down: 调低（音量、温度等）**
+      
+      **The music is too loud. Can you please turn it down?**
+      
+   5. **Turn over: 翻转，翻身**
+      
+      **He turned over the page to continue reading.**
+      
+   6. **Turn around: 转身，转过来**
+      
+      **She turned around to see who was calling her name.**
+      
+   7. **Turn out: 结果是，证明是**
+      
+      **The event turned out to be a great success.**
+      
+   8. **Turn in: 上交，交出**
+      
+      **Please turn in your homework by tomorrow morning.**
+      
+   9. **Turn away: 拒绝，不接纳**
+      
+      **They turned away all the customers because the store was closed.**
+      
+   10. **Turn to: 转向，求助于**
+       
+       **When in doubt, you can always turn to your friends for help.**
+
 7. Much attention<u><font color=red><strong>     should be paid to protecting       </strong></font></u>the rare animals and plants from dying out. (protect)
 
    **应该**多注意**保护**那些珍稀动植物以免灭绝。
@@ -5087,11 +5280,31 @@
 
    <font color=red><strong>pay attention to doing sth.“关注做某事”,此处为被动形式。</strong></font>
 
-   **"protect from"是一个常见的词组，表示保护某人或某物免受某种威胁或危险。通常使用该词组的结构是"protect someone/something from something"，其中的"something"表示具体的威胁或危险。例如：**
+   **rare : adj. 少见的，不常发生的；稀罕的，珍贵的；半熟的，半生的；（品质）极好的，杰出的；**
 
-   - **Wearing sunscreen can protect your skin from the harmful effects of UV rays. （涂抹防晒霜可以保护皮肤免受紫外线的有害影响。）**
-   - **The company installed a firewall to protect its computer system from hackers. （公司安装了防火墙，以保护其计算机系统免受黑客攻击。）**
-   - **Parents should protect their children from exposure to violent or inappropriate content on the Internet. （父母应该保护孩子免受在互联网上接触暴力或不合适的内容的影响。）**
+   **rarely : adv. 罕有，很少；异乎寻常地，极度**
+
+   **We rarely agree on what to do. (我们很少在要做的事情上看法一致。)**
+
+   **die out ：灭绝：指某种生物种群因各种原因逐渐减少，最终消失。**
+
+   **"Prevent sth/sb from sth" 和 "protect sth/sb from sth" 都是表示防止某物/某人受到某种影响或危害的表达方式，但它们在用法和意义上略有区别。**
+
+   - **"Prevent sth/sb from sth" 意味着采取措施以防止某物/某人发生或受到某种不良影响。**
+
+     **例如：**
+
+     - **The security system prevents unauthorized access to the building.（安全系统防止未经授权进入建筑物。）**
+     - **She wore a helmet to prevent injury during the bike ride.（她戴着头盔以防止在骑行过程中受伤。）**
+
+   - **"Protect sth/sb from sth" 意味着采取措施保护某物/某人免受某种危害或伤害。**
+
+     **例如：**
+
+     - **The umbrella protects you from the rain.（雨伞保护你不被雨淋湿。）**
+     - **The sunscreen lotion protects your skin from the harmful effects of the sun.（防晒霜保护皮肤免受阳光的有害影响。）**
+
+   **总体而言，"prevent sth/sb from sth" 更侧重于采取措施以防止某物/某人发生或受到不良影响，而"protect sth/sb from sth" 更侧重于采取措施保护某物/某人免受危害或伤害。在某些情况下，两者可能可以互换使用，但具体使用要根据语境和表达的意思来确定。**
 
 8. Only after they had performed hundreds of experiments<u><font color=red><strong>     did they solve     </strong></font></u>the problem. (solve)
 
@@ -5133,6 +5346,57 @@
     <strong>解析：</strong>
 
     <font color=red><strong>determine to do sth.“决定做某事”。</strong></font>
+    
+    1. **feeling**
+    
+       **feelings : n. 感觉，触觉；感情，情绪；意见，观点；同情；……感（feeling 的复数）**
+    
+       **"Feeling" 是一个名词，表示感觉、情感、触觉或体验。它可以指内心的情绪、感受以及身体上的触觉。**
+    
+       **以下是一些与"feeling" 相关的用法和短语：**
+    
+       1. **Gut feeling: 直觉、内心感觉**
+          **Example: I had a gut feeling that something wasn't right.（我有一种直觉，感觉有些不对劲。）**
+       2. **Mixed feelings: 矛盾的情感、复杂的感受**
+          **Example: I have mixed feelings about the decision.（对这个决定我有着矛盾的情感。）**
+       3. **Deep feeling: 深刻的感受、强烈的情感**
+          **Example: The poem evokes deep feelings of nostalgia.（这首诗引发了我深深的怀旧之情。）**
+       4. **Feeling down: 情绪低落、情绪不好**
+          **Example: I'm feeling a bit down today.（今天我有点情绪低落。）**
+    
+    2. **audience**
+    
+       **"Audience" 是一个名词，指的是一群观众或听众，通常是指在演讲、表演、电影、音乐会等活动中观看或聆听的人群。**
+    
+       **"Audience" 的复数形式是 "audiences".**
+    
+    3. **"work"为前缀或后缀组成的常见动词词组：**
+    
+       1. **Work out: 解决，制定，达成（计划、问题等）**
+          **Example: We need to work out a solution to this problem.（我们需要解决这个问题。）**
+    
+       2. **Work on: 致力于，从事于（某个任务或项目）**
+          **Example: He is currently working on a new research project.（他目前正在从事一个新的研究项目。）**
+    
+       3. **Work up: 刺激，引起，制定（感情、兴趣等）**
+          **Example: The movie worked up a lot of excitement among the audience.（这部电影引起了观众的很多兴奋情绪。）**
+    
+       4. **Work off: 消耗，摆脱（能量、压力等）**
+          **Example: I go to the gym to work off the stress from work.（我去健身房消耗工作带来的压力。）**
+    
+       5. **Work through: 仔细处理，彻底解决（问题、困难等）**
+          **Example: They need to work through their differences and find a compromise.（他们需要解决彼此的分歧并找到一个妥协。）**
+    
+       6. **Work in: 把...纳入，把...编入（安排、讨论等）**
+          **Example: Let's work in a coffee break during the meeting.（我们在会议期间安排一个咖啡休息时间。）**
+    
+       7. **Work with: 与...合作，协同工作**
+          **Example: The team works closely with the marketing department to develop new strategies.（团队与市场部紧密合作，制定新策略。）**
+    
+       8. **Work off: 逐渐减少（债务、负担等）**
+          **Example: She is working off her student loans by taking on extra jobs.（她通过做额外的工作来逐渐偿还她的学生贷款。）**
+    
+       **这只是一小部分以"work"为组成部分的动词词组，还有许多其他用法和短语。请注意，有时具体的词组含义可能会根据上下文而有所不同。**
 
 
 
