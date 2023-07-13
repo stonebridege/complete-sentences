@@ -4091,7 +4091,7 @@
 
 10. Since the foreigner came,  we have been giving her Chinese lessons  <u><font color=red><strong>       in exchange for       </strong></font></u> her teaching us English.(exchange)
 
-    自从那个外国人来了之后,我们就一直教她汉语来**作为**她教我们英语的**交换**。
+    自从那个外国人来了之后，我们就一直教她汉语来**作为**她教我们英语的**交换**。
 
     <font color=red><strong>in exchange for</strong></font>
 
@@ -4329,7 +4329,41 @@
 
    <font color=red><strong>句子缺少主语,且逻辑主语与oppose之间是被动关系,故用动词-ing形式的被动语态。</strong></font>
 
-2. Many new technologies，such as Google Glasses,  3D printing,  and cloud computing,  <u><font color=red><strong>      have been effecting        </strong></font></u> our lives in the past five years. (affect)
+   1. **oppose ：v. 反抗，阻碍；与……竞争，与……角逐**
+
+      **opposites ：*n.*对立；对立面（opposite 的复数）；反义词**
+
+      **Right and wrong are opposites. （对与错是对立的。）**
+
+   2. **existence /*ɪɡˈzɪstəns*/ n. 存在，实有；生存，生活，生活方式；<古>存在物，实体**
+
+      **exist */*ɪɡˈzɪst*/*：v. 存在，实际上有；持续存在，生存**
+
+   3. **approach ：v. 靠近，临近；接洽，交谈；对付，处理；近似，接近于；n. 方法，态度；靠近，接近；接洽，要求；通道，路径；进场着陆；近似物**
+
+      **以下是一些与动词 "approach" 相关的固定搭配：**
+
+      1. **Approach someone/something: 接近某人/某物**
+         - **He approached the stranger for directions.**
+         - **The cat cautiously approached the mouse.**
+
+      2. **Approach a problem/task: 处理问题/任务**
+         - **We need to approach this issue from a different perspective.**
+         - **She tackled the project by approaching it systematically.**
+
+      3. **Approach a deadline: 靠近截止日期**
+         - **The project is approaching its deadline, so we need to work faster.**
+         - **The students are feeling stressed as the exam approaches.**
+
+      4. **Approach with caution: 小心接近**
+         - **The hiker approached the cliff edge with caution.**
+         - **The police officers approached the suspect's vehicle with caution.**
+
+      5. **Approach someone for help/advice: 寻求某人的帮助/建议**
+         - **She approached her professor for guidance on her research project.**
+         - **I approached my colleague for assistance with the presentation.**
+
+2. Many new technologies，such as Google Glasses,  3D printing,  and cloud computing,  <u><font color=red><strong>      have been affecting        </strong></font></u> our lives in the past five years. (affect)
 
    在过去的五年里，许多新科技像谷歌眼镜3D打印、云计算，**一直在影响着**我们的生活。
 
@@ -4348,6 +4382,10 @@
    <strong>解析：</strong>
 
    <font color=red><strong>表示“……是…的两倍”用“twice as. .. as...”。</strong></font>
+
+   **research ：n. （尤指大学或科研机构进行的）研究，探讨；研究工作，调查工作；v. 研究，探索；为……收集资料，调查**
+
+   **search ：v. 搜查，搜寻；搜查（地方，车辆），搜……的身；思索，**
 
 4. If the old fashioned museum hadn't been destroyed a decade ago, people there <u><font color=red><strong>       could visit        </strong></font></u> it as a place of interest now. (visit)
 
@@ -4425,7 +4463,7 @@
 
 ## lesson 31
 
-1. The phrase ，"Let's be friends, tuhao!"  set off a language shock , <u><font color=red><strong>    which originally appeared in       </strong></font></u> an online conversation.(appear)
+1. The phrase，"Let's be friends, tuhao!"  set off a language shock , <u><font color=red><strong>    which originally appeared in       </strong></font></u> an online conversation.(appear)
 
    “土豪,我们做朋友吧!”这句话引发了一场语言震撼，**它最初出现在**一个网络对话里。
 
@@ -4433,7 +4471,9 @@
 
    <strong>解析：</strong>
 
-   <font color=red><strong>该句为非限制性定语从句,先行词是“Let's be friends,tuhao!”,引导词在从句中作主语，用 which,根据语境可知发生在过去,故用一般过去时。</strong></font>
+   <font color=red><strong>该句为非限制性定语从句,先行词是“Let's be friends,tuhao!”,引导词在从句中作主语，用which,根据语境可知发生在过去,故用一般过去时。</strong></font>
+
+   **set off ：出发；启程：开始一段旅程或者从一个地方前往另一个地方；引发；激起：使某事物开始或发生。**
 
 2. <u><font color=red> <strong>    Champion as he is          </strong></font></u> ，Sun Yang has been arrested for driving without a license. (as)
 
@@ -4444,6 +4484,10 @@
    <strong>解析：</strong>
 
    <font color=red><strong>as引导让步状语从句时,从句中的表语需提到句首,且表语若是单数名词还要去掉冠词。</strong></font>
+
+   **arrest ：v. 逮捕，拘留；阻止，抑制；吸引；心跳停止**
+
+   **As he is a champion的省略写法是“ Champion as he is”**
 
    **"Without" 是一个介词，表示 "没有" 或 "不带有" 的意思**
 
@@ -4499,24 +4543,43 @@
       - <font color=red>**effective date 生效日期；有效日期**</font>
       - <font color=red>**effective from 从开始生效;生效日期 (The new speed limit on this road becomes effective from 1 June.这条路上新的限速规定自6月1日起生效。 )**</font>
 
+      **expire ：*v.*到期，失效；死亡；呼气，吐气；（任期）届满（expire date 有效期截止日期到期日期到期日）**
+
    2. **take measure :采取措施 (We must <font color=red>take measure to protect</font> the crops from insect pests. 我们必须采取措施保护庄稼，使之不受虫害。)**
 
    3. **damage ：n.(有形的)损坏，破坏，损失;  vt.损害;伤害;毁坏;破坏**
 
-   4. **当表示上升或增长时，常用的词语有：**
+   4. **hopefully ：adv. 有希望地，有前途地**
+
+   5. **当表示上升或增长时，常用的词语有：**
 
       1. **increase：增加、增长 例如：The number of visitors to the park <font color=red>increased</font> by 20% this year.（公园的游客数量今年增长了20%。）**
+
+         **"Increase"表示主动，指的是数量、程度、大小等的增加。例如："The company plans to increase its production capacity."**
+
       2. **rise：上升、升高 例如：The price of gasoline <font color=red>has risen</font> sharply in recent weeks.（近几周，汽油价格急剧上涨。）**
+
+         **"Rise"表示被动，指的是某物的位置、水平或数量的上升。例如："The temperature will rise tomorrow."**
+
       3. **grow：增加、生长 例如：The company has <font color=red>grown</font> rapidly since its founding.（自创立以来，该公司发展迅速。）**
+
       4. **climb：攀升、上升 例如：The temperature <font color=red>climbed</font> to 90 degrees in the afternoon.（下午气温攀升到了90度。）**
 
       **当表示下降或减少时，常用的词语有：**
 
       1. **decrease：减少、降低 例如：The amount of rainfall in the region <font color=red>decreased</font> significantly this year.（该地区的降雨量今年明显减少。）**
+
+         **"Decrease"是一个动词，表示主动地减少或降低某物的数量、程度或大小。例如："We need to decrease our expenses to save money."**
+
       2. **fall：下降、跌落 例如：The stock market <font color=red>fell</font> sharply yesterday.（昨天股市大跌。）**
+
       3. **decline：下降、衰退 例如：The sales of the company have <font color=red>declined</font> over the past few months.（公司的销售额在过去几个月里有所下降。）**
+
       4. **drop：下降、降低 例如：The temperature is expected to <font color=red>drop</font> below freezing tonight.（预计今晚气温会降到冰点以下。）**
+
       5. **reduce 表示减少的动词，可以用来描述数量、价值、质量等的降低。We need to <font color=red>reduce</font> the amount of waste we produce.**
+
+         **"Reduce"也是一个动词，表示被动地减少或减小某物的数量、程度或大小。例如："The company has reduced its workforce due to financial constraints."**
 
       <font color=red>**注意，这些词语可以互换使用，但有时候用法有所不同。例如，increase和grow都表示增长，但grow更常用于生物学或植物方面的增长，而increase则更常用于数量、大小、规模等方面的增长。**</font>
 
@@ -4576,6 +4639,14 @@
 
    <font color=red><strong>be busy in doing sth.“忙着做某事”, in可以省略。</strong></font>
 
+   **"prepare"是一个常用的动词，它有许多常见的固定搭配词组。以下是一些常见的搭配：**
+
+   1. **Prepare for: 为...做准备。例如："I need to prepare for my exam."**
+   2. **Prepare to: 准备好以做某事。例如："They are preparing to leave for their vacation."**
+   3. **Prepare yourself: 使自己准备好。例如："You need to prepare yourself for the challenges ahead."**
+   4. **Prepare a meal/dinner: 准备一顿饭。例如："She is preparing a delicious meal for her guests."**
+   5. **Prepare a presentation/report: 准备一个演讲/报告。例如："I spent hours preparing my presentation for the meeting."**
+
 7. A latest study shows that <u><font color=red><strong>     being exposed to     </strong></font></u>the natural sunlight for a few minutes a day helps to reduce the risk of getting cancer. (expose)
 
    最新研究表明每天**晒**几分钟太阳有助于减少得癌症的风险.
@@ -4585,6 +4656,16 @@
    <strong>解析：</strong>
 
    <font color=red><strong>句子缺少主语,用动词-ing形式,且主语“人们”与expose之间是被动关系,故用动词-ing形式的被动式。</strong></font>
+
+   **latest ：adj. 最近的，最新的；n. 最新事物，最新消息（the latest）；最迟，最晚（at the latest）**
+
+   **expose ：v. 暴露，使显露；使面临，使遭受（危险或不快）；揭露，揭发；接触，体验；露出，显露（感情）；**
+
+   **explode : v. （使）爆炸，（使）爆破；急剧扩大，激增；（情感）迸发，爆发；**
+
+   **explore ：v. 探讨，探究；考察，探索；（用手或身体其他部位）探查，仔细检查**
+
+   **risk ：n. 危险，风险；危险的人（或事物），隐患；（按风险大小评估的）被保险对象，受贷者；（保险业承保的）险；金融风险；v. 使遭受（失去、毁坏或伤害的）危险；冒......的危险，担......的风险；冒险做，（明知结果而）大胆做**
 
 8. I really don't know<u><font color=red><strong>    why it is that    </strong></font></u>he is late for school every day. (it)
 
@@ -4596,7 +4677,7 @@
 
    <font color=red><strong>此句为强调句的特殊疑问句式“疑问词+is it+that...”,根据句意疑问词用 why,且宾语从句中用陈述语序。</strong></font>
 
-   be late for ：v.迟到
+   **be late for ：v.迟到**
 
 9. China, our motherland, is<u><font color=red><strong>     one of the largest countries     </strong></font></u>in the world, with a population of more than 1.3 billion.(large)
 
@@ -4607,6 +4688,8 @@
    <strong>解析：</strong>
 
    <font color=red><strong>"最大的"暗示应用形容词最高级形式，表示“……之一”的 one of后应跟可数名词复数形式。</strong></font>
+
+   **large ：adj. （尺寸、范围、容量）大的；广泛的，重要的；身材高大的；（公司或组织）大规模的**
 
 10. Seeing that the workers' attitude toward the work was not that serious,  the manager required that they<u><font color=red><strong>    (should)finish it   </strong></font></u>ahead of time. (finish)
 
@@ -4625,6 +4708,8 @@
     <font color=red><strong>可以改为 When seeing the police, he made a run for the exit.改为正常结构为When he saw the police, he made a run for the exit.</strong></font>
     
     <font color=red><strong>require“要求”,其后跟宾语从句时从句中用虚拟语气,谓语动词用“should+动词原形”,should可省略。</strong></font>
+    
+    **ahead of time ：提前：在预定时间之前；在事先。**
     
     **"toward" 是一个介词，表示朝向、对于、关于的意思。它可以用来表示方向、趋势、倾向、感情等方面，常见的用法包括：**
     
@@ -17157,3 +17242,4 @@
     
     
 
+###### 
